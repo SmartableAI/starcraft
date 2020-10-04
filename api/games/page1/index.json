@@ -30,9 +30,18 @@
           "title": "111 BANELINGS In a Professional StarCraft 2 Match",
           "excerpt": "Dark going for a massive massive amount of banelings vs Alive in a Terran vs Zerg  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL ► Submit your REPLAYS! - http://bit.ly/SC2HLsubmit   ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching",
           "topics": [
-            "StarCraft"
+            "StarCraft",
+            "Zerg"
           ],
           "heat": 162,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video"
         },
         {
@@ -90,7 +99,7 @@
       "heat": 165,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -120,9 +129,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Zerg"
       ],
       "heat": 162,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -703,9 +721,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a47lyo445KU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2017-07-24T03:20:35-07:00"
     },

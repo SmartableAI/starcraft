@@ -37,7 +37,7 @@ topics:
   - StarCraft
 
 images:
-  - url: https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

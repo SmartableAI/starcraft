@@ -4,10 +4,13 @@ name: Zerg
 parent: StarCraft
 keywords:
   - zerg
+  - TvZ
   - hatchery
   - swarm host
   - swarm hosts
   - neural parasite
+  - baneling
+  - banelings
   - drone
   - queen
   - queens
