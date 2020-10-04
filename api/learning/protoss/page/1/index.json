@@ -1,0 +1,318 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg.md",
+      "title": "StarCraft 2: How-To Counter PROTOSS CARRIERS As Zerg!",
+      "excerpt": "A Zerg tutorial on how to counter Carriers and mass Skytoss play. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/CE3Hx5  Ever since the recent balance changes to StarCraft 2's multiplayer, the Zerg versus Protoss match-up has changed. Where as in the past it",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-how-to-counter-protoss-carriers-as-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=xZcfL2jBgfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xZcfL2jBgfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-04T04:31:22-08:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xZcfL2jBgfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-proxy-oracle-protoss-build-order-explained.md",
+      "title": "StarCraft 2: Proxy Oracle Protoss Build Order EXPLAINED!",
+      "excerpt": "ShoWTimE's Oracle Proxy Protoss versus Terran strategy explained. Subscribe for more videos: http://lowko.tv/youtube Game analysis: https://goo.gl/RUiDRh  In this video I cover ShoWTimE's Protoss versus Terran strategy where he decides to proxy a Stargate, harass with Oracles and a Mothership core and",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-proxy-oracle-protoss-build-order-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-proxy-oracle-protoss-build-order-explained/",
+      "originalUrl": "https://youtube.com/watch?v=srZHjTOKSAM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/srZHjTOKSAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M35S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-02-24T08:25:22-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/srZHjTOKSAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix.md",
+      "title": "StarCraft 2 Strategy: Adept & Phoenix!",
+      "excerpt": "Let's talk about the latest Protoss vs Terran strategy. Subscribe for more videos: http://lowko.tv/youtube Proxy Oracle build: https://goo.gl/CvGoaB  The Protoss versus Terran match-up has been a tough one for Protoss over the last few months. However, recently the match-up has started looking in favour",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=YsiIVvPAPhY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YsiIVvPAPhY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-24T06:35:53-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YsiIVvPAPhY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide.md",
+      "title": "StarCraft 2: Legacy of the Void - Easy Protoss vs Terran All-In Build Order! (Protoss Guide)",
+      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a powerful all-in that is easy to execute for Protoss players. This Protoss versus Terran all-in strategy focuses on getting a mass of Adepts, which usually can be used to overwhelm your opponent. By pushing out right when multiple upgrades finish",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/",
+      "originalUrl": "https://youtube.com/watch?v=OnBQz4z1qEI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OnBQz4z1qEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-11T13:42:20-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OnBQz4z1qEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-how-to-come-back-in-zerg-vs-protoss-zerg-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - How-to Come Back in Zerg vs Protoss! (Zerg Tutorial)",
+      "excerpt": "Coming back in Zerg versus Protoss in StarCraft 2: Legacy of the Void can be rather difficult. However, in a lot of scenarios you can take a risk when you know you are behind and come back to an advantage. In this video I go over how to come back in the Zerg vs Protoss match up using Mutalisks to your",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-how-to-come-back-in-zerg-vs-protoss-zerg-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-how-to-come-back-in-zerg-vs-protoss-zerg-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=YXoZ5T-1alg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YXoZ5T-1alg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-11T07:01:32-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YXoZ5T-1alg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches.md",
+      "title": "StarCraft 2: Zerg vs Protoss Unit Compositions & Tech Switches!",
+      "excerpt": "Zerg versus Protoss can be pretty overwhelming. Since watching any of the professional gamers play, gives off the indication that all units are viable. And that is true, for the most part. However not all units are the correct choice in all situations.  In this video of StarCraft 2: Legacy of the Void",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches/",
+      "originalUrl": "https://youtube.com/watch?v=cLtcsIGEXAw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLtcsIGEXAw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-01-08T04:21:07-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cLtcsIGEXAw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide.md",
+      "title": "StarCraft 2: Legacy of the Void - Cheesy Zerg vs Protoss Build Order! (Zerg Guide)",
+      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a cheesy Zerg versus Protoss build order that works extremely well on Prion Terraces. The basic idea is to hard counter the Protoss strategy of going for a quick expansion, by using the Golden Minerals to your advantage.  Going for a quick double",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/",
+      "originalUrl": "https://youtube.com/watch?v=FbGasjn4VuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FbGasjn4VuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-16T08:32:06-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FbGasjn4VuY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-scouting-vs-protoss-zerg-guide.md",
+      "title": "StarCraft 2: Legacy of the Void - Zerg Scouting vs Protoss! (Zerg Guide)",
+      "excerpt": "Scouting in Zerg versus Protoss is one of the most important skills to develop as Zerg in StarCraft 2: Legacy of the Void. Since you can't just blindly follow a build order, as there are too many Protoss all-ins to look out for, you have to make sure you know at least roughly what it is the Protoss is",
+      "sourceUrl": "https://smartableai.github.io/starcraft/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-scouting-vs-protoss-zerg-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-scouting-vs-protoss-zerg-guide/",
+      "originalUrl": "https://youtube.com/watch?v=ztJFbqS02Aw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ztJFbqS02Aw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-05-11T00:32:14-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ztJFbqS02Aw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft",
+        "Protoss",
+        "Zerg"
+      ]
+    }
+  ],
+  "nextPage": 2
+}

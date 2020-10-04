@@ -44,3 +44,4 @@ images:
   - https://smartableai.github.io/starcraft/assets/images/topics/zerg.jpg
 services:
   games: https://smartableai.github.io/starcraft/api/games/zerg/
+  learning: https://smartableai.github.io/starcraft/api/learning/zerg/
