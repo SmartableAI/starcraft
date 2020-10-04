@@ -41,3 +41,4 @@ images:
   - https://smartableai.github.io/starcraft/assets/images/topics/terran.jpg
 services:
   games: https://smartableai.github.io/starcraft/api/games/terran/
+  learning: https://smartableai.github.io/starcraft/api/learning/terran/

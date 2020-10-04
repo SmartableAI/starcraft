@@ -39,3 +39,4 @@ images:
   - https://smartableai.github.io/starcraft/assets/images/topics/protoss.jpg
 services:
   games: https://smartableai.github.io/starcraft/api/games/protoss/
+  learning: https://smartableai.github.io/starcraft/api/games/protoss/
