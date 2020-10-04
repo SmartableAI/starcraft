@@ -1,0 +1,25 @@
+---
+title: "EPIC TvZ - Firecake vs MaSa - Dreamhack Open"
+excerpt: "SUBSCRIBE for more Starcraft! - http://bit.ly/SC2HLsubscribe  ► http://bit.ly/Divisionzero  -  Division Zero has the BEST gaming gear! Support SC2HL & Check them out!  ► http://bit.ly/Chairs4gaming  -  Get $20 discount and at Chairs4Gaming using code \"SC2HL\"  An epic Terran vs Zerg between Firecake and"
+originalUrl: https://youtube.com/watch?v=a47lyo445KU
+type: video
+length: PT11M29S
+publishedDateTime: 2017-07-24T10:20:35Z
+heat: 70
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a47lyo445KU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: SC2HL
+  domain: sc2hl.com
+  images:
+    - url: https://smartableai.github.io/starcraft/assets/images/organizations/sc2hl.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - StarCraft
+
+secured: "n2VqB4qj425nIIaSixapomLdTYpb4ImaCgnuVTd2/SAZc6+xdCyk/Z7OW0RjkFjE5odpQG5HJ5pjZNn8PYxLDYSMQOjzACs3Lo9gGwmrfhuc9UwZYPTCEhmiP3QxN5uGm2Kx0PtnFmKfxaBpbE5umf59/ZGALrtTCbxP4+B/2/59W/JUUmuLKpVYMEV6JWPij0+2vl09FU/wr+zxUBkBXSvvsJKwWYuRRp9Sn3xSlCEFJ1D5lHSVEr8lXYH9n3agIYMkgWOPiBZ+WuEIX7MQ4mEiQndlppIxVFiMCoZy/HcwE6JGcOIrM8vWCwDPzvT4+ipZJosdmnSOPHgr/25RoqugPDZBv6fzHrYgL7/rqsPJgHJ9wHQGGZJauBnCd+S7kCPWKjFVaGmdn0OGblU8Wg==;8WaMAFB9DQtWpfr0Qdtg5g=="
+---
+
