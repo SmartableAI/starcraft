@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: terran
+name: Terran
+shortname: Terrab
+parent: StarCraft
+keywords:
+  - terran
+hashtags:
+  - "#Terran"
+images:
+  - https://smartableai.github.io/starcraft/assets/images/topics/terran.jpg
+services:
+  games: https://smartableai.github.io/starcraft/api/games/terran/

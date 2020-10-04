@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: starcraft
+name: StarCraft
+keywords:
+  - starcraft
+hashtags:
+  - "#StarCraft #StarCraft2"
+services:
+  news: https://smartableai.github.io/starcraft/api/news/
+  games: https://smartableai.github.io/starcraft/api/games/
+  communities: https://smartableai.github.io/starcraft/api/communities/
+  people: https://smartableai.github.io/starcraft/api/people/
+  newsletters: https://smartableai.github.io/starcraft/api/newsletters/

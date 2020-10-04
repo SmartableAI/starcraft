@@ -1,1 +1,1 @@
-# starcraft
+# StarCraft Smartable
