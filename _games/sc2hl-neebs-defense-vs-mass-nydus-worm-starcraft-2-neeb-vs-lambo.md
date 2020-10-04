@@ -19,6 +19,14 @@ provider:
 
 topics:
   - StarCraft
+  - Protoss
+  - Zerg
+
+images:
+  - url: https://i.ytimg.com/vi/DGi04zT4LuU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "66t6yophTijx6d9J9ybRbVrenjEGvJbUirBA4EfoRQv4LAnLp5tNbraISJIf349IsHNFCiKUk8hvIfCHhAucgHiKIGynTXPPKrzWBFO157atr9RpAJc8Fjt5ksvdO9esR4VL5WUdGLMGY3U00aSF0EvNCuRvM5GUIZbKrxqvwyx87OFHWbIW1wYamGkR0cjJO0FOZodsPyMv6myiXgDZ6eECdGD0OCt/AavmX27/n90NWNsHV5FYFkzRM41zVbJeCgGSSfwuoR4C0PZ24UDOb5RXBugW7RmF5PQrRPG8MTAf8pjtUBxMMLfDCuQ4E1Qmb4GvSHbfY3N/6U0GuX9Fsx3ftARye4JgQeqQjY38oOBkoRvAPiuV2BvsqLKZOv+NLv5dMcG3f8xwh1Ph9M2UiA==;TptXEw9xMRM96CdL15OP8Q=="
 ---

@@ -40,9 +40,19 @@
           "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
           "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
           "topics": [
-            "StarCraft"
+            "StarCraft",
+            "Terran",
+            "Protoss"
           ],
           "heat": 138,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video"
         },
         {
@@ -50,9 +60,19 @@
           "title": "Speed BANSHEES vs SWARM HOSTS - StarCraft 2 - Maru vs Solar",
           "excerpt": "An epic game between Maru & Solar during the Starcraft 2 GSL Code S. Mech, speed banshees, swarm hosts, ravens & an epic conclusion.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
           "topics": [
-            "StarCraft"
+            "StarCraft",
+            "Terran",
+            "Zerg"
           ],
           "heat": 103,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video"
         },
         {
@@ -68,6 +88,14 @@
       ],
       "size": 19,
       "heat": 165,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "collection"
     },
     {
@@ -120,9 +148,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Protoss"
       ],
       "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
@@ -176,9 +214,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -204,9 +252,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss",
+        "Zerg"
       ],
       "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tCpgXcneiXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
     },
@@ -232,9 +290,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -260,9 +328,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 103,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
@@ -288,9 +366,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 97,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ef8dZ7JOMGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -316,9 +404,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss",
+        "Zerg"
       ],
       "heat": 94,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
     },
@@ -344,9 +442,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran"
       ],
       "heat": 90,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EKHhBVON3zY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
@@ -372,9 +479,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss",
+        "Zerg"
       ],
       "heat": 89,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DGi04zT4LuU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -400,9 +517,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Zerg"
       ],
       "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vVB-AshBxho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -428,9 +554,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran"
       ],
       "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/epCLNMIMbUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -456,9 +591,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss"
       ],
       "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CNP0nxOQznE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
     },
@@ -484,9 +628,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Zerg"
       ],
       "heat": 77,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1Be_9MSYhMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
@@ -512,9 +666,18 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss"
       ],
       "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
@@ -568,9 +731,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Protoss",
+        "Zerg"
       ],
       "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-4TQJQ5DS0k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2017-07-27T09:48:48-07:00"
     },
@@ -596,9 +769,19 @@
         ]
       },
       "topics": [
-        "StarCraft"
+        "StarCraft",
+        "Terran",
+        "Protoss"
       ],
       "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B2DMR8u3p5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "publishedDateTime": "2018-03-03T15:41:51-08:00"
     }

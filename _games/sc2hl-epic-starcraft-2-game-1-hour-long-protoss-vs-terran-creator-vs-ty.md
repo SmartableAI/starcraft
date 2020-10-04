@@ -19,6 +19,14 @@ provider:
 
 topics:
   - StarCraft
+  - Terran
+  - Protoss
+
+images:
+  - url: https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "0djCWCNzISqFO9hdiCCiDyIKXIxSAhUpmlUMTOB+YvDGsRlhFIeXesKRfL4/NCrzrto7MxyiLH9rbo5L+zsYKZesr/bXWXsgwjqGcCkdeCaHlc0XB7d2BdrPYGiyQRgPYkjuHPFCPIEq/o+EN9HP0oFT+BdEI0MoD+PHPdmUlrGp5R+RKQbLQD3gXNyDZvgSnXcdbdvfVJaupzlknvzh+LXJrKGuO/MViuOUtRTwIDcfKGKk0TDHxzAh1hCFaBqt8zTL0kY5SbUe9aME5FKV+IIc0hW6uC9azK2Nx6lYPsw+D7M4wQUvtjcpbmjiF+5soC8OwqrO4sVuwny2upxzojZfIvu81XaQT4dE6E8171P8t7OrLH3DBTqP6ltoZtzuY86XB7Z6EzNpPo4bl26dJA==;xbK/ENK7z4RE/ZUIDjDzxQ=="
 ---

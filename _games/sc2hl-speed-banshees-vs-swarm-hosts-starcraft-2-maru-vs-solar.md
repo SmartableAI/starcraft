@@ -19,6 +19,14 @@ provider:
 
 topics:
   - StarCraft
+  - Terran
+  - Zerg
+
+images:
+  - url: https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "NJiKAAte3IHHyAppgZK1+IXXVATnucTEm2PnNllvgEiuUBPM5Ohm6Vlfc5b9F+b9+I0OfeMLDOYFTxZVoq1Y8jWzeIIQ3HcuXoy9PwBXNUqoyeHW9rd7riFTUTVSnWRkiWUwWC1Q7aX00IOxQZIf3bZbBbsBsAHFwsXFVrKrueeq99c36eZxlXFyuL2xMyygoZSwFjv7WunlwpucjWCR4so79Ubrg/Q2X/o3osS6muMvLntl5LaYSPrkxarH9EkdkVWNh5SI3oyod9kN/nx9GMv+YsSSeu0Rmhq+ZJUEDuCRkW5j+GTxa+lTfvr5Wu3Lzzze1biFVaONRveKPKvNumLRgMrronvbMoA2NYvgBGVEpCDMfBLPFpmJaMzY5SsudEddlGMk4lbPmck8FmM+ZA==;JnaK7Z75TU6MGQb4/w9pHQ=="
 ---

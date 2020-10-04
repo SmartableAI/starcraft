@@ -19,6 +19,13 @@ provider:
 
 topics:
   - StarCraft
+  - Terran
+
+images:
+  - url: https://i.ytimg.com/vi/EKHhBVON3zY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "TPKNUiPJs4VHs/Dz5KS/MWD58auuhYMZkknZ0xUuwAXB5oAo3CV+Hk36AbIiSvWYfZLQILOtSSfNZYPbK4pUibyz2sQexiXP/9W/89g56yBU5UFaa5Hngvd1BEfw8gZNS2u6DKpbpklz8RbgfGf92jOBSL9+Sbyv6li3SVgzr/bBIxtDmMxVQQ+D1xSsh1SeeAunhbktdngK9sWOJAri02vSaaojF0StoNEnn5CI8nvmALFnrutnHilfVk6FBVflhoi+HlhNaH/x0exDEdmiKLDy29kY58kNSAuUFZyk4H1u4pHYhG/HFDiTFfGOgHinepHf7hINOUj3pqMl8/xaEekLYMVmSmb7y11iWCy8cT2eCqAg6oTjzSEhADOXYCboabqC1ud9KDkO5KH1py8dfw==;Ce8zwXzjzjrA+7QSmKzZuA=="
 ---

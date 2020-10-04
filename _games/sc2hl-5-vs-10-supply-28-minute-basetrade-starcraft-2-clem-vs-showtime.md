@@ -19,6 +19,13 @@ provider:
 
 topics:
   - StarCraft
+  - Protoss
+
+images:
+  - url: https://i.ytimg.com/vi/u3go0OeMyZk/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "oCufkEddIgekF0fistoVrB6o9UWuzhBV1M6zHXY8qf6ZCHDmx47jDA9Q7cAhXEHxK/yfq7X88MuG3+hsAzgO320i2KKV5/KtubgVY6JpnAcWSalP539GNUlV7OCwarQwgXawgw6s45lLb/Xb7VdMQUVuAZ7QbiYmMs/u2u4m3wotuxbi9oTr3QM9HDoFJ9Dot/Him0sKYvgWwjLyB2x6zFYwdeDFAa/l1if0G/AAhOJqPJDmr9rfjP5DHI0btsjcuq9EWHwczh7q3dJsXHL0ZriyWkfMtHuvGAyKtv078NgZeduTW8rIlLPvt6scS03U2ZrTbRjG3ZvzX6V2zIPMVGgxcNYB9lrgWWh4/jEf0Th4TpO/Ev+LSj1STk+vzfIxpX47iNyxtierSqulTEExQA==;4vZz66PGIAUzvnCWMy+S6w=="
 ---

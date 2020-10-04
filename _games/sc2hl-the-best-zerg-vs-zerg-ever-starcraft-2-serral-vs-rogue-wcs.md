@@ -19,6 +19,13 @@ provider:
 
 topics:
   - StarCraft
+  - Zerg
+
+images:
+  - url: https://i.ytimg.com/vi/vVB-AshBxho/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "q3R529murwGVSJlqvaKOOpgqUri9LrSNdW+0ryfImgq1Ctvwxilmq8i9MwiR/bJTz168cMMZnBgBS5+LIHBEAurbhdoabNOGjQFKOvkXOYnxSO8Ad9vpFt+1ic786HLgigV8paWrAM8/gPZ0A5jDq82MYYPC8buzlmOTOF2XiW+ysVE9XURWQtlnk6x7cq7/rZi2Z5Ot8mC6BuXpqlYrKivW8x1+mvO1O/Tqy0w/ngXcT5cxHTRBvVgvnw9EPJUxzS67TMnieTuepRiWp5GKcrNGO5xeuXp1frYYBoqvnXrMLuegv/aYTMf3rJiaGU4Tq85lvMhbt0TKArYFguQ9bUk6Sa0IfsVLNhE7LOScWedTkJs7y+2/CvlRuSMbXv6/2J+Gohk6wQ//iUDmqBX8ww==;Hfto9RunR1eKEEIphvDMmQ=="
 ---

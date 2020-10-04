@@ -36,6 +36,12 @@ items:
 topics:
   - StarCraft
 
+images:
+  - url: https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "dgXKPTweEr8Ls6QFkp9OceqOAACuxERcyD43U9nF7GTCoZ0uenVA262Z14czQMQyoFNjUfrUK6+NY7p42YiuE2X0YIfb5BDtOcOer/4kslHirstQDXCIEFLdJwZn5IiQ/GBuNkNC1h/jOeqxMus5WBUcllxPzOIqiJs32UD57F5vjFsxlzCQyBKBq/DuCtqhGZh6XgNqbJXoEMzVorXJFMApBbeu/CN7tKVpPa1siZA0bUenEPds6TyZjGNy3bc/VN/qgqRYETRQU5nXhOzsPRLPz0op38pLRK1x/3NlHLK8nS6RuIIYaocc8dDSwQW9AOlL2Eb3bbFnnkIsm8bTXfm1AXc9Is96xxHzzIAPqn0=;Z5um0AyXMyf3R/QSA99wiw=="
 ---
 
