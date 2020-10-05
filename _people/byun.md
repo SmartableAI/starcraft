@@ -1,6 +1,6 @@
 ---
 name: "ByuN - 변현우"
-bio: "Byun, first appeared in the GSL Open Season 1 and 2 as the Protoss player Bleach. He later returned in the very first Code A tournament under the name ZeNEXByun and had a very impressive run with his new race of Terran making it all the way to the finals. Unfortunately, Byun took a very narrow loss to oGsTOP. Soon after ZeNEXByun achieved his Code-S status and has been Code-S ever since. Since gaining Code-S status Byun has had an agreement with his coach that he would be allowed to raise a puppy in the team house as long as he made it to the Ro4 of Code-S. Byun achieved this feat in the Pepsi July GSL Code S tournament. With perhaps the best stamina in professional eSports and a great late-game management style Byun is stealing the hearts of many!"
+bio: "ByuN Hyun Woo, formerly known as GhostKing, is a Terran player from South Korea, currently teamless."
 location: South Korea
 type: "profile"
 heat: 347
