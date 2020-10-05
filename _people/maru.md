@@ -15,5 +15,11 @@ topics:
   - StarCraft 2
   - Terran
 
+images:
+  - url: https://liquipedia.net/commons/images/b/b4/20191101_Carlton-Beener_Blizzcon2019_WCS2_00233.jpg
+    width: 482
+    height: 321
+    title: "Maru - 조성주"
+
 ---
 
