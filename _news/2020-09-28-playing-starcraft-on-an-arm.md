@@ -15,7 +15,7 @@ provider:
   domain: hackaday.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "http://img.youtube.com/vi/7vWnyDrNQO4/0.jpg"

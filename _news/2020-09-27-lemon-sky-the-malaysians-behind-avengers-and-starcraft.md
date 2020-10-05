@@ -15,7 +15,7 @@ provider:
   domain: malaysiakini.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2020/09/0dfbe513f072de8230f06f38d3d9a818.jpg"

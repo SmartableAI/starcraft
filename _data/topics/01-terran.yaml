@@ -2,7 +2,7 @@ taxonomy: topic
 _id: terran
 name: Terran
 shortname: Terrab
-parent: StarCraft
+parent: StarCraft 2
 keywords:
   - terran
   - TvZ
@@ -38,7 +38,7 @@ keywords:
 hashtags:
   - "#Terran"
 images:
-  - https://smartableai.github.io/starcraft/assets/images/topics/terran.jpg
+  - https://smartableai.github.io/starcraft2/assets/images/topics/terran.jpg
 services:
-  games: https://smartableai.github.io/starcraft/api/games/terran/
-  learning: https://smartableai.github.io/starcraft/api/learning/terran/
+  games: https://smartableai.github.io/starcraft2/api/games/terran/
+  learning: https://smartableai.github.io/starcraft2/api/learning/terran/

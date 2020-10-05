@@ -13,12 +13,12 @@ provider:
   name: SC2HL
   domain: sc2hl.com
   images:
-    - url: https://smartableai.github.io/starcraft/assets/images/organizations/sc2hl.com-50x50.jpg
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
-  - StarCraft
+  - StarCraft 2
   - Zerg
 
 images:

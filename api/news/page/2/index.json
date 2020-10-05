@@ -32,7 +32,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -48,7 +48,7 @@
         "news"
       ],
       "topics": [
-        "StarCraft"
+        "StarCraft 2"
       ]
     },
     {
@@ -82,7 +82,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -98,7 +98,7 @@
         "news"
       ],
       "topics": [
-        "StarCraft"
+        "StarCraft 2"
       ]
     },
     {
@@ -132,7 +132,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -148,7 +148,7 @@
         "news"
       ],
       "topics": [
-        "StarCraft"
+        "StarCraft 2"
       ]
     },
     {
@@ -182,7 +182,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -198,7 +198,7 @@
         "news"
       ],
       "topics": [
-        "StarCraft"
+        "StarCraft 2"
       ]
     },
     {
@@ -232,7 +232,7 @@
         "domain": "blizzard.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -248,7 +248,7 @@
         "news"
       ],
       "topics": [
-        "StarCraft"
+        "StarCraft 2"
       ]
     }
   ],

@@ -15,7 +15,7 @@ provider:
   domain: hackaday.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "http://hackaday.com/wp-content/uploads/2013/07/keybaord.jpg"

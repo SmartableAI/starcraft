@@ -15,7 +15,7 @@ provider:
   domain: rappler.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/68F8E5AACFEE4EA58CAF5CAA5B61599F/starcraft-118.jpg"

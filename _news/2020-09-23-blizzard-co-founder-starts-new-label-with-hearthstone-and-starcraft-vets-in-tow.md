@@ -17,7 +17,7 @@ provider:
   domain: pcgamesn.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 secured: "F292oaXF1FL0RwnSOBlXez9ZsP3MF3DkdMnf4KHAS+7Isl3XFiPiIZqlaC9LSZHZKXGEYYFBunt01Q5E3uiosugF0GeM2mSqizExJUJjpvF/JRwEUDBHTWjgTMHe0os6xcSJvuWotGBi9iU/qJPh1tSDhB5E+lcJOy5QFCTGactzegrPSqOI8Lc2XBxFeJ0blWYyRqpEbCvNmc5lubH0MkwQ/Znp3+WuHoY7wNhfWASXU/QAXcDmr2c9vaszxzHo1n6YdC3Q/7RpdCeLuK0ytEogcaN9hLdSlOZIoyuWdAVcLgNc+yOqJLxLupft3Fi915yw9b4oTWAkYJdO+LvLOUrghmynAqjZnthnb8/A/Io=;3XgMR3zWWD3wRNLryft1sg=="
 ---

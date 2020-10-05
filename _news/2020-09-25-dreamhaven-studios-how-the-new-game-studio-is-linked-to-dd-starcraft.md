@@ -17,7 +17,7 @@ provider:
   domain: cbr.com
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/09/Dreamhaven-Dungeons-and-Dragons-1.jpg"

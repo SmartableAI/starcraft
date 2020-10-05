@@ -11,12 +11,12 @@ provider:
   name: Blizzard
   domain: blizzard.com
   images:
-    - url: "https://smartableai.github.io/starcraft/assets/images/organizations/blizzard.com-50x50.jpg"
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t0/T05P901CO3Z91597166504415.jpg"

@@ -8,7 +8,7 @@ provider:
   name: SC2HL
   domain: sc2hl.com
   images:
-    - url: https://smartableai.github.io/starcraft/assets/images/organizations/sc2hl.com-50x50.jpg
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg
       width: 50
       height: 50
 
@@ -34,7 +34,7 @@ items:
   - sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg

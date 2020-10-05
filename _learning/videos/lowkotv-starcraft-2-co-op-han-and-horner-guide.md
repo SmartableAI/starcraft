@@ -14,12 +14,12 @@ provider:
   name: LowkoTV
   domain: lowko.tv
   images:
-    - url: https://smartableai.github.io/starcraft/assets/images/organizations/lowko.tv-50x50.jpg
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg
       width: 50
       height: 50
 
 topics:
-  - StarCraft
+  - StarCraft 2
 
 images:
   - url: https://i.ytimg.com/vi/esbFR47-3Eg/maxresdefault.jpg
