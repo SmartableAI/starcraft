@@ -6,4 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
+  <url>
+    <loc>https://smartable.ai/apps/starcraft2/people/ty/</loc>
+    <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/starcraft2/people/maru/</loc>
+    <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
 </urlset>
