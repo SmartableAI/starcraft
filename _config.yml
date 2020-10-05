@@ -58,18 +58,6 @@ default_event_settings: &default_event_settings
 
 
 #----------------------------------------------------------------------------------
-# Game Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of games
-default_game_settings: &default_game_settings
-  layout: post
-  category: game
-  permalink: /api/games/:path/index.json
-  deleted: false
-
-
-#----------------------------------------------------------------------------------
 # Community Settings
 #----------------------------------------------------------------------------------
 
@@ -109,8 +97,6 @@ collections:
     output: true
   events:
     output: true
-  games:
-    output: true
   communities:
     output: true
   newsletters:
@@ -123,20 +109,6 @@ defaults:
       type: posts
     values:
       <<: *default_post_settings
-  # _games
-  - scope:
-      path: ""
-      type: games
-    values:
-      <<: *default_game_settings
-  - scope:
-      path: "_games/collections"
-    values:
-      layout: collection
-      category: game
-      permalink: /api/games/collections/:title/index.json
-      type: collection
-      support_paging: false
   # _communities
   - scope:
       path: ""

@@ -37,8 +37,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/</loc>
-    <lastmod>2020-09-02T09:21:45-07:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/</loc>
+    <lastmod>2020-08-26T02:21:38-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-domination-serral-vs-parting/</loc>
+    <lastmod>2020-08-27T01:19:23-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -85,8 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/</loc>
-    <lastmod>2020-08-26T02:21:38-07:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/</loc>
+    <lastmod>2020-09-02T09:21:45-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -97,26 +103,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny/</loc>
-    <lastmod>2020-09-14T03:24:52-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/</loc>
     <lastmod>2020-08-27T02:25:09-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/</loc>
-    <lastmod>2019-03-06T07:05:01-08:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny/</loc>
+    <lastmod>2020-09-14T03:24:52-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-domination-serral-vs-parting/</loc>
-    <lastmod>2020-08-27T01:19:23-07:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-111-banelings-in-a-professional-starcraft-2-match/</loc>
+    <lastmod>2019-03-06T07:05:01-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -169,13 +169,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-the-best-zerg-vs-zerg-ever-starcraft-2-serral-vs-rogue-wcs/</loc>
-    <lastmod>2019-03-06T07:05:01-08:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world/</loc>
+    <lastmod>2017-08-04T12:34:48-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/</loc>
+    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-the-best-zerg-vs-zerg-ever-starcraft-2-serral-vs-rogue-wcs/</loc>
     <lastmod>2019-03-06T07:05:01-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -187,8 +187,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-8-minute-mothership-sos-vs-neeb-gsl-vs-the-world/</loc>
-    <lastmod>2017-08-04T12:34:48-07:00</lastmod>
+    <loc>https://smartable.ai/apps/starcraft2/game/sc2hl-banelings-vs-planetary-fortress-maru-vs-leenock-starcraft-2/</loc>
+    <lastmod>2019-03-06T07:05:01-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
