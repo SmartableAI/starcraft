@@ -1,0 +1,42 @@
+{
+  "title": "People",
+  "path": "_people",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/byun.md",
+      "title": "ByuN - 변현우",
+      "excerpt": "Byun, first appeared in the GSL Open Season 1 and 2 as the Protoss player Bleach. He later returned in the very first Code A tournament under the name ZeNEXByun and had a very impressive run with his new race of Terran making it all the way to the finals. Unfortunately, Byun took a very narrow loss to oGsTOP. Soon after ZeNEXByun achieved his Code-S status and has been Code-S ever since. Since gaining Code-S status Byun has had an agreement with his coach that he would be allowed to raise a puppy in the team house as long as he made it to the Ro4 of Code-S. Byun achieved this feat in the Pepsi July GSL Code S tournament. With perhaps the best stamina in professional eSports and a great late-game management style Byun is stealing the hearts of many!",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/people/byun/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/people/byun/",
+      "type": "profile",
+      "name": "ByuN - 변현우",
+      "bio": "Byun, first appeared in the GSL Open Season 1 and 2 as the Protoss player Bleach. He later returned in the very first Code A tournament under the name ZeNEXByun and had a very impressive run with his new race of Terran making it all the way to the finals. Unfortunately, Byun took a very narrow loss to oGsTOP. Soon after ZeNEXByun achieved his Code-S status and has been Code-S ever since. Since gaining Code-S status Byun has had an agreement with his coach that he would be allowed to raise a puppy in the team house as long as he made it to the Ro4 of Code-S. Byun achieved this feat in the Pepsi July GSL Code S tournament. With perhaps the best stamina in professional eSports and a great late-game management style Byun is stealing the hearts of many!",
+      "location": "South Korea",
+      "website": "https://liquipedia.net/starcraft2/ByuN",
+      "twitter": {
+        "username": "sc2byun",
+        "url": "https://twitter.com/sc2byun",
+        "followers": 9210
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/sc2byun",
+        "followers": 44300
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 347,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/988681889530564608/UK1ffdqU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ByuN - 변현우",
+          "isCached": true
+        }
+      ]
+    }
+  ]
+}
