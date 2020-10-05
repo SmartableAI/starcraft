@@ -15,4 +15,9 @@ provider:
       
 topics:
   - StarCraft 2
+
+images:
+  - url: https://d212vo0owly06i.cloudfront.net/en/sc2/plugins/discourse-blizzard-themes/images/banners/sc2/glass.jpg
+    width: 2500
+    height: 520
 ---
