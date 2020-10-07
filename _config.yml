@@ -56,19 +56,7 @@ default_event_settings: &default_event_settings
   permalink: /api/events/:path/index.json
   deleted: false
 
-
-#----------------------------------------------------------------------------------
-# Community Settings
-#----------------------------------------------------------------------------------
-
-# Default settings of communities
-default_community_settings: &default_community_settings
-  layout: post
-  category: community
-  permalink: /api/communities/:path/index.json
-  deleted: false
-
-
+  
 #----------------------------------------------------------------------------------
 # Newsletter Settings
 #----------------------------------------------------------------------------------
@@ -97,8 +85,6 @@ collections:
     output: true
   events:
     output: true
-  communities:
-    output: true
   newsletters:
     output: true
 
@@ -109,20 +95,6 @@ defaults:
       type: posts
     values:
       <<: *default_post_settings
-  # _communities
-  - scope:
-      path: ""
-      type: communities
-    values:
-      <<: *default_community_settings
-  - scope:
-      path: "_communities/collections"
-    values:
-      layout: collection
-      category: community
-      permalink: /api/communities/collections/:title/index.json
-      type: collection
-      support_paging: false
   # _people
   - scope:
       path: ""
