@@ -1,0 +1,31 @@
+---
+title: "400 SUPPLY vs 400 SUPPLY - Starcraft 2: Professional 2v2"
+excerpt: "A huge battle between zerg, terran and protoss in a professional starcraft 2 2v2. We dont see these 2v2s that often!  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch BasetradeTV: https://www.twitch.tv/basetradetv 스타2   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy"
+originalUrl: https://youtube.com/watch?v=MHCov4vOQJI
+type: video
+length: PT10M32S
+publishedDateTime: 2019-03-06T15:05:01Z
+heat: 72
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MHCov4vOQJI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: SC2HL
+  domain: sc2hl.com
+  images:
+    - url: https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - StarCraft 2
+
+images:
+  - url: https://i.ytimg.com/vi/MHCov4vOQJI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "3kHpeWjlyop9yGQeRn/vH2G3sdqUD28UtBrVAoM0APkKQH/6+Y1Qk9qjkIPVK1aIoTd1wuLYX6/CJsLvTF154ThucwyjWerkamdJRR2TmgT6qUulIfbmuooZzUqEHjrz7k6tDWfILn87loqyqqZ/GQ6QX2Erdw4ukBiOu58oXvJ6nMEf/7ClE+zZpSTkYzdQbcOfVOSV2tQbEJJL1xfshLyrZfC8Y4y7vEUgvP3UclNxgiRAT2MA96GABeyHayX35ailEKyEENonmv0z4Ga62qmDuMkpAga3Q2pZY3htBIcUOkBKIQcuNKxoBEfAQpPk95isFi3e8vVb9b/RAPlnVevWxgBUfUbiol/GCEfGFJ1RQZmhuywp7WaG4XOJSUCIOAPHFCQKjlwqmXRp0j7RUg==;PAt3vP6oV0v7zRiuX6Pclg=="
+---
+
