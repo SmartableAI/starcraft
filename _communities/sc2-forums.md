@@ -1,6 +1,7 @@
 ---
 name: "SC2 Forums"
 excerpt: "It's the official Starcraft 2 forums by Blizzard"
+type: forum
 originalUrl: https://us.forums.blizzard.com/en/sc2/
 webUrl: https://us.forums.blizzard.com/en/sc2/
 members: 264500

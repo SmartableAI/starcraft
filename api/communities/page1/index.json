@@ -26,7 +26,8 @@
       "topics": [
         "StarCraft 2"
       ],
-      "members": 266000
+      "members": 266000,
+      "type": "forum"
     },
     {
       "path": "_communities/sc2-forums.md",
@@ -59,7 +60,8 @@
           "height": 520,
           "isCached": false
         }
-      ]
+      ],
+      "type": "forum"
     }
   ]
 }

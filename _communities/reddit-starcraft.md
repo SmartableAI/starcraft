@@ -1,6 +1,7 @@
 ---
 name: "Starcraft on Reddit"
 excerpt: "All about the StarCraft games and professional scenes surrounding them. Please read the rules before submitting content."
+type: forum
 originalUrl: https://www.reddit.com/r/starcraft/
 webUrl: https://www.reddit.com/r/starcraft/
 members: 266000
