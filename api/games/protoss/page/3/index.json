@@ -571,8 +571,8 @@
       "path": "_games/collections/beastyqtsc2-mass-phoenix-zealots.md",
       "title": "MASS Phoenix & Zealots!",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-mass-phoenix-zealots/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-mass-phoenix-zealots/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-phoenix-zealots/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-phoenix-zealots/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
