@@ -23,6 +23,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Lemon Sky - the Malaysians behind Avengers and Starcraft"
+    excerpt: "MALAYSIANSKINI | Avid gamers will be more than familiar with massive game titles such as the Final Fantasy VII Remake, Spiderman, Last of Us Part II, and Marvel's Avengers. But what they are likely to be oblivious to, is that those are just some of the ..."
+    publishedDateTime: 2020-09-27T12:17:00Z
+    webUrl: "https://www.malaysiakini.com/news/544234"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 37
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2020/09/0dfbe513f072de8230f06f38d3d9a818.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "WAmoj3zLnorxX9sbeDcdNh+OLQhRcldfO5Mj9vtDQB84spUKMldOv7qJjPJmF1WRxzRp28/Nyh5uRKRxuoBnovXoha6YPZLw/9QQlRDLv4CQkcgVSyyxlz1F84AJbU57sTlIlnwgDhdo/MBjSUymX9Ru0vBD8vSqby3DEzzpLo3QqEginagsbNpUZi6GJMq7m89auPOs4b0o/ZIUgglS7/mK3G7SAm/pyrmn5kmPDqJXW/zpC6zYFnoqJjsPkXXMVqSqEKdFuEncb3ZNrYdWWY0+u7Q7hnlWBama5hhLX2STA80uxFPnuo2/+crQC0LXjsbghzEPKA1pvx2NjVS6JLX7meZvLlogfuOVLBsI2kbATtMTX0ROlbUrOAlvao6DOHK7YtInQzEGU/HNSOIYyJzG5Ze8JrhyGktTV0cjdZdtR8703HzGwpBlY6wyXZcVjGJpO9TkOmMvbNHWqFweYJRhic1HsG+m+RQZ2F6x6+r/XWHxVoF9meFIR/4ZxojAcKOJjIuFlBetiqHV6nOYBA==;BVZ1ciUTUS43mSnDdf5uCQ=="
 ---
 
