@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M21S
 publishedDateTime: 2017-11-19T17:05:30Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7x9pHr544oY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - StarCraft 2
 
-secured: "cOFH5YTlWyfkoTpIU64wxnD3PP2EieI3HUV7C14MAwaTPO6Pt6+s4Yo2ZFXXoRr0g0b+Uu7uXm6sIJfxBf0d7g/zy4SHckFtr9E7NZSiz89FlnM4l+hYezW9nvr9Gkv1O3fgX82Fdtui93GPdKrGTVOXVoCIirt5FR4Flqu+errDr6KWh97Wbd0YTZkELTW2hbo8wAGA0/GShQOOQ64HuoWBM79VWjXyepzyBEGpzvV0B+puAClDkGl8hgkOTlUESukmYlITb9XHXydT4AfpcfIVkJdHP0BKPOFu5FzDh6IeBVVC1+vOYUyo34UgWuQlWoSshXVZyu3NaJCA5DZDBu/VHy+5BQycYRKaJhqhVPAJyYhRbpB2g81eYR/lwcYbURSdLc5ys3ftWNfZU57Kdw==;MxYm4LTqv5Q/lpsoaHmtRg=="
+images:
+  - url: https://i.ytimg.com/vi/7x9pHr544oY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "EBIz4grpWN0I/kcQT0YyQ3eswrtzgD4jDwFf+xGnGLNRUkys7wQxbCppK4UkEKGZ4km7W+qZqwMA2cxnUDC/BCT3JZrw8PByHeDJkfGz5eBHDiHBes/WaihTru7X4L6cqs73P+FRiJubIvTOL2HL/fqW2nFITk1i3Qgua344x3n7pa26X2HROSIcQRlKYtvVh9RwDrmp4eHc0ryBLy1us8x6vcjnhkHP3urIkL5H9XLmDUKz5jehR3aZv8W3rqNFRMB/jJa107QHJ0N7hB46wNS23MhljPEZk/OfOKcUpm/3wAtMNvTuRxbvI42bh+SPRMC6dkpR9WZTQp26VK2g4vftukAdOn71mgykEMdD0auSbiaRRF+Nf7N6mwZXlIXtq4egnON8PKC34kUi8NpDxl4LUamMdRk+5MgegVqdqjg=;f+m3r3A8zP98unD6Fvi3sg=="
 ---
 
