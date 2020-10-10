@@ -5,12 +5,10 @@
   "value": [
     {
       "path": "_communities/reddit-starcraft.md",
-      "title": "Starcraft on Reddit",
       "excerpt": "All about the StarCraft games and professional scenes surrounding them. Please read the rules before submitting content.",
       "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/reddit-starcraft/index.json",
       "webUrl": "https://www.reddit.com/r/starcraft/",
       "originalUrl": "https://www.reddit.com/r/starcraft/",
-      "name": "Starcraft on Reddit",
       "provider": {
         "name": "Reddit",
         "domain": "reddit.com",
@@ -23,20 +21,27 @@
           }
         ]
       },
+      "heat": 502,
+      "images": [
+        {
+          "url": "https://b.thumbs.redditmedia.com/fD7Pck7nNDb99vAiahXsGgoMfVtNNVQlfxQBxKOU_Os.png",
+          "width": 256,
+          "height": 256,
+          "isCached": true
+        }
+      ],
+      "type": "forum",
+      "members": 266000,
       "topics": [
         "StarCraft 2"
-      ],
-      "members": 266000,
-      "type": "forum"
+      ]
     },
     {
       "path": "_communities/sc2-forums.md",
-      "title": "SC2 Forums",
       "excerpt": "It's the official Starcraft 2 forums by Blizzard",
       "sourceUrl": "https://smartableai.github.io/starcraft2/api/communities/sc2-forums/index.json",
       "webUrl": "https://us.forums.blizzard.com/en/sc2/",
       "originalUrl": "https://us.forums.blizzard.com/en/sc2/",
-      "name": "SC2 Forums",
       "provider": {
         "name": "Blizzard",
         "domain": "blizzard.com",
@@ -49,10 +54,7 @@
           }
         ]
       },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "members": 264500,
+      "heat": 502,
       "images": [
         {
           "url": "https://d212vo0owly06i.cloudfront.net/en/sc2/plugins/discourse-blizzard-themes/images/banners/sc2/glass.jpg",
@@ -61,7 +63,11 @@
           "isCached": false
         }
       ],
-      "type": "forum"
+      "type": "forum",
+      "members": 264500,
+      "topics": [
+        "StarCraft 2"
+      ]
     }
   ]
 }

@@ -2,6 +2,7 @@
 title: "Learn Starcraft 2: EASY Beginner Terran Build Order (2020)"
 excerpt: "Let's learn a very easy beginner friendly terran build order for starcraft 2. This is a very powerful but also very easy build order (relatively at least haha) to execute for new players! Hope to learn a lot and enjoy the video!  Coaching --------------------------------------------------------------------------"
 originalUrl: https://youtube.com/watch?v=X1g4O2PTOtQ
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-easy-beginner-terran-build-order-2020/
 type: video
 price: Free
 length: PT21M44S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hpPgqARk8SPVjsKL57kxdc2PUquM5q9LcRurdgSVSUZqSd005qvdRC/a4yUGNvBPTc7X3VhNMT/PGy3ohFoYKipL3eNUlnPFmQmcXEaWFsutAmK1pIdA9/6zNG94pnv8re4fyOBfRE7GU6RASaHfa7D0CpwepgM5v3a62/wWC5QxMIIp2R4l9A5e21Afj5/P14rnllLx0L1qgR8Aq/SF65HcvH9pkVDv5vtTYmfz2KaQx5s38bhGhtKsW02nRHsEn6VUFIJbeiHJYNy7syz/js8Bgwd5Nl/aherz9TIuaMG5UAPuD/TvWxc1EAd+qzP19PRr8YU5IgSNRlQpvpXYvEwrXIyILGBxYFvZTimXn0634gqrOKz28K5DRW5Gig8vNLUtqSd1gz/KQn2E1vj8XA==;xBVSb4cSJLd1qjX7yhehww=="
+secured: "btcogBOflJqEjCrYdU+o+mPxxK5bpQvz2ELgxHl9fbZp3r7ZoOpWZEINz7LWvFsxByvEqTz4SP7S8DYjqZp9AlI8Z+mCnocXqJiMpLxBhlppcu7Gjd5DV1K14YNYM209VZ/OAUKNWtY+DglY9tvYZEix5pw7jPhSJA28U55W+GQ1DzD+e/UB1IJan+wqCbYQIN0UL/jealmAzcjS3VPioCNYbwQaoX1iZhtpFRJeuzWKdO+KPr1SgiRonYxLgETHU9+1dco1VR3PUZAsuuIb2PNIeri7ljkL9pZNxHd0OHcrdMaVOBvYDIWfNouJTBY6a7Do81TXN82gBMdeRd0U62R9861uDs6XyRB9/Ygw7mDI66UGXIOJ2XTq+qZY02dxbfXQ18ID2Uq/iK5Bq5Gejg==;cMYLqHpDTqdclThMKLa22g=="
 ---
 
