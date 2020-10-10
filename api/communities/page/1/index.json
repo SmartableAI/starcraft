@@ -30,6 +30,7 @@
           "isCached": true
         }
       ],
+      "name": "Starcraft on Reddit",
       "type": "forum",
       "members": 266000,
       "topics": [
@@ -63,6 +64,7 @@
           "isCached": false
         }
       ],
+      "name": "SC2 Forums",
       "type": "forum",
       "members": 264500,
       "topics": [

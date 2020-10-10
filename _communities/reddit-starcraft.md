@@ -1,5 +1,5 @@
 ---
-name: ""
+name: "Starcraft on Reddit"
 excerpt: "All about the StarCraft games and professional scenes surrounding them. Please read the rules before submitting content."
 originalUrl: https://www.reddit.com/r/starcraft/
 webUrl: https://www.reddit.com/r/starcraft/
