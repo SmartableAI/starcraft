@@ -8,30 +8,6 @@ provider:
   name: BeastyqtSC2
   domain: youtube.com
 
-items:
-  - beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-random-slow-zealot-timing
-  - beastyqtsc2-starcraft-2-trying-out-double-maxpax-proxy-gate-build-vs-terran
-  - beastyqtsc2-starcraft-2-only-1-gas-vs-zerg-new-meta-mass-zealots
-  - beastyqtsc2-starcraft-2-whats-the-worst-thing-that-can-happen-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-one-base-chargelot-all-in-vs-terran-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-mech-terran-vs-mass-zealots-phoenix
-  - beastyqtsc2-starcraft-2-attacking-the-zerg-with-mass-probes-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-countered-by-adepts-with-glaives-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-i-got-mule-dropped-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-revealing-my-true-identity-sultan-qt
-  - beastyqtsc2-starcraft-2-cannon-rushing-into-mass-phoenix
-  - beastyqtsc2-starcraft-2-stupid-strats-gz-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-beasty-mad-beasty-smash
-  - beastyqtsc2-starcraft-2-i-am-struggling-at-5100-mmr-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-maphacker-beastyqt-strikes-again-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-cannon-rushing-thecannon-rusher-mass-zealot-phoenix
-  - beastyqtsc2-starcraft-2-mass-phoenix-vs-terran-all-in
-  - beastyqtsc2-starcraft-2-last-episode-of-mass-zealots-phoenix
-
 topics:
   - StarCraft 2
   - Protoss

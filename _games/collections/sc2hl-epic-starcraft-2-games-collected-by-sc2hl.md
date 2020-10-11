@@ -32,6 +32,15 @@ items:
   - sc2hl-5-vs-10-supply-28-minute-basetrade-starcraft-2-clem-vs-showtime
   - sc2hl-zoning-nukes-maru-vs-stats-starcraft-2-iem-katowice-2018
   - sc2hl-tense-terran-vs-zerg-starcraft-2-serral-vs-bunny
+  - sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague
+  - sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark
+  - sc2hl-400-supply-vs-400-supply-starcraft-2-professional-2v2
+  - sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018
+  - sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s
+  - sc2hl-big-banks-soo-vs-rogue-wcs-global-finals
+  - sc2hl-crazy-pvt-patience-vs-bravo-sc2-proleague
+  - sc2hl-crazy-pvp-basetrade-showtime-vs-neeb-iem-shanghai
+  - sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa
 
 topics:
   - StarCraft 2
