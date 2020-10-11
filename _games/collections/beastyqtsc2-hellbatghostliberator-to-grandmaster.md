@@ -20,6 +20,7 @@ items:
   - beastyqtsc2-winning-the-impossible-game
   - beastyqtsc2-rage-spamming-pause-before-quitting
   - beastyqtsc2-the-deadliest-four-pronged-terran-attack
+  - beastyqtsc2-i-ran-into-a-nasty-lurker-trap
 
 topics:
   - StarCraft 2
