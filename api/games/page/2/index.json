@@ -4,81 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream.md",
-      "title": "StarCraft 2: TACTICAL NUKE DISTRACTIONS! (Astrea vs Dream)",
-      "excerpt": "Awesome game of professional StarCraft 2 between Astrea and Dream. Astrea has been making a name for himself recently as he has been taking games off of some of the best players in the world. In this match he is going up against Dream, one of the highest ranked Terran players from South Korea. Dream",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tactical-nuke-distractions-astrea-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=TBDHCJNQ2Aw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TBDHCJNQ2Aw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TBDHCJNQ2Aw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-09-08T03:14:44-07:00"
-    },
-    {
-      "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
-      "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
-      "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M15S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:21:19-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-incredible-terran-vs-zerg-ty-vs-rogue.md",
       "title": "StarCraft 2: INCREDIBLE TERRAN VS ZERG! (TY vs Rogue)",
       "excerpt": "An amazing game of Terran versus Zerg in StarCraft 2. This match beteween TY and Rogue is about as good as it gets at the highest level of the game right now.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -158,8 +83,8 @@
       "path": "_games/collections/beastyqtsc2-mass-void-rays-to-grandmaster.md",
       "title": "MASS Void Rays to Grandmaster",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-mass-void-rays-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-mass-void-rays-to-grandmaster/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-void-rays-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-void-rays-to-grandmaster/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -375,8 +300,8 @@
       "path": "_games/collections/beastyqtsc2-mass-widow-mines-ravens.md",
       "title": "MASS Widow Mines & Ravens!",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-mass-widow-mines-ravens/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-mass-widow-mines-ravens/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-widow-mines-ravens/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-widow-mines-ravens/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -557,8 +482,8 @@
       "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
       "title": "Cannon Rushing to Grandmaster Series!",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -1408,6 +1333,81 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-08-27T01:19:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator.md",
+      "title": "StarCraft 2: THE PROTOSS PROBLEM! (Hurricane vs Creator)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2 between Hurricane and Creator. Macro, cheese, and Protoss problems.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=61ury_cloIk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/61ury_cloIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/61ury_cloIk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-09-02T09:21:45-07:00"
+    },
+    {
+      "path": "_games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo.md",
+      "title": "Does he see the Nuke!? - Starcraft 2: Maru vs soO",
+      "excerpt": "Maru vs soO in an intense Terran vs Zerg, featuring some Nukes on the Terran side! Playing during the GSL vs the World.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Mw98Mg8pE4M  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=Jj-qIw_NMW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jj-qIw_NMW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M39S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 3
