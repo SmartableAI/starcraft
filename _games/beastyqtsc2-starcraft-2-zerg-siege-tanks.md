@@ -16,8 +16,6 @@ provider:
 topics:
   - StarCraft 2
   - Zerg
-  - Terran
-  - Protoss
 tags:
   - Live
 

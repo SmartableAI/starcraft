@@ -31,7 +31,7 @@ items:
 
 topics:
   - StarCraft 2
-  - Protoss
+  - Zerg
 
 images:
   - url: https://i.ytimg.com/vi/r4EBNNY_olg/maxresdefault.jpg
