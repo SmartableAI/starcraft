@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=mr5oRGCnRFM
 type: video
 length: PT33M15S
 publishedDateTime: 2019-09-19T09:02:38Z
-heat: 54
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mr5oRGCnRFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - StarCraft 2
   - Zerg
+  - Protoss
 tags:
   - Live
 
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ym+dEjV9MWzYDHwhh6DNSDOR3n17PqjuxIdhkWPSbIsdtOPdEQeg9bB2bgm4LS8MoucB/PZJ4JFlbYMuSO5ij5XZAbpEBcQ2upqGWStrkGC/46Mzfc43pJv0E49GPqGnIyF7uIwQhH1Uzc7UkqCTwKab51a/7OIqBrNS7L/QT9+HD3O/Qu3kU1hE/cfARhugLHkzVLUVBAzj+h3VixtUIty4Hm0TkS0iN7dDrvVKHiFA0mTwZIxkCuG7KJbp0LdcZsFV8Jlq1qOvUFwbIdB9kd/ngJC8ARtCFh9QgbMS1KIiCKJHC+XlzEo7zVuVj3TBak17LHmjeQpTh0f6YrdqwH03aL5z/ox8rfIL00pjX27EM1Oz1MrM+cVJ7mItDEExDU8dg7mGOY0Xo5ZQfNnNZA==;uPTAOTS95S/vnrc7ZtVtZA=="
+secured: "w4DLK5HTH6j10sNJI5venKScF4apGaUxry0Gx/O0Y1A5+cTJty3LgFPMS9ZrBoJi6vX+J+xMnkHGiKCWUIuOMSa7gVnr/AZa1Ej2xQw5Lfov7OalnyTo6YAOZfL3PbPHxooNGa4tGwNIswtRXzC5KTz3eIuXfbI8I+f6nTPyI0Xgjmlu1jd+osLgucE1HdDILyLGFloRg8TtxvOXeQmeLeBdoDxG8ZO4LBHw0+/r0daPoDw9to1Mgec4NGWWztzYlxBqcOCaATkgMh/ytinywpKltWMfn/FpypuKbMLk6hWap6cjc9IJEEg9PmbJhjxG9YqsWFyV8cUsZNRHEbCWeJHphAOTmRMCWkaun/gKo0WjVcpAdVh7MmTIPSn4+LS9s1Slrato+BgjCjMKTXF8R4Vr8R2UFZCthOYkTe4Mxeg=;2osi493Dh7Z1mwpWxrwXcw=="
 ---
 

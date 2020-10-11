@@ -2,11 +2,32 @@
 title: "MASS Marines to Grandmaster!"
 excerpt: ""
 type: collection
-heat: 70
+heat: 61
 
 provider:
   name: BeastyqtSC2
   domain: youtube.com
+
+items:
+  - beastyqtsc2-starcraft-2-mass-marines-to-grandmaster
+  - beastyqtsc2-starcraft-2-mass-marines-basetrading
+  - beastyqtsc2-starcraft-2-mass-marines-mass-drops
+  - beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines
+  - beastyqtsc2-starcraft-2-mass-marines-vs-colossus
+  - beastyqtsc2-starcraft-2-dat-throw-mass-marines
+  - beastyqtsc2-starcraft-2-cannon-rushing-vs-mass-marines
+  - beastyqtsc2-starcraft-2-super-salty-zerg-vs-super-mass-marines
+  - beastyqtsc2-starcraft-2-zerg-admits-his-race-is-easy
+  - beastyqtsc2-starcraft-2-planetary-fortress-contain-vs-zerg
+  - beastyqtsc2-starcraft-2-the-worst-warp-prism-driver-vs-mass-marines
+  - beastyqtsc2-starcraft-2-mass-marines-vs-mass-ultralisks-infestors
+  - beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines
+  - beastyqtsc2-starcraft-2-mvp-mc-serral-andmass-marines
+  - beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes
+  - beastyqtsc2-starcraft-2-cannon-rush-into-proxy-tempests
+  - beastyqtsc2-starcraft-2-mass-marines-grandmasterand-msnand-ventrilo
+  - beastyqtsc2-starcraft-2-maphacking-qt-strikes-again
+  - beastyqtsc2-starcraft-2-mass-marines-last-episode
 
 topics:
   - StarCraft 2

@@ -1,0 +1,28 @@
+---
+title: "StarCraft 2: FAILED Cheese! HURRY UP OR LEAVE!"
+excerpt: "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have"
+originalUrl: https://youtube.com/watch?v=OOebEZX6ys8
+type: video
+length: PT42M18S
+publishedDateTime: 2019-12-14T23:11:32Z
+heat: 59
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OOebEZX6ys8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: BeastyqtSC2
+  domain: youtube.com
+
+topics:
+  - StarCraft 2
+  - Protoss
+
+images:
+  - url: https://i.ytimg.com/vi/OOebEZX6ys8/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "kjsDVggheqbVIx73gc64ql48NZHK6mbWa/3voTb/YAzQSD04AsSTIGt0tANKtg1UcmuCjTwqTSCLnZgPC2XC//WpoE2biqkPAiooh/auQimoZ24FcW+24alSDnZ14nOkcZkGvSlN/bc9m0Ll1VCuuNQm7KnLg8AwO06LYgPghGp+UKib2wGkqlejMFXG0Bkr8RWZAyJl10OLJr0vYgsE3vYaaOdoRPXQtsgQx2lm/6xfrIzDoXaG0erK8EUzkKTbpjCBQq3J9hdVasYaP0bRwgpngGeU9yuwj6v8AGYWjMkkAcVdkwnFGu3wO1N2PEhWupBhl0+YzO9PV4bTDmxd1ifzDUYrThzSwIGOBVawxEIytcf7SXXp+3tuwwYXC+rF2OYNpWO3toeSAXd6NcC/oA==;8qjUBvJnOqcqU59iXMFnmg=="
+---
+
