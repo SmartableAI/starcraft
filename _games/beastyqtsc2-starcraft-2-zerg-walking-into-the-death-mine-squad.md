@@ -17,6 +17,8 @@ topics:
   - StarCraft 2
   - Terran
   - Zerg
+tags:
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/wWZRufKz5oM/maxresdefault.jpg

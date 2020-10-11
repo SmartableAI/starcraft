@@ -488,6 +488,9 @@
             "Terran"
           ],
           "heat": 68,
+          "tags": [
+            "Live"
+          ],
           "images": [
             {
               "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
@@ -517,6 +520,9 @@
             "Terran"
           ],
           "heat": 61,
+          "tags": [
+            "Live"
+          ],
           "images": [
             {
               "url": "https://i.ytimg.com/vi/lCxdH0tQn9Y/maxresdefault.jpg",
@@ -546,6 +552,9 @@
             "Terran"
           ],
           "heat": 60,
+          "tags": [
+            "Live"
+          ],
           "images": [
             {
               "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
@@ -575,6 +584,9 @@
             "Terran"
           ],
           "heat": 60,
+          "tags": [
+            "Live"
+          ],
           "images": [
             {
               "url": "https://i.ytimg.com/vi/yegQnJoexJ4/maxresdefault.jpg",
@@ -693,6 +705,9 @@
         "Terran"
       ],
       "heat": 68,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
@@ -837,6 +852,9 @@
         "Protoss"
       ],
       "heat": 66,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Nl6aZY4IR1E/maxresdefault.jpg",
@@ -980,6 +998,9 @@
         "Terran"
       ],
       "heat": 62,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/aWmk1IYC2Ow/maxresdefault.jpg",
@@ -1084,6 +1105,9 @@
         "Terran"
       ],
       "heat": 61,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8KWWipGYq78/maxresdefault.jpg",
@@ -1114,6 +1138,9 @@
         "Protoss"
       ],
       "heat": 61,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Dqjkv9eTMqA/maxresdefault.jpg",
@@ -1143,6 +1170,9 @@
         "Terran"
       ],
       "heat": 61,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lCX1UJNTycU/maxresdefault.jpg",
@@ -1172,6 +1202,9 @@
         "Terran"
       ],
       "heat": 61,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/R3-Zh-_40Fs/maxresdefault.jpg",

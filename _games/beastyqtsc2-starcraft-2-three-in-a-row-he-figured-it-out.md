@@ -16,6 +16,8 @@ provider:
 topics:
   - StarCraft 2
   - Terran
+tags:
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/dQXwdp8GV_Y/maxresdefault.jpg

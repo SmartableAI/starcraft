@@ -41,44 +41,6 @@
       "publishedDateTime": "2020-08-27T02:25:09-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem.md",
-      "title": "StarCraft 2: STORM & DISRUPTOR DROPS! (Reynor vs Harstem)",
-      "excerpt": "Reynor versus Harstem in a professional match of StarCraft 2. While Reynor mostly plays what we consider to be 'standard' at the pro level, Harstem brings some really cool moves to the game with Disruptor and High Templar Storm Drops.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=GM4VJo-uN5g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GM4VJo-uN5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GM4VJo-uN5g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-08-15T02:06:48-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-flavours-of-terran-cheese.md",
       "title": "StarCraft 2: THE FLAVOURS OF TERRAN CHEESE!",
       "excerpt": "Best-of-3 series between uThermal and Stats in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Lots of Terran cheese in this professional match of StarCraft 2. While uThermal decides to play macro in game 1, he has more cheesy plans for",
@@ -171,6 +133,9 @@
         "Protoss"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fUO2dKVCgH0/maxresdefault.jpg",
@@ -201,6 +166,9 @@
         "Protoss"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fGSB-U-lrd4/maxresdefault.jpg",
@@ -230,6 +198,9 @@
         "Terran"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1nEJO-c1t4c/maxresdefault.jpg",
@@ -259,6 +230,9 @@
         "Protoss"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GxWVeRPPqo4/maxresdefault.jpg",
@@ -289,6 +263,9 @@
         "Zerg"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ywXd0w-852s/maxresdefault.jpg",
@@ -318,6 +295,9 @@
         "Protoss"
       ],
       "heat": 58,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y0Oc5bZo93Q/maxresdefault.jpg",
@@ -531,6 +511,9 @@
         "Zerg"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sK0ESGwOSYs/maxresdefault.jpg",
@@ -560,6 +543,9 @@
         "Protoss"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/smFc0D6XrGw/maxresdefault.jpg",
@@ -589,6 +575,9 @@
         "Protoss"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A4nR0ocrMi4/maxresdefault.jpg",
@@ -619,6 +608,9 @@
         "Terran"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fuOKLHISsao/maxresdefault.jpg",
@@ -648,6 +640,9 @@
         "Protoss"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kbbGyOXJf9g/maxresdefault.jpg",
@@ -678,6 +673,9 @@
         "Terran"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TAk5Y_Zc2zk/maxresdefault.jpg",
@@ -707,6 +705,9 @@
         "Protoss"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1-dXHHoI2PE/maxresdefault.jpg",
@@ -736,6 +737,9 @@
         "Protoss"
       ],
       "heat": 57,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MlSI04na-Cc/maxresdefault.jpg",
@@ -1004,6 +1008,43 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-30T03:02:34-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem.md",
+      "title": "StarCraft 2: MASS BATTLECRUISER VS TEMPEST! (Polt vs Harstem)",
+      "excerpt": "Professional match of StarCraft 2 between Harstem and Polt. In this high-level match of Protoss versus Terran we start off very quickly with Battlecruisers. Not a normal  build order from Terran at all. As the game progresses Harstem decides to respond with Tempests. In the end, both players have most",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-battlecruiser-vs-tempest-polt-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=iTKUOIFCmKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTKUOIFCmKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M39S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iTKUOIFCmKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-03-11T04:30:51-07:00"
     }
   ],
   "nextPage": 6

@@ -17,6 +17,9 @@ topics:
   - StarCraft 2
   - Protoss
   - Terran
+tags:
+  - Cheese
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/DznOcvlMccI/maxresdefault.jpg

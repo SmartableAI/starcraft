@@ -16,6 +16,8 @@ provider:
 topics:
   - StarCraft 2
   - Protoss
+tags:
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/mlE5UJf16bg/maxresdefault.jpg

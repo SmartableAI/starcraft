@@ -17,6 +17,8 @@ topics:
   - StarCraft 2
   - Protoss
   - Terran
+tags:
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/TAk5Y_Zc2zk/maxresdefault.jpg

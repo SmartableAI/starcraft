@@ -16,6 +16,9 @@ provider:
 topics:
   - StarCraft 2
   - Protoss
+tags:
+  - Cheese
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/H-ArS_LbwZ8/maxresdefault.jpg

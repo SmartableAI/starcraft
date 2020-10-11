@@ -17,6 +17,8 @@ topics:
   - StarCraft 2
   - Protoss
   - Zerg
+tags:
+  - Live
 
 images:
   - url: https://i.ytimg.com/vi/ywXd0w-852s/maxresdefault.jpg

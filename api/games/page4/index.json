@@ -4,163 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
-      "title": "MASS Marines to Grandmaster!",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Marines to Grandmaster!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT45M15S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 55,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "publishedDateTime": "2019-09-14T04:35:04-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
-          "title": "StarCraft 2: MASS Marines Basetrading!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
-          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT49M48S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "publishedDateTime": "2019-09-15T05:08:13-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
-          "title": "StarCraft 2: MASS Marines MASS Drops!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
-          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M11S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "publishedDateTime": "2019-09-18T03:20:11-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
-          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
-          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT34M9S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran",
-            "Protoss"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "type": "video",
-          "publishedDateTime": "2019-09-21T02:47:54-07:00"
-        }
-      ],
-      "size": 19,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "collection"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-are-you-jerking-me-cannon-rushing-to-grandmaster-episode-2.md",
       "title": "StarCraft 2: Are You Jerking Me...? - Cannon Rushing to Grandmaster - Episode 2",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -178,6 +21,10 @@
         "Protoss"
       ],
       "heat": 60,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zKB6EX4t-vM/maxresdefault.jpg",
@@ -207,6 +54,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yegQnJoexJ4/maxresdefault.jpg",
@@ -236,6 +86,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kkO37PkVlC4/maxresdefault.jpg",
@@ -265,6 +118,9 @@
         "Protoss"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mx45Kv3pw3E/maxresdefault.jpg",
@@ -294,6 +150,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3SmyfprvoH0/maxresdefault.jpg",
@@ -324,6 +183,9 @@
         "Protoss"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9rMvdk25H-4/maxresdefault.jpg",
@@ -353,6 +215,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/apACVYICxYM/maxresdefault.jpg",
@@ -382,6 +247,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6OCx0AdmXsQ/maxresdefault.jpg",
@@ -411,6 +279,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dQXwdp8GV_Y/maxresdefault.jpg",
@@ -440,6 +311,9 @@
         "Terran"
       ],
       "heat": 60,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
@@ -1048,6 +922,9 @@
         "Terran"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6jLGKxVnfzI/maxresdefault.jpg",
@@ -1077,6 +954,9 @@
         "Terran"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KeNYl2DkT-o/maxresdefault.jpg",
@@ -1106,6 +986,9 @@
         "Protoss"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mlE5UJf16bg/maxresdefault.jpg",
@@ -1135,6 +1018,9 @@
         "Protoss"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OOebEZX6ys8/maxresdefault.jpg",
@@ -1164,6 +1050,9 @@
         "Protoss"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GzAv8m0TggY/maxresdefault.jpg",
@@ -1194,6 +1083,9 @@
         "Zerg"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LTlIRnb9hTA/maxresdefault.jpg",
@@ -1223,6 +1115,9 @@
         "Terran"
       ],
       "heat": 59,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tu_AGy05PHQ/maxresdefault.jpg",
@@ -1342,6 +1237,43 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-06-08T04:02:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea.md",
+      "title": "StarCraft 2: GATEWAY CHEESE vs GATEWAYS CHEESE! (PartinG vs Astrea)",
+      "excerpt": "Awesome best-of-5 series of StarCraft 2 between PartinG and Astrea. In this series we have a variety of Protoss versus Protoss strategies and some cheeky Proxy situations.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=eKYBdUHpnx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eKYBdUHpnx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eKYBdUHpnx4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-08-17T04:53:08-07:00"
     }
   ],
   "nextPage": 5

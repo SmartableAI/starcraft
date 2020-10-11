@@ -5,6 +5,8 @@ originalUrl: https://youtube.com/watch?v=IZhpxTHtQqQ
 type: video
 publishedDateTime: 2020-10-08T10:08:04Z
 heat: 100
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZhpxTHtQqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

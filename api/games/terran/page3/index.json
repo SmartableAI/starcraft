@@ -766,6 +766,10 @@
         "Terran"
       ],
       "heat": 54,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DznOcvlMccI/maxresdefault.jpg",
@@ -796,6 +800,10 @@
         "Terran"
       ],
       "heat": 54,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hwJ801E20UY/maxresdefault.jpg",

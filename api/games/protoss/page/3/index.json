@@ -95,6 +95,9 @@
         "Protoss"
       ],
       "heat": 56,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/k7uJ7zxHoNk/maxresdefault.jpg",
@@ -124,6 +127,9 @@
         "Protoss"
       ],
       "heat": 56,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_Fj4NmkQQE0/maxresdefault.jpg",
@@ -153,6 +159,9 @@
         "Protoss"
       ],
       "heat": 56,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/x-9Tq6J_ss4/maxresdefault.jpg",
@@ -182,6 +191,9 @@
         "Protoss"
       ],
       "heat": 56,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/EqlXdYPg0Qs/maxresdefault.jpg",
@@ -211,6 +223,9 @@
         "Protoss"
       ],
       "heat": 56,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0XBdxu-Rf5k/maxresdefault.jpg",
@@ -316,6 +331,9 @@
         "Protoss"
       ],
       "heat": 55,
+      "tags": [
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pJRyZIOUuMY/maxresdefault.jpg",
@@ -345,6 +363,10 @@
         "Protoss"
       ],
       "heat": 55,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XUESn0DFMEk/maxresdefault.jpg",
@@ -713,6 +735,10 @@
         "Terran"
       ],
       "heat": 54,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DznOcvlMccI/maxresdefault.jpg",
@@ -742,6 +768,10 @@
         "Protoss"
       ],
       "heat": 54,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HsRx_dpPjf0/maxresdefault.jpg",
@@ -772,6 +802,10 @@
         "Terran"
       ],
       "heat": 54,
+      "tags": [
+        "Cheese",
+        "Live"
+      ],
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hwJ801E20UY/maxresdefault.jpg",
