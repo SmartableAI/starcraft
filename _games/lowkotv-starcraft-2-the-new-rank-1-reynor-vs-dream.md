@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=okcJxrHF3Cs
 type: video
 length: PT49M44S
 publishedDateTime: 2020-07-15T11:14:29Z
-heat: 172
+heat: 114
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2nfHW2wE3LRcxrBasHwm9Zy2MDlnJfvrOqTreVy+ofbb9K5L+354LhE5Yth5ku1jCxME4TXK+EYSP04iOLxegS9OryEfN7p4ttXLrILLth/WCOzd6pTWsFGe7vuR8Al3r3joI5AmrZ/JTsvXfaBtbAyJEgVOaxZ8Op4UnknU1xLekNLpxU7ctLRWIKnotSA3c8eu69Lt/R0rb1jGKVF/z2cKgI/OczXZfltXRfItxMZNoif9WX3Zjh2u7U1t6IGMOwG3p4l5tVCNNHVypISemAZVF7zwfqbFoEwAFXQ50lxd5ZhCmouQHOgcmzamkrpC6iN80kaFzIQ3+yoAghaAVx3A1S8qkJMQee+mj7AU9xkELI68fO3vRStrZxBAIxrE1nHgGdv4AcFf4IW0eFppMw==;iz4bLdKoko6pIlniZBc7Ng=="
+secured: "cF+colt+r6nsPvcbzKXJ8SAgr0Z/MUHI49yZMguSHYly+GwZE16TwBvI+sp7pjq7LVBTTjHGGjpl1lzt2OJvBg7/8c79mIhAMHz6r17iP/TiIHtxoOYteRIIdeKwmExk2S4nv1sq5amYW4wfSpzxfmeoXxvA2xBXS1T6QspX1tmhEWXfoIPMpHWOcXGfqfLlb1UHk4kP7BxqK8Gm7rKIZeQp1W8OC442lNiaJLdkIt3DLnIF6uDo4qUnpj8DZrBvOpRL5Ad5ZFoudeJydfRMACrcE1NM6agkjwsIUfOkRBp+6fUUP+WabU5ivio4CuOf3SmlOw9/50cw0zKApKZTGEYFnMtCkKXVmpO8btSUzc0qag0cSq8pv4aJAOTWkLkL8xO3xjhS4AQmfxVpoV090wQo5fK+XNDzlHSdMfhlaR9IDCnQnMDfRP26crx8Lmr7;ODvk9CsSCJd1Ig2L2LFb7Q=="
 ---
 

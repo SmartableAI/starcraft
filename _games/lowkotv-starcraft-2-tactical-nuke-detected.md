@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ot7dBGLzT7Y
 type: video
 length: PT17M
 publishedDateTime: 2017-12-23T13:18:24Z
-heat: 57
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ot7dBGLzT7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Terran
 
-secured: "bEE/bkvrE7g1wRrmcDFDTL05f8hedlF4KiqESzna6VDoxt2N1HsxuATDUfnyTTsicakZ+uwhsoOMeGjKchTxB2IYCHKX6j2vq2QEdYYoik+YRVvtkGvn18LlojS3eJ/HBM/F0ZlK/nVdqyJs/BiC+quYivoMrH6LUbKJdKyOzDj50c4f4vL6nbqeYJd/HAL9+covcxodMCtkgx0BtT4N3uDL6EP3ThcxM4bqOTjA3hjej4VKkp7o8EdNVXe1477MbB4sGDlZ/IXWP4AasOb1bOewrmXEWxqpeWJnO1bqvPblEFqbQykEXoGQ7ireJEWs4Nv+pfozCm8Z/GIb85MVxXhgpH9kETZ06rA5IFmrI6gwy1/1UMDKft1NZcDnDhOnjdK1zcBaZw06ASMGwSLJ9w==;RW3BA4oErs2CS0kuV+WjTQ=="
+images:
+  - url: https://i.ytimg.com/vi/ot7dBGLzT7Y/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "iMF9p+2Yvhuu9b31hm0zW4J7Bti1LVmfHAW5RKN5NMRVRiXzF7aYeHo++Nd0CkxEZ41YHXEerYrW4jiFngdPfCF/2so3Yx57dtqhX+zxPdoRGK+UTa85pwcrVYlSbw1efX+yetfyuddtaAV7N/YppIiO2f9uytgq0Lcw9kloBYrSHftwfHvZTb0PhWyDurQao+F2r6Dj+o88qT7YhWGlrD7DZvAn4Uhw7au1qedR/kM1eC6XzOzX9sdU46Tk9ODWeqLLilWy28wDhOs6kLOjIdvQRUsG4ASvlUdylT47rK/0DvCgv2fZLvn6HR18fv+2fNNl+a+4qdEepLSfPgo4dNUgER1uVhnqPvR65Ns5qTNm8k7q/U/NpJtumIJI8U4vt9dwhEb+HY0qDptCbOJDckFsoJxHQW38HyPKRs1UgaE=;qZfnDJs0cHrxe89sjd6Bdg=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=pUyEjx4kWQk
 type: video
 length: PT15M15S
 publishedDateTime: 2016-12-26T14:33:49Z
-heat: 64
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pUyEjx4kWQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "I3xlNqHxoMmVFOOj1L/t5zIcBc/LFWPUHT36Qmqr26UXR+2dqE1R76623AXjpVnjadtF1DwIj8QjJhkGbt28NBLOa4KYKVIBHyDN3CKwDd7yKNNQ4LZ5VOZTx51SWSWmZQ/s0KqVcfO5Gwrkvxrc5uPCTCxp4ufXwDVWvn5vsv+xV8WjrpjPgZEJ/SnEUxJeUlFli7YdLDohUMV4gT85Bj2I3IaTY0fAlMWlTkg0oUpdMK1Rh4a/SQzNsYx4LIqIY5JlIEUpptwoIXfiCjdtJ3g1IIHtmPxilKmvqh0drmqUF1ViMBAJt+dzSP1xor0iglzVUHAk4cqxurqfMESSyz6H7ieKshBVVZSrFyq0SZy6s7XMdoXToPyJrTsOKfDWaE/UFk1UbDT0Z1A1pbBASw==;U4s2+XnWF+AVzqiwynqwWw=="
+secured: "jKDO/YRe/sNaulitaM9QogNdRbeisJDfOvD/lwweKhVKERR27fxqWHnnw8CzQ4jbYkP4lqGD0Ap0jyb8R+854ECxsVyfBGErDfp4QghoQFpn04ktsA44GNvZuOCZ/+uSMixi7FoKF30LuAD8fPvqbwJUV7IT28mzfPZKFgSb+z2Se+ms5lA1tiMz3xfS5IU3HoBdghm7zbsQ1ZPiHsIQNtvFhnXc54vIv8/rEpR3o0Z3J1h7uEiOnloM95U5UiRVe8WVoRj2fRXMMaxO47J/A0Ki2a7pCnpwwsQ/6bzcxKFHLRgIMChMvLeGzLsJmYPRPwSl7QADDRgIfSn9Ly548VLYWi7mwDIKypItm5gi0VGFTXGG8kbi3AynmOKsO6zot6ant/znz05bv1ZAY73OavTEhIBdnhcTtxy+VRRNaisbJqSEhWkUGsEPk3mNeScQ;VRvTXTBMIH/sSH4k40kuqw=="
 ---
 

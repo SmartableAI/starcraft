@@ -1,12 +1,12 @@
 ---
 title: "Private video"
 excerpt: "This video is private."
-originalUrl: https://youtube.com/watch?v=g5Um5S7RS8c
+originalUrl: https://youtube.com/watch?v=IZhpxTHtQqQ
 type: video
-publishedDateTime: 2020-09-23T10:45:32Z
-heat: 50
+publishedDateTime: 2020-10-08T10:08:04Z
+heat: 100
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g5Um5S7RS8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZhpxTHtQqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: LowkoTV
@@ -19,6 +19,6 @@ provider:
 topics:
   - StarCraft 2
 
-secured: "N1CcZSzDKtjMM7H/Bjf/D0cO/OSjUheCTQzoz81JKs6GgF8wspXDKFtYhzdxQhQBNXyaYYjb3KLjEue1+6SLRGVPx8UBBkvQNsWyeMLIpvmcSv1py8v3N9Nt8R+kQm/ZomLqNoKUENY9oLU5pmpqxgkovxvJpwF6Q0OFwteRsdJcEcmHXMzK2OoZWW0aTFtaXVoxIqUwwwUjy9XwCuEhVpeMsgN1SVYdYq819yRsoDRYoqxbDbBdVwc1obZPq+HVRyv20WDwzwP311NvDp6fl4NeujA5PCbT8CmEFfBIOe1Lwaz/9eEA96oo3wbcr/AZGisdxg2LGhRZf/DUJJesoAK16gDloxeoMAKMvTLAExY=;0tnuIaXFP3hXtmmD3374uw=="
+secured: "3gG08d8VIRqUMAxO4GXPodl12OVVvvjQxbSKnKDMawiRiOXaqZCMQESj0rZVysMg+yBpNmVmnEMotBNDW35kTIffPw8kunGPrZNeAorM/nxqVM0xuqRmGSKqB3fZ0jmqXhZGIF8MlesKTtbmA0wRTeM8XN64g8xKcuj+rk6VPZXK/sWIjnGEjYXD2RUMj4wtt45LoUq+Sp4DmNB1gIm4PuDQL75P57ba8i91YRo0RR0cvtr+cFJLHfQOVsvynckNeRrILZW8Rc/U2cGvB6tGR5WJfalCqNX3UDBN/Kw5zn07T2TlnsIeSSDdgm093EbLN4oiek4mltrqnkHjD708fDo3G86NFrBlZxD1Hb1JsQE=;DegJKHPOuBO2Lr415aVoyw=="
 ---
 

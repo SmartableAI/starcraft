@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=1MjtYGBnh-I
 type: video
 length: PT17M23S
 publishedDateTime: 2019-02-18T08:39:12Z
-heat: 71
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1MjtYGBnh-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Protoss
 
-secured: "L/DMkWxPuV4ZTIjNWc12jIPta+jCk2TuXSaeyAAS/vNSENT2XkuRIIje09oIVxFjNN1CrOAB5UbHvzWFKfZytRsmOtjkl72WMf5pRdeJl6oX5sj5HBzXlDNlwtZdg8Iz14z4hIwF0c+SPQll6tHBqosT+TUmhrSTL2t+iYAgOXBVQRQ9CSY7OVZW560KDQzaA9XhmfQZbtDDPcOdy1WrWyrpxJcRgS7MiMQ8vP61dQsNLKC/Y2lLDuvhG6XLi86UkGqRTeyUVwqV3i3DSM3qmtoIHHpMfG4dD7RIDenmLfBRMS0vHeIgpOAdhyIe0KYeD/eD1/ltv8UOwbUJtePA9ViiEHlYtKhYgepzLX8BFC9GV+uaf4ZQlSG+CtttplNOlqWsS9qoNu9wmBSKXjc4jw==;9SkkVl6chsKaDco44cnzDA=="
+images:
+  - url: https://i.ytimg.com/vi/1MjtYGBnh-I/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "H7GBWEBNOz4MTgrOZbHQ3Hes6q5RvQf4Uvz4utHJUCHXdp9u5ww91pdOZlxZHkoDc+eP1ALWqorls0H+9VartcHtr1ve/vRqW5+NO70L6lhWdFejrj3yMki4b0JAvq9fezSGa+Qj6LhW8nyFxZZH/IPJDqICazCUTqLOTFVF+IlZIi0HYX7DwJwmfT+vdqp2vqNuii/rzPcdOW3GBxu0YedIlziWvxO5BuSd5G2+shbI0p09a38tHZQJ47m7/GckECimhJjmKJTvoCaSNoudGJROLqCT/SxXjQh1Wlu9e/nFHjH8w8CKtmUm5XRWj8vprfXNpSdrDy2X0SNwOJmN68aC8MuBDy+tRT0LFRxwXajKcNOQxb8sLTABUpJmvLlsOMKD6mYkX8NKdWeFR/G0mZs0TrCYErY8rL/1w681xMpqupaUoQ3rAEauYtS4jlHz;GRH8/ZIRBBOaKBAZuRgrZQ=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=bU7QF8rLeBw
 type: video
 length: PT28M29S
 publishedDateTime: 2019-02-07T12:06:56Z
-heat: 108
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bU7QF8rLeBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2RVugqXT0vpTBLJl/rjLWDvrmXvC0IsHB2XmqS3p4EApjnOauREcZH2P9DIWdqUcuigsI5HbZ4lJzeDIYwj0544GqncViABONkYZYfyG5Cc+8mCTe4J1JQMtJ/N1mBU7G50qyltYoXW6bOERSs5BUi1GZav6TMgeyv3H25vfmVFFM35VGDZET5ihkn2BB4Vlq9/XuJIHFw0bX9jFysD5YdVfv12fmvBSYRJJh/4SjcjlhTT+cvYNln+5xPWjNiveVri7vq+2XCEKx/8fn7Yb5owJ8g4NhyQVLXbKU5q5edPmJFAB5PLLIQ1QKfT9s04sUOe8LXHsTMt1OzECYgX9gAHoBod1Q+T3WeLWgjxxj9DiK6jZ6za6BL6QcUZQWec0B9ay+v8GWuyOBkJsVb2sgA==;4aovEl4h6WdVxPYz7xH1lQ=="
+secured: "Jbyhic+qjokma3gfK3PIWcXOWR6w4bj42GUkrZmXiOw9De1Nvd9xrTTIdYU9abd0ZbwM651gE4k2vpMvhdT4QzpexdLcGZY9i7g1l0FtGvYEh2I0bc+VDQhvGfeYdFZaMdoYRMRqilffAlhGssWJ8vhfKwuyTA5ZZttKBhRxuGpYp5pXRfaeLIdMk1ZTMzYXUzOq662U/ay7RrkuGM05dSPkHIIrxld4pLVoETyemwqdzQMzNBad7YSh4InHOKFG3RE0CHhJcoYRJc6vwc9FDme0bvMJE4B0Q2TjwmDGgyDLOqMoSpEPUD3aMx9mKlRve8GjffqDv/0XmDn2+IK3m1J1iSDZ39mRSB7l2t0gQ6qIUWhYUM3SwX6i2bALzzuM+CtSkd1ot6bXklt6hvVPiha0eH/vA/PRFuoLSswF0wX/H0HLXg5qOKSatfoHifhs;H0wetH4FTv1w193ZBTotmQ=="
 ---
 

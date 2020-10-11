@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=xetD1acjuEI
 type: video
 length: PT38M49S
 publishedDateTime: 2018-01-15T15:05:21Z
-heat: 57
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xetD1acjuEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ topics:
   - StarCraft 2
   - Zerg
 
-secured: "rUVFGa17GNuSFeynxzqAE06vcjY4SjTf/Uou/UMOpoCj8d1bzlGVmpJF15BVJFYp0GxH/e4uHK2mxzm6Zruj0d2NH2WwrQ/loHwvxqyOD2/Zf2OtJd6wk366WjOkfftU8OuYTEpCnenQ1UihqJcet2w+e/62AfXYx2HlJnFALaaPxfkr/oK9XqGzSf0K2sVRY+AHXEgfa7IBorWKFUlzAWhXHMbTan7DOVJYMp2mDIYK10IEDEUOpYhlQDbZ9S12qmytStCoBTWIi7lruCnTkP1mCJJ1RRPq7Rw+an7u2lVM14hOUMadR1fB/El0+4tcg64e8aii44fhmWqxOsz1upVfOsi+w7O5C0gIVs5WnSrsBrVbLLTLt0T9fCONi7OdipQ1+ZWUEZz/5NdrwxwWvg==;2cV9g07WqroygEQUS4TwBg=="
+images:
+  - url: https://i.ytimg.com/vi/xetD1acjuEI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "hCqg9dJlvPJqhj8ptk2W6sP04s0bSPXPLf9MSuUKqaZAJOrysjiYnK0V2MsNG+54kVDJcjSqWelVRZnKNkLwlMqnCYWADXBf0LKLTRG0z5rVfH0qbwiJUft6B93MurQ09IwPzb/xhWnLK4s4AdQc1X0n7cIiGvaGdw1IwaAI0Is1ct5F4YIv3+xyaEiMKGMer8eImKUT7V2/k7X7Zh94e0YB7s2TPvQECaRHI72JCSUEos7fQRvS9yL0R8g5PyPgXfObMMr8Foj1nf7ENz2BM9Ykg2A2Ae6EGYV/Jm9LsbrUXVgYOXZlZCuRF9zPYm2m99z3h0PB9we6sdJa0N6Rh/R0c98QbBKCSChS/ujWo4mRt7Rsre56NkC22Z4TavanCBYzU8/Mc04nGprG843TNMVF3uvjhXBADylR1YevePU=;CEVugkihHjVvkvSe28WzcQ=="
 ---
 
