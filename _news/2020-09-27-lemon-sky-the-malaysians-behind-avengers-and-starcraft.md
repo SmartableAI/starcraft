@@ -38,6 +38,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "StarCraft 64 Forum Topics"
+    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
+    publishedDateTime: 2020-10-09T14:00:00Z
+    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
+    type: article
+    provider:
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 17
 
 secured: "Z9ogDkB8kbacyPGlhNx9hd3obow/6ItxAKpWXHtnOmzjRfr4vzFezffw8kpV/eXSeNdJaME6y0hvYo9jPNb6ImGta9axP4KJWfBRcpBicik64Swqo18CUikYbGXAXzu61qg+tvHSsSJFK75Qc7WC3zhA98w0O9k8c6HaAZr0F8kSPV8e82cIktEQ3jVHURq7yQkasFP0vAIu3HvNaDaHmlxoMYkCKN+g/ZEeq+sQ9i0TUf/JY7FjjSFtQsD2JOH3emKCwtGfpLwG6aS9TuF/0LVEgtQnxzcMXPt0LF+JXJM9H8ZEmuTtSstBNZC3LhZWcd/18YjCfimDxFrC2Hj+ET8jyHCZ2ojFYfQq/iiZmdY=;8AGZkFq+YBc4ffzFVEvsNg=="
 ---
