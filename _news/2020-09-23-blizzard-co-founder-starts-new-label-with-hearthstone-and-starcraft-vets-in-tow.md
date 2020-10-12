@@ -36,20 +36,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "A Custom Starcraft Keyboard"
-    excerpt: "If you’re [gltovar], just look around at your hobbies. He’s been playing Starcraft for a while and finally decided to build a custom Starcraft keyboard. [gltovar] came across an interesting ..."
-    publishedDateTime: 2020-09-23T00:00:00Z
-    webUrl: "https://hackaday.com/2013/07/05/a-custom-starcraft-keyboard/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 37
-    images:
-      - url: "http://hackaday.com/wp-content/uploads/2013/07/keybaord.jpg"
-        width: 620
-        height: 305
-        isCached: true
   - title: "Playing StarCraft On An ARM"
     excerpt: "Except for the really terrible Nintendo 64 port, StarCraft has always been bound to desktop and laptop PCs. Blizzard could take the code for StarCraft, port it to an ARM platform, put a version on ..."
     publishedDateTime: 2020-09-28T00:00:00Z

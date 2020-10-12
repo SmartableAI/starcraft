@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "A Custom Starcraft Keyboard"
-    excerpt: "If you’re [gltovar], just look around at your hobbies. He’s been playing Starcraft for a while and finally decided to build a custom Starcraft keyboard. [gltovar] came across an interesting ..."
-    publishedDateTime: 2020-09-23T00:00:00Z
-    webUrl: "https://hackaday.com/2013/07/05/a-custom-starcraft-keyboard/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 37
-    images:
-      - url: "http://hackaday.com/wp-content/uploads/2013/07/keybaord.jpg"
-        width: 620
-        height: 305
-        isCached: true
   - title: "Blizzard co-founder starts new label with Hearthstone and StarCraft vets in tow"
     excerpt: "One of Blizzard’s co-founders has a new project in the works and heaps of StarCraft 2 and Hearthstone veterans are along for the ride. Long-serving Blizzard CEO Mike Morhaime has set up a publishing label called Dreamhaven with two studios called ..."
     publishedDateTime: 2020-09-23T15:08:00Z
