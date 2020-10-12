@@ -2,6 +2,7 @@
 title: "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)"
 excerpt: "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:"
 originalUrl: https://youtube.com/watch?v=1tykA9F5ZDQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/
 type: video
 length: PT31M25S
 publishedDateTime: 2020-10-12T08:59:01Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ut9fJ9BjqpltfVOR4wa/PZA3+9nBEsWtd833bRL9S9Gv8Y3aYLgFl0faeccoBwT14ZYqPPb7+Jj2Brf6ivi/1TR8hoSknG1qL0TkuxXYjyEIrBdIF7UnYIxWrHOXKw3XwopsWdxuthCIYunoxNkMThgeHsLYf8Due5U19snEbydCxcIaiUjU+ORr/jtNWTzEp6NvaLYdiY9KzKqh5mvJn/4fx6yZIiYJ8drjGHj7fGk2uy9lOzTvanTDNJ/UNYx6OEa9TWsnbwiSVr2mVEa4GcXzXbeF/LCzBAoNGD3sYHjUkUsoO7K64J26GZehHzFf9t36qCeQpebFTIWVjZocihZIENwEteR9rhomo+OFXjrxpIzVA2hRp4aRTNLrhXrjSsjcnQbE8cOOigztBk/6JA==;a5j8bST7noO9B6LeNDsoTw=="
+secured: "SxV/2ECBDmpH7LQf+AK5fkvsHo7gslvhjZAEEW9/jU2GO9po89L3Kpa5LZDxGawMRRd/cVng919SNlAuIBRrsHxVZqLacgxJS5SNjUhaLxQrkJVQU7PuVsqLkXHdXryjAF9Aoi2W+C/wcb3N2CqDmdvnaC2TsiPkuvbYTL/g1UQ1qhzZxeyIyHqAy2Sx3Sj7TkrY3ue/ZANQy6WWPtVJc2qHdV9KB5MbtudNfsy9/uDy1mDIKZ+Q6oZlRChXst3ePcBBXJeOf8EwmhNaUDRQCNVIbItCtYimTTYfHw3KTO8slL71ratOzjTC1d4M17ilQ24jg9Hf7/c+5jqvrcg5LpIicjflnG2JO66YaMvOsqlqa9pRpXxQsh4ZW5YvKNu5asgeTOxSstauXL+brmzE/g==;foI67IPXN1cmIakUyA7TSw=="
 ---
 
