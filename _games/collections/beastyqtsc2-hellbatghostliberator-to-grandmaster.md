@@ -21,6 +21,7 @@ items:
   - beastyqtsc2-rage-spamming-pause-before-quitting
   - beastyqtsc2-the-deadliest-four-pronged-terran-attack
   - beastyqtsc2-i-ran-into-a-nasty-lurker-trap
+  - beastyqtsc2-prophet-beastyqt-100-prediction-rate
 
 topics:
   - StarCraft 2
