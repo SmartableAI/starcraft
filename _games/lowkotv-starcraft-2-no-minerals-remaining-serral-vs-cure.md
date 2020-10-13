@@ -2,6 +2,7 @@
 title: "StarCraft 2: NO MINERALS REMAINING?! (Serral vs Cure)"
 excerpt: "Serral versus Cure in an insane game of StarCraft 2. In this match we see Cure focusing on Terran Mech, where as Serral takes the harassment approach where he constantly tries to outmine the Terran.  Maru vs Serral: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support"
 originalUrl: https://youtube.com/watch?v=pNhMT3ZndxA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-no-minerals-remaining-serral-vs-cure/
 type: video
 length: PT42M43S
 publishedDateTime: 2020-10-13T10:11:16Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Q4wHw6Y4++5uPctvGAauuRqk/0mzOJ7Os73iBh8ISlbeVX9+WCRcITnZvjYGmULlLnP0gWe/SiPTsTVrawDI1aKkLWTO2O4TvKVASdu8kid+7jFYDtUquGu0eitwNMqPr8+YQLxurLq+qApQDMnC4X3A/nuIU2TfIU5ml8qYLrthOd+fQfY9UywtG/g7wsi7UYBQDcEXPew/aZkepxmTqXpFokRf9fYq2RR8GL/He21bzA8anAo5FXm2uOpQ0d/KQad+D3WdnE78nTWtdwKFBqdVJaYzCIi4BvFLyXWxVWSVZjD0f+TudlOC5rgBMIYIKHc1/fU6ODvM1uxbbYmCPytix4DbfWZ47exaffKXzccgNwpY5cr87kFI6s/abH1f4C21vHGhlqQZL/nY6YDmuw==;XfjLUoHZP2hDJWSU4s2/ZQ=="
+secured: "hcqg8ja2o+tuxfkv/LdhdVqZXrzupIduP9tcWha8EgvgD4Iqb/y4L2hHzYCvjqg8IXwgu/Ufn6zXd7EpqNzCepVF1rsE+zicyfqvJGVjL+z682psfDAG8uo2TxtXUjdR6ez6LUA408lXHiEVvmyNCVis1oswfjJc/tJI60ecjjLpBGJjflZraR6B1ooo7qdkPmgRQ6uxdMwPVNlx0icoyxg8eaNwSSGUxm6oU11C2wQljxGwFxCQ0u4CT6KkxjDe7vJUcwikYaqy11+pbq/x9vWoicLfPe+ikWz1KjDIDC5hQN45C0j6/Tgnirm5/c9BUWmNKwJm7Lh0NB7zhED7QdduWQYLP5NpFVmb1ezN8XF3igo/h/wd9ncg7UUz+E8M0EXu5uZazZkmnKtgYhA+0g==;410+glc/Jj8ezfaB//lr9w=="
 ---
 
