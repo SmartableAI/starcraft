@@ -40,17 +40,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Blizzard co-founder starts new label with Hearthstone and StarCraft vets in tow"
-    excerpt: "One of Blizzard’s co-founders has a new project in the works and heaps of StarCraft 2 and Hearthstone veterans are along for the ride. Long-serving Blizzard CEO Mike Morhaime has set up a publishing label called Dreamhaven with two studios called ..."
-    publishedDateTime: 2020-09-23T15:08:00Z
-    webUrl: "https://www.pcgamesn.com/dreamhaven-blizzard"
-    ampWebUrl: "https://www.pcgamesn.com/dreamhaven-blizzard?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/dreamhaven-blizzard?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 33
 
 secured: "/0Fux9WEaQAvj8IyNKejC03cGR6Pvxag49cp3nhFkMrjs95I/xQ+0QCGoX9SYAODdVZVmus9jVqnPzokYP+ky8a5J9mh9jLBgKBkxE5dRQOfVKiHUofEE1BZ7sDqp+a9WVBb+2TjUofnPtuiurmtytbfFSQSSCB3QZMHcb6173a+9X/rykzPT7ZYpcOJOv6Ux5kU+axNiYbvj4Wp45Y7rAKq5g4j36yhTFcyneemVH+KBGssLj1vfVvNeShQhsvC1f9jhiyynM6fCWvPdozXAcW4zDZe633Ar1OT66LQdFNHoVHDWQHjBX3BP6cTleEz38Y77mKJrM14oWQUoYI2VRs3hBxX1sc8O45wLK925fw=;gqeXGDyUMC1NCQ+Wi4HlaQ=="
 ---
