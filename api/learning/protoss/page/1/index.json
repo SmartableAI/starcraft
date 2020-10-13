@@ -4,23 +4,53 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought.md",
-      "title": "Mastering Starcraft 2: Playing vs WILD opponents... or so I thought",
-      "excerpt": "In today's tutorial we take a look at a Protoss vs Terran I played on Pillars of Gold. It turns out to be a really wild game, but that's kind of expected when you're up against NA's notorious Skyler! The Loki of the SC2 scene. A very formidable opponent.  Mastering Starcraft 2: Playing vs WILD opponents...",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/",
-      "originalUrl": "https://youtube.com/watch?v=muVYdxkIoTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/muVYdxkIoTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M6S",
+      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
+      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
+      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
+      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M42S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-15T17:42:00-07:00",
-      "heat": 130,
+      "publishedDateTime": "2020-09-05T16:15:55-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/muVYdxkIoTo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2.md",
+      "title": "Protoss vs Zerg | Example game vs Grandmaster Neuro [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 lesson I go over a game I played vs a high level grandmaster zerg using the double stargate phoenix build I showed a few days ago.   Protoss vs Zerg | Example game vs Grandmaster Neuro #StarCraft2 #SC2 #RTS #Protoss #PvZ #neuro   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=D0l-lb0zdGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0l-lb0zdGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M35S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-29T13:18:52-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D0l-lb0zdGw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -351,36 +381,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
-      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
-      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
-      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-05T16:15:55-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial.md",
       "title": "Defending Terran All Ins & Early Attacks [Starcraft 2 Tutorial]",
       "excerpt": "In this Starcraft 2 protoss guide/tutorial we learn how to defend early Terran attacks. After watching this how-to, you'll feel very confident against aggressive terran players!  Starcraft 2: Protoss vs Terran | Defending Attacks  Coaching --------------------------------------------------------------------------",
@@ -518,36 +518,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/D-GWZZYWqC4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2.md",
-      "title": "Protoss vs Zerg | Example game vs Grandmaster Neuro [Starcraft 2]",
-      "excerpt": "In today's Starcraft 2 lesson I go over a game I played vs a high level grandmaster zerg using the double stargate phoenix build I showed a few days ago.   Protoss vs Zerg | Example game vs Grandmaster Neuro #StarCraft2 #SC2 #RTS #Protoss #PvZ #neuro   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=D0l-lb0zdGw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0l-lb0zdGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M35S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-29T13:18:52-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D0l-lb0zdGw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -923,6 +893,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wxutLYw5KlE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought.md",
+      "title": "Mastering Starcraft 2: Playing vs WILD opponents... or so I thought",
+      "excerpt": "In today's tutorial we take a look at a Protoss vs Terran I played on Pillars of Gold. It turns out to be a really wild game, but that's kind of expected when you're up against NA's notorious Skyler! The Loki of the SC2 scene. A very formidable opponent.  Mastering Starcraft 2: Playing vs WILD opponents...",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-playing-vs-wild-opponents-or-so-i-thought/",
+      "originalUrl": "https://youtube.com/watch?v=muVYdxkIoTo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/muVYdxkIoTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M6S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-15T17:42:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/muVYdxkIoTo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
