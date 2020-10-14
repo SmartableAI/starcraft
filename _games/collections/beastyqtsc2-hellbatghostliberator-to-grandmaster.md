@@ -22,6 +22,7 @@ items:
   - beastyqtsc2-the-deadliest-four-pronged-terran-attack
   - beastyqtsc2-i-ran-into-a-nasty-lurker-trap
   - beastyqtsc2-prophet-beastyqt-100-prediction-rate
+  - beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not
 
 topics:
   - StarCraft 2
