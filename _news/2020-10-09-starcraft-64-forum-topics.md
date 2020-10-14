@@ -46,6 +46,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Playing StarCraft On An ARM"
+    excerpt: "Except for the really terrible Nintendo 64 port, StarCraft has always been bound to desktop and laptop PCs. Blizzard could take the code for StarCraft, port it to an ARM platform, put a version on ..."
+    publishedDateTime: 2020-09-28T00:00:00Z
+    webUrl: "https://hackaday.com/2014/07/31/playing-starcraft-on-an-arm/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "http://img.youtube.com/vi/7vWnyDrNQO4/0.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "iTxH69Tx3VtLZHDR8SmN0wcy1O7bV4BOV2e+EhYbNxhLGuHtONCLtEz6bh5FqS068070AmEdU1aAdTZnrS9pbzQ6CfKzGsSI6rabyMA8dTFlXCH30Mc6wEeRZMmTRJ7ZBiDETHjkhaeY5yy7iBsrOHiwdh2WBxS1HEsFWEQX+6QtJpCxLwgkdsWP1NLr+TMmsRGGybt52myFB7BFSBQVBiivrmZkUMZQ0AVd/zdYQUxkM5Wqi1Gi500mviI8feYVK/FeyJ8mSCJEw/uWxknVg1QXIoztq+p5rFtdLl99dkjOJvTpfa4fIVf/jG242KIkRVQicvrWjk4klpRwhwyLb6+vmvtQVxjYygdS9BW0yo8=;Xi72ZrjV/Q7r7B1gEw+Nng=="
 ---

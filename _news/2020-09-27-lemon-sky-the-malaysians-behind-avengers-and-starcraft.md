@@ -38,6 +38,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Playing StarCraft On An ARM"
+    excerpt: "Except for the really terrible Nintendo 64 port, StarCraft has always been bound to desktop and laptop PCs. Blizzard could take the code for StarCraft, port it to an ARM platform, put a version on ..."
+    publishedDateTime: 2020-09-28T00:00:00Z
+    webUrl: "https://hackaday.com/2014/07/31/playing-starcraft-on-an-arm/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "http://img.youtube.com/vi/7vWnyDrNQO4/0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "StarCraft 64 Forum Topics"
     excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
     publishedDateTime: 2020-10-09T14:00:00Z
