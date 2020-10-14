@@ -2,6 +2,7 @@
 title: "My Opponent Wishing Me ALL the Best!.....or Not"
 excerpt: "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt"
 originalUrl: https://youtube.com/watch?v=j9ofiYvK_Kc
+webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/
 type: video
 length: PT30M30S
 publishedDateTime: 2020-10-14T12:47:20Z
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OZ0XiMHISyL+zJb4nzuDYPGfZwbgjTACgX37pDI3eVstvWelm5Qa82+Vh5sM/w8KVMTuTc/jA9PQmeTg7thDpW+AkylfiZ//lDMstz9WgA7++HInIMGakDCfenZ1MkNts5dJd7IAboW5fpZTjX3OFoy/hEBEoJVoXSwndlkCrVGAXDDBUFQWTbDsgQmaC+kw822Wr6d10gVnIXHR94dS/KE5CgShwb1z6CP7LmeTIAkabn38keGaM0FIntvc5JVNTS4PMsvaimSIn0ytvzHN2EpYFmYWWEJDGkRa41Sm2FHVIh0JdOdoUPhXtIt5mhbDAz60ZrmKnBUq8k6jwN6b/ZkH7poJAZ7qguVnhDdWlfrczNTUOLQ9cR08Ou73pA91TQSu8fAml3NtLjlvxKksiQ==;mSEDu8xoq6ED5kEKUj5cRA=="
+secured: "QiS4dKkNVwUGuCMLDuorXQVNscg4LmVxE2suC4V2eWuArGulNeo/2bmKIHEXz/1wLjgrcR8pKF4vaTcOlztu3Zj3sxvrduB/Qahc+c6lMQ0Y/J3rhrMyd3PsPpNCa2wztVcORgKP+4NVNJrKP7/WQPlrC4aC2vaGY9FZQBIfZMiBkGvGYsjp6To+EESpcVA2R1nYqhDllyomgxZIxwdrag9bI6in040DOYR/WnpXKa5gOYoTO4wu+feIUgmrc3/ghF2XK5JlOVR0VmOM8mJDKsxN+bMlFyNbycAreoJOlOGDpkpbNzauKAI3Mxk0FdfKBs6vlgZGUA9BwhAIKhYms1u1sX2oH1sNpauEvPtwaIWUjiqJ12qxzPv08hhDNdn84MYIUS4Ox/KoqO5oGApjoQ==;rB79zQM7qltVjOnxpovoxw=="
 ---
 
