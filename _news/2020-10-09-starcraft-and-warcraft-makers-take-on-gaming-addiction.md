@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2012/08/05/tech/gaming-gadgets/blizzard-gami
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2012/08/05/tech/gaming-gadgets/blizzard-gaming-addiction-statement/index.html"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft II Update - October 15, 2020"
+    excerpt: "We want to let you know about a development change we’re making for StarCraft II."
+    publishedDateTime: 2020-10-15T22:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "StarCraft 64 Forum Topics"
     excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
     publishedDateTime: 2020-10-09T14:00:00Z

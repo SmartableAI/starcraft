@@ -18,6 +18,20 @@ topics:
   - StarCraft 2
 
 related:
+  - title: "StarCraft II Update - October 15, 2020"
+    excerpt: "We want to let you know about a development change we’re making for StarCraft II."
+    publishedDateTime: 2020-10-15T22:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "‘StarCraft’ and ‘Warcraft’ maker’s take on gaming addiction"
     excerpt: "Blizzard Entertainment, maker of “World of Warcraft” and “StarCraft II,” has been blamed by some for creating games that are so addictive people can’t turn away. On a recent trip to ..."
     publishedDateTime: 2020-10-08T21:30:00Z
