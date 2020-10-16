@@ -7,7 +7,7 @@ originalUrl: "https://www.malaysiakini.com/news/544234"
 webUrl: "https://www.malaysiakini.com/news/544234"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft and its Brood War expansion are now free"
-    excerpt: "Blizzard Entertainment released Patch 1.18 for Starcraft and its Brood War expansion on Wednesday, April 19, making the classic real-time strategy game free for everyone to download and play on PC and Mac."
-    publishedDateTime: 2020-09-26T13:33:00Z
-    webUrl: "https://www.rappler.com/technology/starcraft-brood-war-expansion-free"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 37
-    images:
-      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/68F8E5AACFEE4EA58CAF5CAA5B61599F/starcraft-118.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Playing StarCraft On An ARM"
     excerpt: "Except for the really terrible Nintendo 64 port, StarCraft has always been bound to desktop and laptop PCs. Blizzard could take the code for StarCraft, port it to an ARM platform, put a version on ..."
     publishedDateTime: 2020-09-28T00:00:00Z

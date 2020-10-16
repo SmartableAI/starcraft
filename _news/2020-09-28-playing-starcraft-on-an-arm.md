@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft and its Brood War expansion are now free"
-    excerpt: "Blizzard Entertainment released Patch 1.18 for Starcraft and its Brood War expansion on Wednesday, April 19, making the classic real-time strategy game free for everyone to download and play on PC and Mac."
-    publishedDateTime: 2020-09-26T13:33:00Z
-    webUrl: "https://www.rappler.com/technology/starcraft-brood-war-expansion-free"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 37
-    images:
-      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/68F8E5AACFEE4EA58CAF5CAA5B61599F/starcraft-118.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Lemon Sky - the Malaysians behind Avengers and Starcraft"
     excerpt: "MALAYSIANSKINI | Avid gamers will be more than familiar with massive game titles such as the Final Fantasy VII Remake, Spiderman, Last of Us Part II, and Marvel's Avengers. But what they are likely to be oblivious to, is that those are just some of the ..."
     publishedDateTime: 2020-09-27T12:17:00Z
