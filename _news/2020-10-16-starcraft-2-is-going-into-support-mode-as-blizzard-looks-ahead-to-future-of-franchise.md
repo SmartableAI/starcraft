@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-su
 cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2 Update Moves Game To Legacy Support"
-    excerpt: "Blizzard has announced that they are moving StarCraft 2 to legacy support, and that there will be no more StarCraft 2 updates with content going forward."
-    publishedDateTime: 2020-10-16T00:03:00Z
-    webUrl: "https://techraptor.net/gaming/news/starcraft-2-update-moves-game-to-legacy-support"
+  - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
+    excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
+    publishedDateTime: 2020-10-16T02:08:00Z
+    webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
+    ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
     type: article
     provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 37
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
     images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2020-10/Starcraft%202.jpg?itok=jawh_WSd"
-        width: 852
-        height: 479
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "S6h1YKdnReoLbc11D+Kmbw5BQU9W2VBKPyG9uBcLetrwZ7Sxn4HGaSKuildmvrVq+gwAx1N4n7sYUsbXHTGhPw/E0UJ90Q8zgxuXJTFGcebItg+18FUORRydqbRyIXeRA7VIcxP2F+Nq1+TjxfY9+Ge5K7A89M6x/nOxXPS8eRqajFlWKl6AO8qffyRDiipnnhyq7TYefqwcSTQbxBpQOnPhGHgtuVKkH2GZg9YS0l7wtoz1X6aPnSzHqBrHAahAQkanCdhOlSit07PlcEhCPaajPm6PaHLjgW4VdlmfsEGB9e7fcSmv5/Qq0WDFIzLe5I/nAR9bfEewfaDR7d82/0jyzc1rwDatZ+h+uLIdUuv4NlWeLsLalFR0VaH+JVQWFKRz+2SwfMp4GDEvF1td7hqcQziXcwIrOy4m57PE6HuxwQAE9+mFgMf7CsSM3Qc5CjXqlJJJ+f6gUBiNO6AEdKlBe0coq6N5E1+5R7v2tkNDN1TKTr0tR/W6tQqSRc8ZWhMhe8hIDJRtHDFH1NBFaw==;MhUGKcUIGOaeLxniJ3afFA=="

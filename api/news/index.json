@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-blizzard-entertainment-is-ceasing-most-starcraft-2-paid-development-and-support.md",
+      "title": "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support",
+      "excerpt": "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development",
+      "originalUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp",
+      "publishedDateTime": "2020-10-15T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-starcraft-ii-update-october-15-2020.md",
       "title": "StarCraft II Update - October 15, 2020",
       "excerpt": "We want to let you know about a development change we’re making for StarCraft II.",
@@ -1183,57 +1225,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-26T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-balance-update-may-19-2020.md",
-      "title": "Balance Update - May 19, 2020",
-      "excerpt": "StarCraft II has been updated with balance changes, and check out the detail here!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23429406/balance-update-may-19-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23429406/balance-update-may-19-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GAJZKEC09RPX1554829654442.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T17:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",
