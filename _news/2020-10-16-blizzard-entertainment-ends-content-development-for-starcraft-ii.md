@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -56,7 +56,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "StarCraft II development comes to an end"
+    excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."
+    publishedDateTime: 2020-10-16T13:02:00Z
+    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/starcraft-ii-development-comes-to-an-end/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 37
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
 
-secured: "DPWWoOgBnetR3wwfEYDMtiSjtyaP6hwaJsxaz2s6m0kEsGmEMtLspdf2NvdYdKR17ksaHKIRuWW6tKxcvTigTtvcI21hqW59vElZYMkS7yMENTDgCeMFuIiv2CWEKqBNr3xysUD8hZkf7thruRhMwjS2oE0l1HvL71pvOr1weQeQxl8aP9vrRQ2ZGpnZAlg99DJUQVienJY6e6JE08WJZGpSwjV2d5GJ8HUngFkMBRtJ0313CjpvvGM9opMuophb1JvqU4hkJmymkgsl2GKN+7LwWXZAJ44rkO0GyEgcKyDC/PsULK1G75IJGDaE+bUUVzQXTJ9PG2ruYB880DyZw75/+leQgeTHKSi+P3Kh3QY=;tSdq/cms86s84u5qubECdA=="
+secured: "ebImAbvuedSd+nURtMfvoDJnCv+voWAphlwmnXeq5M7iSImywh8RCsXlyvPRLN/GPRo/P/rQmeS5VZxCgKhuW0DRNkFSV6yWjSOVLMIpD5JA4bjEFAru/ltcEvO/bl+bJ5FkwHkzJbr7eqDBWfH5mHe2HIspXsdG1qP9VeE2O18ewtM+lBacNqfEIlxhbxS+1dlM4IS6y5jeQK8BPgX5cMhxoiONoNrzAHal4Qb2R5FLIQ2MLJLbSe283rHwbgJe0hWL5+gxTGyrqD4apf88Oy5SfpbW7sGkUBZiJJpdu51HfhHXsuiwBJbAZJ9dKjf/uizbkVpJpmG/6HTcpFTeRJRUKGwmt6gVJ80C/PLVlqX6XLZ7VYtZx6LSxPAWmLYqVKVjDTofaPL8BkTuiuwv9TNBjCB+jgkDZULeJ05wokdmjNt+EYen4DcOh62n3Bxa9HOWZ+aH381GcDALRJB8v04mkOHLINh2HnzNB/IO3gfUy+GbhyeXryOVNrVk+Wn8Tm5sgqKnjpe9Z2L9qQFksw==;bh1rweIPysbCKnIsQwiyEQ=="
 ---
 

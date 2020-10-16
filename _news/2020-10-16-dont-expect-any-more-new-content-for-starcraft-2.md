@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "StarCraft II development comes to an end"
+    excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."
+    publishedDateTime: 2020-10-16T13:02:00Z
+    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/starcraft-ii-development-comes-to-an-end/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 37
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
 
 secured: "xlngo2wyflosuiVPo3n+pO45Wi2rc/OhqC1Z/T2MU0GkxIf2tF/wTM1DYPot4o3bz6lYA3pqKInUg4GiSZUDtoCVAjl+syPjwn/Ep5plPIxZkDYZcYGrSyUzlDHlhHSjU9tnmTRIJUMsVQvIcMv1iwCEx4vQrOpz7sQYVDFvgZAAbcsBggHCeI1Bgn6wWby3nrf3biQUqbjtBS5wTyClkZAr7abSVwlk9FFALd0YCG+yH1oJmZPtZ8qEEJ2LM/SvZiAmxyp2RmZ7AP0DQz5VcWgwDRpA8SRil97lT5d4w/JCS+wAxhQPYvJ6OIz2NPRdDWirtdJg7hfaPHl9gO44mQ3kvvrq7OhypSIjHWGGqyw=;1h1qPQwqIUiwso1lL6dUtg=="
 ---
