@@ -1,21 +1,29 @@
 ---
 category: news
-title: "StarCraft 64 Forum Topics"
-excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
-publishedDateTime: 2020-10-09T14:00:00Z
-originalUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
-webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
+title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
+excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
+publishedDateTime: 2020-10-16T15:40:00Z
+originalUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
+webUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
+ampWebUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Nintendo Life
-  domain: nintendolife.com
+  name: LADbible
+  domain: ladbible.com
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/89e25e045f89520256cabae5f19493fc.png&quality=70&width=808"
+    width: 808
+    height: 455
+    isCached: true
 
 related:
   - title: "StarCraft II Update - October 15, 2020"
@@ -48,22 +56,15 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
-    excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
-    publishedDateTime: 2020-10-16T15:40:00Z
-    webUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
-    ampWebUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+  - title: "StarCraft 64 Forum Topics"
+    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
+    publishedDateTime: 2020-10-09T14:00:00Z
+    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 57
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/89e25e045f89520256cabae5f19493fc.png&quality=70&width=808"
-        width: 808
-        height: 455
-        isCached: true
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 17
   - title: "StarCraft 64 Screenshots (0)"
     excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 30 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
     publishedDateTime: 2020-10-09T14:00:00Z
@@ -74,6 +75,6 @@ related:
       domain: nintendolife.com
     quality: 17
 
-secured: "iTxH69Tx3VtLZHDR8SmN0wcy1O7bV4BOV2e+EhYbNxhLGuHtONCLtEz6bh5FqS068070AmEdU1aAdTZnrS9pbzQ6CfKzGsSI6rabyMA8dTFlXCH30Mc6wEeRZMmTRJ7ZBiDETHjkhaeY5yy7iBsrOHiwdh2WBxS1HEsFWEQX+6QtJpCxLwgkdsWP1NLr+TMmsRGGybt52myFB7BFSBQVBiivrmZkUMZQ0AVd/zdYQUxkM5Wqi1Gi500mviI8feYVK/FeyJ8mSCJEw/uWxknVg1QXIoztq+p5rFtdLl99dkjOJvTpfa4fIVf/jG242KIkRVQicvrWjk4klpRwhwyLb6+vmvtQVxjYygdS9BW0yo8=;Xi72ZrjV/Q7r7B1gEw+Nng=="
+secured: "kkPE9EaPLgseJINPy/E3neThbKhZXABl4Pr5FIGYaLbuZHUtSKiPHuJ2wXC/9ZfnPon38j43dtrxyxW2Q71CElhObYRlBYk2psWyKPDqWy8/ngKTsBdbPtPuUPXu+b8NcFDUGOt6DoyGtrJVrIyQM/bPoOj2H+pLFVzQtd12U6A7bCQLVeqpMO1gwvo5aExN0XgoyCenU381wYBMzoLeQUo8/BpO6AwxA4JtzZwJvAuTMVSjasKNRRO/H2ZoFOEJCd8zkOYnlFUl1VkevjlpdCdfOhB3YiupBJpKhCfWuNz0m77U346ASRGTwD4NqqiC4zULVpqTkalQnkmBHVP+rv24kQLhEXzKD10xFXR3+pI=;Rbdqei15R2PuYSrW7ZNLWg=="
 ---
 

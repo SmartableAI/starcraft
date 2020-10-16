@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
-excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
-publishedDateTime: 2020-10-16T02:08:00Z
-originalUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
-webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
-ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
+title: "Starcraft 2 development is coming to a close following its tenth anniversary"
+excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
+publishedDateTime: 2020-10-16T15:45:00Z
+originalUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
+webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
+ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
 type: article
-quality: 53
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
-    width: 800
-    height: 420
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -72,23 +72,23 @@ related:
         width: 960
         height: 487
         isCached: true
-  - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
-    excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
-    publishedDateTime: 2020-10-16T15:45:00Z
-    webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
-    ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
+  - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
+    excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
+    publishedDateTime: 2020-10-16T02:08:00Z
+    webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
+    ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 54
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
     images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
+        width: 800
+        height: 420
         isCached: true
 
-secured: "6gPJ6+NrZJwPV00XdK2/vZmiogIYXFgNXYYG2km72NVfokIZ6hugstaq1GcANEJMNXR7tMDka93sTP8soBG61sdrL0rrUlKJfd/9V6tnMovujLrdmiVL0Lvh/wxiWBUunTNNum7h20oxzhIk/Ez1g9sKrE7xeLiDC2WiHepvjJCTx05/EeXn4TJLbj3GSA1+3cAwyQbkacznTfO1ihRVb806UVFTSEDAGi3tQaQu2kggEBnlhVr1GBUiBGWFTeThZzbve4/kJsGJkyPYUffGU+2nvLWqgmQXRC7lYV/qVEnyQ001FTHiipy1k5A7aTQwtWFjqPQbXvB9tsS99fcsrS/uHJUPQK0fKAjDsNyN9xU=;TdDvmu5Ae9PxOaCXi8vyug=="
+secured: "YO6kXNpup6FuD4k2RiKWlxYGOqswa2bQriL6NAdoHtBwYpqL9W+uftCzk36jLF+Kr1ncYffAxB3zbzPV/zSAwTsA+bRHJIZLpTdvBFr1K04jq58mouOUUircum+LJ7CP4cjCEIL7iYREfYV1OtaV+AHSnxncL1M1s8EUuejC9mkCqbFIqabgGb4MO0b17tti8t+WYv3kzuoJWHNEXpy67FG6WJHRvrlxOilSqLqKUTseJ5OkM/0x3OMibwGm5VLPC0UZTlK/JTFKNC0Z7fqrDp2BVNujnqKWu1ZU5a/4dSrtHK9yAF2kqlhUQ3hT8BszeaDViA/kHiD8iRF63azlVNE4UWltwzVdwDS+XaVYdHs=;nZT3Hxsi29c7uTbpGOBFbQ=="
 ---
 

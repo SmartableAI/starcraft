@@ -27,7 +27,7 @@ related:
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     type: article
@@ -70,7 +70,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Blizzard Ceasing New Paid StarCraft 2 Content; Looking Instead Towards Future of StarCraft"
+    excerpt: "Blizzard has announced that paid-content for StarCraft 2 will be coming to an end. This includes paid co-op commanders, War Chests containing skins and other cosmetic content, announcers ..."
+    publishedDateTime: 2020-10-16T16:52:00Z
+    webUrl: "https://twinfinite.net/2020/10/blizzard-ceasing-paid-starcraft-2-content-looking-instead-towards-future-of-starcraft/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/twinfinite.net/wp-content/uploads/2019/11/starcraft-II.jpg?fit=1200%2C800&#038;ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "xm2fkO2qubs+X82Ab+mcIHExOCcmtBGjf0RZ/DWUJXV0b4A2XJvJFlxFricXaeVuVIOsDoUAroJEYyHVlynEP0yxjxKXxz38HlG7TlBcmhBe/t5OG0RkqQjJJynMFXMQa1zVV0B6lN+V2ocMbuQqAVGEeWOGBWOYcxP6xzLBVpzQ8gn3gm2A9ps7WeLrW/aA/xCueC47Kmz60AL6js+c50GdjsjsoMWigzGJFwzqXmzS/FzUnbYPI+c0yC9dyFKgOAS7v0O6RhmWEkk6X7Qf1YyUQM00Pl7AjJsdPOzNbtGCLEIpvEMkj38EmkeMM70lv8vLpHu0tsBYjS92qTjjAhEobYs7UhpRRuO345ObVyY=;a0lqRQDNqDAYYu/R9ISSQg=="
+secured: "EV/v8fMdsjg4mgBmXWhC3fvOWhnTdh/RAJIYzL3YmR78QOKEBbUqwSVTayLRNnkd5M8lavWpUfh+RdqxSNivMZvMq9H9XfuOtuXwYC8vXd79AAuPoVhosdOhbIm1PKqX3clO+fRPNyTtfmH59Wne8OmIbntPV8Q0fxlBMucNgiiAaijQG0zK9btsfk+1ojURS891sF8qzy3hHvNO5ClFjoA1WL88Bx0jhGfQN5mhiSk1WG7fx/40ostpjUhYzYZDkBB9P9TCyusu3DKetCS+kQ/+gQWKbriv8tGSei5v2XdDjCcmX1bueZdYyyWn/9UadtMau8qh2Pv7SUTkds8WmZpEs/o2n6DkHx1ahk2cT5ofmHUX6EkheSL08ustanKoqTUHgZvlxxrRW7ndzJQQfTZykjNDxlD1sLKbAFJkYe2TcXkQ3NizrN0B7V+HViEwnf7d2WZsfIWg/CBWwqr5DUN9LV7qsBBdETypuc7qP3/F+fV+xp6ziR6dtk2KMCceOHacC6jboOQ6D68owjSRYQ==;oBNtgjeb7GcKW/4k/bfkRQ=="
 ---
 

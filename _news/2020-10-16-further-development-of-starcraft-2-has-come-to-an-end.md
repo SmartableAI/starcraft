@@ -42,6 +42,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard Ending StarCraft 2 Content Development"
+    excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
+    publishedDateTime: 2020-10-16T15:52:00Z
+    webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 77
+    images:
+      - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
+    excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
+    publishedDateTime: 2020-10-16T15:45:00Z
+    webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
+    ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 54
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
     excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
     publishedDateTime: 2020-10-16T02:08:00Z

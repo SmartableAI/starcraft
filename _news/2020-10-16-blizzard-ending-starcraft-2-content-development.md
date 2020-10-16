@@ -1,22 +1,20 @@
 ---
 category: news
-title: "A decade after launch, StarCraft 2 development is winding down"
-excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
-publishedDateTime: 2020-10-16T10:36:00Z
-originalUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+title: "Blizzard Ending StarCraft 2 Content Development"
+excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
+publishedDateTime: 2020-10-16T15:52:00Z
+originalUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
+webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
 type: article
-quality: 97
-heat: 177
-published: true
+quality: 77
+heat: -1
+published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
+  name: IGN
+  domain: ign.com
   images:
-    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg"
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,25 +22,27 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
-    width: 1200
-    height: 630
+  - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Blizzard Ending StarCraft 2 Content Development"
-    excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
-    publishedDateTime: 2020-10-16T15:52:00Z
-    webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
+  - title: "A decade after launch, StarCraft 2 development is winding down"
+    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
+    publishedDateTime: 2020-10-16T10:36:00Z
+    webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 97
     images:
-      - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Further Development Of StarCraft 2 Has Come To An End"
     excerpt: "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by"
@@ -93,6 +93,6 @@ related:
         height: 420
         isCached: true
 
-secured: "svvggoRnHdIV/ZBTWkRs/U8jCo5kdo8nOcAlPtyx2X8SQarUMBgpqfcwuxGYx2OUKOCA8yYT3Hgd75y5QQNAOHStmd6gRkeBhDCcuHo2oPFkWdV4tZMw7sWOXk/s+3eWtYDc5EorAjH7vr5gThqZXsb7ks1kh7AjqB4wc04OmM3THrQ2e3sV/VTtuKcpm31lKullp8vlTD//ADcxJq8Nf7KxmZMOY3z8u9fep6svIRpd1TWWxhDmkp3cWCBoNMOWTBQiWHlV/4zRjcZ5vFyQi+gdqlEMZW7jRd7k/odiVIChx3qXg6z/144G+n30Hexs2MWwyb+OOStJrSYylR6TrzDgOlPYAyqmcUJzHfI7bgvkxJn2PFEOMg32SYtpxV6PQR+CmoAhWXyIO14UawWPLWp2tJJ855MG/NCKxIlJFUa/QgSsrEMnl1gHkplkywd7QV3SPIuUOUugSBOiMm1F6zVF5zyKSYQhhGjALLer7f3/6J+IGifl+g/hSgZEpzvUauKFNP6MIIqds1YnFRIDhA==;M3gltXHh0+Oa2Vd59mZ6KA=="
+secured: "dPlqvcs6wMqyta56xitYIaFbdGd/HoLT8aHVAZk/0QCvKArSAAz/k5xoOeJ9EkGq5tOqAY2Tfr9YtioKGSlpD6NjkqhqKSjHnOVo3UvkfZWkOweOthFv1YYJfZhmJ5PHbcaV1kqo9dOeyFRuLNGzY3PoRkGgae3kn0DQRY9/I4U01k19mcFgCIMRCS0KRKUyJa7aDj55LaXmmLynO7mfrGS8dwpGCbwunb1wJbS5jchubfvjI6rjXcT8S2BXTTATMq+AFN57LFMIkmNNxizeK2SrzeNGLYTDJWaFoQcpvaHa0J9O9p+PzzQ2ateOCr/IuGU0d5TI/mWP4Ew+9UN1uzZGTrRNj7aUjsoXy3YoiIY=;STmVzPSB9o2kKzMbnSUHuA=="
 ---
 

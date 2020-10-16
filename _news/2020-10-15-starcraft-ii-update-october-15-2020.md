@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-u
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
 type: article
 quality: 177
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/120804093548-starcraft-ii-world-cyber-games-marineking-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
+    excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
+    publishedDateTime: 2020-10-16T15:40:00Z
+    webUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
+    ampWebUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 57
+    images:
+      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/89e25e045f89520256cabae5f19493fc.png&quality=70&width=808"
+        width: 808
+        height: 455
         isCached: true
   - title: "StarCraft 64 Forum Topics"
     excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."

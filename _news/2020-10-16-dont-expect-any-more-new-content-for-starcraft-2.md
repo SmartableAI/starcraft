@@ -29,7 +29,7 @@ related:
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     type: article
@@ -69,6 +69,20 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
         width: 732
         height: 330
+        isCached: true
+  - title: "Blizzard Ceasing New Paid StarCraft 2 Content; Looking Instead Towards Future of StarCraft"
+    excerpt: "Blizzard has announced that paid-content for StarCraft 2 will be coming to an end. This includes paid co-op commanders, War Chests containing skins and other cosmetic content, announcers ..."
+    publishedDateTime: 2020-10-16T16:52:00Z
+    webUrl: "https://twinfinite.net/2020/10/blizzard-ceasing-paid-starcraft-2-content-looking-instead-towards-future-of-starcraft/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/twinfinite.net/wp-content/uploads/2019/11/starcraft-II.jpg?fit=1200%2C800&#038;ssl=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "xlngo2wyflosuiVPo3n+pO45Wi2rc/OhqC1Z/T2MU0GkxIf2tF/wTM1DYPot4o3bz6lYA3pqKInUg4GiSZUDtoCVAjl+syPjwn/Ep5plPIxZkDYZcYGrSyUzlDHlhHSjU9tnmTRIJUMsVQvIcMv1iwCEx4vQrOpz7sQYVDFvgZAAbcsBggHCeI1Bgn6wWby3nrf3biQUqbjtBS5wTyClkZAr7abSVwlk9FFALd0YCG+yH1oJmZPtZ8qEEJ2LM/SvZiAmxyp2RmZ7AP0DQz5VcWgwDRpA8SRil97lT5d4w/JCS+wAxhQPYvJ6OIz2NPRdDWirtdJg7hfaPHl9gO44mQ3kvvrq7OhypSIjHWGGqyw=;1h1qPQwqIUiwso1lL6dUtg=="
