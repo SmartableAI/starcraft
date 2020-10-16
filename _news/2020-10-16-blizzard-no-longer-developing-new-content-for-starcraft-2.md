@@ -24,39 +24,39 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
-    excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
-    publishedDateTime: 2020-10-16T02:08:00Z
-    webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
-    ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
+  - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
+    excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
+    publishedDateTime: 2020-10-16T09:58:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 53
+      name: NME
+      domain: nme.com
+    quality: 57
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
-        width: 800
-        height: 420
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
         isCached: true
-  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
-    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
-    publishedDateTime: 2020-10-15T22:07:00Z
-    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
-    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
+  - title: "Don't expect any more new content for StarCraft 2"
+    excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
+    publishedDateTime: 2020-10-16T10:23:00Z
+    webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
     type: article
     provider:
-      name: USgamer
-      domain: usgamer.net
-    quality: 49
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 57
     images:
-      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
+      - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
         width: 1920
-        height: 1080
+        height: 1078
         isCached: true
 
-secured: "Jt6NQ2CGKladypyohrQvsnpzXhSsABhptYwFtDryCtgOLeJCraE7UAhfc+WcpUXNFbgyv0Feud0kDNJPx1Whvd/TuVK/MPBt3Pu8AbQSDyL2s4/FQY4oCmfZJUk04xIkVGdAmREeyoT1EN0oFrjoc779ZXhdHg6xodObcZsvXuSrdibNnJggk1WDvDAfPNOY2bTqew1/45dzpnPTkYNeNXSfh0XSq7mUTz73ZmecaTqfxErX15Sxf+DOgkuuayzmjoazFg/kL3GNGS049HT/wNKiaXaXzkj4F7qZRN4NrT3FhLYfQrf2KSn2d1x622U5xjJcFaAPskXu4gNZNvHgau0/GeqwegrAibpLevSrSRU=;QT/6G0eGI2HkCU7emo2Tmw=="
+secured: "VehWEuzek7Vpcz/lUjflZJAPv054mdzczval3NfJU2qZm1Jude9WL7UDeuBVDRKjPpTwRoH2BHwTai/jNLQhwk5i5S/e7b1UfVfj8Tz1CmsLgx4dWBaaoSb5wVRX38PZLCMhYJO/Fm75H+Fc85AIU3fts8uTn9cbnbtAT+Qw20emxZVZ0/p7oFsA1ht1kapi315wK4wA3Cy9WTzstFKF/khxPCgLuJqHhNmu6S6Wmh+RZTM/2uEj9J+FMn6/XNe3fwImOUBjAithFrPQA58hJWaJI/zxQYUu5PRCRM6CKoZI80VQWBO6wK/wGefhBUsCe99aDECSrvFl9hwMoutZ3Leac3wqvzN95L3qsMCflvw6NvaD0cZYyPqGUnvDOia66hKrCnt26kIFC6rY3XZ+3Jpnedq1FJOSvh8JOTnCEQE08GLRzrpd0TCzAbyuEOp3/sxruI9cnIfAqWsLWfb03LyjekwqMkNWEYeFdGc17pnotffbPM4GvpcTZ+Sr5EbJc7nBTVj2/CVcy4iqpmKr6Q==;65DPxNWxZF05stRRtvHusQ=="
 ---
 

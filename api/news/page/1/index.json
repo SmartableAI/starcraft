@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-16-blizzard-entertainment-is-ceasing-most-starcraft-2-paid-development-and-support.md",
-      "title": "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support",
-      "excerpt": "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\"",
+      "path": "_news/2020-10-16-a-decade-after-launch-starcraft-2-development-is-winding-down.md",
+      "title": "A decade after launch, StarCraft 2 development is winding down",
+      "excerpt": "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at ...",
       "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development",
-      "originalUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development",
+      "webUrl": "https://www.pcgamer.com/uk/a-decade-after-launch-starcraft-2-development-is-winding-down/",
+      "originalUrl": "https://www.pcgamer.com/uk/a-decade-after-launch-starcraft-2-development-is-winding-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg",
-          "width": 800,
-          "height": 420,
+          "url": "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp",
-      "publishedDateTime": "2020-10-15T19:08:00-07:00",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/",
+      "publishedDateTime": "2020-10-16T03:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-blizzard-entertainment-ends-content-development-for-starcraft-ii.md",
+      "title": "Blizzard Entertainment ends content development for ‘StarCraft II’",
+      "excerpt": "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp",
+      "publishedDateTime": "2020-10-16T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1174,57 +1225,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-09T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-2020-season-2-map-preview.md",
-      "title": "2020 Season 2 Map Preview",
-      "excerpt": "2020 Ladder Season 2 brings new 1v1 and Team maps to ladder!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23429408/2020-season-2-map-preview",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23429408/2020-season-2-map-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/l8/L87IHIGH13D61590184406903.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T15:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

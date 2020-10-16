@@ -9,8 +9,8 @@ ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcr
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
 type: article
 quality: 53
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Windows Central
@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
-    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
-    publishedDateTime: 2020-10-15T22:07:00Z
-    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
-    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
+  - title: "A decade after launch, StarCraft 2 development is winding down"
+    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at ..."
+    publishedDateTime: 2020-10-16T10:47:00Z
+    webUrl: "https://www.pcgamer.com/uk/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
     type: article
     provider:
-      name: USgamer
-      domain: usgamer.net
-    quality: 49
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 97
     images:
-      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Blizzard no longer developing new content for StarCraft 2"
-    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
-    publishedDateTime: 2020-10-16T08:06:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "6gPJ6+NrZJwPV00XdK2/vZmiogIYXFgNXYYG2km72NVfokIZ6hugstaq1GcANEJMNXR7tMDka93sTP8soBG61sdrL0rrUlKJfd/9V6tnMovujLrdmiVL0Lvh/wxiWBUunTNNum7h20oxzhIk/Ez1g9sKrE7xeLiDC2WiHepvjJCTx05/EeXn4TJLbj3GSA1+3cAwyQbkacznTfO1ihRVb806UVFTSEDAGi3tQaQu2kggEBnlhVr1GBUiBGWFTeThZzbve4/kJsGJkyPYUffGU+2nvLWqgmQXRC7lYV/qVEnyQ001FTHiipy1k5A7aTQwtWFjqPQbXvB9tsS99fcsrS/uHJUPQK0fKAjDsNyN9xU=;TdDvmu5Ae9PxOaCXi8vyug=="
