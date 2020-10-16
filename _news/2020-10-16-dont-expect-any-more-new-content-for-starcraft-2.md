@@ -29,9 +29,9 @@ related:
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
     type: article
     provider:
       name: NME
@@ -41,6 +41,22 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
         width: 2000
         height: 1270
+        isCached: true
+  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
+    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
+    publishedDateTime: 2020-10-16T18:31:00Z
+    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
+        width: 1680
+        height: 1050
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."

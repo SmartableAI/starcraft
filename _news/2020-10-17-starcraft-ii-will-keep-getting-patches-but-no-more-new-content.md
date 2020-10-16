@@ -1,35 +1,39 @@
 ---
 category: news
-title: "A decade after launch, StarCraft 2 development is winding down"
-excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
-publishedDateTime: 2020-10-16T10:36:00Z
-originalUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
+excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
+publishedDateTime: 2020-10-16T18:52:00Z
+originalUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
+webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
 type: article
-quality: 97
-heat: 217
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Worth Playing
+  domain: worthplaying.com
 
 topics:
   - StarCraft 2
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
+  - title: "A decade after launch, StarCraft 2 development is winding down"
+    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
+    publishedDateTime: 2020-10-16T10:36:00Z
+    webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard Ending StarCraft 2 Content Development"
     excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
     publishedDateTime: 2020-10-16T15:52:00Z
@@ -108,16 +112,7 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
-    excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
-    publishedDateTime: 2020-10-16T18:52:00Z
-    webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 17
 
-secured: "svvggoRnHdIV/ZBTWkRs/U8jCo5kdo8nOcAlPtyx2X8SQarUMBgpqfcwuxGYx2OUKOCA8yYT3Hgd75y5QQNAOHStmd6gRkeBhDCcuHo2oPFkWdV4tZMw7sWOXk/s+3eWtYDc5EorAjH7vr5gThqZXsb7ks1kh7AjqB4wc04OmM3THrQ2e3sV/VTtuKcpm31lKullp8vlTD//ADcxJq8Nf7KxmZMOY3z8u9fep6svIRpd1TWWxhDmkp3cWCBoNMOWTBQiWHlV/4zRjcZ5vFyQi+gdqlEMZW7jRd7k/odiVIChx3qXg6z/144G+n30Hexs2MWwyb+OOStJrSYylR6TrzDgOlPYAyqmcUJzHfI7bgvkxJn2PFEOMg32SYtpxV6PQR+CmoAhWXyIO14UawWPLWp2tJJ855MG/NCKxIlJFUa/QgSsrEMnl1gHkplkywd7QV3SPIuUOUugSBOiMm1F6zVF5zyKSYQhhGjALLer7f3/6J+IGifl+g/hSgZEpzvUauKFNP6MIIqds1YnFRIDhA==;M3gltXHh0+Oa2Vd59mZ6KA=="
+secured: "J2VcpLClxCCnabMw9bZANe4a+gDgL0qBNOiYf2MPi0b0C/SIDlQw9KpsnBVa7XXiqR/l64Zk2+eB9WDN63xlpo5NkaQBp9aZQmpaO8bpTlA9qxbqm5dpVcO61BRgz+uWVbsr4h0x5lxBhdo42qpMFYBLj4PuDIKcz3Oc+ODVts8jg8xI/t6qilWcooGRLBdMkWzL4eZ9fEOpTtm426WDcbOGxPOVUTBo1tTco3eWxo76xPSjbzm6EEb9rU3iPKLZ+KorPB1it4/+nknQnSqwJy5ve9PwzIMo87viU5wWXIgBM0FBuhIh8LALCDPP7GwwaozSqQGr1/9529IabXUR62IObpPto5XKwNaZWC0XPz/62OfRz3uXQEg1UjenEmNf05Ub7jCct/LWKGt08Fh8B4yeYVE2Vym/P1R5W/5iLMOWC8T+3neN2MQv8cBbdU3mtpluasuOjaFVn9hTC7ugHP5fu+4IveHJaNDDO+I1zjIjdLKrNtDVdoiPb7RXlPmt9qVcMjjPUz7BVlHNh+RNqg==;Ckl4GYPnKea5nlKiLrKqMg=="
 ---
 

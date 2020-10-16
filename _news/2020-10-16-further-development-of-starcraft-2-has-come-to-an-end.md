@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blizzard ends StarCraft 2 development ten years after launch"
+    excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
+    publishedDateTime: 2020-10-16T18:16:00Z
+    webUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
+    ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 57
+    images:
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
     excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
     publishedDateTime: 2020-10-16T15:45:00Z
@@ -88,6 +104,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
+    excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
+    publishedDateTime: 2020-10-16T18:52:00Z
+    webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 17
 
 secured: "epcSA9OI2nFpQfLNhXxupta43bSTlc6N2OrFcaONhMHb45pqAU+USMZpOL9q8cNTqbSCOe7B7W4rHjcu7UCAlz5p/sH53xuIU8Frb4pDSLIJdjBlddLU6Ud3NdjplYUDmx1wnfgdDqHYjIlqavkL+lv2UW7aX/o7r9ujfwAwQiye5xmKULwFAZVzj4tEpu7CfWvlpybOAiDuFCGp5YTmVF+QTKSEY4FBiP1J0y2frJCTqh4H9Mr9paHF8W/uK2JT8C7DNBooXAJ6Uk03rQi2SMdGtC6wv9QRujGHYx/UAz2zEUgGRoofUHC9IyL3IOyJbm/lnvv2o0OWWDBKZUOmaMKNtOqy+/UGKTBax/nXbBQCAeIQaDu8T7s5bES3i5GytnF2YKoHhjArbwMz7hAcVCCFb7bDqDcWFhVZV4xZLzGjg/OvXuH7X3bqDWFFSifjoZuDgnqH8wrhBuoHPr+DuIujPO2Xm3l5JxAvDzKMq63i72Y631DcS4GZM9uUZ4+PQzr62xPjkTRWIcGTw30ocw==;NSrZ1IZwRKR7+DqwR1O3Fw=="
 ---

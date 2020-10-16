@@ -27,9 +27,9 @@ related:
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
     type: article
     provider:
       name: NME
@@ -55,6 +55,22 @@ related:
       - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
         width: 1920
         height: 1078
+        isCached: true
+  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
+    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
+    publishedDateTime: 2020-10-16T18:31:00Z
+    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
+        width: 1680
+        height: 1050
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
@@ -85,6 +101,6 @@ related:
         height: 330
         isCached: true
 
-secured: "F7p2icXjnVtrS1bh+7X0hEhCi6sRRbgaMkLA8UKGfaLY505emkldYj5oqHXDjcCWhy3M/HclQBGdFjb5Mzj0Clw2WmtV7YZkg4wkfvAwjOZc8XdDuyXJXl5bliMRcv3C2g5S9txzy4FEoHUjc32gCuzs2J9A9GoYLrdDxuXI+t1G03GB0VNQ206CprkV0iXvLeFqmIYjIlP8mVkf+uENRoLh442Z6egW55NVZbLX5DQJo+xN55DWhCKm8f047KI/H1rOE1meyd+07/Dt39nO2ChaAUC28lZgZhtNKwWTUm22shQnvCs1d/iYKI/sjAkFMamy9//gIuJNOxEYBF1A7Go8iCaMfz4q93KsmVvaQ40=;cC0uC7irhr/nE2gvfsxqHQ=="
+secured: "/PfKzdIbkDKcQ05ydoDbkF832zNUk+CnTtFlplLcud9+J15PFPMQr8k6rreOK5tXOrTJTcBB5blQz4trnawoKqfxEF1aykFE4Snd91A8nS1ELTWpz1nD8CXVAO0i813ltbHuG9Al2MtWkFQt+sivXqRINYQRb831aJEJ5M4EBfXtnujFnuAlCEkgQ6JkCPCSLqOjU7DuYQGdpqRXJ5SlJEohUqgua4FcwNYOEVEtPEPN8zQwNtJnOzNriYAgvN2XyKK4AlPng2K3TiH1JFsITrogR5r61F8EFcJ3VjTpMlwlkpBcPtcio6lD4oNoIH+dwJnHFzWZ6X5JCaqj4+o/koW6F59PF8SQIbDMbFnfMYrnZlCJYqt5XiPzBnZaCaspU9KEZ3TUlbP8EmLmey2v8+zqGWjeBzmF/UJoxWMpcl/E3RomSVP9v4O688DODm7W5QpjqndfSACXdHStJ4wUo7Uh7P8tO0rc7ndoKmoKlWB/5oY2X+Zca2qXqfi0jFEkrEScQdL1AgJ1PLbdo8xPIg==;hGHV81K9AEd6qcmnD9Mu8Q=="
 ---
 

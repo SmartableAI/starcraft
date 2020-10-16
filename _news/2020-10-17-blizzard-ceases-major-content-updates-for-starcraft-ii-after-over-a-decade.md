@@ -1,31 +1,47 @@
 ---
 category: news
-title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
-excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
-publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+title: "Blizzard ceases major content updates for StarCraft II after over a decade"
+excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
+publishedDateTime: 2020-10-16T18:31:00Z
+originalUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
 type: article
-quality: 57
-heat: 157
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: TechSpot
+  domain: techspot.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
+    width: 1680
+    height: 1050
     isCached: true
 
 related:
+  - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
+    excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
+    publishedDateTime: 2020-10-16T09:58:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 57
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Don't expect any more new content for StarCraft 2"
     excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
     publishedDateTime: 2020-10-16T10:23:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
         width: 1920
         height: 1078
-        isCached: true
-  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
-    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
-    publishedDateTime: 2020-10-16T18:31:00Z
-    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
-        width: 1680
-        height: 1050
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
@@ -101,6 +101,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Id6x+ninQbCrWPsqvzToWLQNrHMdn5EwCOU2vnxOUwagWwqyyAzzohbuhZ22mi3hrzR5REPbuT11aT8ZiL7RQIwdVkaKELn81e1v5jgvKiEg9lIu3EPJYs7AfN4KO1uzyz1DODlzzcjL/VezKVwXjziLCcVM58CruYs27ntmJaEFYg0uT/XgpG69oJNk6TG+DTgOLcg/nmZbQtbV4Vx4xF7Wh24Me7+IpCB1skHkKSVzm0enyxCtuMWwJ1XANYBNiWoPvuA5lSBu6P7QIN5f4+sYZQ9DOUTiEukf423OuCmATelMm4J0uf/G6VzKYdSnX+2vsA60RN1KL8n4xxdfhI198Ha7t3oo2GFmVQXMPdE=;nc48MI/qpzrrq4MZ5xMnJQ=="
+secured: "yEDZXZnMDztoQKrCEfj4DK7YvEEvyVbbvE64Uxv26dS7mGNTIANB4lSATA4MUiKfA5s9B7OGdSQcmQ/qwCjaz02H+0ZEMLY8VGIK0H5OA6dyMssxgGm31FNLUJGjPf7XH08VgCFdHsC56Z2OEyilxPXNHRCdFR/0gMO+l1Mt/qsHjImput39pjpq5lth1OAOUr77OJLLoccZgzDp6WXujK04yTMstPzuu3B5bB+fDs85YUqMTDE0ByCKeU6S+bmcO5kKN3eG88+SBOVB40UA/gsfjp9aVf2KfnQYgFav1Gn1Rp8n7YjKIHs/+tz3ONxLH1lL0wW37Z0XZcZDkNEepO+GoLmaDZvtNOD5Skemjnc=;SzQbkXNByWReWfpdCVDV2w=="
 ---
 
