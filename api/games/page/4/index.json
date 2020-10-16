@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar.md",
+      "title": "Speed BANSHEES vs SWARM HOSTS - StarCraft 2 - Maru vs Solar",
+      "excerpt": "An epic game between Maru & Solar during the Starcraft 2 GSL Code S. Mech, speed banshees, swarm hosts, ravens & an epic conclusion.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-speed-banshees-vs-swarm-hosts-starcraft-2-maru-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=ZX1dmv6aTAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZX1dmv6aTAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-24T03:19:50-07:00"
+    },
+    {
       "path": "_games/collections/beastyqtsc2-mass-infestors-to-grandmaster.md",
       "title": "MASS Infestors to Grandmaster",
       "excerpt": "",
@@ -47,6 +86,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-08-14T02:46:27-07:00"
         },
@@ -79,6 +119,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-08-15T03:48:50-07:00"
         },
@@ -111,6 +152,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-08-15T16:12:44-07:00"
         },
@@ -143,6 +185,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-08-19T03:31:08-07:00"
         }
@@ -157,6 +200,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -203,6 +247,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-09-14T04:35:04-07:00"
         },
@@ -235,6 +280,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-09-15T05:08:13-07:00"
         },
@@ -267,6 +313,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-09-18T03:20:11-07:00"
         },
@@ -299,6 +346,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-09-21T02:47:54-07:00"
         }
@@ -313,6 +361,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -359,6 +408,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-03-20T04:37:09-07:00"
         },
@@ -391,6 +441,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-03-20T04:47:41-07:00"
         },
@@ -423,6 +474,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-03-21T06:21:39-07:00"
         },
@@ -455,6 +507,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2020-03-23T01:51:26-07:00"
         }
@@ -469,6 +522,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -515,6 +569,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-17T13:38:31-07:00"
         },
@@ -547,6 +602,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-18T15:54:23-07:00"
         },
@@ -579,6 +635,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-20T04:02:45-07:00"
         },
@@ -611,6 +668,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2019-07-20T04:11:24-07:00"
         }
@@ -625,6 +683,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -656,6 +715,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-01T04:20:41-07:00"
     },
@@ -693,6 +753,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-20T02:36:53-07:00"
     },
@@ -730,6 +791,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:56:24-08:00"
     },
@@ -766,6 +828,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T04:02:21-07:00"
     },
@@ -803,6 +866,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-30T03:02:34-08:00"
     },
@@ -840,6 +904,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-09T03:14:03-07:00"
     },
@@ -878,6 +943,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
     },
@@ -925,6 +991,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:23:24-07:00"
         },
@@ -957,6 +1024,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:23:24-07:00"
         },
@@ -989,6 +1057,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:23:24-07:00"
         },
@@ -1021,6 +1090,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:23:24-07:00"
         }
@@ -1035,6 +1105,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1081,6 +1152,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-12-27T11:44:50-08:00"
         },
@@ -1113,6 +1185,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-12-28T10:33:35-08:00"
         },
@@ -1145,6 +1218,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-03T05:00:49-08:00"
         },
@@ -1177,6 +1251,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-07T03:35:08-08:00"
         }
@@ -1191,6 +1266,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1237,6 +1313,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-08-04T07:43:59-07:00"
         },
@@ -1269,6 +1346,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-08-04T07:43:59-07:00"
         },
@@ -1301,6 +1379,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:15:42-07:00"
         },
@@ -1333,6 +1412,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2017-09-24T12:15:42-07:00"
         }
@@ -1347,6 +1427,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1394,6 +1475,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-13T05:02:11-08:00"
         },
@@ -1427,6 +1509,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-14T07:00:19-08:00"
         },
@@ -1460,6 +1543,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-15T07:25:03-08:00"
         },
@@ -1493,6 +1577,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "video",
           "publishedDateTime": "2018-01-19T06:43:08-08:00"
         }
@@ -1507,6 +1592,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1543,6 +1629,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-09T05:35:29-08:00"
     },
@@ -1579,6 +1666,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-09-19T10:42:26-07:00"
     },
@@ -1615,8 +1703,47 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-08T03:20:19-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure.md",
+      "title": "StarCraft 2: HUGE PROTOSS SANDWICH! (sOs vs Cure)",
+      "excerpt": "sOs versus Cure in a professional game of StarCraft 2. In this Protoss versus Terran we have both players deciding to rush the opponent's main base after the early game. A wild base race ensues.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=VGL0z0kvA5s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGL0z0kvA5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VGL0z0kvA5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-27T02:25:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-ridiculous-protoss-cheeses.md",
@@ -1652,6 +1779,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-18T05:00:54-08:00"
     },
@@ -1689,6 +1817,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-11T02:17:54-07:00"
     },
@@ -1725,6 +1854,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-01-03T03:58:46-08:00"
     },
@@ -1762,6 +1892,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-02-14T04:49:08-08:00"
     },
@@ -1798,6 +1929,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-30T00:30:45-07:00"
     },
@@ -1836,6 +1968,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-27T01:19:23-07:00"
     },
@@ -1873,6 +2006,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-29T00:58:39-07:00"
     },
@@ -1910,6 +2044,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-16T05:01:00-07:00"
     },
@@ -1946,6 +2081,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-24T14:28:17-08:00"
     },
@@ -1984,76 +2120,9 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
-    },
-    {
-      "path": "_games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup.md",
-      "title": "8 PLAYER PRO FFA! - StarCraft 2 HomeStory Cup",
-      "excerpt": "Highlights of a very funny Free for All that happened during Homestory Cup 16.  The Starcraft 2 FFA featured Neeb, Stats, Elazer and many more!  You can watch the full match here: https://www.twitch.tv/videos/200541935?t=05h13m44s   ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-8-player-pro-ffa-starcraft-2-homestory-cup/",
-      "originalUrl": "https://youtube.com/watch?v=SYWvv-tpqG0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SYWvv-tpqG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M37S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SYWvv-tpqG0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2018-10-16T07:21:19-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster.md",
-      "title": "*NEW* Series! Hellions, Ghosts & Liberators to Grandmaster!",
-      "excerpt": "NEW series is here, back to some Terran gameplay! Let me know how you guys are liking this one!  Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=6XOOIeuFQHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XOOIeuFQHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M14S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 57,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-09-23T04:49:52-07:00"
     }
   ],
   "nextPage": 5
