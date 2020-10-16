@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcr
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
 type: article
 quality: 53
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Blizzard no longer developing new content for StarCraft 2"
+    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
+    publishedDateTime: 2020-10-16T08:06:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6gPJ6+NrZJwPV00XdK2/vZmiogIYXFgNXYYG2km72NVfokIZ6hugstaq1GcANEJMNXR7tMDka93sTP8soBG61sdrL0rrUlKJfd/9V6tnMovujLrdmiVL0Lvh/wxiWBUunTNNum7h20oxzhIk/Ez1g9sKrE7xeLiDC2WiHepvjJCTx05/EeXn4TJLbj3GSA1+3cAwyQbkacznTfO1ihRVb806UVFTSEDAGi3tQaQu2kggEBnlhVr1GBUiBGWFTeThZzbve4/kJsGJkyPYUffGU+2nvLWqgmQXRC7lYV/qVEnyQ001FTHiipy1k5A7aTQwtWFjqPQbXvB9tsS99fcsrS/uHJUPQK0fKAjDsNyN9xU=;TdDvmu5Ae9PxOaCXi8vyug=="
