@@ -25,6 +25,22 @@ images:
     height: 1080
     isCached: true
 
-secured: "ePCmAqJLv3zRyn5fnmMZ4H1od8htkO7GG9dydoOJ9qFnwtwfgJ7fFliFqtTImXYiorAA66WV8PQAqV3O9piZeenepSjezMklMH4Ha7f/2om9vb770KrwIfybdhAFrcsq07x31QG0rtOmMHcvr5RHwcWpThXcjXD978fK8oSu3pgWjPMR9DHy86Xabb+D76bui+KRJsITZbyLNXS8KpsN/SOqas7SC3olZN1zvM0mSNFoVPBJuSNBx257NFkHvUKfYTE8eAmsbcjI4ukGPHWjnlAJjF9i1xSGnaT1wU1682XKzw1K8nF1oSmkYU0tO0RtXLCA5VqDtvqrc7EWEqsz0kusqnnB8aJ1BnbdUqZkc4o=;VTSiT0xzxDFgsnapui931g=="
+related:
+  - title: "StarCraft 2 Update Moves Game To Legacy Support"
+    excerpt: "Blizzard has announced that they are moving StarCraft 2 to legacy support, and that there will be no more StarCraft 2 updates with content going forward."
+    publishedDateTime: 2020-10-16T00:03:00Z
+    webUrl: "https://techraptor.net/gaming/news/starcraft-2-update-moves-game-to-legacy-support"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 37
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2020-10/Starcraft%202.jpg?itok=jawh_WSd"
+        width: 852
+        height: 479
+        isCached: true
+
+secured: "S6h1YKdnReoLbc11D+Kmbw5BQU9W2VBKPyG9uBcLetrwZ7Sxn4HGaSKuildmvrVq+gwAx1N4n7sYUsbXHTGhPw/E0UJ90Q8zgxuXJTFGcebItg+18FUORRydqbRyIXeRA7VIcxP2F+Nq1+TjxfY9+Ge5K7A89M6x/nOxXPS8eRqajFlWKl6AO8qffyRDiipnnhyq7TYefqwcSTQbxBpQOnPhGHgtuVKkH2GZg9YS0l7wtoz1X6aPnSzHqBrHAahAQkanCdhOlSit07PlcEhCPaajPm6PaHLjgW4VdlmfsEGB9e7fcSmv5/Qq0WDFIzLe5I/nAR9bfEewfaDR7d82/0jyzc1rwDatZ+h+uLIdUuv4NlWeLsLalFR0VaH+JVQWFKRz+2SwfMp4GDEvF1td7hqcQziXcwIrOy4m57PE6HuxwQAE9+mFgMf7CsSM3Qc5CjXqlJJJ+f6gUBiNO6AEdKlBe0coq6N5E1+5R7v2tkNDN1TKTr0tR/W6tQqSRc8ZWhMhe8hIDJRtHDFH1NBFaw==;MhUGKcUIGOaeLxniJ3afFA=="
 ---
 
