@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blizzard halts development on StarCraft 2 after 10 years"
+    excerpt: "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be"
+    publishedDateTime: 2020-10-16T19:16:00Z
+    webUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/"
+    ampWebUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 57
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
+        width: 1422
+        height: 800
+        isCached: true
   - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
     excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
     publishedDateTime: 2020-10-16T15:45:00Z

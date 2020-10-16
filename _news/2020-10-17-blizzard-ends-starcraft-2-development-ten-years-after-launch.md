@@ -72,6 +72,22 @@ related:
         width: 960
         height: 487
         isCached: true
+  - title: "Blizzard halts development on StarCraft 2 after 10 years"
+    excerpt: "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be"
+    publishedDateTime: 2020-10-16T19:16:00Z
+    webUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/"
+    ampWebUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 57
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
+        width: 1422
+        height: 800
+        isCached: true
   - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
     excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
     publishedDateTime: 2020-10-16T15:45:00Z
@@ -114,6 +130,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "rfF03nwPLhPWb2sbbKKw+Irly0i5CJQWF5dE2Cs+6FIYK8hqDYS4gjNXnF/J8JJMUyh7vXj5SLQrQUzK8DGO7dFRSLUPQSg2BiqzpQsa48B1aO2yH6WSxEQsnDv4xDja4wBSdnm2bTauUZqGsU9dtMqBCSMbGVXA96ynbhOrXlhWBWOS2SgsX0lf47kRF9HFxOvxwlwxu4inBDvd80U9Zneswvidx7TnWine2vEO7JoCOeIhFxxitqGg8a432u8Ttd0JONmvLKpc5yTDxgLimFSg+knwS6NQ+dd/20INs7jDZ1lq6EdznbgtDYK196b4+OcEuvtbjlqTXfeQLY1PbVRzjD0OMBOjPvb1bts6sFQ=;r5tTQlrL8Na7f5qpVyre0w=="
+secured: "bGH4Ffmnr1uJ7ZiuIL0+X+z2JVSGyi5aV9Qra48BWDyZjjs6S4ZlKal0YWL8LnNZrzJ5fmxEp526sf2WACHGqL7kMYtr6VpoaZllBUujTtmVxO6CUIx3uKb4WYAO5Buw8SZ8nHCvzVnJzBYhguSDrs9JH1bY7MOMM+OGojEJxYdPuZy9ITqvpa6mkRMmilPQgNgzmHdaVlLbp4kqspATDHvnQ0zTHVJhfpYSMy1Ox1wtxEN4CXbXaMieLbWRV0OE8J4qnpoFDdh0Ps4zcPmGM278DSh3HSnIaWPlJOcgoT2jTbJ4MvxWYIzNKx+dc1ncjfAJ5REqjGFTLkj7zFo5/FlUYACg4jJIRTHbRuoRv6PqPknAUvuhWSTmWienxXtfxmipcFO/nT8xWyOIySB3DSM+Dcua/BQBN2VT8Z4dUdJ+ZXYmxdd02gyKb7cDAULgu7v/OeByIZNBGXR3pGkAx+hqipkDQT/vSgCOsalLBcsLFVhPyvpBW0f3P7wrDukemPl6+0vqWcOzxwRX3ki1NQ==;QJchHox/mHnKgmhAviCVhw=="
 ---
 
