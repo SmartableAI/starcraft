@@ -29,9 +29,9 @@ related:
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?utm_source=rss&utm_medium=rss&utm_campaign=blizzard-entertainment-ends-content-development-for-starcraft-ii&amp"
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
     type: article
     provider:
       name: NME
