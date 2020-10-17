@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Blizzard Ceasing New Paid StarCraft 2 Content; Looking Instead Towards Future of StarCraft"
+    excerpt: "Blizzard has announced that paid-content for StarCraft 2 will be coming to an end. This includes paid co-op commanders, War Chests containing skins and other cosmetic content, announcers ..."
+    publishedDateTime: 2020-10-16T16:52:00Z
+    webUrl: "https://twinfinite.net/2020/10/blizzard-ceasing-paid-starcraft-2-content-looking-instead-towards-future-of-starcraft/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/twinfinite.net/wp-content/uploads/2019/11/starcraft-II.jpg?fit=1200%2C800&#038;ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "L+y7Dys9mXpD38MXSRlFofNsMfxyzPxOQepgf+55tu2SG4YEcZ6wBCXBim9lx+u+qkar+R1RdeOXK5QTBfSgRd9SeG6DFRM5jamLe5nDKu+xM5fMvdG/Hvmo3jAa7GxLf4U2DeyiOdC+1jWUor66RPZ2+V3ZW+sM2LTTrj6y2I7F4u7t/VVFOfiunFr25yqXS3ie2f0qy8Wffr+jdcMJ2xrb3D7VNLAuf8J7Ptg55Ym8ZnlbgZiT9Lf+nTElQgi377NQf2ljxBjqPpjy8W0mWf5O0DyRAKn7CGfC2N7wwmNUsl7fqLztxXmBNxHHcRTENKp2ANXbu2VTBOYOjDktSKiG/t0GQXZuPPz04FU1QtHiESakQdGdZIGyVB6bo2nDt7VA2ZWNiTF3ssoi2xici7fM3iasEHc1l+qNC1RNbVQbM6t6xtbvcXYQvSvCnVwC352hGMfMW+AlEj6HktuCByrtCHnOkgCph/UbuVNVhKZ6/qLX8THVzJMhaXcjYri1Xge5adYcrbvNwlhx+1W9Cg==;pWReC1Ak0efUohvI3jLLXQ=="
 ---

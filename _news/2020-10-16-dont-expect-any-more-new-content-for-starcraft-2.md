@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard ends new content development on StarCraft 2"
+    excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
+    publishedDateTime: 2020-10-16T00:50:00Z
+    webUrl: "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    ampWebUrl: "https://www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/kVMZj2IAOYv5r5dalkLXE0GSWbE=/0x0:4096x1740/1400x933/filters:focal(1962x377:2616x1031):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67639969/ZI230_4K_tif_jpgcopy.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
     publishedDateTime: 2020-10-16T09:58:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
         width: 2000
         height: 1270
-        isCached: true
-  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
-    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
-    publishedDateTime: 2020-10-16T18:31:00Z
-    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
-        width: 1680
-        height: 1050
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
@@ -85,20 +85,6 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
         width: 732
         height: 330
-        isCached: true
-  - title: "Blizzard Ceasing New Paid StarCraft 2 Content; Looking Instead Towards Future of StarCraft"
-    excerpt: "Blizzard has announced that paid-content for StarCraft 2 will be coming to an end. This includes paid co-op commanders, War Chests containing skins and other cosmetic content, announcers ..."
-    publishedDateTime: 2020-10-16T16:52:00Z
-    webUrl: "https://twinfinite.net/2020/10/blizzard-ceasing-paid-starcraft-2-content-looking-instead-towards-future-of-starcraft/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 27
-    images:
-      - url: "https://i0.wp.com/twinfinite.net/wp-content/uploads/2019/11/starcraft-II.jpg?fit=1200%2C800&#038;ssl=1"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "xlngo2wyflosuiVPo3n+pO45Wi2rc/OhqC1Z/T2MU0GkxIf2tF/wTM1DYPot4o3bz6lYA3pqKInUg4GiSZUDtoCVAjl+syPjwn/Ep5plPIxZkDYZcYGrSyUzlDHlhHSjU9tnmTRIJUMsVQvIcMv1iwCEx4vQrOpz7sQYVDFvgZAAbcsBggHCeI1Bgn6wWby3nrf3biQUqbjtBS5wTyClkZAr7abSVwlk9FFALd0YCG+yH1oJmZPtZ8qEEJ2LM/SvZiAmxyp2RmZ7AP0DQz5VcWgwDRpA8SRil97lT5d4w/JCS+wAxhQPYvJ6OIz2NPRdDWirtdJg7hfaPHl9gO44mQ3kvvrq7OhypSIjHWGGqyw=;1h1qPQwqIUiwso1lL6dUtg=="

@@ -24,81 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
-    excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
-    publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
+    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
+    publishedDateTime: 2020-10-15T22:07:00Z
+    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
+    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
+    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
     type: article
     provider:
-      name: NME
-      domain: nme.com
-    quality: 57
+      name: USgamer
+      domain: usgamer.net
+    quality: 49
     images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "Don't expect any more new content for StarCraft 2"
-    excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
-    publishedDateTime: 2020-10-16T10:23:00Z
-    webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 57
-    images:
-      - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
         width: 1920
-        height: 1078
+        height: 1080
         isCached: true
-  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
-    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
-    publishedDateTime: 2020-10-16T18:31:00Z
-    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+  - title: "StarCraft 2 Update Moves Game To Legacy Support"
+    excerpt: "Blizzard has announced that they are moving StarCraft 2 to legacy support, and that there will be no more StarCraft 2 updates with content going forward."
+    publishedDateTime: 2020-10-16T00:03:00Z
+    webUrl: "https://techraptor.net/gaming/news/starcraft-2-update-moves-game-to-legacy-support"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
-        width: 1680
-        height: 1050
-        isCached: true
-  - title: "Blizzard no longer developing new content for StarCraft 2"
-    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
-    publishedDateTime: 2020-10-16T08:06:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
+      name: TechRaptor
+      domain: techraptor.net
     quality: 37
     images:
-      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "StarCraft II development comes to an end"
-    excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."
-    publishedDateTime: 2020-10-16T13:02:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/starcraft-ii-development-comes-to-an-end/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 37
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
-        width: 732
-        height: 330
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2020-10/Starcraft%202.jpg?itok=jawh_WSd"
+        width: 852
+        height: 479
         isCached: true
 
 secured: "/PfKzdIbkDKcQ05ydoDbkF832zNUk+CnTtFlplLcud9+J15PFPMQr8k6rreOK5tXOrTJTcBB5blQz4trnawoKqfxEF1aykFE4Snd91A8nS1ELTWpz1nD8CXVAO0i813ltbHuG9Al2MtWkFQt+sivXqRINYQRb831aJEJ5M4EBfXtnujFnuAlCEkgQ6JkCPCSLqOjU7DuYQGdpqRXJ5SlJEohUqgua4FcwNYOEVEtPEPN8zQwNtJnOzNriYAgvN2XyKK4AlPng2K3TiH1JFsITrogR5r61F8EFcJ3VjTpMlwlkpBcPtcio6lD4oNoIH+dwJnHFzWZ6X5JCaqj4+o/koW6F59PF8SQIbDMbFnfMYrnZlCJYqt5XiPzBnZaCaspU9KEZ3TUlbP8EmLmey2v8+zqGWjeBzmF/UJoxWMpcl/E3RomSVP9v4O688DODm7W5QpjqndfSACXdHStJ4wUo7Uh7P8tO0rc7ndoKmoKlWB/5oY2X+Zca2qXqfi0jFEkrEScQdL1AgJ1PLbdo8xPIg==;hGHV81K9AEd6qcmnD9Mu8Q=="
