@@ -4,6 +4,161 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-ty.md",
+      "title": "StarCraft 2: SERRAL vs TY!",
+      "excerpt": "Serral is the current World Champion of StarCraft 2. TY is easily one of the best Terran players in the world. In today's video they face off against in each other in an epic match of top level professional StarCraft. This is a tournament match that was recently played at Homestory Cup.  Get exclusive",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=3gh-U20ZUUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3gh-U20ZUUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3gh-U20ZUUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-04T02:33:13-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-storm-drops-mana-vs-special.md",
+      "title": "StarCraft 2: STORM DROPS! (MaNa vs SpeCial)",
+      "excerpt": "Amazing game of professional Terran versus Protoss in StarCraft 2. This game is a constant back-and-forth between some of the best players outside of South Korea. One of the highlights are multiple storm drops that the Protoss player executes with a Warp Prism and several High Templar with Psionic Storm.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-drops-mana-vs-special/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-storm-drops-mana-vs-special/",
+      "originalUrl": "https://youtube.com/watch?v=uWV0UC7SjkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uWV0UC7SjkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uWV0UC7SjkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-27T10:07:42-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
+      "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
+      "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=atDlF8G-PD0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atDlF8G-PD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/atDlF8G-PD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-07-30T02:52:40-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-banshee-hit-squad.md",
+      "title": "StarCraft 2: THE BANSHEE HIT SQUAD!",
+      "excerpt": "Terran Mech is starting to look surprisingly mobile. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  In this match of Professional StarCraft 2 I cast a game between Solar and Maru. Terran Mech has quickly been developing over the last few months. It has gone from",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-banshee-hit-squad/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-banshee-hit-squad/",
+      "originalUrl": "https://youtube.com/watch?v=EPBb_6s20E8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EPBb_6s20E8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EPBb_6s20E8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-10T02:56:54-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-battlecruiser-base-race.md",
       "title": "StarCraft 2: The Battlecruiser Base Race!",
       "excerpt": "An epic game of professional Zerg vs Terran in StarCraft 2 between uThermal and Bly.   Starcraft 2 balance update: https://youtu.be/_JMCTJC2CpM  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
@@ -157,6 +312,82 @@
       "publishedDateTime": "2017-11-16T23:35:27-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time.md",
+      "title": "StarCraft 2: TOP-TIER TERRANS! (Maru vs TIME)",
+      "excerpt": "Incredible match of top-level Terran versus Terran in StarCraft 2. In this professional match between Maru and TIME, both players take very few early game commitments and play an epic macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-top-tier-terrans-maru-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=jIeP5C-RRxE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIeP5C-RRxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M3S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jIeP5C-RRxE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-26T00:40:53-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ultimate-slow-push-polt-vs-bly.md",
+      "title": "StarCraft 2: ULTIMATE Slow Push! (Polt vs Bly)",
+      "excerpt": "Professional match of StarCraft 2 between Polt and Bly. Polt was one of the most popular progamers in the early days of StarCraft 2. He has won many tournaments throughout his career and recently decided to return to professional gaming. Polt in this Zerg versus Terran decides to go for the slowest of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultimate-slow-push-polt-vs-bly/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ultimate-slow-push-polt-vs-bly/",
+      "originalUrl": "https://youtube.com/watch?v=Tdx3QxoAeOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tdx3QxoAeOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tdx3QxoAeOM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-20T02:01:57-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-cringe.md",
       "title": "StarCraft 2: Zerg vs Terran CRINGE!",
       "excerpt": "Silver League Zerg versus Terran cringe. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  While the game seems over early on into the match, the Terran does not quite scout where his opponent's final base is located fast enough.  If you have an awesome",
@@ -194,45 +425,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-07T01:03:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zest-vs-special.md",
-      "title": "StarCraft 2: Zest vs SpeCial!",
-      "excerpt": "A fun game of StarCraft 2 between SpeCial and Zest. A professional Protoss vs Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/  StarCraft 2 is a military science",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-special/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zest-vs-special/",
-      "originalUrl": "https://youtube.com/watch?v=PMvfDmUMBoA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PMvfDmUMBoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PMvfDmUMBoA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-26T08:38:33-07:00"
     },
     {
       "path": "_games/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague.md",
@@ -379,39 +571,6 @@
       "publishedDateTime": "2018-01-19T06:43:08-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-another-salty-protoss-you-played-sh1t.md",
-      "title": "StarCraft 2: ANOTHER Salty Protoss! - \"You played sh1t\"",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-salty-protoss-you-played-sh1t/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-another-salty-protoss-you-played-sh1t/",
-      "originalUrl": "https://youtube.com/watch?v=Dqjkv9eTMqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dqjkv9eTMqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M5S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dqjkv9eTMqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-29T05:37:05-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-balancediscussion-n-u-k-e-s-episode-5.md",
       "title": "StarCraft 2: BALANCE......DISCUSSION - N U K E S - Episode 5",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -445,6 +604,39 @@
       "publishedDateTime": "2018-01-12T05:03:42-08:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes.md",
+      "title": "StarCraft 2: Basetrading Protoss With MASS Marinnes!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-basetrading-protoss-with-mass-marinnes/",
+      "originalUrl": "https://youtube.com/watch?v=9wEdT4jXvLY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wEdT4jXvLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M30S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wEdT4jXvLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-08T04:27:50-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-blowing-up-battlecruisers-with-widow-mines.md",
       "title": "StarCraft 2: Blowing up Battlecruisers With Widow Mines!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
@@ -476,39 +668,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-12T03:14:52-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran.md",
-      "title": "StarCraft 2: BRUTAL Widow Mine Connections vs Terran!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=yegQnJoexJ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yegQnJoexJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M53S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yegQnJoexJ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-24T10:10:59-08:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-camping-terran-production-with-widow-mines.md",
@@ -676,6 +835,39 @@
       "publishedDateTime": "2020-02-09T04:12:25-08:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-maphacking-qt-strikes-again.md",
+      "title": "StarCraft 2: Maphacking qt Strikes Again!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-maphacking-qt-strikes-again/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-maphacking-qt-strikes-again/",
+      "originalUrl": "https://youtube.com/watch?v=mYE-vcDaIJk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mYE-vcDaIJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M32S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mYE-vcDaIJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-08T15:58:59-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-carriers-vs-1-lonely-nuke-boy-never-attack-to-grandmaster.md",
       "title": "StarCraft 2: MASS Carriers vs 1 Lonely Nuke Boy - Never Attack to Grandmaster",
       "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
@@ -775,14 +967,14 @@
       "publishedDateTime": "2019-10-08T16:00:08-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-zerg-air-vs-widow-mines-ravens.md",
-      "title": "StarCraft 2: MASS Zerg Air vs Widow Mines & Ravens?",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-zerg-air-vs-widow-mines-ravens/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-zerg-air-vs-widow-mines-ravens/",
-      "originalUrl": "https://youtube.com/watch?v=LTlIRnb9hTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTlIRnb9hTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M20S",
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-vs-mass-ultralisks-infestors.md",
+      "title": "StarCraft 2: MASS Marines vs MASS Ultralisks & Infestors!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-vs-mass-ultralisks-infestors/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-vs-mass-ultralisks-infestors/",
+      "originalUrl": "https://youtube.com/watch?v=PrbUWwbvEwo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PrbUWwbvEwo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M9S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -797,7 +989,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LTlIRnb9hTA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PrbUWwbvEwo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -805,7 +997,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-01-30T03:12:50-08:00"
+      "publishedDateTime": "2019-10-04T04:38:40-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-mech-explosions-n-u-k-e-s-episode-3.md",
@@ -841,14 +1033,14 @@
       "publishedDateTime": "2018-01-03T05:00:49-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mines-ravens-vs-grandmaster-protoss.md",
-      "title": "StarCraft 2: Mines & Ravens vs Grandmaster Protoss?",
+      "path": "_games/beastyqtsc2-starcraft-2-meeting-maxpax-with-mass-widow-mines-ravens.md",
+      "title": "StarCraft 2: Meeting MaxPax With MASS Widow Mines & Ravens!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mines-ravens-vs-grandmaster-protoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mines-ravens-vs-grandmaster-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=fGSB-U-lrd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGSB-U-lrd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M37S",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-meeting-maxpax-with-mass-widow-mines-ravens/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-meeting-maxpax-with-mass-widow-mines-ravens/",
+      "originalUrl": "https://youtube.com/watch?v=3SmyfprvoH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3SmyfprvoH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M23S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -863,7 +1055,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fGSB-U-lrd4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3SmyfprvoH0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -871,173 +1063,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-02-23T05:24:44-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-mining-out-the-map-with-mines-ravens.md",
-      "title": "StarCraft 2: Mining Out the Map With Mines & Ravens!",
-      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mining-out-the-map-with-mines-ravens/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mining-out-the-map-with-mines-ravens/",
-      "originalUrl": "https://youtube.com/watch?v=1nEJO-c1t4c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1nEJO-c1t4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M16S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1nEJO-c1t4c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-23T04:55:39-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1.md",
-      "title": "StarCraft 2: NEW SERIES!!! - N U K E S - Episode 1",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-new-series-n-u-k-e-s-episode-1/",
-      "originalUrl": "https://youtube.com/watch?v=c4-3LPtoRDg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4-3LPtoRDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M45S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c4-3LPtoRDg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-27T11:44:50-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4.md",
-      "title": "StarCraft 2: NUKE DROPS?! - N U K E S - Episode 4",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-nuke-drops-n-u-k-e-s-episode-4/",
-      "originalUrl": "https://youtube.com/watch?v=yDeJawVKIlQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yDeJawVKIlQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M24S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yDeJawVKIlQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-07T03:35:08-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-nuke-on-top-of-the-protoss-army-yes-please-never-attack-to-grandmaster.md",
-      "title": "StarCraft 2: Nuke on Top of the Protoss Army? Yes Please! - Never attack to Grandmaster",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nuke-on-top-of-the-protoss-army-yes-please-never-attack-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-nuke-on-top-of-the-protoss-army-yes-please-never-attack-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=phBrmmOp-DY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phBrmmOp-DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M55S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/phBrmmOp-DY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-21T08:05:26-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2.md",
-      "title": "StarCraft 2: NUKES COUNTER CARRIERS?! - N U K E S - Episode 2",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/",
-      "originalUrl": "https://youtube.com/watch?v=ENe2iT3FrYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENe2iT3FrYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M28S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ENe2iT3FrYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-28T10:33:35-08:00"
+      "publishedDateTime": "2020-02-17T03:58:24-08:00"
     }
   ],
   "nextPage": 7

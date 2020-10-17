@@ -4,6 +4,122 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-cast-containing-the-protoss.md",
+      "title": "StarCraft 2 Cast: Containing The PROTOSS!",
+      "excerpt": "ShoWTimE versus MajOr in a professional game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  A Protoss versus Terran in StarCraft 2. The match-up is currently pretty tricky for Protoss. In many instances, the Terran player has access to",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-containing-the-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-containing-the-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=ojIHOzDXigE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojIHOzDXigE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ojIHOzDXigE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-01-13T07:16:32-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero.md",
+      "title": "StarCraft 2 Cast: HYPER AGGRESSIVE Zerg vs Protoss! (Solar vs herO)",
+      "excerpt": "An incredible match of Zerg versus Protoss between Solar and herO. Subscribe for more videos: http://lowko.tv/youtube My problems with Zerg vs Protoss: https://www.youtube.com/watch?v=dixWnwp8-Ug  Both players in this match play extremely aggressive. herO tries to deny the expansions from Solar for the",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/",
+      "originalUrl": "https://youtube.com/watch?v=QARWilN5RIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QARWilN5RIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QARWilN5RIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-12-16T08:56:26-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg.md",
+      "title": "StarCraft 2 Cast: My FAVOURITE Players! (Protoss & Zerg)",
+      "excerpt": "A professional game of StarCraft 2 between my favourite players for their respective races. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  In this Zerg versus Protoss we have a match between Dark and Neeb. Dark is without a doubt the best Zerg in the",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=_pEZBXRMZUM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pEZBXRMZUM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_pEZBXRMZUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-11-18T02:35:52-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-zerg-vs-protoss-nerchio-vs-showtime.md",
       "title": "StarCraft 2 Cast: Zerg vs Protoss! (Nerchio vs ShoWTimE)",
       "excerpt": "Professional match of StarCraft 2 between Nerchio and ShoWTimE. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/QPyS3B  This is a macro focused game where both players manage to get very large armies out. However, it is played on one of the smaller and more difficult",
@@ -41,45 +157,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-17T05:10:36-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest.md",
-      "title": "StarCraft 2: Clash of Legends - Maru vs Zest!",
-      "excerpt": "A sick game of top-level professional StarCraft 2 between Maru and Zest.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=zZPHjzdz3TU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZPHjzdz3TU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZPHjzdz3TU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:07-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-crazy-protoss-micro.md",
@@ -157,45 +234,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-12-23T04:49:29-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss.md",
-      "title": "StarCraft 2: Extreme Late Game Terran vs Protoss!",
-      "excerpt": "An exciting game of professional Terran versus Protoss between Fantasy and Trap. While generally speaking the late game of Zerg vs Protoss and Terran vs Zerg is quite a bit later, seeing Terran versus Protoss go past the 20 minute mark is unusual and creates some very exciting gameplay.  Get more videos",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=gni4QMsy9eg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gni4QMsy9eg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gni4QMsy9eg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-02T02:56:50-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-extremely-close-protoss-match.md",
@@ -352,44 +390,6 @@
       "publishedDateTime": "2017-10-12T06:40:40-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-protoss-micro.md",
-      "title": "StarCraft 2: INCREDIBLE Protoss Micro!",
-      "excerpt": "Zest versus Elazer in a professional match of StarCraft 2. A ridiculous display of skill by Zest, showcasing some of the best micro and unit control I have ever seen. Even though Zest deals a lot of damage, Elazer reads the situation very well and macros significantly better than the Protoss. Because",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-protoss-micro/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-incredible-protoss-micro/",
-      "originalUrl": "https://youtube.com/watch?v=1cwJseGU7p4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1cwJseGU7p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1cwJseGU7p4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-09T03:55:35-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-innovation-vs-stats.md",
       "title": "StarCraft 2: INnoVation vs Stats!",
       "excerpt": "An awesome match of professional Terran vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Neeblet vs Snute: https://goo.gl/8paMLW  INnoVation vs Stats is an incredibly high level Terran vs Protoss. Both of these players are some of the very best in their respective races. Both have been",
@@ -427,45 +427,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-06-14T04:58:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting.md",
-      "title": "StarCraft 2: INSANE WARP PRISM MICRO! (Dark vs PartinG)",
-      "excerpt": "An epic best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series of games was played at IEM Katowice. While Dark tries to take control of the early game by going for a Proxy Hatchery, PartinG is the one who quickly strikes back with some of the best Warp Prism micro I have ever",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=B7NF-52Gdho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7NF-52Gdho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B7NF-52Gdho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-03T04:07:39-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5.md",
@@ -584,6 +545,45 @@
       "publishedDateTime": "2018-12-08T04:29:44-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maxed-out-soo-vs-zest.md",
+      "title": "StarCraft 2: MAXED OUT! (soO vs Zest)",
+      "excerpt": "Stargate styles and maxed out Skytoss have overtaken the ladder over the last few weeks. With the changes made to the Infestor it seems that in a way the tables have turned from Zerg turtling to maxed out Infestors to Protoss turtling to maxed out Skytoss.  In this game of top-level StarCraft 2 between",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxed-out-soo-vs-zest/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maxed-out-soo-vs-zest/",
+      "originalUrl": "https://youtube.com/watch?v=TVwOFRe2mss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVwOFRe2mss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TVwOFRe2mss/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-27T06:58:42-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-mech-vs-protoss.md",
       "title": "StarCraft 2: MECH VS PROTOSS?",
       "excerpt": "Gumiho vs Dear in an awesome match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  I've been casting so many super close games lately, and this one is no different. Gumiho decides to play against Dear in this game, who is relentless with",
@@ -698,44 +698,6 @@
       "publishedDateTime": "2018-12-29T00:41:01-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush.md",
-      "title": "StarCraft 2: Photon Cannon vs Spine Crawler Rush!",
-      "excerpt": "Revenge is a dish best served cold! A viewer game of Platinum League Zerg versus Protoss.  Get exclusive content & support my work: http://www.patreon.com/lowkotv  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Be part of the community",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/",
-      "originalUrl": "https://youtube.com/watch?v=LWnK3bF7tLs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWnK3bF7tLs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LWnK3bF7tLs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-21T00:24:12-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-professional-korean-protoss-vs-terran.md",
       "title": "StarCraft 2: PROFESSIONAL Korean Protoss vs Terran!",
       "excerpt": "A professional match of Protoss vs Terran between Jjakji and Patience. Subscribe for more videos: http://lowko.tv/youtube Perfect defense: https://goo.gl/gMXLjb  An awesome match with a focus on Macro from both ends between Jjakji and Patience. In this match on Honorgrounds, both players decide to sit",
@@ -773,6 +735,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-04-15T02:06:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun.md",
+      "title": "StarCraft 2: PROTOSS MIND GAMES! (Zest vs Zoun)",
+      "excerpt": "Professional best-of-3 series of professional StarCraft 2. In this Protoss vs Protoss we see both players trying to outsmart each other constantly. I think pretty much everyone watching this is familiar with the Protoss player Zest. However Zoun is someone I've only just recently heard of for the first",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun/",
+      "originalUrl": "https://youtube.com/watch?v=e2Eu_vvy_pA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e2Eu_vvy_pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e2Eu_vvy_pA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-22T02:09:16-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-protoss-vs-terran-macro-creator-vs-ryung-new-patch.md",
