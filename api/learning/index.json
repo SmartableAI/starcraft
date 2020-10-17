@@ -4,23 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
-      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
-      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
-      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M42S",
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2.md",
+      "title": "Protoss vs Zerg | Example game vs Grandmaster Neuro [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 lesson I go over a game I played vs a high level grandmaster zerg using the double stargate phoenix build I showed a few days ago.   Protoss vs Zerg | Example game vs Grandmaster Neuro #StarCraft2 #SC2 #RTS #Protoss #PvZ #neuro   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=D0l-lb0zdGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0l-lb0zdGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M35S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-05T16:15:55-07:00",
-      "heat": 132,
+      "publishedDateTime": "2020-07-29T13:18:52-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/D0l-lb0zdGw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -35,54 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
-      "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
-      "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=kljRMVyUlfU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M42S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg.md",
+      "title": "Starcraft 2 Gameplay | Cheesing with Zerg",
+      "excerpt": "Showcasing some strong cheeses you can add to your own repertoire in some live ladder games with commentary!   Starcraft 2 Gameplay | Cheesing with Zerg #StarCraft2 #gameplay #zerg #cheese  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=SusYMCQHv1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SusYMCQHv1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M20S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-02T20:18:04-07:00",
-      "heat": 130,
+      "publishedDateTime": "2020-09-10T15:12:11-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end.md",
-      "title": "Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end]",
-      "excerpt": "In today's zerg vs protoss guide I show you how to scout and adapt your zvp opening to stargate play to get the most out of your economy.  Mastering Starcraft 2: Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end] #StarCraft2 #sc2 #zerg #roach #zvp  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/",
-      "originalUrl": "https://youtube.com/watch?v=iHxkpjJwrjg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHxkpjJwrjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M46S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-24T15:54:30-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iHxkpjJwrjg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SusYMCQHv1k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -94,6 +63,37 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020.md",
+      "title": "Starcraft 2: Terran Ladder Gameplay [2020]",
+      "excerpt": "Some more Starcraft gameplay for you guys today! It's 2020 and it's time for some Starcraft 2 terran ladder gameplay to mix it up.   Terran is the last race I needed to grind into masters so the next gameplay video will be against much stronger ladder opponents. Still, I think this terran gameplay will",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/",
+      "originalUrl": "https://youtube.com/watch?v=yCBRHiAlvv4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yCBRHiAlvv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M49S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-12T16:22:54-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yCBRHiAlvv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
