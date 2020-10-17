@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-dev
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -124,6 +124,17 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
+    excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
+    publishedDateTime: 2020-10-16T11:46:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 35
   - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
     excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
     publishedDateTime: 2020-10-16T18:52:00Z

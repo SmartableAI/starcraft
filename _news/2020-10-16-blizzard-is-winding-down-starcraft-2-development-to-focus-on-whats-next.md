@@ -1,18 +1,20 @@
 ---
 category: news
-title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
-excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
-publishedDateTime: 2020-10-16T18:52:00Z
-originalUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
-webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
+title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
+excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
+publishedDateTime: 2020-10-16T11:46:00Z
+originalUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
+webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
+ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
 type: article
-quality: 17
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Worth Playing
-  domain: worthplaying.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - StarCraft 2
@@ -128,18 +130,16 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
-    excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
-    publishedDateTime: 2020-10-16T11:46:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
+  - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
+    excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
+    publishedDateTime: 2020-10-16T18:52:00Z
+    webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 35
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 17
 
-secured: "J2VcpLClxCCnabMw9bZANe4a+gDgL0qBNOiYf2MPi0b0C/SIDlQw9KpsnBVa7XXiqR/l64Zk2+eB9WDN63xlpo5NkaQBp9aZQmpaO8bpTlA9qxbqm5dpVcO61BRgz+uWVbsr4h0x5lxBhdo42qpMFYBLj4PuDIKcz3Oc+ODVts8jg8xI/t6qilWcooGRLBdMkWzL4eZ9fEOpTtm426WDcbOGxPOVUTBo1tTco3eWxo76xPSjbzm6EEb9rU3iPKLZ+KorPB1it4/+nknQnSqwJy5ve9PwzIMo87viU5wWXIgBM0FBuhIh8LALCDPP7GwwaozSqQGr1/9529IabXUR62IObpPto5XKwNaZWC0XPz/62OfRz3uXQEg1UjenEmNf05Ub7jCct/LWKGt08Fh8B4yeYVE2Vym/P1R5W/5iLMOWC8T+3neN2MQv8cBbdU3mtpluasuOjaFVn9hTC7ugHP5fu+4IveHJaNDDO+I1zjIjdLKrNtDVdoiPb7RXlPmt9qVcMjjPUz7BVlHNh+RNqg==;Ckl4GYPnKea5nlKiLrKqMg=="
+secured: "LIY53Wl+ShaTLs8L700+f/P6entTkT/E/gEnMrTrCyg9kpFdaLmx599cPYolXv3kHZHnYdIn+/8Pclh3WI2EPX1yolUn2Z89O0KF6nC6Ja//VTVau8odjRauhhdBDGTmROhG2s4HnuxFngv9tFwinC/cKGyUQn5I0GGzAG3lZhxLhqUZtzZmAsGZjPtmRZZ8kZP21ZGe0c98gLsOCQ64BvcBvE9u9F6wkdyeC1xKm0ZOPyq4FfYY9OqgKd/bxvVpNXZ+RlpyDyj0sfcMLksXfpo9jx83yp5c9rTCBjCZDu5fYxx8BtTfY3jJe/z87JkyVY2nk3GlThscILogO5AjCPz6bqBroYx9evg+ubETOZ5VxPaBJTX8QDVBUwAnMfkL6oOx3GcReo9iKpojxyW8hJ4naQZkgDxGj9KfG5XLUO9vzvvLzWye2ExJIERr+7IDR1gJ0cwhKmh09DV9tAnscyaLvVLw7ZLi4pwcnX2V1+LLUsO+C08I039BPRPUm/cWph5pcCy52PVFRFthpatPow==;hqa7C1a1s9CEfpvs+/QXxw=="
 ---
 
