@@ -412,44 +412,6 @@
       "publishedDateTime": "2020-10-13T04:50:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator.md",
-      "title": "StarCraft 2: THE PROTOSS PROBLEM! (Hurricane vs Creator)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Hurricane and Creator. Macro, cheese, and Protoss problems.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/",
-      "originalUrl": "https://youtube.com/watch?v=61ury_cloIk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/61ury_cloIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 127,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/61ury_cloIk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-02T09:21:45-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
       "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
@@ -638,6 +600,43 @@
       "publishedDateTime": "2020-09-23T11:20:07-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny.md",
+      "title": "StarCraft 2: IDENTICAL STRATEGIES?! (Dream vs Bunny)",
+      "excerpt": "An odd situation in this pro match of StarCraft 2. In this Terran versus Terran we see both players go for near identical build orders and somehow it stays that way  for most of the match.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-identical-strategies-dream-vs-bunny/",
+      "originalUrl": "https://youtube.com/watch?v=iNmoS340SMA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iNmoS340SMA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iNmoS340SMA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-14T03:24:52-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
       "title": "StarCraft 2: THE ZERG... MOTHERSHIP?!",
       "excerpt": "Turns out Neural Parasite is pretty good... If used correctly. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Protoss: https://goo.gl/qeUdf6  A very fun match of Gold League Zerg versus Protoss. In this game the Zerg player decides to go for a strategy that is a little uncommon. Eventually,",
@@ -675,45 +674,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting.md",
-      "title": "StarCraft 2: THORS vs DISRUPTORS? (INnoVation vs PartinG)",
-      "excerpt": "Awesome game of top-level StarCraft 2 between INnoVation and PartinG. In this game of top level Terran versus Protoss both players have to constantly micro to get the most out of their StarCraft 2 units.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=oR6SwL0SIxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oR6SwL0SIxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oR6SwL0SIxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-11T03:23:26-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-non-stop-action-reynor-vs-trap.md",
@@ -1130,6 +1090,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-29T04:07:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
+      "title": "StarCraft 2: MARU vs PARTING!",
+      "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-parting/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=1O8KnA0Dwgs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1O8KnA0Dwgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 91,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1O8KnA0Dwgs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-10T02:09:38-07:00"
     }
   ],
   "nextPage": 2
