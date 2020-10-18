@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Blizzard Ending StarCraft 2 Content Development"
-excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
-publishedDateTime: 2020-10-16T15:52:00Z
-originalUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
-webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
+title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
+excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for ..."
+publishedDateTime: 2020-10-18T20:22:00Z
+originalUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
+webUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: PC Magazine
+  domain: pcmag.com
   images:
-    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/pcmag.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_yd9j.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Blizzard Ending StarCraft 2 Content Development"
+    excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
+    publishedDateTime: 2020-10-16T15:52:00Z
+    webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 77
+    images:
+      - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Further Development Of StarCraft 2 Has Come To An End"
     excerpt: "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by"
@@ -124,20 +138,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
-    excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for ..."
-    publishedDateTime: 2020-10-18T20:22:00Z
-    webUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_yd9j.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
     excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
     publishedDateTime: 2020-10-16T11:46:00Z
@@ -159,6 +159,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "UZwNTYZGQA5DAJhvoTZbfpAC+3GQJqDJuhoQhlLuoZ+7GKgApDeReNlNND7u3Iq7Q/IFA0+5gMmij2+lGMhY/Fo/yCIg2PNAs3M+1zwbSBlK3siGfvzClzDYvgNrElZBkx5mzi2oOykfPVfeGFPIsqO13po31qXAc3WCIAwJmtq8WvPloNus6y222EofBJ41IvNCXdjaDlYoLiVXNzuzb79HVEgQs/AgUtepPZ0YDq2ckFUdrjRD8vl1LKkc70tksJ8dAMX2jTD3D50fBs8BTsjYj78l5PrLFX/+rQjX5B1KDCdc3I00+K/eMDDclFYBz0G/NhNcA9Vjv9id/yGQgFDEdb4rZXAM6fQmFSGu+mbZ7n3bZnfi8JaB+r8lglwl3GWZxy+J3UfjGs5UZxwI/TRpKuUejLvdN7vYI+uS8TGy/oy1c5gZT2h/guMrv86JwaIClVATiV3sjLF+MmD9IdH3IJ0JkMDl8JhA0jERBj3dby5F5E6CfqM4v45w7ZG7JGCgD8KebUcLUzd3so0FPg==;WSAC1S1tTsSETkNhvpnXDA=="
+secured: "MKDXdn8qu7xNEJmD8zGXx7L8YYqbcoys46JWZKRui3yhwf/0m8L9gSSPi2f00E1v9o60H/XaoGz0YJGFCoG5szzZVPHc3++8X1OT1JHJ/W3Wq6B6stTBIiPcxRufrW4bmk4kbtcdSsQehCeW7WdE1IFcwC7/H4tKAn/BHSObOR7iikiU6ZClel2DeKdbLNY83LI/JXWSR50NkPPF1BlxNRT8y4fmaxFzNIoAG4eR1CNNaRFBch+ybLcNXeA/RCNsFC5g7TbxCJuFT2MWF+Lpmg/JiSIi24Pn75IZ9sDyXFSLRM+nO9TzF2X1apVrJKgaaINbq967kCU9THSKDvPIpok3NOHOORhgEnG6ZcgI8Oo=;kZ/cYAWC1REbZH3B2LGxVQ=="
 ---
 
