@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
-excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
-publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
+excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
+publishedDateTime: 2020-10-16T01:51:00Z
+originalUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: GamesRadar
+  domain: gamesradar.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
+    excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
+    publishedDateTime: 2020-10-16T09:58:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 57
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Don't expect any more new content for StarCraft 2"
     excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
     publishedDateTime: 2020-10-16T10:23:00Z
@@ -57,22 +73,6 @@ related:
       - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
         width: 1920
         height: 1078
-        isCached: true
-  - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
-    excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-    publishedDateTime: 2020-10-16T01:51:00Z
-    webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
@@ -103,6 +103,6 @@ related:
         height: 330
         isCached: true
 
-secured: "mmNbImToSEhyBvmOAzDnDszMKcA5Z8JOPnn9+DzCiNsYCG9WAVjuq7zfUf2DdghFOffEL0VN6W+3H7E1oByvtn/CuUT6TxXGuKwp/JvK3aFZoIitVD5zyIs+23YmcKlK/X5ndYj4ne6yguL/mZWWQg8KCk7E/hUpJddYLPpf8cHQVVIV5RFF3uiIETQHmi7IJZOgjsoDXy0eHSmfw8A1UzQPHo03WnfitM3cQU5OKgGZAP83ZHZW9pi8h3McvaENBJgTShhXr/E3dzmvbvCdmNV/6CPc91G9yq9LfJ0myw9+EH2O3qQZB+xxfqQWMQLo/YgTlHPnRV/9j+sWUt7+zrc/CujSY5WhH8IUAqIA0vEBWEfTZioTuuuXhERTOl40sfWnpKnFJf0FLxg7KufqxappnLgsj578pXbnz3hp/509JdaPUSu11gavCP+OHsncXXGnpxO9re9jGy3V/EBn59B31PijYUHJOTIYyqpzuUD11Fr8EbkvMztYHIyfZpCOHOK6QnuysZqZ+XwnqMqgvQ==;RYuDR5HaLhN4k3oDQLGazQ=="
+secured: "lmpNRcXUoMTn1ETWzRKiqBU++1lO5UECZu1Z13TJYDU3S1VsB86HEE7d0rVNmd2hBcl8Pse+ET/MGyb3urOR4r7EvVj8DDO9Z7wlosjMJoKATCP4tNYYVWLDXucwH3+X2QfpphUUxzJn3QEJss4aRumJ3tPAQrMkW+ZLrK2AirW+/h7jY24MNnae3dPysWcPiGb32UxFc3MiuPKXHXxeUsxU/4IsVE11Ct9qrpyya42xF+9xlTQ2lXZZCYZ4oXzPZE6j7n6KzCmyWnrfxSM8wAFXegAInlZG6d8T/4nEuTOpPnSG5f7bbasV5SNRufVUdGjBcKULMz1qNUTpe7KXIs8U8GN5UUwoFCDesyoxEaU=;7zVly9Dytb3nhgpM3qRlGg=="
 ---
 
