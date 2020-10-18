@@ -4,54 +4,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
-      "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
-      "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=scB6uE4jFuM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/scB6uE4jFuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M41S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg.md",
+      "title": "Starcraft 2 Gameplay | Cheesing with Zerg",
+      "excerpt": "Showcasing some strong cheeses you can add to your own repertoire in some live ladder games with commentary!   Starcraft 2 Gameplay | Cheesing with Zerg #StarCraft2 #gameplay #zerg #cheese  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-gameplay-cheesing-with-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=SusYMCQHv1k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SusYMCQHv1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M20S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-04T16:07:56-07:00",
+      "publishedDateTime": "2020-09-10T15:12:11-07:00",
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/scB6uE4jFuM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2.md",
-      "title": "Zerg Analysis | Diamond student has difficulty CLOSING out the MATCH [Starcraft 2]",
-      "excerpt": "Today's lesson we are going to look at a ZvT at the diamond level focusing on the Zerg Analysis. The zerg manages to get into a very strong position but has difficulty closing it out. Let's learn how we can approach this scenario better!  Zerg Analysis | Diamond student has difficulty CLOSING out the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=NAzXv812sg0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NAzXv812sg0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M30S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-11T13:02:33-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NAzXv812sg0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SusYMCQHv1k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -66,23 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players.md",
-      "title": "Zerg vs Protoss | How is this unit not NERFED? - protoss players",
-      "excerpt": "In today's Starcraft 2 lesson we take a look at a Zerg vs Protoss game against youtube celebrity \"casually explained\". We use one of the most protoss hated units: the swarmhost. I can personally guarantee this strategy to be an exceptional salt mine.  Zerg vs Protoss | Protoss players LOVE this strategy,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players/",
-      "originalUrl": "https://youtube.com/watch?v=mGt9wwBs65I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mGt9wwBs65I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M27S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020.md",
+      "title": "Starcraft 2: Terran Ladder Gameplay [2020]",
+      "excerpt": "Some more Starcraft gameplay for you guys today! It's 2020 and it's time for some Starcraft 2 terran ladder gameplay to mix it up.   Terran is the last race I needed to grind into masters so the next gameplay video will be against much stronger ladder opponents. Still, I think this terran gameplay will",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/",
+      "originalUrl": "https://youtube.com/watch?v=yCBRHiAlvv4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yCBRHiAlvv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M49S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-08-02T17:56:34-07:00",
-      "heat": 130,
+      "publishedDateTime": "2020-09-12T16:22:54-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mGt9wwBs65I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yCBRHiAlvv4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -93,7 +62,38 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
+      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
+      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
+      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-30T19:03:30-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
