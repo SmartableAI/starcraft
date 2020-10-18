@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ENCE_Serral",
         "url": "https://twitter.com/ENCE_Serral",
-        "followers": 24107
+        "followers": 24304
       },
       "twitch": {
         "url": "https://www.twitch.tv/serral",
@@ -27,7 +27,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 416,
+      "heat": 148,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1237029703669743621/bLXySPYv_400x400.jpg",
@@ -36,7 +36,8 @@
           "title": "Serral",
           "isCached": true
         }
-      ]
+      ],
+      "content": "\r\n"
     }
   ]
 }

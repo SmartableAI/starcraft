@@ -3,14 +3,14 @@ name: "TY - 전태양"
 bio: "Jun TY Tae Yang, also known as BaBy, is a StarCraft progamer from South Korea who is currently playing for Afreeca Freecs. He played his first StarCraft II official match during the hybrid 2011-2012 Proleague Season 2."
 location: South Korea
 type: "profile"
-heat: 309
+heat: 90
 
 website: https://liquipedia.net/starcraft2/TY
 
 twitter:
   username: SC2_TYTY
   url: https://twitter.com/SC2_TYTY
-  followers: 5403
+  followers: 5455
 
 youtube:
   url: https://www.youtube.com/channel/UC8jw8nkrFeBCZKbD38PCkMA
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "TY - 전태양"
 
-secured: "X4jXE/fy+4B04Yjz4PGt/xuOxHc4fUgHUQKW96dL4bWzlIKFHRCu5XlJgpFBNybx3QfeBMi3HstdrUKQL4ughughls/Tw9542cQ8z1DbVF7OgW1lcBYYYmbivQjVLXXdUa/hcCQcYmSuzurRnac8cgsis3CYwU1qHeYfATASDWNwGRhiCwauyE3yqjHIGLNvDUzVPendjiojZce3Q10wHS9rnCV1z/GFUKP8mm6txeFrmVZfE+4OSImk/wGI2y37XWeRuqokbJNPE+AskH/Vprcnw6wlQqhtn5FsrpZqnwh3ac1rThn7g74TY8Nj4r0pX2UPr0hx/068RTdQLgDpE/PbsJL60M/vGcTaDyIEsUsU/ZI4pGWoeP2xiz2NN+b8;sUbP21rzfGV/hQJ9pcAqtg=="
+secured: "XqY9C3J5U/HAjZ5L3NYNyKEiX3UzDubRGBqRpt+axiFQwoIaUpmBM6MgkrpHuqNCOq0BIuienZTDwU8Myh83ouoqSsM/PJpDj1HvD3J3936xkSpcNl9UNh9uhSSWhPx/EKP/xyFz9+zoAlG2ilSoVFN5PLKz29gZKM9rea977jm0RTUfk/+G/7Fa7wFCtWFsCv0GoBjaqFB6n8Ok4Yl9GRxGLFOOQWVIuYc6LyNVWKEc/xhqX8ZQCvElebFnvmiuzlJaSjEDSsr4ESez1VFleELPWvxmHH2byNjHFGx4rlr2JasLlDp9KGhBO5Gjj0H8rjx4KTDoqTrHJvNHtth36pJbT2MiyRyWfrTs8Yi4e16OVE3QvoHOLjSmmOcvLr4doUt5d2bC4MZuNbbL/xI1tGUbI32Wgp0/4IFlQ+03XWk=;pgxbtp0cPR07SREcj1YUZw=="
 ---
 
