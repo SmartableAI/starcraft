@@ -2,6 +2,7 @@
 title: "ImInTrouble.... Beastyqt vs Stephano! - Hellbat/Lib/Ghost!"
 excerpt: "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt"
 originalUrl: https://youtube.com/watch?v=H_FLkF-EqKs
+webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-imintrouble-beastyqt-vs-stephano-hellbatlibghost/
 type: video
 length: PT29M39S
 publishedDateTime: 2020-10-19T13:11:52Z
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lUwQO85qXJmxaCmfgwBsKiMY0b9iCa4rC6Xoixhjt1+/jAmd+CiY5no3Ro4GcOOduxv4A6vZB2d4Wa7jqvJNBRqo9tFyYvxpyJWtErJPrlSznBTwlbBljuKqeR429RGXu5KrzZ0REMDm9C38x+DHeTzzcIcdNGsx90O95+dGPlooCOAvV90NNTEQw72tPjdlOdTprXQA8Py/z6n7EGLh7EOKFYlN44GTFG4Y9Dhi+nTJJbIl+xOt6VFU8pjLCd7JB++Gw9aPausSZFb5UsEqoPzlYbinfJfRkXXtEucaus6sBf0CAxOQJuUu0njR63GlxJl7vouDmpaw3VnfvxupGCgJef6m1kRFAQ6mS5lz8ccZqZKTOhlnCbh/uDkj21oo7beR+EUpzIZUuEyE9mNDGg==;1djsgK1f0pcdkc5q/2LNyQ=="
+secured: "TLwsZ1s/2Xeb4OAnX3Zw12ij+F0k0AKmnr/qrm1d0OQkpyFKQW0QxOsi/6aIOcfRbvXX1o32tplDOlU47z6zzIB29NEFISubQ8NJoI1qaqznR73WhJTX6s64858IeDreSDMoa9CTG1bwXUvcbmCT5XgoUxARGXDZflfyl/bqPCWva4C9mFpAG/BPLcSoqL2Q6njULcWBCGt0Iy12Vlksiz+WnY1M8xX+VCuEy0FFzu7aJo0YK4ZWued5F/9tNUfGxzwlnplzfMal5/ZIR4fqriBlJq69hAdPnvnz5o1xIlwwhc08AOZozJpumryXqBo4VebzpzNWbnsbOjtFoczmEj0z1Tg6Mr1E8GF7E8Mg5IKm1aXMG6Q1XgIVq3wXFUTyNSHp7lHCFS4Q1KbAFS7T/g==;MpOdnz2mjombwMYOgu8HZA=="
 ---
 
