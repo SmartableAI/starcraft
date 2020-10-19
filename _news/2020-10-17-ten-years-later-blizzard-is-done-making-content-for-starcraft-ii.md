@@ -1,20 +1,22 @@
 ---
 category: news
-title: "StarCraft II Update - October 15, 2020"
-excerpt: "We want to let you know about a development change we’re making for StarCraft II."
-publishedDateTime: 2020-10-15T22:00:00Z
-originalUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
-webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
+title: "Ten years later, Blizzard is done making content for 'StarCraft II'"
+excerpt: "A few months after StarCraft II’s 10th year anniversary, Blizzard has announced that it’s moving away from creating new content for the title and focusing on “what’s next.” Blizzard VP Robert Bridenbecker said the developer won’t be producing for-purchase in-game content and expansions for StarCraft II anymore."
+publishedDateTime: 2020-10-17T07:15:00Z
+originalUrl: "https://www.engadget.com/starcraft-ii-new-new-content-070236232.html"
+webUrl: "https://www.engadget.com/starcraft-ii-new-new-content-070236232.html"
+ampWebUrl: "https://www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
 type: article
-quality: 177
-heat: 277
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg"
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +24,26 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg"
-    width: 960
-    height: 540
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F280d2e50-102c-11eb-b7ff-a497c1f63c35&client=amp-blogside-v2&signature=5d0c364195bc747efa103cc845803b7610fc2756"
+    width: 600
+    height: 350
     isCached: true
 
 related:
+  - title: "StarCraft II Update - October 15, 2020"
+    excerpt: "We want to let you know about a development change we’re making for StarCraft II."
+    publishedDateTime: 2020-10-15T22:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 177
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "‘StarCraft’ and ‘Warcraft’ maker’s take on gaming addiction"
     excerpt: "Blizzard Entertainment, maker of “World of Warcraft” and “StarCraft II,” has been blamed by some for creating games that are so addictive people can’t turn away. On a recent trip to ..."
     publishedDateTime: 2020-10-08T21:30:00Z
@@ -60,22 +76,6 @@ related:
         width: 808
         height: 455
         isCached: true
-  - title: "Ten years later, Blizzard is done making content for 'StarCraft II'"
-    excerpt: "A few months after StarCraft II’s 10th year anniversary, Blizzard has announced that it’s moving away from creating new content for the title and focusing on “what’s next.” Blizzard VP Robert Bridenbecker said the developer won’t be producing for-purchase in-game content and expansions for StarCraft II anymore."
-    publishedDateTime: 2020-10-17T07:15:00Z
-    webUrl: "https://www.engadget.com/starcraft-ii-new-new-content-070236232.html"
-    ampWebUrl: "https://www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F280d2e50-102c-11eb-b7ff-a497c1f63c35&client=amp-blogside-v2&signature=5d0c364195bc747efa103cc845803b7610fc2756"
-        width: 600
-        height: 350
-        isCached: true
   - title: "StarCraft 64 Forum Topics"
     excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
     publishedDateTime: 2020-10-09T14:00:00Z
@@ -95,6 +95,6 @@ related:
       domain: nintendolife.com
     quality: 17
 
-secured: "uMXJEL2eQhXYKUL4C6KaPf/ltNwVAX4amZXaVxWMubypbJnVBr3LHftHtHopAGft7HhRaG+oKSqrfhSQHUEVjAJBtKbMMaov0TkuB7tIgDBIhEScj2xzfUFdZdQTHrVzX+y1XRDybkL/EoeAp1YXkIIElkzID0CSu9OO1IDeaH3LJVCT79dpEXS4nlLlnNlC98fKlO8+gx/ucTG/IIRKgDwwfU75Xp4VqUKqt2XUsDVAstuHZDpeM7fM66eZ7B4YSO0CFdNvAJopQKYfumXtbMcMy7jAhfYV4FzFOpmeihySVv1n5ZHbsfotEpRfH7LDvA0Vhj1GS/hdWPQtUlrrENa77Ov3gb4u5BTVGa2DX10=;W2jitMv9YAjqCj/lwf01oQ=="
+secured: "8h267p233UfNJHdTr9+FTo6POELrNTy8QG8Ztsk0HE2SVpIxstY0LS4ySN7Mz8qphhQnVW1nUJ255XV1NHlkJhTaMZI2/+zlbJPxKpicFB9RK5n0N86qB/PT6YF94bBgOGikISXnynV4iXZM+XbBU+SLXveQfoRvOPI3BIKrFCdBBgS5vbB1Rx0znmnx/0y05v7Cm8jZxm2hFdLt/ouOoRBifcrG0b0abdoWHc9Igg2ncBAK11oUpF6lZnxdRhA6x/M72oq8oi86DwCWBh0W7AzqsO76KYkUZJQv/3XU7g/Fw+cqUbZI1ydgCxXPvwLxix2TpzuCKsi5BzIMQVSacHmn14oDtMGJ16w1dOqa6Gk=;TCF8gfNWSn95nTIWdiTf8Q=="
 ---
 
