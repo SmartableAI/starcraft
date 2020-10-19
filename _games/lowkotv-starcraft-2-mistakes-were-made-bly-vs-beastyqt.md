@@ -2,6 +2,7 @@
 title: "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)"
 excerpt: "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:"
 originalUrl: https://youtube.com/watch?v=gaBWTfu0Glc
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/
 type: video
 length: PT44M36S
 publishedDateTime: 2020-10-19T10:09:33Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kMFG1NmSj2wYBcsx3QvOlJdnrQnI2LsEbIvA/EuF7ocPqXU/LCH3qK/npc+ZZaCvBQFzH7ZKuBsMUOSbRquaR5zE4zhU09YMJCLoRQRLmY04s/T/hGVnIUNXoSZDBg1kFqUWdno6CEHXciv7l6sgAur7FafPDwzXnFeJbuQW1ZP1nROPdS4HgHsVh5cghB2fmeeHJ6+dOkZdPU3b3Z5FR5nU8NOLr8HTFKqjQenWe9Oaly+eVvMhQwKKUcI8YN2V7Q7zd+Znm7+kGNZrkxyZmnWRnPyVs24SakCWvjU59tCkuJs5MFeHagn9cBuB97R+RCuvWeVUBqpK4kPlsYixuz/Nu+ishKmxnzgzChbA+YgSSkAoAwJnl336ab0r64ndQmS1rcgf0uUh1suMshw5bg==;+pNjUxvhMpAaZ3cngxBs3g=="
+secured: "yZmCyB67c/FksQfaPw0jaOcqQWX/px/VNJNTCx+8A6VLMdwQHME5mb7Y63t02tzcSAQkNFl6agMauABBjLbsBnkz90yhsnf5VZqOroekFojv3R2dhubMOpM3+9lIXQt29X+QICM1qODVrvG81zTo8eI4LNkN+qm7zNnevUquqUBw1EM//UMW4f0fwByI8Ci/hNdPnUoUm2BSW6YhtMEILV9JIjdOsIPxSpzunKhQbbIYl8UFfz0A0I+avtMqr7GHsDmV39XZ+pnZHr3gJ/kOVIT2wxYsD/VUbk/VtBFQvlgppR3OHSJJjTI1EuUahBSjrCH942FQxpdloaD86mlXknnfk6+yegRIN7wPQx74yndYfefjpBIAFiDm8ut1FXz860+LSZMEyM2QiRzx1yk3PA==;ACi1t/HMes89I0FSts1xqg=="
 ---
 
