@@ -60,10 +60,10 @@ related:
         isCached: true
   - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
     excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-    publishedDateTime: 2020-10-16T01:51:00Z
-    webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    publishedDateTime: 2020-10-16T01:56:00Z
+    webUrl: "https://www.gamesradar.com/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    ampWebUrl: "https://www.gamesradar.com/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
     type: article
     provider:
       name: GamesRadar
