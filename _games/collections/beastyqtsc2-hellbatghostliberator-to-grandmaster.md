@@ -24,6 +24,7 @@ items:
   - beastyqtsc2-prophet-beastyqt-100-prediction-rate
   - beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not
   - beastyqtsc2-using-hellbat-drops-in-terran-vs-terran
+  - beastyqtsc2-imintrouble-beastyqt-vs-stephano
 
 topics:
   - StarCraft 2

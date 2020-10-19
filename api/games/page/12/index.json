@@ -4,6 +4,44 @@
   "page": 12,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-mass-battlecruiser-battles-ty-vs-cure.md",
+      "title": "StarCraft 2: MASS BATTLECRUISER BATTLES! (TY vs Cure)",
+      "excerpt": "One of the craziest games of Terran versus Terran at the highest level of professional StarCraft 2 that I have ever seen. In this match between TY and Cure (both top-level Terran pro gamers) we initially see them starting off with Marines and Siege Tanks. As the game progresses however, nobody really",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-battlecruiser-battles-ty-vs-cure/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-battlecruiser-battles-ty-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=TFMlqa_A5YI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TFMlqa_A5YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TFMlqa_A5YI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-04T03:43:42-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-mass-oracle-in-a-pro-game.md",
       "title": "StarCraft 2: MASS ORACLE In A Pro Game?!",
       "excerpt": "An incredible series of Zerg vs Protoss between Neeb and Elazer. Subscribe for more videos: http://lowko.tv/youtube Professional Zerg vs Terran: https://goo.gl/PezMeh  In this series we see constant changes of strategy for both players. There are Zerg cheese, mass Oracle openers several times and constant",
@@ -1099,44 +1137,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-27T10:07:42-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-swarm-hosts-nydus-worms.md",
-      "title": "StarCraft 2: SWARM HOSTS & NYDUS WORMS!",
-      "excerpt": "A crazy game of StarCraft 2 between Lambo and PtitDrogo. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Three base Nydus Network and Swarm Host play is not a very common strategy. However, after PtitDrogo showed he was going to commit to too much",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-hosts-nydus-worms/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarm-hosts-nydus-worms/",
-      "originalUrl": "https://youtube.com/watch?v=V2Qsz2I3wW8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V2Qsz2I3wW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V2Qsz2I3wW8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-04-17T03:26:20-07:00"
     }
   ],
   "nextPage": 13
