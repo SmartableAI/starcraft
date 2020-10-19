@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
-excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."
-publishedDateTime: 2020-10-18T19:17:00Z
-originalUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
-webUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
+excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for ..."
+publishedDateTime: 2020-10-18T20:22:00Z
+originalUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
+webUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
 type: article
 quality: 37
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_141a.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_yd9j.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -159,6 +159,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "fcvZ3r1bDaH27Qdw7PK3ysQl+qigTU82DDCzXPE1zz0XMUcS5/4YP5Ew8BuMxZCTi+sRKSs7l5+48gisVcRQ3OgGdPe4XXDAekH55kxZx9YkOzK+jfj+yeCzLnIWBCFeYc6sgAfWix+A9UAZIJ2xGBhd2KGwbyO6rHcmZ9ee9r8iG88Dr+RdiHphS1es/bpqIn1bguzgI4skbMfCU2IJTst9jfnPCbaQP7XfIRgHp8vaqWPS13Zg9vCo1eE3PbOSQwddjQRNcLJfCxGb8H6hFBlc4f24qR7wn4jXlFJY6PpLnnIXuMVENxKu8Teh/sOoxO0Yax7GfncpbthdUVzGCOV8KVwb/d7NMh3xCNtCByA=;Gn4GXDIVZCE31DsnM2XFrg=="
+secured: "OyJOrf908H0d/AyupNmhOT1+zupYBsdff41gLSrlwvv1JoaLIIglm7C3TG0Epmz3YRkNcyQxVo0tzqEaM4bC94vPx3xBXygMswX3ltFr0HAy2+8sYXrnRZFVgmKAIOVhR6lzijy6Tnw0iQjw5DkN2PxVpoffOSCviSIb8z1pDIixsYi25dTM9rKmZFCTzMZuNRtWS36ob04ufBc8+17T53Y2REuYr+l7FyPTbiQoWE2PkSDGunLczY8kj06GN853LxHrQiDqMPpT7GqlA+mxYMPpOTxsdK/mWeKL+anMpqxtGmyB4WOk82QdV5LF0c7sQY5VC4gBYl0zcvo4YQYwyTKAP1PTOOiju+hkKuu6ojI=;82gmCvxHU/IfAAkal2ZcVQ=="
 ---
 
