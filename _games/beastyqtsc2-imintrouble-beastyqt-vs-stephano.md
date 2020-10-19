@@ -2,6 +2,7 @@
 title: "ImInTrouble.... Beastyqt vs Stephano!"
 excerpt: "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt"
 originalUrl: https://youtube.com/watch?v=H_FLkF-EqKs
+webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-imintrouble-beastyqt-vs-stephano/
 type: video
 length: PT29M39S
 publishedDateTime: 2020-10-19T13:11:52Z
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "u2tz4NNQKcpA9Nz3/K3P1RDiTQCIwLwW7H5RV5d5p2KKFlFxIfwpVHdZA2nClLWRERQgwsufxhdtNM+LSScP3re9JhpQgkf0kV94eGEwqcyAz1dIhamSQqtNaXyU0pJ6Yz7Xasv1SML7y9ilaqJTlpAXU+DFgIGH8jB2WgxKkocpdsIZlPxxW0Gcj89doalhZxo1EIlmArSxwzgud1XPT5d3pniQDzw9XQ/LDDnJ5OZrK6wSpb8k0g++/1lq09qJipkdChxbsPxymFXVeWE/Z0O3RRrUqN9HXRzwEZnczsRSnngkrn/qWgEbIDKIjtKS24xLTzI+wKNn3xrPoSGefSFSBKmIoGBc9Lgrwa0kIwGvf1X+rOMOgessW/R+3CqvUQe7UNwfpP2KBcY+SURP7w==;Kz/B68EX7t/Rx+H8sX8/jQ=="
+secured: "MSWLXpxCTco7hE1meEtwdXnaQJwWqebY58ELmWwAxTBAP4RwzG1kHwCiLkUcmBcLVQw3tPiwyX3xF/nTdiHjBP8nVrWHT1nYYZ3yCllAlKSO9Ia4hW0VkFKMAV5rS7wpvxuNM5Tqzj8s5gVPLseUmikRisi21jX/VJPWxkSB7CvdB7e/6zcVCwk1dRwuOOkkWfglXsysxtzUF8OBfyCvp9GORdTiQKzNHUn8JTKB+V9mekh4XUBBPlrgAWEct0txDX3qoFxE8DjVwKO0alEnbvnOzmhU38mQbMmwLPl+pSC+ocsxvf/AnuGuyCdrjrWKxLAPHVBumHz7KCYmpuy5sW7xo/QS/WAQggLNNLwk1bW6FgJSPnDldy6EgbKkRZGUb0ilQQ/kUTRDACpvFmQIog==;m/K2XdyY4dqaYHFQykFVDQ=="
 ---
 
