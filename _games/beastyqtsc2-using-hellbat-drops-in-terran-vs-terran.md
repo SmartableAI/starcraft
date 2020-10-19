@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-using-hellbat-drop
 type: video
 length: PT30M4S
 publishedDateTime: 2020-10-15T12:05:31Z
-heat: 164
+heat: 151
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2tGbQnSzdsw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pEvRMXtmpIAVGLNsEv+C+8o9CSWtp7KV1zDyzKq3N3gzsrsisnH5/FDP5noF1OqGv6tSgGBgyTWnUHMRhKeOfiDfV9D/xYgOrbjATINMpa5hxmvBkyciF48NprloEQdDtcYavFeT71Tr5i4TOqVu7N1ydu7cxNbS6TB3TlubATWW+46bWIbhSYZdea4yOwK7EE4BGJCrHVjyjnV/LDg3BUbS2FUeQfz/yXi5bsooxJsEUzLTSkxwdOAxXX5cADYQqJlquoxQoWElgruNmOM2xfE3c+hZHKjlEyLw9eFPBOMDCGUfIRlX+HdtG4cpuYp6b2MvVBmX6wmI0W2e4ed0HD0I7T5J7elf4N4SJEC3Ckn9nAgqa+Fs7blXYBtZVxSj8f7PupU0lfVH2lPQtrwOXTqy0G4DGvnElWabVtI05FQ=;fBGjg9iwahQNfQ7+sq2xFw=="
+secured: "dM4XTBA0fnBgVVZbc2vdAu/41Kx1sf5Wz6rn+jM5b8eBsxf522jGDBurVCjJNmphls5m7KDjqY7MTQshALcbf7yH8IMVa5nhG3dVshXkxDBmubHZDIhDCoAr5HRAlv364cfnERWZH/Q9QmEjSxvw80TCIfvgVQPpQqFZLdX30trpbBmM2IsswBg4U3EQRSqIvV1QyN9O331wZKji+n0uCAZxXlXL1BgGYz9Z82vWETS2YNgSOzEl2TaysMUg2ElEeJSooA1OSaZpIEFhqF9euX/jDzrIpfHoGu3u2413BxpfvMOzltWLjYgKUsijoz9pSrTJXXrvcNepRlGMZH35cpe6TcxNHb2xRkhStJIOJk3rUHYhqqmX2uhrapoa/CqnrqRKkx0g5EBrh++8T0RNF4crf+fA8RdOONVRtE8oabU=;AlqHA3RUfn0F3DJbSA9oMg=="
 ---
 
