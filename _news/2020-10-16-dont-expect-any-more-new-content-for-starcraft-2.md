@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-co
 cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,84 +24,6 @@ images:
     width: 1920
     height: 1078
     isCached: true
-
-related:
-  - title: "Blizzard ends new content development on StarCraft 2"
-    excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
-    publishedDateTime: 2020-10-16T00:50:00Z
-    webUrl: "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-    ampWebUrl: "https://www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 57
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/kVMZj2IAOYv5r5dalkLXE0GSWbE=/0x0:4096x1740/1400x933/filters:focal(1962x377:2616x1031):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67639969/ZI230_4K_tif_jpgcopy.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
-    excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
-    publishedDateTime: 2020-10-16T09:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 57
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
-    excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-    publishedDateTime: 2020-10-16T01:51:00Z
-    webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Blizzard no longer developing new content for StarCraft 2"
-    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
-    publishedDateTime: 2020-10-16T08:06:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "StarCraft II development comes to an end"
-    excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."
-    publishedDateTime: 2020-10-16T13:02:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/starcraft-ii-development-comes-to-an-end/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 37
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
-        width: 732
-        height: 330
-        isCached: true
 
 secured: "XhZa7ibrnG9+WzwoDflPUD7X24lV9U+gDCVwwswF58BaJdCKJRBi7q4W75wgjjRETlHKqXyWXBhlUk2L4uql9tK7yy6y0d+MxH9pUHJma+6stfwiPCKQevDqmfZPTYuJcewkGN3RJ7WLr7NL9ZxoAt4rLk9MbP+k/dNamkTu3sN4mBgrwHBjPM+kGH0OoTcwTUTIvTn8datUBoHIThiHl0szTj+sdvFAtrgy0vv0HMZ/P+uJz7jga+pCobcy4o5iIay9cI5TZn0kZbCM/trn12q31J038o4JtSHf0bTKZDD9EcpIpEq8uRLM1ZXkbHlWcBNBDMOIF8HxUj97VY0MnUjo9Usg7PnnpiGElbRz9LFEaOI+lfgRM/HgR54wYseha3hwPAolS/MRanLNRfEkC3Ng745SAH9cSJahmoFKbZL0DyTy4lnODicHqwuCe9BihJfmfi6eiU08tTHazhPrMo4XzXM5J2PbPAnzqRBa6tBausHrP16Awjirl6j3orHNHSUlflJdr2HrvU1OfbSRDw==;E55EoxknsCAkI9kCj2NINA=="
 ---

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future"
+    excerpt: "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,"
+    publishedDateTime: 2020-10-18T23:13:00Z
+    webUrl: "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 89
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Blizzard ends new content development on StarCraft 2"
     excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
     publishedDateTime: 2020-10-16T00:50:00Z
@@ -56,22 +72,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Don't expect any more new content for StarCraft 2"
-    excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
-    publishedDateTime: 2020-10-16T10:23:00Z
-    webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 57
-    images:
-      - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
-        width: 1920
-        height: 1078
-        isCached: true
   - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
     excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
     publishedDateTime: 2020-10-16T01:51:00Z
@@ -88,19 +88,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "StarCraft II development comes to an end"
-    excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."
-    publishedDateTime: 2020-10-16T13:02:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/starcraft-ii-development-comes-to-an-end/"
+  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
+    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
+    publishedDateTime: 2020-10-16T18:31:00Z
+    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
     type: article
     provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 37
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
     images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/10/Starcraft-2-732x330.jpg"
-        width: 732
-        height: 330
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
+        width: 1680
+        height: 1050
+        isCached: true
+  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
+    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
+    publishedDateTime: 2020-10-15T22:07:00Z
+    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
+    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
+    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
+    type: article
+    provider:
+      name: USgamer
+      domain: usgamer.net
+    quality: 49
+    images:
+      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "VehWEuzek7Vpcz/lUjflZJAPv054mdzczval3NfJU2qZm1Jude9WL7UDeuBVDRKjPpTwRoH2BHwTai/jNLQhwk5i5S/e7b1UfVfj8Tz1CmsLgx4dWBaaoSb5wVRX38PZLCMhYJO/Fm75H+Fc85AIU3fts8uTn9cbnbtAT+Qw20emxZVZ0/p7oFsA1ht1kapi315wK4wA3Cy9WTzstFKF/khxPCgLuJqHhNmu6S6Wmh+RZTM/2uEj9J+FMn6/XNe3fwImOUBjAithFrPQA58hJWaJI/zxQYUu5PRCRM6CKoZI80VQWBO6wK/wGefhBUsCe99aDECSrvFl9hwMoutZ3Leac3wqvzN95L3qsMCflvw6NvaD0cZYyPqGUnvDOia66hKrCnt26kIFC6rY3XZ+3Jpnedq1FJOSvh8JOTnCEQE08GLRzrpd0TCzAbyuEOp3/sxruI9cnIfAqWsLWfb03LyjekwqMkNWEYeFdGc17pnotffbPM4GvpcTZ+Sr5EbJc7nBTVj2/CVcy4iqpmKr6Q==;65DPxNWxZF05stRRtvHusQ=="

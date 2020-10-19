@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-19-starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future.md",
+      "title": "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future",
+      "excerpt": "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/",
+      "originalUrl": "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/",
+      "publishedDateTime": "2020-10-18T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-a-decade-after-launch-starcraft-2-development-is-winding-down.md",
       "title": "A decade after launch, StarCraft 2 development is winding down",
       "excerpt": "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other.",
@@ -41,48 +92,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-blizzard-ends-new-content-development-on-starcraft-2.md",
-      "title": "Blizzard ends new content development on StarCraft 2",
-      "excerpt": "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard",
-      "originalUrl": "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/kVMZj2IAOYv5r5dalkLXE0GSWbE=/0x0:4096x1740/1400x933/filters:focal(1962x377:2616x1031):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67639969/ZI230_4K_tif_jpgcopy.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard",
-      "publishedDateTime": "2020-10-15T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

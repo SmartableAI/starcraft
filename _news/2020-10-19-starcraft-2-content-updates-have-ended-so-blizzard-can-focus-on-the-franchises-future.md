@@ -1,47 +1,35 @@
 ---
 category: news
-title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
-excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-publishedDateTime: 2020-10-16T01:51:00Z
-originalUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+title: "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future"
+excerpt: "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,"
+publishedDateTime: 2020-10-18T23:13:00Z
+originalUrl: "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+webUrl: "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 89
+heat: 209
+published: true
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future"
-    excerpt: "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,"
-    publishedDateTime: 2020-10-18T23:13:00Z
-    webUrl: "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 89
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Blizzard ends new content development on StarCraft 2"
     excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
     publishedDateTime: 2020-10-16T00:50:00Z
@@ -73,6 +61,22 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2020/10/101620-Starcraft-II-Blizzard-Entertainment.jpg"
         width: 2000
         height: 1270
+        isCached: true
+  - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
+    excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
+    publishedDateTime: 2020-10-16T01:51:00Z
+    webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
     excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
@@ -121,6 +125,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lmpNRcXUoMTn1ETWzRKiqBU++1lO5UECZu1Z13TJYDU3S1VsB86HEE7d0rVNmd2hBcl8Pse+ET/MGyb3urOR4r7EvVj8DDO9Z7wlosjMJoKATCP4tNYYVWLDXucwH3+X2QfpphUUxzJn3QEJss4aRumJ3tPAQrMkW+ZLrK2AirW+/h7jY24MNnae3dPysWcPiGb32UxFc3MiuPKXHXxeUsxU/4IsVE11Ct9qrpyya42xF+9xlTQ2lXZZCYZ4oXzPZE6j7n6KzCmyWnrfxSM8wAFXegAInlZG6d8T/4nEuTOpPnSG5f7bbasV5SNRufVUdGjBcKULMz1qNUTpe7KXIs8U8GN5UUwoFCDesyoxEaU=;7zVly9Dytb3nhgpM3qRlGg=="
+secured: "uzB3EkdwQlZUfJJw/7d07/9snFe+NPE/8c6A/28zZ2iFPfJUFVGF5ApS4r5H97+/8Cjbf2eaSATKbuBxtM0ixfHxTgmwE4Fl4qLBWQFeloqPBuCHQ2TcJEgRHYqkV7igLU4WnTBW7bYKj6ZCn+U48PGuVoj/rkpkIyOoIJw1J4lDZNUZkWyjDQqp6wao9wtuhGu6wR5hfLr6jEJbNt/7ld3Z8NWyxBQzikuLqUoBKpwakOy5ylU6RR8DPThCbyjQ/ZDjWtibkXBXbtIZTi8ObzEh0bW+ri3JUYOhwEQk5FPqMDWUvRYloGbsMtsKwO6pD/ANaBb0Atv27IG/wmdE+LnoHh9LQfmnj7H5k0OQh5I=;UKQ8YwKuvvrp/er3/beMmQ=="
 ---
 
