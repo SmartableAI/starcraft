@@ -2,7 +2,7 @@
 title: "Hellbat/Ghost/Liberator to Grandmaster!"
 excerpt: ""
 type: collection
-heat: 66
+heat: 64
 
 provider:
   name: BeastyqtSC2
