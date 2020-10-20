@@ -29,11 +29,11 @@ images:
 
 related:
   - title: "A decade after launch, StarCraft 2 development is winding down"
-    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
-    publishedDateTime: 2020-10-16T10:36:00Z
-    webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-    ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people ..."
+    publishedDateTime: 2020-10-16T10:47:00Z
+    webUrl: "https://www.pcgamer.com/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    ampWebUrl: "https://www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
     type: article
     provider:
       name: PC Gamer
