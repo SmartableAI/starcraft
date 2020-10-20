@@ -106,6 +106,22 @@ related:
         width: 1680
         height: 1050
         isCached: true
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
     publishedDateTime: 2020-10-16T08:06:00Z

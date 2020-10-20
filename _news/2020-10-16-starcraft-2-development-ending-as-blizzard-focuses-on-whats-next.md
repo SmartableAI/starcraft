@@ -90,6 +90,22 @@ related:
         width: 1680
         height: 1050
         isCached: true
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
     excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
     publishedDateTime: 2020-10-15T22:07:00Z

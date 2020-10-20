@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Blizzard ends new content development on StarCraft 2"
-excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
-publishedDateTime: 2020-10-16T00:50:00Z
-originalUrl: "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-webUrl: "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-ampWebUrl: "https://www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+publishedDateTime: 2020-10-20T16:32:00Z
+originalUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
 type: article
-quality: 57
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/kVMZj2IAOYv5r5dalkLXE0GSWbE=/0x0:4096x1740/1400x933/filters:focal(1962x377:2616x1031):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67639969/ZI230_4K_tif_jpgcopy.0.jpg"
-    width: 1400
-    height: 933
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -41,6 +41,22 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Blizzard ends new content development on StarCraft 2"
+    excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
+    publishedDateTime: 2020-10-16T00:50:00Z
+    webUrl: "https://www.polygon.com/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    ampWebUrl: "https://www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/15/21518694/starcraft-2-war-chests-commander-development-ends-blizzard"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/kVMZj2IAOYv5r5dalkLXE0GSWbE=/0x0:4096x1740/1400x933/filters:focal(1962x377:2616x1031):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67639969/ZI230_4K_tif_jpgcopy.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
     excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
@@ -90,22 +106,6 @@ related:
         width: 1680
         height: 1050
         isCached: true
-  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
-    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
-    publishedDateTime: 2020-10-20T16:32:00Z
-    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
-    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 53
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
     excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
     publishedDateTime: 2020-10-15T22:07:00Z
@@ -137,6 +137,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ocmUYIP6WHuNGJLVMnDoZYLXVMGNgchynuIP8JBWaTWIK3PV4+re0YKOAYpQRNnvNkKd+CCxR61AnWV1LunP3djqO3wT4Bj7IZW5HOTZxlh8VbWrGI+/aFu7dEf9yJkb69j2WaWdNG4dj/E6N0b0Mbc3CYaKP3fJYypfzIFHT+WVpOKMzEZjUhAXb8Y4MF7ZW2QY5B16S8Fe0PsL9uky0h5QDhkHZ2OKq1KaMbcVM+SCclK0g4rzWyXbQWAZlaA0GTPvDHcjVImlTTJ7SVknCYCxCZl0WtglVZBBJCjQLYlZ4begQHgqagxw8VihrxnDQVncDUPKdM9rfKG1o7j7Q4GFTQUEKIbehheVoi56fJE=;V8Ly4Ppgn9A5xv3Q/joL9A=="
+secured: "SOikoBAUPjwoBJI8DHEfEgEJtHixUkd42PbN4fDGXqCTWVuqwHsTean+DyIMZgZofmRXo84ZhwjqT86Hh+jWWK+vonkD3kiiZY8uToVZNDGLCSry9gnRWi3qmno2os0bqDMtmFVReLXOxVohtHRctZtRrCXv91nEieYDFS7s+K66rtKD0aVU1dC5IgmLLl97cKBoIQIUFqOe1yO3dv2qS2EUNrlSHt7CjoUGsqWXwM1yKj8vRQYjbJlfiQwOoxAPr/Dm7wu8RgQd0XwqK69cNqaxVRTDPZ/tfP792yL8/7E5eOJI94rAuWlLTYZitUhP7vCRvyzgDWgGSr0uYSkdWaWAsLWZaP7bxwp8hf2qKhE=;HUZJ3WzKEJlvmdMLjaEq9Q=="
 ---
 
