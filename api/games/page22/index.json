@@ -4,14 +4,14 @@
   "page": 22,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-chaotic-base-race.md",
-      "title": "StarCraft 2: CHAOTIC BASE RACE!",
-      "excerpt": "Diamond League match of Zerg vs Terran that results in a Base Race. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 viewer games: https://youtu.be/rQMflTegTQ4  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Check",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-chaotic-base-race/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-chaotic-base-race/",
-      "originalUrl": "https://youtube.com/watch?v=J9NsfQ-g1DM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J9NsfQ-g1DM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M51S",
+      "path": "_games/lowkotv-starcraft-2-cheese-galore.md",
+      "title": "StarCraft 2: CHEESE GALORE!",
+      "excerpt": "Just your regular Gold and Platinum League Protoss vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this video I cast a Protoss versus Protoss. As per usual, one of the players has to Cannon Rush. However, the counter with the Dark",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheese-galore/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheese-galore/",
+      "originalUrl": "https://youtube.com/watch?v=q1ISNzUt-Lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q1ISNzUt-Lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M57S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -30,7 +30,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/J9NsfQ-g1DM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/q1ISNzUt-Lw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,82 +38,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-04-28T08:07:35-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-charity-viewer-games-sponsored-by-world-vision.md",
-      "title": "StarCraft 2: CHARITY VIEWER GAMES! (Sponsored by World Vision)",
-      "excerpt": "Together we raised over $3000 for the kids! Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon Rush: https://goo.gl/jXDfvA  Two games that I casted together with Neuro during the World Vision charity livestream. They may not be the best games, but they were a lot of fun to cast. Make",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-charity-viewer-games-sponsored-by-world-vision/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-charity-viewer-games-sponsored-by-world-vision/",
-      "originalUrl": "https://youtube.com/watch?v=xFxJSi9DMJA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xFxJSi9DMJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M11S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xFxJSi9DMJA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-09-11T03:35:42-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral.md",
-      "title": "StarCraft 2: CHEEKY ROACH RUN-BY! (Snute vs Serral)",
-      "excerpt": "Snute versus Serral in a professional match of ZvZ in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional best-of-7: https://goo.gl/cLp2ev  An awesome match of high level Zerg vs Zerg. Zerg vs Zerg is often times considered to be one the hardest match-ups in the game. A slight",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheeky-roach-run-by-snute-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=ZbM8gDddhgw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZbM8gDddhgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZbM8gDddhgw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-10-09T06:41:44-07:00"
+      "publishedDateTime": "2017-04-22T04:23:02-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cheesy-mind-games.md",
@@ -1134,6 +1059,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2016-12-30T05:17:09-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-four-stargate-oracle.md",
+      "title": "StarCraft 2: FOUR STARGATE ORACLE?!",
+      "excerpt": "Not quite your ordinary match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Proxy vs Proxy: https://goo.gl/iHc1jT  In this game the Zerg player has a reasonably standard approach to the match-up. However, Protoss decides to go for something a little bit strange. After scouting",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-four-stargate-oracle/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-four-stargate-oracle/",
+      "originalUrl": "https://youtube.com/watch?v=BVZZI3hVnzk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BVZZI3hVnzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BVZZI3hVnzk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-04-08T07:09:21-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-full-macro-zerg-vs-terran.md",
+      "title": "StarCraft 2: FULL MACRO Zerg vs Terran!",
+      "excerpt": "A passive macro game of professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Some people consider passive to be bad, I personally I really like watching both players sit back and macro up a massive army. In this Terran vs Zerg match",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-full-macro-zerg-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-full-macro-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=443EawoulW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/443EawoulW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/443EawoulW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-26T09:27:23-07:00"
     }
   ],
   "nextPage": 23

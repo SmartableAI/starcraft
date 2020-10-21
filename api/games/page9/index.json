@@ -4,39 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-24T05:02:15-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-super-salty-zerg-vs-super-mass-marines.md",
       "title": "StarCraft 2: Super Salty Zerg vs Super MASS Marines!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -215,6 +182,43 @@
       "publishedDateTime": "2020-06-02T02:23:01-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-bad-manners.md",
+      "title": "StarCraft 2: BAD Manners!",
+      "excerpt": "Justice is served. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  In this Protoss versus Terran the Terran player decides to show his hand early and tells exactly what strategy he is going for, while being awfully bad mannered to his opponent.  If you",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-bad-manners/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-bad-manners/",
+      "originalUrl": "https://youtube.com/watch?v=SFK0sAaVWLY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SFK0sAaVWLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SFK0sAaVWLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-09T06:34:45-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-battle-of-the-world-champions.md",
       "title": "StarCraft 2: BATTLE OF THE WORLD CHAMPIONS!",
       "excerpt": "Rogue vs ByuN in a best-of-3 series of Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube More professional StarCraft 2: https://goo.gl/kFUSLt  Both players in this match are previous World Champions of StarCraft 2. ByuN shows some very cool build orders, and Rogue does what he does best...",
@@ -367,14 +371,14 @@
       "publishedDateTime": "2017-11-10T04:29:50-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett.md",
-      "title": "StarCraft 2 Cast: INCREDIBLE Zerg vs Terran! (ByuN vs Scarlett)",
-      "excerpt": "An incredible match of Zerg vs Terran between Scarlett and ByuN. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  One of the best matches of StarCraft 2 I've seen in a while. This Zerg versus Terran is back and forth between two incredibly skilled players.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett/",
-      "originalUrl": "https://youtube.com/watch?v=Yjj7QFV62p0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yjj7QFV62p0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M55S",
+      "path": "_games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark.md",
+      "title": "StarCraft 2 Cast: HIGHEST LEVEL Zerg vs Terran - ByuN vs Dark!",
+      "excerpt": "The highest level of Zerg versus Terran that StarCraft 2 has to offer. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  It has been far too long since I casted games of StarCraft 2: Legacy of the Void. What better way to get back into it than to cast a",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=lN-SxSmnmyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lN-SxSmnmyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -395,7 +399,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Yjj7QFV62p0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lN-SxSmnmyY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -403,7 +407,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-01-23T13:28:21-08:00"
+      "publishedDateTime": "2016-11-16T08:34:04-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cheeser-becomes-the-cheeseth.md",
@@ -1089,14 +1093,14 @@
       "publishedDateTime": "2019-04-09T11:13:13-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-non-stop-terran-aggression.md",
-      "title": "StarCraft 2: NON-STOP Terran Aggression!",
-      "excerpt": "An awesome match before uThermal and Nerchio. Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon Strategy: https://goo.gl/Rs8Qw6  In this game Terran decides to play an incredibly aggressive style. uThermal decides to pile on the aggression and hopes Nerchio crumbles. Nerchio however,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-terran-aggression/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-non-stop-terran-aggression/",
-      "originalUrl": "https://youtube.com/watch?v=TEFIkZlCdbQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEFIkZlCdbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M",
+      "path": "_games/lowkotv-starcraft-2-overlord-drops-bo5.md",
+      "title": "StarCraft 2: OVERLORD DROPS! (Bo5)",
+      "excerpt": "An awesome best-of-5 series of professional Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  In this series between PtitDrogo and Reynor we see a variety of strategies. While Drogo mostly goes for similar unit compositions, it is Reynor",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-overlord-drops-bo5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-overlord-drops-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=K4TyE0jcLac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K4TyE0jcLac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M15S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1110,13 +1114,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TEFIkZlCdbQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/K4TyE0jcLac/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1124,7 +1127,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-04-22T04:08:47-07:00"
+      "publishedDateTime": "2018-10-03T04:22:02-07:00"
     }
   ],
   "nextPage": 10

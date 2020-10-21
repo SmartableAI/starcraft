@@ -287,7 +287,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 189,
+      "heat": 168,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pNhMT3ZndxA/maxresdefault.jpg",
@@ -377,45 +377,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-21T03:51:32-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
-      "title": "StarCraft 2: MARU vs PARTING!",
-      "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-parting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=1O8KnA0Dwgs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1O8KnA0Dwgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 154,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1O8KnA0Dwgs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-10T02:09:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time.md",
@@ -510,7 +471,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 140,
+      "heat": 130,
       "tags": [
         "Live"
       ],
@@ -560,6 +521,45 @@
       "publishedDateTime": "2020-10-14T05:47:20-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-maru-vs-reynor.md",
+      "title": "StarCraft 2: MARU vs REYNOR!",
+      "excerpt": "An amazing game of professional StarCraft 2 between Maru and Reynor. Epic moments and mistakes by both players. This is certainly one of the highest level games of Zerg versus Terran that has recently been played.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=tQ92XghAymQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tQ92XghAymQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tQ92XghAymQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-03T03:56:25-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
       "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
@@ -598,6 +598,44 @@
       "publishedDateTime": "2020-01-31T00:50:43-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea.md",
+      "title": "StarCraft 2: GATEWAY CHEESE vs GATEWAYS CHEESE! (PartinG vs Astrea)",
+      "excerpt": "Awesome best-of-5 series of StarCraft 2 between PartinG and Astrea. In this series we have a variety of Protoss versus Protoss strategies and some cheeky Proxy situations.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=eKYBdUHpnx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eKYBdUHpnx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 125,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eKYBdUHpnx4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-17T04:53:08-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
       "title": "StarCraft 2: PROXY HATCHERY PROBLEMS! (Bly vs MaxPax)",
       "excerpt": "Really fun series of professional StarCraft 2 between Bly and MaxPax. Every game brings something new on an already crazy build order: The Proxy Hatchery. In this Zerg versus Protoss we see two progamers face off an exciting best-of-3 series of SC2.  Become a YouTube member: https://lowko.tv/join Support",
@@ -634,45 +672,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-28T04:59:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem.md",
-      "title": "StarCraft 2: STORM & DISRUPTOR DROPS! (Reynor vs Harstem)",
-      "excerpt": "Reynor versus Harstem in a professional match of StarCraft 2. While Reynor mostly plays what we consider to be 'standard' at the pro level, Harstem brings some really cool moves to the game with Disruptor and High Templar Storm Drops.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-storm-disruptor-drops-reynor-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=GM4VJo-uN5g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GM4VJo-uN5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GM4VJo-uN5g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-15T02:06:48-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
