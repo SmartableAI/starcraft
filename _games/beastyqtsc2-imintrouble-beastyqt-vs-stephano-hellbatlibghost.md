@@ -7,6 +7,8 @@ type: video
 length: PT29M39S
 publishedDateTime: 2020-10-19T13:11:52Z
 heat: 207
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H_FLkF-EqKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
