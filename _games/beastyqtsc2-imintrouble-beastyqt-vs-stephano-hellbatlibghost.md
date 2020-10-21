@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-imintrouble-beasty
 type: video
 length: PT29M39S
 publishedDateTime: 2020-10-19T13:11:52Z
-heat: 306
+heat: 207
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H_FLkF-EqKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NYcMU7ymOE6SsaM1iLRCpzEKoswdLbBe5QeZNmYrRzy8IDeS9YZCXempqFcLH3hG0q8n8118WBBqq/y5uOP0WAalQHNGCCCnM4a6p910DTw6ebvTmvseei/gjjCEHNPkjjJmBBcbTuK+0YzcMyrD0BPNKpdX2aFxNgfszdxRfIk5ezwIHN44UMWLsmYwvVz+6z70byBwMhNBTSRXvAcEypVWtkQCkIQQJa8yN7rqdBTikPbUMUaUQX6/pgZKoAeCLgVSSGN/BtsQ+9rU1evnNFSjiQ6aRF6IsjCqvOrXtlGSQe3y77RCXlAOZQGE7a1thswitELEhpW0c4Les3BvrkRNU4Ash39FXTNEKnQcu0BMiGbay8Jrwu7daVPCsym28wDVxSpmzp4JsU7Lk3U/WUoHMBMeDs4BfrulmuGBhvI=;fzY8ZkGAX1rNOen9Ryc8cg=="
+secured: "tqd4977rwXTgNdUDAImt4BkWRxNRAoxDq3OWYWy2iD/nuvylqOmYjszYq793QyHNmTcH9k9LRwarPcYKFhNTeFB75s36HF+DNX7o7a1zyrrpal00OdUTvPlUIFG837VwvqhckzuKwPeZjutpP4JaUjVxK+ns+7WOGLBfuDE4wyie/yb5OH8j7dUmRdaszvW51uz20QRxvT+5fG99z9QJlzdIFBaUHW1y8HsPWaBiaLEcSsh/L3k46dixDnXqoAwi62y5a1xrktGIcjy/VgfnyfQvzhE3/6CJK0vRe+tMgsbCBHFGBTIgCd4pxnzFqh1qBFA9IulPar5/odWzQJxfk3BV5L7ap+/6hjTtKN8vPjtwpjS58qEWCiNxfjXIX0naKeJbw+u0gSb2iDAqOHzpxVGP2ySk2tavSRwfX5Ly/28=;rXtYDTwlxQ6/xD7gccm7YQ=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=YGGuH8v4wXY
 type: video
 length: PT34M3S
 publishedDateTime: 2020-04-25T00:16:01Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGGuH8v4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nMzxEhyD9NQ6BmmsM6LNBtlXumhCuk9HX3cW6wcp6OyXuAv7J1z2xv2l0jonpT+Fpgy2YuiLJgjxkJt8Yf8s8i74gZMR55JrPf8zEgnh8ESE9kNtdF1Tpm0WJRkbVNXSnXtHSzxdJn3tZnGerrKtejwqfQUcn/FCqeXv6uTCAt1Z35HIYW8NMSW5tz65ic4yNBsNC7SaIMrWCponMwBRAGRuWOmlgWbrqW1b3d8YLzxZ49GSMRu0VPLcAtk7XY5FvRDbdUVXIc26yzRziqD50UCHBrlnJN5X3tGW4IHq2EWZ1BKg1dzb1bGLYINRF5GVAXvPBOXnldbao6E8kBHIndXtp2EXBC/sKQcUTMeaKsb+2o91rb6oWfeYB4X7z2BGGAEdnz3OW91J0h0OfzvdIuiQ7aJeGuVgy7p5f7EwD6o=;ewe0M1t41iuRCWdnWpzLKw=="
+secured: "/Omarah25JivZP1yaCqC1nI3eAWoljiA4E3hUfnXfI2+AF+Ay1gdxH0x2fuOVdDV/ti9xxck6cOAlkVnu5MZb8pBb8ie806pzgvYlPPy1EEbAV1z43xRs2g6434VuvhIfVExZv0TmpIZ4F9kA7/WqgZOxJDWAoPoji7QLz7oV6dL05VVZo5AsEHv8c4aRc7zTH07FqY+hE76qfGZ3veOeAGxUYFq/SRBLCmFF5zdVO1dp2s78qET1ZvjEDfoij9RBaz3ZK49AEZ+88eQJJyurXhwaQMZmnFBs4OWAe7WtzOYJazjfysNELhEM133kFdApTSWJbrH9UcMiTvRSbq2sI2d7MaepsOrKUw7kx2QgldWm8pCLv40pUXoaBQeDPiY6XvZCjk/xvHlJvXRrMp4x+cqGYANeRag0OXFquY4uz4=;JL20S2g4nU9jNtX/imxbtw=="
 ---
 
