@@ -2,6 +2,7 @@
 title: "StarCraft 2: RELENTLESS AGGRESSION! (ByuN vs Trap)"
 excerpt: "Trap versus ByuN in a best-of-5 series of professional StarCraft 2. After having a look at ByuN's Terran versus Zerg a few days ago, today we have a look at the current state of his Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=azhpEHcwzMQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap/
 type: video
 length: PT34M22S
 publishedDateTime: 2020-10-22T10:17:44Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "itCX+/MOxjgdZJsolZZbpIkjejy3n/PxNcgIE4xrK6VX4OD1vKlh/Gh3+wPQncEB5u6B9uSEQsnZplcClUoXu5dZIqpRZxuo8ZcyO/dI5P64AQyQ4rSqcdXF851VFzVSTdXdeFqHaARlUjK3cGw5Nt2azB0oJjhDlguPbGkfLPvFcJASo+1TGdJshdPIediop22eUuiHSNSRn3xX9RGpbUGaV5XTYZeT7TqbfWos7+FYAD/gFCUEpJEZQmc8c455aUpuSTCHMrlzMHVFUYWxBNTy1KR5ez2mfHSAAgAAFqpcBb2lu8Yh1zCUDXvV93pxIjLhnxrBDDeXQX492Ws488jZxkiXwByDbgL44kMdhoU2nDWkH33+20dztPiFzaYsaXxxkI9cCN0WrcJIygmG4w==;RTb1BMca4x7HT6+WqCKlEA=="
+secured: "m9XybvzLwfdFDZ4/3+xUE2Gy4W6NANsD9TTGCCdTD+HgXiv1ypkNd+0aKAWWNAQ9GNBpxwLhjwDXBn4d9RkIsNKFdw6pZdTTP5RR1rOsRDk6ZeXCCJCGs1acsSs6KdzpvBZ2kXKL4OKBWnZgrskIkmctEKv9vPl56QjqXhCqP8I72xnwmFxW7Pedfi81i7qbdO2U+rTCQq7njpX3XGd82jQDvyrwCbVlxoyZ7caRKFuC48MBd89dQuhj6PX8lSRJr/PaEYGQPj/5kx4+yldbWrkRJGdreeTqFLD9VTrBKhUPHbiHYniVmkBxyRxEF1yaZ/suaPctYa/mJrJWdy3z9kdhvptByeIMbsxskh7pkBp1ZcMoG90OzEjzgriSjN/8mUdgcPPnjdKJGQlOg6PLAQ==;r7pK5O5sUrjOMElxYpnx3g=="
 ---
 
