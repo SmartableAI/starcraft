@@ -1,12 +1,12 @@
 ---
 category: news
 title: "A decade after launch, StarCraft 2 development is winding down"
-excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people ..."
-publishedDateTime: 2020-10-16T10:47:00Z
-originalUrl: "https://www.pcgamer.com/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-webUrl: "https://www.pcgamer.com/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-ampWebUrl: "https://www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people still want to gobble up resources and fling little units at each other."
+publishedDateTime: 2020-10-16T10:36:00Z
+originalUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+webUrl: "https://www.pcgamer.com/au/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
 type: article
 quality: 97
 heat: 277
@@ -159,6 +159,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "mrAHs6le0c45ht0uZaFLoWLl231zPuEOBon/1f+D0i2SE21/XViKpomkoBkKCCDtSY3inF1LiIzV09Ld/fk1kBtg6NdesvzZkyNwFCdbAxoEM2vrbq39IEUe5ur9+1wHifqRTiferl5D0u2PnBFJnoeI0uS+DWZLU2SwaBB3nCXferHHArSIEW+i2FwZMRuqd50W/Ad++OZZB3CtNSoqyer9Ccf7PjC0DQyUxUIyNtPwRxeT4cV326E5sLC+FeWTlMzxQf765ZQWvWZImGiNdN5rInHLQqFeRgXuceYOT8pXHjGh6GiJcB7RAcGib8rL+wJPIRY0JedQnIaJcVsiFSEL1RdbwJvH6BAu9iw9RnY=;r6pzHmJUJ+snGVgatid5mA=="
+secured: "7phUywXm3cuOIoeZhYaEwiZTmdhM+ixSfdW4tDN2s+qCSSa2KyFWZnxd0G/OII85jvlBSUyDgpC5rUfJMnwEy/0q8THrQwsyQXEVTlxvdJjnRVEcmet3oQVH0A1BuTIGag6z0zhwyX6rwk4BN2A/ZpEHQfhpm5vfNAFXtE6Ak8zvTn97Vv34AdpZ0VmbPRMOF495nuyVSt6qa2/G8Zu1kozN3upT1DCZV3QM0+s/Vjho+xv3lySwmhJkR7aiUagQFGtn/bF9L/CqYEB9kc0nKZpDqGxCl2ZbCfFFYNHpOyNpdm4Y0Cleg8uzzXiRVq/PUcfL6sJZfWRKfTuklytvfcBdOHLaByenp9Cri9NX0Kk=;SvWOs8zK3Zl9LYdBXEaKpg=="
 ---
 
