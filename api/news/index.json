@@ -6,8 +6,8 @@
       "title": "StarCraft 2 veterans team up for 'the next great PC real-time strategy game'",
       "excerpt": "Blizzard announced that development of StarCraft 2 is winding down. It wasn't a particularly shocking announcement—StarCraft 2 is 10 years old, after all—but it was very much an end-of-an-era moment for a seminal RTS and esport.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/au/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
-      "originalUrl": "https://www.pcgamer.com/au/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
+      "webUrl": "https://www.pcgamer.com/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
+      "originalUrl": "https://www.pcgamer.com/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -15,8 +15,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
+      "ampWebUrl": "https://www.pcgamer.com/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/",
       "publishedDateTime": "2020-10-20T16:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -44,6 +44,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-starcraft-2-wont-get-new-content.md",
+      "title": "StarCraft 2 Won't Get New Content",
+      "excerpt": "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ...",
+      "sourceUrl": null,
+      "webUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content",
+      "originalUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1",
+      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1",
+      "publishedDateTime": "2020-10-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future.md",
       "title": "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future",
       "excerpt": "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,",
@@ -52,7 +103,7 @@
       "originalUrl": "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1225,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-16T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-war-chest-6-is-now-live.md",
-      "title": "War Chest 6 is Now Live",
-      "excerpt": "The StarCraft II War Chest is here, with new skins and a brand-new community tournament! In addition to granting you access to a bounty of goodies—like new skins, sprays, emojis, and more—War Chest 6 allows you to lend some crucial support to War Chest Team League, an upcoming community tournament we’re bringing you in partnership with Wardi. Read on to find out what’s coming, how War Chest works, and details on what you can unlock.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23442781/war-chest-6-is-now-live",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23442781/war-chest-6-is-now-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/60/6008KZI0YPRK1533197091003.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

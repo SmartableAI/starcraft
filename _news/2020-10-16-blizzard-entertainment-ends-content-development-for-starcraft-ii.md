@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft 2 Content Updates Have Ended So Blizzard Can Focus On The Franchise's Future"
-    excerpt: "Starcraft II is over a decade old now, having launched its first installment, Wings of Liberty, in July 2010. Now, Blizzard has given an update on the game's on-going development, and has announced that big content drops for the game have come to an end--from now on,"
-    publishedDateTime: 2020-10-18T23:13:00Z
-    webUrl: "https://www.gamespot.com/articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
+  - title: "StarCraft 2 Won't Get New Content"
+    excerpt: "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ..."
+    publishedDateTime: 2020-10-19T14:34:00Z
+    webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content"
+    ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
+    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 89
+      name: IGN
+      domain: ign.com
+    quality: 97
     images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/536/5360430/2961705-trailer_starcraftiinovacovertops_20151106.jpg"
-        width: 640
-        height: 360
+      - url: "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Blizzard ends new content development on StarCraft 2"
     excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
@@ -58,37 +58,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
-    excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-    publishedDateTime: 2020-10-16T02:00:00Z
-    webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+  - title: "Don't expect any more new content for StarCraft 2"
+    excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
+    publishedDateTime: 2020-10-16T10:23:00Z
+    webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
+      name: Eurogamer
+      domain: eurogamer.net
     quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
-    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
-    publishedDateTime: 2020-10-16T18:31:00Z
-    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
-        width: 1680
-        height: 1050
+      - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+        width: 1920
+        height: 1078
         isCached: true
   - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
     excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
@@ -105,22 +89,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
-    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
-    publishedDateTime: 2020-10-15T22:07:00Z
-    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
-    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    type: article
-    provider:
-      name: USgamer
-      domain: usgamer.net
-    quality: 49
-    images:
-      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."

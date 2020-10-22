@@ -1,47 +1,35 @@
 ---
 category: news
-title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
-excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
-publishedDateTime: 2020-10-20T16:32:00Z
-originalUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
-webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
-ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+title: "StarCraft 2 Won't Get New Content"
+excerpt: "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ..."
+publishedDateTime: 2020-10-19T14:34:00Z
+originalUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content"
+webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content"
+ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
+cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 97
+heat: 197
+published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
-  - title: "StarCraft 2 Won't Get New Content"
-    excerpt: "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ..."
-    publishedDateTime: 2020-10-19T14:34:00Z
-    webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content"
-    ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
-    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 97
-    images:
-      - url: "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Blizzard ends new content development on StarCraft 2"
     excerpt: "Blizzard Entertainment is ending new content development on StarCraft 2, the sci-fi real-time strategy game that first launched in 2010 with StarCraft 2: Wings of Liberty. The StarCraft team will ..."
     publishedDateTime: 2020-10-16T00:50:00Z
@@ -90,6 +78,22 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
     publishedDateTime: 2020-10-16T08:06:00Z
@@ -105,6 +109,6 @@ related:
         height: 600
         isCached: true
 
-secured: "eKezJmXi8AgeeHLWm0zryn5CcAh0Oa6vm6pRfJzc0feeV1JycChunChxV7gC5lnaWqa3SV711Lg4jb0kgd9BW8SP41wVouaTTMVAc33iceVHOThmyzzTZHeU4dfBbQnwfE4H1EQkoGi7lf1n/PvzYxy5Lk0uWpVVbn0WeJh2/gb4OYNZRT4Hz8AENfD2cIC3NytZzK5Rbfp8z4nwuDMH5ZBp7aBJJLAAlB9kg8AG9/8bUvaFdo+Qj7/FYIftIFnSQ1CBpJ1uFUK3tnOzPHD0C87qbA06KCcr4Q5u60283lxXRgX1OZB27ktF8uAYl0x50jJ0sVODuhXhWifnA7vVKLjreS94ISm2X80wMEdkwYGamP/AM2ET1FYv1G40VHaxssWhBltnGMiXnOY7emLktu8olAyOzBl20B5j5BO+UZ7K9tRFwxTWsfCtzwbNOCLsrjArwan+85LV1QfNGnczRlZMleNv5AvEdiqodg9qoiZchPONNJJr2lAJLfs17bRPXCBk/HnR7CHggcc8qp3Q4A==;gaCKAGxY6q1u2MpNMb9ESw=="
+secured: "waB3sitc2ZEMebFP2C2LKFklAEiqwKo9zh1UGI/i6MY8Cev7MuoL2YepulTxFSI/PE/l1hFRl7IYgeJl0rlSV/vhyyozLIGgQKJaGI2KGtJN7+ODrlLF5MoRZHAJibi3+Dgq3ZINxUutKq1a+8vsaov5VnDf0bPl5vp/NxnfuztpwYnjEgfeAGkkubfnuk1NVf+KCDeuc3mmugykxsBy7Kr6VfSadfkXKw7SYIbkbana1tT0/YKlgfqM54E5IRX0DjGxRzSlWmDI6bbBk+VFrdTHCHmMmoy1TOo9Z6HmdYPyydHTYbF/CSivxTynyOH/rXhV/lO4aBMpg/XnKza+gE7pP1lTQLU42mfm1LfRpU4=;5xiV9SFsz437T+0QR7AKDA=="
 ---
 
