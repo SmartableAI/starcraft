@@ -3,8 +3,8 @@ category: news
 title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
 excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
 publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
 ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Agso8Bcjs9uHiA7eqDVCa99ubPlLbvmW+cR0Vp5DpsD3zrTF8Anwl0pn6lzbFDDvwBiPRpcq1PgGrIBp3QINmkrckOFINE4L/j3OC2VzEmLYnp3kCGnzlSqIbgLsYJfqlq9dGuo6TGM2NFOgJxizmh3zppmjmHV4GAjX4F/NNM1lkPJPAvt3Ui8lF5l0QotV5Azvmre8IrxG1iJHVMQVBWf+4MG0OwB+eDQBCB+ptbpzoVpHKA9a0Ezabq5EcSHqFoRE2PgHWdddYEi5YBi1h0Dzvg63RDrAolsyPU/9aGFo++T5bADJ0i4696CuepfEko82vuqkHDRUVclsbaCF2CmLqPIuXkfmzTXVVM34ltk=;tpZZiwp5zdLdncGfRc+iAQ=="
+secured: "iPLo0BE6IvxzIS/j/ljAYB1XLFuVWcZfiuA0bKPvtHJASPTiZXAUinONYe3aB6H86c8xbHvJbN2fyhfftSTdj2bzxmHfoPaiRo0vOZxcqiU1+BnPEobQaShdiedSLYOtG6YZ4YXwOBoGqC0+7D14uhVPo5AfsXkzkNiIVSiDNbofxU4O0vrAc3ulG7+GFDErZhRjET/D+olonPBSnO48plsm2diQh8FbepgF1u2Kq7OQLvjmAugO3tz2QHQ3ZXvXfUINf12V3xwu+kHeqivoiuDlvA1RZZPb/SbAD1WKJz/Ggc/22lFfaxwpnk1Hp/Ddg8rGZXPqoDua6eYfQr6tU8/9gD+cIX/ETxSwoWMResQ=;gVvsiIubsveXwCT4/D631g=="
 ---
 
