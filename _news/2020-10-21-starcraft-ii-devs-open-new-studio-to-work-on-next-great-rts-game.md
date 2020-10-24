@@ -3,10 +3,10 @@ category: news
 title: "‘StarCraft II’ devs open new studio to work on “next great” RTS game"
 excerpt: "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games."
 publishedDateTime: 2020-10-21T06:26:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282"
-webUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282"
-ampWebUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
+originalUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542"
+webUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542"
+ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
 type: article
 quality: 57
 heat: 77
@@ -41,6 +41,6 @@ related:
         height: 622
         isCached: true
 
-secured: "JTuusYit6pWJb4LRWg4ilr78VsTW8YYLSKugJJ/jIFAiMSRptaR0JJ5cjR2ERoxONJDu6YFKLN4L7+hcMu2EYVIUKZIm22GqnhEbEr0zA0dVLveIGdvofcd1wIWkjvp3y+ZFfxsSEMIGgUc+pxCUHWc978R2tY+CtgV4mOFnCnwa+xZgDHBnddM4B0k6suE7LEpTUj1EdHv7ohtpoI4BV6F3KPmOb+7STr7/gZAAVx4AeiJC//PeSkiohxbshgFz3Smqojb2wO5ctXgriTcNtR8jlK2opGAiN2+QEr1O5swoHdp60Q75IxESYjiNMT/Jh3aDzRlJh+8EcL9vtQISKbAcrK48n/vUGyxQjzMoVy4=;UOHiT/0P5269SA5kc3PnWg=="
+secured: "zeTd7QP7byhuZYft37NZwYIgIqoygolU1M/X4PhTackDIGtLY9p/EIqJV3pF7jxNPV/DwoL7ZOUEuu5YFOcHuGEmMhsRnTYkqA1I5vA1fVt8hy4Rf1/oOqEAZ+ozQYayAMwEQZl1mXn/+lLpVQK/L6RZCzJOpcBHwwAbAiKzoOgI8cX4G64PrM4mybSAPgJsGvtmXIeuDWGsU8Y4PnlG11ka7CvPG0jlJCiLQo35qdxWP7HW4Yt+sQB6jQ2iyXiRl7vwY5scfy7CNvrBUIKpT+/uDyLA3gfWVcQBfLZDwWvPaThfn0+tKngyNnfkXCwzlcu2DfusSoRSGyRf9hTvADmse17C6f9NnwPfmBRFyHY=;D142AH9rZme6O464wbmjCg=="
 ---
 
