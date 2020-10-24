@@ -2,6 +2,7 @@
 title: "StarCraft 2: ZERG MEMES! (Dark vs Solar)"
 excerpt: "Zerg versus Zerg in StarCraft 2 between Dark and Solar. In this best-of-5 series we have some of the most aggressive games that you can see in this matchup currently.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=CmF7zUANQBI
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-memes-dark-vs-solar/
 type: video
 length: PT30M2S
 publishedDateTime: 2020-10-24T10:01:33Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SX0faq2rPrpx1tiEN6De6LE9IY+a3ax2aI9RlujkRLAbfnOcgDxWQOEL9jI0dV2/u3/GR77RNw+uQaTNiRwrTZfCP2DKd1POFxokSWDZ9HEl/ue8TWJn+/lGaY7lh7/kSND+wXUYUMb6fJYziqH8rPKYNGCtz/RKYesDDsHCFhM5bhgstq+jTNE3+HNplQeWP6+0jf7VRt+hKQYX6pWmZEZ0xOD0um+Vo+xR/IKJ2iKEaPDxCw11kpwqTG0wW+N+AbkYlnhvyxQEsEkRkr0GMZazpTaroL07v82FId0lyc/itRjak8EI53UsX+8J3CSvG+KTqUd2W9O9aeE4F/OYZDzDy7VqmDiVe3dL5oF6xH0HdjcC9Hli7U2NWzpiz30Eg8vQZPctbe5HPu0K1U6osQ==;aATaEl4UKCwmHe6E2fRcGQ=="
+secured: "1ubtNMzq9Ai/i6O+yPDL8hXEaI/osQoZhFNGn0jd9/tFzYP/DOss6JleomQrPms2/CEu/m020UQk03geyVKBwsGda2ZBj/Kz0aT+wIJ18mVbFHuCR2zcqxX0hh6umAybxRwAZG/pFAiUyDaeiz0nC+csckhY5b6VEnln4fLm/c0RL28pttxyb59fcwSkhvWvDvNqVSI4zhX6DRvytOGei5nbBvKXcTYZw/a7c9Z2EQzls+gJCmIkRcgHOZw6FYgysX4siv9uqMleeRzS5aWpiszSTsUrHM/PXGW6JnbN4BOzk/KjNw8yuo0IV6LneoYfktIfcRx4kLyIcUPAi2UZqVlxLdHZEBV5Z07CDFr21pQ807IrNHAF2rDuz8Bp9zIQiZ5j0Ee8aqB4Rauzy2C0Lg==;u+dfHl8iMCeHMI52tj47Xg=="
 ---
 
