@@ -4,77 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-youve-never-seen-this-in-your-life.md",
-      "title": "StarCraft 2: You've Never Seen This in Your Life!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  You've probably seen a lot of things in your life. You've probably seen a lot of things in StarCraft 2. But I can guarantee that you've",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-youve-never-seen-this-in-your-life/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-youve-never-seen-this-in-your-life/",
-      "originalUrl": "https://youtube.com/watch?v=q8VHiAuOK3c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q8VHiAuOK3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M4S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q8VHiAuOK3c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-02T00:59:47-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-500-iq-protoss-mind-games.md",
-      "title": "StarCraft 2: 500 IQ PROTOSS MIND GAMES!",
-      "excerpt": "A super cool game of Zerg vs Protoss between Zest and Rogue. Subscribe for more videos: http://lowko.tv/youtube Insane Protoss macro: https://goo.gl/kYVEow  Zest has been making some really cool decisions in Zerg vs Protoss. In this video he goes up again Rogue, one of the strongest Zerg pro gamers in",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-500-iq-protoss-mind-games/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-500-iq-protoss-mind-games/",
-      "originalUrl": "https://youtube.com/watch?v=0_mN_iRsCVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0_mN_iRsCVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0_mN_iRsCVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-23T02:39:17-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-action-packed-protoss-vs-terran.md",
       "title": "StarCraft 2: ACTION-PACKED Protoss vs Terran!",
       "excerpt": "An awesome match of Protoss vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/C1yp8c  Both players are off-racing in this match. Essentially meaning that while they have a decent understanding of the game, their expertise may not be specifically",
@@ -228,45 +157,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-17T05:10:36-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest.md",
-      "title": "StarCraft 2: Clash of Legends - Maru vs Zest!",
-      "excerpt": "A sick game of top-level professional StarCraft 2 between Maru and Zest.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clash-of-legends-maru-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=zZPHjzdz3TU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZPHjzdz3TU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zZPHjzdz3TU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:07-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-crazy-protoss-micro.md",
@@ -808,6 +698,44 @@
       "publishedDateTime": "2019-06-19T03:50:26-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly.md",
+      "title": "StarCraft 2: MOTHERSHIP OFFENSIVE RECALL! (Has vs Bly)",
+      "excerpt": "An amazing best-of-3 series of professional StarCraft 2 between Has and Bly. Both pro gamers are well known for playing the crazy strategies and execute their own version of 4D chess by countering and outsmarting each other constantly. Not quite your normal games of Protoss versus Zerg.  Get more videos",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mothership-offensive-recall-has-vs-bly/",
+      "originalUrl": "https://youtube.com/watch?v=2roPL4WCYvw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2roPL4WCYvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2roPL4WCYvw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-13T06:24:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-phoenix-problems.md",
       "title": "StarCraft 2: PHOENIX PROBLEMS?!",
       "excerpt": "A very back-and-forth game of professional Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/bpDV8i  Easily one of the coolest games of Protoss vs Zerg I've seen recently. In this game Cham decides to open up very aggressively against a Protoss",
@@ -844,44 +772,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-12-29T00:41:01-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush.md",
-      "title": "StarCraft 2: Photon Cannon vs Spine Crawler Rush!",
-      "excerpt": "Revenge is a dish best served cold! A viewer game of Platinum League Zerg versus Protoss.  Get exclusive content & support my work: http://www.patreon.com/lowkotv  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send it to replays@lowko.tv.  Be part of the community",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-photon-cannon-vs-spine-crawler-rush/",
-      "originalUrl": "https://youtube.com/watch?v=LWnK3bF7tLs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LWnK3bF7tLs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LWnK3bF7tLs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-21T00:24:12-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-korean-protoss-vs-terran.md",
@@ -921,6 +811,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-04-15T02:06:39-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-protoss-cringe.md",
+      "title": "StarCraft 2: PROTOSS CRINGE!",
+      "excerpt": "Cheddar, Gouda, Protoss, and Brie. My favourite types of cheese! Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  Easily one of the most cringy games of Protoss vs Protoss games I've ever uploaded... And it's awesome! Probe rushes, Cannon rushes, Dark",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-protoss-cringe/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-protoss-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=R0F0VSIO7dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R0F0VSIO7dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M28S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R0F0VSIO7dc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-02-28T03:35:39-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun.md",
@@ -1152,6 +1080,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-08-13T04:00:12-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-rip-mothership-core.md",
+      "title": "StarCraft 2: RIP Mothership Core!",
+      "excerpt": "The Mothership Core is gone... Does that mean Protoss is too? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Commentary: https://goo.gl/XXpZvf  This is the first Grand Finals in the new patch of professional StarCraft 2. While the Mothership Core has been removed, a lot of additions",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-rip-mothership-core/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-rip-mothership-core/",
+      "originalUrl": "https://youtube.com/watch?v=Bj6749fN7ag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bj6749fN7ag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bj6749fN7ag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-11-14T02:39:28-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-tactical-nukes-against-protoss.md",
+      "title": "StarCraft 2: Tactical Nukes Against Protoss!",
+      "excerpt": "Insane game of professional StarCraft 2 between Dream and Creator. One of the best matches of Terran versus Protoss I've seen recently.  Get more videos & support my work: http://www.patreon.com/lowkotv  Support Olimoleague and Korean StarCraft 2: https://www.patreon.com/olimoley  My second channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-against-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-against-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=VFq_fRuFR2Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VFq_fRuFR2Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VFq_fRuFR2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:57:04-08:00"
     }
   ],
   "nextPage": 9

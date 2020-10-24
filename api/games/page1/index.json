@@ -43,82 +43,6 @@
       "publishedDateTime": "2020-10-22T03:17:44-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
-      "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
-      "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/",
-      "originalUrl": "https://youtube.com/watch?v=gaBWTfu0Glc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 285,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gaBWTfu0Glc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-19T03:09:33-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
-      "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
-      "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=P-84Oh9yx7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 267,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/P-84Oh9yx7w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-20T01:41:14-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-imintrouble-beastyqt-vs-stephano.md",
       "title": "ImInTrouble.... Beastyqt vs Stephano!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
@@ -152,6 +76,82 @@
       "publishedDateTime": "2020-10-19T06:11:52-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
+      "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
+      "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/",
+      "originalUrl": "https://youtube.com/watch?v=P-84Oh9yx7w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M38S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 250,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P-84Oh9yx7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-20T01:41:14-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
+      "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
+      "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/",
+      "originalUrl": "https://youtube.com/watch?v=gaBWTfu0Glc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 245,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gaBWTfu0Glc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-19T03:09:33-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
       "title": "StarCraft 2: RETURN OF THE KING! (ByuN vs Solar)",
       "excerpt": "ByuN is one of the most succesful StarCraft 2 pro gamers. He recently returned to the game and in this series he's going up against one of the strongest Zerg players in the world Solar.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -177,7 +177,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 242,
+      "heat": 216,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xycP_8Ert2I/maxresdefault.jpg",
@@ -216,7 +216,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 193,
+      "heat": 202,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/h4A8ZTaPBAE/maxresdefault.jpg",
@@ -268,45 +268,6 @@
       "publishedDateTime": "2020-10-13T03:11:16-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb.md",
-      "title": "StarCraft 2: THE MAP IS MINED OUT! (Serral vs Neeb)",
-      "excerpt": "One of the craziest ladder games of StarCraft 2. In this Zerg versus Protoss between Serral and Neeb we see what the ultimate late game of this matchup currently looks like.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=CzyL0yWehb0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CzyL0yWehb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 151,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CzyL0yWehb0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-21T03:51:32-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zerg-creativity-neeb-vs-bly.md",
       "title": "StarCraft 2: ZERG CREATIVITY! (Neeb vs Bly)",
       "excerpt": "StarCraft 2 professional match between Neeb and Bly. In this Protoss versus Zerg we see the Protoss playing a pretty standard strategy focused around Void Rays. Bly decides to mix it up (read: plays his normal strategies) and go for a Gold first, push with Queens and Roaches and then transitions towards",
@@ -346,6 +307,45 @@
       "publishedDateTime": "2020-10-14T03:15:47-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb.md",
+      "title": "StarCraft 2: THE MAP IS MINED OUT! (Serral vs Neeb)",
+      "excerpt": "One of the craziest ladder games of StarCraft 2. In this Zerg versus Protoss between Serral and Neeb we see what the ultimate late game of this matchup currently looks like.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-map-is-mined-out-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=CzyL0yWehb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CzyL0yWehb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CzyL0yWehb0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-21T03:51:32-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
       "title": "StarCraft 2: FLORENCIO'S DISGUSTING TERRAN PLAYS!",
       "excerpt": "I've casted quite a few of Florencio's Protoss games in StarCraft 2. This time around he's showing some of the strategies that he is working on with Terran. In this game he opens up with a Reaper Bunker rush, then transitions towards Battlecruisers and eventually leads to Mech and quadruple Nukes.  Florencio",
@@ -370,7 +370,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 135,
+      "heat": 130,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_DJFkHwH1H8/maxresdefault.jpg",
@@ -384,14 +384,14 @@
       "publishedDateTime": "2020-07-18T05:07:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time.md",
-      "title": "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)",
-      "excerpt": "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=1tykA9F5ZDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tykA9F5ZDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M25S",
+      "path": "_games/lowkotv-starcraft-2-happy-birthday-starcraft-clem-vs-reynor.md",
+      "title": "StarCraft 2: HAPPY BIRTHDAY STARCRAFT! (Clem vs Reynor)",
+      "excerpt": "Today is the 10 year anniversary of StarCraft 2! In this video I cast one of the closest games of top level SC2 between Clem and Reynor. Reynor decides to go Hydra Lurker Viper, Clem focuses on Marine Marauder Ghost.   Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-happy-birthday-starcraft-clem-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-happy-birthday-starcraft-clem-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=X-LR_ckf9YU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X-LR_ckf9YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M14S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -408,10 +408,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 130,
+      "heat": 128,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1tykA9F5ZDQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X-LR_ckf9YU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -419,7 +419,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-12T01:59:01-07:00"
+      "publishedDateTime": "2020-07-27T03:56:05-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
@@ -485,7 +485,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 125,
+      "heat": 123,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yPXkXTRZgYw/maxresdefault.jpg",
@@ -522,7 +522,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 122,
+      "heat": 120,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hmLp9wr8ASo/maxresdefault.jpg",
@@ -536,14 +536,14 @@
       "publishedDateTime": "2020-02-21T02:41:32-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting.md",
-      "title": "StarCraft 2: THORS vs DISRUPTORS? (INnoVation vs PartinG)",
-      "excerpt": "Awesome game of top-level StarCraft 2 between INnoVation and PartinG. In this game of top level Terran versus Protoss both players have to constantly micro to get the most out of their StarCraft 2 units.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-thors-vs-disruptors-innovation-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=oR6SwL0SIxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oR6SwL0SIxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M48S",
+      "path": "_games/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan.md",
+      "title": "StarCraft 2: VOID RAYS ARE... GOOD?! (DRG vs Cyan)",
+      "excerpt": "Void Rays are making a comeback in professional StarCraft 2. In this match of Protoss versus Zerg I focus a lot on what Cyan is playing. He decides to go for Void Rays very early on, and does so in a very clever way. I also discuss the potential responses that the Zerg can go for, and why certain moves",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan/",
+      "originalUrl": "https://youtube.com/watch?v=z17BbK_jhSs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z17BbK_jhSs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M53S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -558,13 +558,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
         "Protoss"
       ],
-      "heat": 121,
+      "heat": 120,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oR6SwL0SIxU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/z17BbK_jhSs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -572,17 +571,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-08-11T03:23:26-07:00"
+      "publishedDateTime": "2020-09-15T02:41:47-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem.md",
-      "title": "StarCraft 2: EPIC BEST-OF-5 SERIES! (Serral vs Clem)",
-      "excerpt": "An epic best-of-5 series of StarCraft 2 between Serral and Clem. Serral is widely considered to be the strongest SC2 professional gamer in the world. Clem is one of the best Terran players in the world and he's continously getting better. In this video they face off against each other in a series of",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=NPOu1xBP6qE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NPOu1xBP6qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M52S",
+      "path": "_games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time.md",
+      "title": "StarCraft 2: LATE  GAME MUTA SWITCH! (Dark vs TIME)",
+      "excerpt": "Professional match of StarCraft 2 between the current World Champion Dark and TIME the highest ranked player from China. In this match we see both players take a slightly uncommon path in their macro games. Tactical Nukes by TIME and a late game Mutalisk transition by Dark.  Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-muta-switch-dark-vs-time/",
+      "originalUrl": "https://youtube.com/watch?v=1tykA9F5ZDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tykA9F5ZDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M25S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -599,10 +598,10 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 120,
+      "heat": 119,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NPOu1xBP6qE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1tykA9F5ZDQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -610,7 +609,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-04-27T05:29:13-07:00"
+      "publishedDateTime": "2020-10-12T01:59:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo.md",
@@ -636,7 +635,7 @@
       "topics": [
         "StarCraft 2"
       ],
-      "heat": 114,
+      "heat": 115,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CDsNPcv0y3I/maxresdefault.jpg",
@@ -648,44 +647,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-23T11:20:07-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar.md",
-      "title": "StarCraft 2: MICROING MECH! (uThermal vs Solar)",
-      "excerpt": "Awesome game of Zerg versus Terran between uThermal and Solar at the professional level of StarCraft 2.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=thSyg_vO2Bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/thSyg_vO2Bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/thSyg_vO2Bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-26T02:21:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul.md",
@@ -712,7 +673,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 111,
+      "heat": 113,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/s3X0i5us-Hc/maxresdefault.jpg",
@@ -724,6 +685,82 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-29T04:07:45-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
+      "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
+      "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/",
+      "originalUrl": "https://youtube.com/watch?v=okcJxrHF3Cs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M44S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/okcJxrHF3Cs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-15T04:14:29-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem.md",
+      "title": "StarCraft 2: EPIC BEST-OF-5 SERIES! (Serral vs Clem)",
+      "excerpt": "An epic best-of-5 series of StarCraft 2 between Serral and Clem. Serral is widely considered to be the strongest SC2 professional gamer in the world. Clem is one of the best Terran players in the world and he's continously getting better. In this video they face off against each other in a series of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-best-of-5-series-serral-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=NPOu1xBP6qE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NPOu1xBP6qE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H9M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 108,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NPOu1xBP6qE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-27T05:29:13-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
@@ -751,7 +788,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 109,
+      "heat": 107,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Age4eNRUMrk/maxresdefault.jpg",
@@ -765,14 +802,14 @@
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
-      "title": "StarCraft 2: INCREDIBLE BEST-OF-5! (Maru vs Dark)",
-      "excerpt": "Amazing best-of-5 series of top-level professional StarCraft 2. In this Zerg versus Terran between Dark and Maru we watch two of the highest ranked players in the world face off against each other with a variety of strategies and build orders.  Support my work: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=uxApFI7wQt4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxApFI7wQt4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M35S",
+      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett.md",
+      "title": "StarCraft 2: THE ULTIMATE LATE GAME! (Neeb vs Scarlett)",
+      "excerpt": "Professional best-of-3 series of StarCraft 2. In this series of games between Neeb and Scarlett we have a variety of strategies. From an epic late game match, to cheesy mind games with Carriers into a Base Race between the Protoss and the Zerg player.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/",
+      "originalUrl": "https://youtube.com/watch?v=lHTMCIDGfr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lHTMCIDGfr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M6S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -787,51 +824,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uxApFI7wQt4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-23T05:16:59-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
-      "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
-      "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=okcJxrHF3Cs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
       "heat": 106,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/okcJxrHF3Cs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lHTMCIDGfr8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -839,7 +838,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-07-15T04:14:29-07:00"
+      "publishedDateTime": "2020-08-01T04:20:27-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord.md",
@@ -880,14 +879,14 @@
       "publishedDateTime": "2020-07-24T03:42:56-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
-      "title": "StarCraft 2: PROXY HATCHERY PROBLEMS! (Bly vs MaxPax)",
-      "excerpt": "Really fun series of professional StarCraft 2 between Bly and MaxPax. Every game brings something new on an already crazy build order: The Proxy Hatchery. In this Zerg versus Protoss we see two progamers face off an exciting best-of-3 series of SC2.  Become a YouTube member: https://lowko.tv/join Support",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=QNnmCRQpwWc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QNnmCRQpwWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M",
+      "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
+      "title": "StarCraft 2: INCREDIBLE BEST-OF-5! (Maru vs Dark)",
+      "excerpt": "Amazing best-of-5 series of top-level professional StarCraft 2. In this Zerg versus Terran between Dark and Maru we watch two of the highest ranked players in the world face off against each other with a variety of strategies and build orders.  Support my work: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=uxApFI7wQt4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxApFI7wQt4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M35S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -902,12 +901,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
-      "heat": 105,
+      "heat": 103,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QNnmCRQpwWc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/uxApFI7wQt4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -915,82 +915,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-28T04:59:03-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynor-vs-clem.md",
-      "title": "StarCraft 2: REYNOR vs CLEM!",
-      "excerpt": "Awesome game of Zerg versus Terran between Clem and Reynor. In this ZvT Reynor decides to go Mutalisks versus a Bio Terran player.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-clem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=-V8RoSPjn7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V8RoSPjn7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-V8RoSPjn7E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-25T03:27:30-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-8-grandmaster-free-for-all.md",
-      "title": "StarCraft 2: 8 Grandmaster Free-For-All!",
-      "excerpt": "8 Grandmaster StarCraft 2 players enter, only 1 leaves. This game starts and ends with some ridiculous gameplay. The mid-late game however... is a very slow.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-8-grandmaster-free-for-all/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-8-grandmaster-free-for-all/",
-      "originalUrl": "https://youtube.com/watch?v=vTsbVP5fpt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTsbVP5fpt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H42M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vTsbVP5fpt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-16T04:41:25-07:00"
+      "publishedDateTime": "2020-06-23T05:16:59-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",
@@ -1032,45 +957,6 @@
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett.md",
-      "title": "StarCraft 2: THE ULTIMATE LATE GAME! (Neeb vs Scarlett)",
-      "excerpt": "Professional best-of-3 series of StarCraft 2. In this series of games between Neeb and Scarlett we have a variety of strategies. From an epic late game match, to cheesy mind games with Carriers into a Base Race between the Protoss and the Zerg player.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultimate-late-game-neeb-vs-scarlett/",
-      "originalUrl": "https://youtube.com/watch?v=lHTMCIDGfr8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lHTMCIDGfr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H7M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lHTMCIDGfr8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-01T04:20:27-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
       "title": "StarCraft 2: MARU vs PARTING!",
       "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -1096,7 +982,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 97,
+      "heat": 100,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1O8KnA0Dwgs/maxresdefault.jpg",
@@ -1108,6 +994,81 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-10T02:09:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-8-grandmaster-free-for-all.md",
+      "title": "StarCraft 2: 8 Grandmaster Free-For-All!",
+      "excerpt": "8 Grandmaster StarCraft 2 players enter, only 1 leaves. This game starts and ends with some ridiculous gameplay. The mid-late game however... is a very slow.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-8-grandmaster-free-for-all/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-8-grandmaster-free-for-all/",
+      "originalUrl": "https://youtube.com/watch?v=vTsbVP5fpt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTsbVP5fpt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H42M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vTsbVP5fpt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-16T04:41:25-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
+      "title": "StarCraft 2: PROXY HATCHERY PROBLEMS! (Bly vs MaxPax)",
+      "excerpt": "Really fun series of professional StarCraft 2 between Bly and MaxPax. Every game brings something new on an already crazy build order: The Proxy Hatchery. In this Zerg versus Protoss we see two progamers face off an exciting best-of-3 series of SC2.  Become a YouTube member: https://lowko.tv/join Support",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=QNnmCRQpwWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QNnmCRQpwWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QNnmCRQpwWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-28T04:59:03-07:00"
     },
     {
       "path": "_games/beastyqtsc2-using-hellbat-drops-in-terran-vs-terran.md",
@@ -1141,6 +1102,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-15T05:05:31-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-i-ran-into-a-nasty-lurker-trap.md",
+      "title": "I Ran Into a NASTY Lurker Trap!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-i-ran-into-a-nasty-lurker-trap/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-i-ran-into-a-nasty-lurker-trap/",
+      "originalUrl": "https://youtube.com/watch?v=HNr4V_uyUUI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNr4V_uyUUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M10S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 92,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HNr4V_uyUUI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-11T05:24:55-07:00"
     }
   ],
   "nextPage": 2
