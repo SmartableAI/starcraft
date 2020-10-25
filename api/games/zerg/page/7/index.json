@@ -4,52 +4,14 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-massive-neural-parasite.md",
-      "title": "StarCraft 2: MASSIVE NEURAL PARASITE!",
-      "excerpt": "An epic match of professional StarCraft 2 between Cham and puCK. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  This match is very back-and-forth where both the Protoss and Zerg get ahead at different moments with an extremely juicy Neural Parasite",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-massive-neural-parasite/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-massive-neural-parasite/",
-      "originalUrl": "https://youtube.com/watch?v=8oG3iorBE6c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8oG3iorBE6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8oG3iorBE6c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-15T03:00:41-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maxed-out-soo-vs-zest.md",
-      "title": "StarCraft 2: MAXED OUT! (soO vs Zest)",
-      "excerpt": "Stargate styles and maxed out Skytoss have overtaken the ladder over the last few weeks. With the changes made to the Infestor it seems that in a way the tables have turned from Zerg turtling to maxed out Infestors to Protoss turtling to maxed out Skytoss.  In this game of top-level StarCraft 2 between",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maxed-out-soo-vs-zest/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maxed-out-soo-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=TVwOFRe2mss",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TVwOFRe2mss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M6S",
+      "path": "_games/lowkotv-starcraft-2-neeb-vs-scarlett-bo7.md",
+      "title": "StarCraft 2: NEEB vs SCARLETT! (Bo7)",
+      "excerpt": "An awesome series from WCS Winter between Neeb and Scarlett! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  In this best-of-7 series I cast the Grand Finals of the WCS Winter America between two channel favourites.  Check out Lowko merchandise:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-neeb-vs-scarlett-bo7/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neeb-vs-scarlett-bo7/",
+      "originalUrl": "https://youtube.com/watch?v=RXG4YYnO5Qw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RXG4YYnO5Qw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -70,25 +32,25 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TVwOFRe2mss/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/RXG4YYnO5Qw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-12-27T06:58:42-08:00"
+      "publishedDateTime": "2019-04-09T11:13:13-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor.md",
-      "title": "StarCraft 2: NEW MACRO MAP - Ever Dream LE! (Clem vs Reynor)",
-      "excerpt": "Reynor versus Clem in a professional match of Zerg versus Terran in StarCraft 2. This game takes place on the final of the new 1v1 ladder maps called 'Ever Dream LE'. This is a very nice macro map that's smaller than maps that we have had on the ladder in the past. It forces a different playstyle out",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=BaOXpq8m9_I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BaOXpq8m9_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M37S",
+      "path": "_games/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers.md",
+      "title": "StarCraft 2: Neural Parasite vs Battlecruisers!",
+      "excerpt": "The skill level of StarCraft 2 is rising continously. In this professional match of Zerg versus Terran we see two top-level players fight it out with unorthodox strategies, including Battlecruisers, Nydus Worms and Swarm Hosts.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers/",
+      "originalUrl": "https://youtube.com/watch?v=fcEejfqTYVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fcEejfqTYVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M29S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -103,12 +65,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BaOXpq8m9_I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fcEejfqTYVc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -116,7 +79,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-03-24T05:40:15-07:00"
+      "publishedDateTime": "2019-08-13T02:18:18-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-top-ranked-zerg-bo5.md",
@@ -193,6 +156,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-11-20T04:07:59-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-pro-terran-vs-zerg.md",
+      "title": "StarCraft 2: PRO Terran vs Zerg!",
+      "excerpt": "A macro game of Terran vs Zerg between Reynor and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/RXG4YYnO5Qw  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord: http://lowko.tv/discord",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-terran-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-pro-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Yu5vfEIEnsA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yu5vfEIEnsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yu5vfEIEnsA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-28T08:09:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-zerg-vs-terran-bo5.md",
@@ -465,45 +467,6 @@
       "publishedDateTime": "2019-08-10T02:24:39-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-ty.md",
-      "title": "StarCraft 2: SERRAL vs TY!",
-      "excerpt": "Serral is the current World Champion of StarCraft 2. TY is easily one of the best Terran players in the world. In today's video they face off against in each other in an epic match of top level professional StarCraft. This is a tournament match that was recently played at Homestory Cup.  Get exclusive",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-ty/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=3gh-U20ZUUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3gh-U20ZUUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3gh-U20ZUUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-04T02:33:13-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-uthermal-bo5.md",
       "title": "StarCraft 2: SERRAL vs UTHERMAL! (Bo5)",
       "excerpt": "A very high level best-of-5 series of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Serral is currently the highest ranked player in the game, statistically speaking. He's an absolute monster and great at the Zerg versus Terran matchup.  uThermal",
@@ -540,44 +503,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-12-02T05:39:35-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-sky-zerg-vs-sky-toss.md",
-      "title": "StarCraft 2: SKY ZERG vs SKY TOSS!",
-      "excerpt": "Solar versus Zest on Proxima Station. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Terran: https://goo.gl/GJuLSh  In this match neither player seems to really want to engage. Protoss is trying to build the Ultimate Sky Protoss army, where as Zerg is doing the same. Both try to go for",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-sky-zerg-vs-sky-toss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-sky-zerg-vs-sky-toss/",
-      "originalUrl": "https://youtube.com/watch?v=IlifvVQuGeA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IlifvVQuGeA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IlifvVQuGeA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-18T13:22:16-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-sniping-brood-lords-bo3.md",
@@ -695,14 +620,14 @@
       "publishedDateTime": "2017-12-22T13:12:25-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-swarm-hosts-nydus-worms.md",
-      "title": "StarCraft 2: SWARM HOSTS & NYDUS WORMS!",
-      "excerpt": "A crazy game of StarCraft 2 between Lambo and PtitDrogo. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Three base Nydus Network and Swarm Host play is not a very common strategy. However, after PtitDrogo showed he was going to commit to too much",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-hosts-nydus-worms/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarm-hosts-nydus-worms/",
-      "originalUrl": "https://youtube.com/watch?v=V2Qsz2I3wW8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V2Qsz2I3wW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M5S",
+      "path": "_games/lowkotv-starcraft-2-swarm-hosts-vs-carriers.md",
+      "title": "StarCraft 2: SWARM HOSTS VS CARRIERS!",
+      "excerpt": "Harstem vs Reynor in a professional match in Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube New Protoss playstyle: https://goo.gl/pqA6ws  Beautiful surgical play by Reynor. Harstem recognises what is going on, and quickly responds with great counter attacks, continously forcing Zerg",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarm-hosts-vs-carriers/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarm-hosts-vs-carriers/",
+      "originalUrl": "https://youtube.com/watch?v=iS0Xz3cx57U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iS0Xz3cx57U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -722,7 +647,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/V2Qsz2I3wW8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iS0Xz3cx57U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -730,7 +655,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-04-17T03:26:20-07:00"
+      "publishedDateTime": "2018-08-06T02:18:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
@@ -1001,6 +926,44 @@
       "publishedDateTime": "2017-03-11T01:36:50-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-old-school-zerg.md",
+      "title": "StarCraft 2: The OLD SCHOOL Zerg!",
+      "excerpt": "A seriously cool game of Zerg vs Protoss between Leenock and Stats. Subscribe for more videos: http://lowko.tv/youtube Professionals cheesing: https://goo.gl/APqMmJ  Hydralisk Lurker into Mutalisk into Corruptors into massive amounts of counter attacks and a Spine Crawler forest. A very cool Zerg playstyle",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-old-school-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-old-school-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=WIVPQlTxXVQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WIVPQlTxXVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WIVPQlTxXVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-04-24T03:18:20-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-proxy-hatchery-counter-attack.md",
       "title": "StarCraft 2: THE PROXY HATCHERY COUNTER ATTACK!",
       "excerpt": "puCK vs Dark in an awesome match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Massive Neural Parasite: https://goo.gl/yX3tHx  So one player cheeses, sure, happens all the time. However, what if the Protoss decides to Cannon Rush and the Zerg is going for a Proxy Hatchery at the",
@@ -1151,6 +1114,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-20T11:08:36-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-swarm-host-counter-attack.md",
+      "title": "StarCraft 2: THE SWARM HOST COUNTER-ATTACK!",
+      "excerpt": "Zerg vs Terran between in Soul and Reynor in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Bly vs Soul with Battle Mech: https://goo.gl/bpDV8i  An awesome game of Zerg vs Terran where Soul once again plays his Terran Battle Mech army. Reynor decides to get hyper aggressive and throws",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-swarm-host-counter-attack/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-swarm-host-counter-attack/",
+      "originalUrl": "https://youtube.com/watch?v=Q2MnmTLYn40",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q2MnmTLYn40\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M6S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q2MnmTLYn40/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-12-29T00:41:52-08:00"
     }
   ],
   "nextPage": 8
