@@ -4,44 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure.md",
-      "title": "StarCraft 2: HUGE PROTOSS SANDWICH! (sOs vs Cure)",
-      "excerpt": "sOs versus Cure in a professional game of StarCraft 2. In this Protoss versus Terran we have both players deciding to rush the opponent's main base after the early game. A wild base race ensues.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=VGL0z0kvA5s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGL0z0kvA5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VGL0z0kvA5s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-27T02:25:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-late-game-protoss-wars-showtime-vs-hurricane.md",
       "title": "StarCraft 2: LATE GAME PROTOSS WARS! (ShoWTimE vs Hurricane)",
       "excerpt": "Top-level match of Protoss versus Protoss in StarCraft 2. In this game between ShoWTimE and Hurricane we see both players play a very macro focused game. They base their unit compositions around the Stalker, Disruptor, Dark Templar and eventually the Tempest.  Become a YouTube member: https://lowko.tv/join",
@@ -1123,6 +1085,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-05T05:10:07-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ultralisk-rush.md",
+      "title": "StarCraft 2: Ultralisk RUSH!",
+      "excerpt": "Nerchio vs aLive in a very high level Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube The Secret Base: https://goo.gl/TYl28K  In this professional match of StarCraft the Zerg player scouts exactly what is going on and decides to quickly rush up to Ultralisks. However, the defense and",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultralisk-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ultralisk-rush/",
+      "originalUrl": "https://youtube.com/watch?v=sdHfls4nl0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sdHfls4nl0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sdHfls4nl0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-05-16T04:17:16-07:00"
     }
   ],
   "nextPage": 7
