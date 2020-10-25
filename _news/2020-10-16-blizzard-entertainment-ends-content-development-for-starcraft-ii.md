@@ -3,8 +3,8 @@ category: news
 title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
 excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
 publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
 ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RyTg8e9jybJYCcQx8VCCTpL7tm19L6TVJpgQR1CIk9bmo4St13USo/T4JMe4nOWG5BHrINDXUgs4ekRyvzrMefJ6pLDnGhOcqR5Hvzd3ztVHWRUQ9DHtxzlIyimuJlLBGxCgc5a1aNy6N67NdaglaSSZAw225CUA1RLp3Z/XH3kxP9RfpKwAzqM5SQz4wlh+h8RiUXTD3vOiXsr9FNl/JP8JIRPftb30mkS1/qmcbA7dYstdLg6hCA6KCz31DkhDpESw5/zV252yGLR9Ey6QzrctaBxgQ90FcUVENhJsNZba21M/llZDa4JIedm+tYYtCRP2MdnZQGY0xCFmuWo6EdvdRk1QLNyT30RB9mox1TJSEYh7IKcqYC260cQf96BFZvGpN4d0U2jskH4VzY+LjJkkCndWZw1XDV+GsPb+ct3AalwK3CHNQB4APh66iSQg4aWXeY0cubVwoORunNPjrH7PmVPhB6q91hFiT7xIevMdI3Y6kZmRas1omsdjtZdJArgaO5BUPDG74ek/ECzB2Q==;vYKPVLaiIrzTXbMi5tx5IQ=="
+secured: "qyuzTj9g69KumW0QUHi7kWR73NYDSfswkuuTrMpiezC28VYH3+Vzit3Mbw2/RILF9b730rlZfROR70qui/JcKV3EyL5tHzd7FNKdoDqwzdnm0F1Y6ei/vlvkttHuV87p6Rlh74SmdXLJOR9+Mldlkn2jUBYo2il8FS5weZLhVWgpT+2IglbDavCf5ig+QvsxSloPzDlxKDNekY6O6gpq6XJ8CXtR2ZA3M89+CdLWpxMDCGfrw4+LbdQJTJMfkhPJ/N5AlZAY1+//qXmPfGOwJBnknu8H8dAMC3UuXKJPzRl1qouyTxXQHhOuMejmYIJ2Wf2bV+v6Yq0Z4SHHZFiAkiyXly6Y9cLmfVtHaH0xzvo=;S88CycwSQQzV2EOVN/bPgQ=="
 ---
 
