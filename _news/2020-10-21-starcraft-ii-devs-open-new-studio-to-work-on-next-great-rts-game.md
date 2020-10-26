@@ -1,12 +1,12 @@
 ---
 category: news
 title: "‘StarCraft II’ devs open new studio to work on “next great” RTS game"
-excerpt: "Blizzard Entertainment might have ended content production for StarCraft II, but a number of the game’s developers have banded together to open a new studio focused on PC real-time strategy games."
-publishedDateTime: 2020-10-21T07:13:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282"
-webUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282"
-ampWebUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
+excerpt: "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games."
+publishedDateTime: 2020-10-21T06:26:00Z
+originalUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542"
+webUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542"
+ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
 type: article
 quality: 57
 heat: 77
@@ -41,6 +41,6 @@ related:
         height: 622
         isCached: true
 
-secured: "jBo3MtkjitYvBHzpoRWdJLXBMoTeK/rA5SDrX8P014o5y964MQKLe9FxIzAvw0b2aTIKlaz1DtX9MDfGfpqImlfOrBmxVR2mN37jbozy7bW8yuP+qGYEkOUsK9CriiQKnqNDe7godUu8ExkfsXrmf3YBFsfLubEjSngoOGdEp/RdU8YzwKNN8ICUqTlqKYCv/eG6psD25XV9maibgP9LZeCIoLFHkCa+hnVTo1D3t8vmBOPx1zMQfpD8E+xEFyvj/PNFgYuXSOmlS/4/6+WXc+DeQi5KeJEFh5Q7FGNZC0Vx1dVXa8fsoC/8WKIWyMgXW0GD1bkau+I7qg8L4OHM3cE8VQPsJF+QfUI/VbpVGNQ=;C/VyncJMQKujIyJ/6KXHIQ=="
+secured: "0uOmsz5Eh2xqwH6Kyif++RuWtzCb6atH7rywV7Wj3CnWYALJZ0sHiSKvRkwuMl80rDwvU6lu2sErKBRIMzObmkIKVFoUquFFDsnzzaUeVb21rajAluw+9OOgF7z06kFLNyJ3wLIb2WbJNhFDRq2tG+Jg6u9eUZNY6SIP6cLU5F6lGwyTVayOUsKSg34lRBuuKjb0MjdkUQoU1uh7u95s9t3YZkD0K6Nbn5WopDC5TNjwZeQAJi8UbNRpgyDyS6iL//ZjOuVDKpELb1psNpABckmul2R0KkpB4FY28JS1Q8rt0eIyYrEBkUkEJMKvq/DpknIDwOEI66RrAGJNjlDouj9MPHRtbSYLEtD8kqVCYhk=;H2WH3cXWRQsArVLY85lLtQ=="
 ---
 
