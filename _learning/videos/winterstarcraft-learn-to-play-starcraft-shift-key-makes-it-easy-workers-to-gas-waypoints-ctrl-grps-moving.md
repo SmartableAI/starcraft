@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M21S
 publishedDateTime: 2017-11-19T17:05:30Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7x9pHr544oY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UV4b5DHDMndJGVgNJtgnU1+t7wsAgKvLtl/lYJtKIwJoq5VV6pSsDjlA93MG1ZYbAakg7jmB2N9gqZ7+bvt3ZdTJvpVUxTqyFUnDcL+BZWeW1J4AH3R8oj3gIB2mWM9Vr8bo5fBACnOjHEEsdeUYGZPT1dxIQJpqLneBCi3IjZrPChMiGZa5RTvBPleMtVYl2dpxLBiGa0vYLHFGLtU3g9saIEhjMNKZwY4MFeBA/mxNBDe1QfTmpYc04EASWPtXJW3Eya4MvUJst1uZ/+wzVpY4bhDycPfL0o6MgtAmpYiRqojJoesG2EUdn8Oy2y/8EJQBgxLX9CDJ5rU6Llk2vF+W8jcSoAz0KCeiZR6r3LFZvcnwc4PuoAWM9QxvO+atCTZmUql3HiSiqyoWTNYRLVVuUt+RZJ5oMm2fgyiSs7c=;EP5eDyliy6TNm5WBAov8Zw=="
+secured: "/sxEGQ/TuNac+U2ic0gfFN8fXxoniF8YFKBi73YtU89zTS0jsnIxMCMckMlCgdByrg6Vq3/A76NhbiKqwAhFf/QML2Plenr6kRa8gg1uNeRyJpeG92pTe5nAlP9tCkp51M6FTZSV0il/SuYQqKW0Ib970JlPrKAkv+gver7JeC3ak+rDjycdw4MflEYXbvmGkukzkga5QJ02jb4d0qU2z9TkDGbVEvKASw9ua+2Ok227cJ3uiLQ0IeCHsRThhzV/BSIzzfTkJNveG1aBU5MEuitJ1kRbFCW0nsq7jU4AhbERNuv6XRAWkwep6r5H3IZ5QT+RWER7YkmMdzHsqDZZyx6URdEm5ahft2xzkqZ+s1e1kVm3r8LkHUHmxisXMyZfwdsd/845+ycSgeuEluAQzEx+iAJccBJ23nvQLpfd7B4=;7j+q2qDLzN1xNOJf1T8JtQ=="
 ---
 
