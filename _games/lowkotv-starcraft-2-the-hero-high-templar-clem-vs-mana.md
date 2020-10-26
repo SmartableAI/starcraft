@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=AStoNIlNzbo
 type: video
 length: PT29M46S
 publishedDateTime: 2020-07-16T10:35:27Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AStoNIlNzbo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AXoW5ytM/dqAKx+Ayi/CPtUxSn5LirAqVDsAzI90RiRyQsOueCx3FWEMDltBOTUHDDwL5HDLAaoDQ5ho+1gzG56O9ti7R6/hT+JOUSg7ln9ZNHR/UFOCq5JokIKihgUIShDkrgwBSf0J+Uj6ekbCvULzK/cFHAuP86fpNtRwzxdIh+3bVVAGcx+1WrO/yVIMnWCMs5WZFBcfnbueqg//rqnPKO17/LWolLjzETuEdFCB3b67564LyULo4Te7Y1isujZmVgF7e8mnOacaKEvlWbUhc0jARSEKoJ120tTLB2wDhZk9kyugQ+1lHrxgFBvPU7lOuOc5BUSqkYfG0hHF67wlXUm+w9sUBrp0gCbJP9/vsS27za4CW6HVBkjN8692qd2QgQP3nThD3BxDQav0sEnbn+hc7OnEZ48qoFYv0oM=;Rtd1D+9G9/dWoEptIvT9tg=="
+secured: "CrunariJogry4ZG8uWKWXBplDuYxVcEpIiourZzMFXY8Fcz3CpvGPBMHB/k2p6cQZLfrL5zsz/4sG2j6W093YYT2iDc7+ns6c1Wpu9knbZtVr19McHEMEJfwNXvs1RU2kvV7xTKM7Gr3kUJTc0HbbXTXolcNzVV+49CSU7fET3VJmf5RJXgqChpQoUieO1ZnpxR66L7Jc7hjoLe53sE7sP+sKdMrkGH2xXuOV57k6QxuKhtYLWDtu5PpriF60cydctNxiocNPTQGZHKN9VoahuFlX2eSMydXabOMVi51Blza353UqJyIKDpNW+Hqg8Ej8C6i2ApAlRZECjr9KYj2Mi01gJxYmFvV97PLHDRlfP2XGMC+81pFjcgJ9Kn0IhpMbvWaF736mny+9mxqsXkZ1hmS9710BJwVhBlJq6E3NYM=;uQrdlUCOrPZhnGsMaDptKA=="
 ---
 
