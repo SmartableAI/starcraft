@@ -2,7 +2,7 @@
 title: "MASS Void Rays to Grandmaster"
 excerpt: ""
 type: collection
-heat: 61
+heat: 64
 
 provider:
   name: BeastyqtSC2
