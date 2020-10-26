@@ -2,6 +2,7 @@
 title: "StarCraft 2: REYNOR AS PROTOSS... AGAIN! (Kelazhur vs Reynor)"
 excerpt: "Reynor decides to pick Protoss up again in a recent tournament. In this video I cast a best-of-3 series at the professional level of StarCraft 2 between Kelazhur and Reynor, a Terran versus Protoss.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=Gvbv5On206Q
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-as-protoss-again-kelazhur-vs-reynor/
 type: video
 length: PT48M26S
 publishedDateTime: 2020-10-26T11:40:37Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UJAvID4Xv5JreLUn0PSxal076fctXHMyoqkhU19Lzho7WbVi5Uh3rBo+tfrfXD1TXo8VnL/EEXUxMhR1gBIODsrjqL5KQ8MhXpZQgsT+jgVdxNQbRdcby2ULLG5+Qm53MvmI/Tbi2ZcypKowpTpLgo5+Z2HaR28vR9SRKl7NkS8IqSmlTyrRV6oloxujhVOnztEWRjuhuymRPIAuAbyhHSAQfdJe1JoLhoYv8SpOFkmSV7OyADECjvLU8CX98UquFTB9QgSDq6VlQA6MVQADXzwpToeWenq9dZ2HYnUdp5xv0hauRkUSAne2V2Ln49UB1yv54zwGKIurstdQnrczDpjsvxv8FcAqhXc3I69Rksjc+a9zRqYGLclmlCBu5fJrNvVMbmTEp2OIGZnAwLOQew==;noN4XdiNKokrUr9YnKVSEA=="
+secured: "plAkxwffuaPRMusZWDq2dVZXsqOsi9eiAQyJgUbTtIu8F7wePSF4wCFfXG6aetsF9ik56rhOlONxk8MKthzi9dHjqnWhr7kmAQv+irUVpEMLope+nLENTABVIDxMPnzvbVJTpKBNLmbmYNzaegtkjBadncFS7fU+a1GKJhCw7KQz133HwLH3JUPCSiGHkbCTNwgFPESTacr26iZpUDjzL2PxTWTGvD449t5d0Dl+MTJfVOv6tlzgchcAYUzgOdWMBP/bcMmK6QkpWqJyz3A/tq3LFo4EY3z3H7ocy3I4NX4yVJBNG2z1JsTrqm6dgVTeWu2eu3siTgYcJXmeZxa4TrfJplCrVgkVKdveUELX/vwO1sRaN5PLuN8vlHs+3oyT;2975dSvzU5quwXXIM0aMHA=="
 ---
 
