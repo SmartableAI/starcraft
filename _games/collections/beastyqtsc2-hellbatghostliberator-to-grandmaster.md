@@ -26,6 +26,7 @@ items:
   - beastyqtsc2-using-hellbat-drops-in-terran-vs-terran
   - beastyqtsc2-imintrouble-beastyqt-vs-stephano-hellbatlibghost
   - beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran
+  - beastyqtsc2-that-sweet-juicy-grandmaster-with-hellbat-ghost-liberator
 
 topics:
   - StarCraft 2
