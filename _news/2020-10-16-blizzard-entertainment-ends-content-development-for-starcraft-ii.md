@@ -3,10 +3,10 @@ category: news
 title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
 excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
 publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
 type: article
 quality: 57
 heat: -1
@@ -105,6 +105,6 @@ related:
         height: 600
         isCached: true
 
-secured: "h5KBy2jPeAENofd6lJyP341PjXxFDIJzWVd2SIEJ4NVlZOpQgsX80mU/T4L3bxmlwJ72VwdVdcdFppBV4v4P7WiVLTj2HukPfYLrLtHVMLqpeJAsZDhto+JgTLSOatOZzFWSxaSqQ2K3yLjSedX+jbFZ233nrpTIenpojLhbDfAjYefXUOXij/MLSXs8dCodKt/kTbiV4JahAp/WmlL+XD/SSpX34wTzgC1pgVDl/+Iub7ek7XFmLFoSxFIwWM4HcR/x4NYhX4dq9kPlq/RL+6r+4B867RqfuBClcDf8pZKGxDmocogqiT/G+cA9UK3Ek/3dhC9rT54g6+s06/XXtdYT3v9oMvJWskAjpjFk2PG2iN9dUeqccFzuTWJaYhTqMv6NWr+vmgq9FsVYvIZCImAsfqjoDhy5v3Iko1a21ujZn3crZNKDJYO3hJqz5KDPNblKSYJ3tdnvyeuYMBXOyIXXN8HSR+wPAVsbOvE8BxUOlSv+Zrh07X6myG7Iz1tG/I1dqnZNXdCt0Gm4s8kF0g==;Q/ZOUfHs8vLKXpknQCGJVA=="
+secured: "nngpXCBR50w+vWj1DMpa2vgNGX05xcZrVmkwamKryB2ZyVgL5UbvwMyFkZ3j7lX+sFO3uC6485HSGodkGcRcJGilfBU9RB0NYnakL7FSXnOSCvfIlOLTtyMl4xurvbgyFim+yW4bpG2eSfkioRiZ/2/0zS814bVWmah2X3wujgHmfxq9SldiR/QrXTSUpsx1j+0gzdScC6nFlMF3VNBG5FVkNHAFj6eOG5qGu+8dsfhWM+bBFZpd2o02KzQVpCPXVdljJje2QNGjhKVgbVQinjWEEvnpmVFaXQZcV6AJHPibxecksgibGiCjvPz7l3HZDkLSM+TOcZ5QMdbLIjz/uSL/E7ysu21y5bO1+YaibTY=;+rNftXA5lOaFaXoM1YIukg=="
 ---
 
