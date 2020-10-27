@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial.md",
+      "title": "Defending Terran All Ins & Early Attacks [Starcraft 2 Tutorial]",
+      "excerpt": "In this Starcraft 2 protoss guide/tutorial we learn how to defend early Terran attacks. After watching this how-to, you'll feel very confident against aggressive terran players!  Starcraft 2: Protoss vs Terran | Defending Attacks  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-defending-terran-all-ins-early-attacks-starcraft-2-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=GV9e9WOG4dE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GV9e9WOG4dE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M16S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-15T19:10:50-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GV9e9WOG4dE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020.md",
       "title": "Starcraft II: Protoss Gameplay - Ladder [2020]",
       "excerpt": "Hey guys, today we're going to doing some Starcraft II protoss ladder gameplay. The starcraft 2 protoss gameplay is in the 4400MMR range as I level up a new main account. Hope you enjoy!  Starcraft II: Protoss Gameplay - Ladder [2020] #StarCraftII #Protoss #Gameplay   Coaching --------------------------------------------------------------------------",
@@ -623,6 +654,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-chargelot-dt-vs-6000mmr.md",
+      "title": "Protoss vs Zerg | Chargelot-DT vs 6000MMR",
+      "excerpt": "In today's Starcraft 2 lesson we go through a protoss vs zerg game against a very strong grandmaster \"Ryu\" who is currently about 6000MMR on the north american server. I play a pretty unique 4 gate zealot-dt style which is very close to Zest's 4 gate adept build that is running rampant on the ladder.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-chargelot-dt-vs-6000mmr/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-chargelot-dt-vs-6000mmr/",
+      "originalUrl": "https://youtube.com/watch?v=RG4kz4RSEIo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RG4kz4RSEIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M27S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-08-03T17:23:53-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RG4kz4RSEIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2.md",
       "title": "Protoss vs Zerg | Example game vs Grandmaster Neuro [Starcraft 2]",
       "excerpt": "In today's Starcraft 2 lesson I go over a game I played vs a high level grandmaster zerg using the double stargate phoenix build I showed a few days ago.   Protoss vs Zerg | Example game vs Grandmaster Neuro #StarCraft2 #SC2 #RTS #Protoss #PvZ #neuro   Coaching --------------------------------------------------------------------------",
@@ -713,37 +775,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020.md",
-      "title": "Starcraft 2: Terran Ladder Gameplay [2020]",
-      "excerpt": "Some more Starcraft gameplay for you guys today! It's 2020 and it's time for some Starcraft 2 terran ladder gameplay to mix it up.   Terran is the last race I needed to grind into masters so the next gameplay video will be against much stronger ladder opponents. Still, I think this terran gameplay will",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-ladder-gameplay-2020/",
-      "originalUrl": "https://youtube.com/watch?v=yCBRHiAlvv4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yCBRHiAlvv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M49S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-12T16:22:54-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yCBRHiAlvv4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
@@ -969,44 +1000,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
-      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
-      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
-      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-02T04:44:42-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
       ]
     }
   ],
