@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=zvt4Do9n0vw
 type: video
 length: PT33M16S
 publishedDateTime: 2020-05-21T15:03:54Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zvt4Do9n0vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "huEpASw8ZbG50he31yitxDcowhtTubkfbvRirSXZJNEv2LRg1aQqQr2o0WB9pwTpEYWC7xxzucUhzie301zsp1Hc76TlGnfAKNZX8BZ3q6DNbWHUxSoGT08yIV8N0iACdFczfAFOeud1MBXhSTaI0+T1ERE6DA1NmnfGpkfwvDIUAgU69KqxA4E+ewT+DJzlmjRIPqDHku3TZtu0eowf6YgqiInkE2Ivq4Ru0HY3EX6ss/QCP28wdPtUhQq/RkJ2l2mUK9mgvdF6VSVXj77bnrU8H0WRp3/iviTDtJrQ7stwZS1HbqlNBD5y9A3U5dPLDSEu28dC9KtyOyErioHKuu5oXoeHQsiYDXwJ7DIOjKEq0SAV0kGbfKGgfvPF3RBFbksVU8O5+RCG1+5O5N4s6c0Kk42dJfdywHEatl99Pfs=;IPmOoicAQQ6/WfpFWp/NBA=="
+secured: "aZaqFXEjaVjrnZDzTvlAu6yJVY67WT/SRACR2ziSJVGqwUp9qqgiGeirqhywtn3Q2b0bpYIyyXYfirJScN5oS0D2pHJhQpAiL6xmX9QErdgP3RdcCPMrTkTdGyafT1docO3SHAJLzIInbkv0n2E+BhbP0zHTWQIgvIqJCt2py47UxhrturDSTMsCc+v+hZclsvJZW/3ydEUATk/6GRTnXRaEXTU8qixDq8P/Wjcex4rmvyjSr28KfW87/3k488thOexrM/PaPLxwnI5Oc+WdaBTytMfmPfPsZbCEw6YhmxLdWXVVnXSIOU1EnKs9uPNAiInaDXfD4/IxMHE5zqDYgKfyTyrTcRKqkID5/Iug8UxbtkVEb8NaArrbs4iNkiVDpW+4MZc9L9cDTHK0zbTzdi14gZ5vaz1FDD2zn/UC3LY=;SfBSalXaFeTtaxY29QkiwA=="
 ---
 
