@@ -2,6 +2,7 @@
 title: "Starcraft 2: Protoss vs Protoss Macro Game"
 excerpt: "In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website!"
 originalUrl: https://youtube.com/watch?v=gj0bdIiDF70
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game/
 type: video
 price: Free
 length: PT17M36S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yJI9wFfprve4PsdKh2gtCPzH2BrsaNAcuIt5D2NsqGvYBfNoW9yH2kaeZB57DNheFjKrcSs7WH36Y288uyL9edqpw/wqwGCWngMD5fHt3ocF2VNjvf7cU2WXjKluRupTzI4Kvq9U1cTfYdBTIgcLwDQPSzqKrm7EMcX8v8Wp//WySny0BgddUFjXvAzIGJmcpmlm6ROgqmpRi5VogtqMBeJ30u2y6naL8YxSqYal1TgMXIhkVENvrWsXqX7Oc4vNENyd4iupWEyQJ78a02KVdNROcOpC5QfICYrpH5wmQrh5TdUYEPZDccrFqSjsQW14UkYAzx/M5S7IKPD9pWluMj+vdf/BGjNrQUZwWmqwoW1OQqI5gs1T3WTe7ANzp/wXDLQBKINnAiRu36ddjtq8WA==;0yvVlQQrKkjkrfSIjxrdwg=="
+secured: "Ez6FWW3Bz4uYujJtXb0ekXFjwnGuBQtxLC1KJh/S4zZQMwZtA5EkSieHmIrA99/jUWMaVr3AY6I2DxgNQL08MROYfUfXJ1JULbrE1d2JPhuXDOoDI35vENw+0vy2FKoYAufNVSdhlBAmoqE59QKWrRlpHjfdJRxA8dt5epn9rNP5EWxqdJ+sVs4ygW4llJgqPbNGZucrrboIz0TfMF73cTsE9u3y/p9Sov/ShAmHul+hgUQVpG7S4zTKQxkzXlKR3BQildbvegnm4XqVz72g29ZGn5eyX54X937eeuQ6tadRRk8loJM0YNcxgqztlFNJEyul8D4nqySHqKK8pwys7zHlfgE/nYLyWgzT1ZmitVsakU9bS15DjooiZV2+6scApWddGAmQmxxcKvaLo1E5Sw==;Hp7AZHm/8iGfOMRG+MPiDQ=="
 ---
 
