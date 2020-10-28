@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-u
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
 type: article
 quality: 177
-heat: 277
+heat: 257
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘StarCraft’ and ‘Warcraft’ maker’s take on gaming addiction"
-    excerpt: "Blizzard Entertainment, maker of “World of Warcraft” and “StarCraft II,” has been blamed by some for creating games that are so addictive people can’t turn away. On a recent trip to ..."
-    publishedDateTime: 2020-10-08T21:30:00Z
-    webUrl: "https://edition.cnn.com/2012/08/05/tech/gaming-gadgets/blizzard-gaming-addiction-statement/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2012/08/05/tech/gaming-gadgets/blizzard-gaming-addiction-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2012/08/05/tech/gaming-gadgets/blizzard-gaming-addiction-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 57
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/120804093548-starcraft-ii-world-cyber-games-marineking-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
     excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
     publishedDateTime: 2020-10-16T15:40:00Z
