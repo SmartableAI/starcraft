@@ -3,10 +3,10 @@ category: news
 title: "Blizzard Entertainment ends content development for ‘StarCraft II’"
 excerpt: "Blizzard Entertainment has announced that it will no longer be producing new content for ‘Starcraft II’, but will still support the game."
 publishedDateTime: 2020-10-16T09:58:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127"
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/blizzard-entertainment-ends-content-development-for-starcraft-ii-2787127?amp"
 type: article
 quality: 57
 heat: -1
@@ -105,6 +105,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nngpXCBR50w+vWj1DMpa2vgNGX05xcZrVmkwamKryB2ZyVgL5UbvwMyFkZ3j7lX+sFO3uC6485HSGodkGcRcJGilfBU9RB0NYnakL7FSXnOSCvfIlOLTtyMl4xurvbgyFim+yW4bpG2eSfkioRiZ/2/0zS814bVWmah2X3wujgHmfxq9SldiR/QrXTSUpsx1j+0gzdScC6nFlMF3VNBG5FVkNHAFj6eOG5qGu+8dsfhWM+bBFZpd2o02KzQVpCPXVdljJje2QNGjhKVgbVQinjWEEvnpmVFaXQZcV6AJHPibxecksgibGiCjvPz7l3HZDkLSM+TOcZ5QMdbLIjz/uSL/E7ysu21y5bO1+YaibTY=;+rNftXA5lOaFaXoM1YIukg=="
+secured: "tVq2aEZ3cQYVnTLRtxbpeXwpkIunyDrMR3iyuzMO5UvaC02yYEpNAZgsb1tmCMunBckzdLF52qHh9+qBgL1+qbbUpVZ6eofc5DNYoktBY9pQo2S9tgoitWMC2uHWYf6BNo68xND6BdUbqD8nC2QGrZmza1wQyboWt9prtEwHJctF7aPPJ+bJ1TVXztwid3qyc6/g8D4f/ceHmfdbWG+jSzqxG+YhjJepVa3KQ9mtsplaEqTvC/phE3KlOFscg+x8MiU5JY68Znae5JjBx5QjRp+syOr3/GJuZGY8l+YydeFYhfnmTzJpkTPkN7ICvZJawBskNtBOr1fs4nVjj+8lg7D1RV3FV6tX8j7hiYBnUm4=;Tbi3AkAj1U/zZw5qx/GNeg=="
 ---
 
