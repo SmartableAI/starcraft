@@ -60,24 +60,6 @@ related:
         width: 808
         height: 455
         isCached: true
-  - title: "StarCraft 64 Forum Topics"
-    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
-    publishedDateTime: 2020-10-09T14:00:00Z
-    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 17
-  - title: "StarCraft 64 Screenshots (0)"
-    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 30 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
-    publishedDateTime: 2020-10-09T14:00:00Z
-    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/screenshots"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 17
 
 secured: "lZ7Iuebwx/cyelUhS46uUkBTu9lOduwPLH5S2DL5d/DkDV9s5KG9tqroStg1/IUM8YkYyYSqQXCs5SjYyEcitoFBwDZGHXupW4ImRo5v7bVgxmWlFGT9Eg1X697XVvP6d70uj7CI0h4cc7Nmr7iKmdqbeXnv6AshMjiJAPD/WZ9bC0DagFWQzIDrBjZV1fdPe9FAe02THZ6MItV9EvgXB8JfaMi1b3mD4GMk3bD8IzB64HNnOnPbSZSqp1DvQ7IxSwFwNNAB+odBDlqHVao26PiBn7GfuJtCT8dbUF7FUPBaOsHs2hrlhGy565RD/zrHMrWPbhISIX+O7hO8NSpS2TOk2/rLs+FclTDC3C+I/F6/tDYb8D3ZkMIv2cnuZT1thsJskAiGz07IBrnlIGb0izGM1zs9kzhZOjGezrGTwqG7bM/q3UyOI3XOk59lOH1T7A0A4+gqlvBKu/9kEFRbgeiL8otSqFvMh1qxc917yem+Vkeu38Xo7XTgPf810i4D7L2DOsX55ZBGJjOF6G36Tw==;kkaqnsK3V9sl85XyQ128RA=="
 ---

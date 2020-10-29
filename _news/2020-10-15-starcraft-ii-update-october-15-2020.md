@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-u
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23544726/starcraft-ii-update-october-15-2020"
 type: article
 quality: 177
-heat: 257
+heat: 217
 published: true
 
 provider:
@@ -60,24 +60,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "StarCraft 64 Forum Topics"
-    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 35 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
-    publishedDateTime: 2020-10-09T14:00:00Z
-    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/topics"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 17
-  - title: "StarCraft 64 Screenshots (0)"
-    excerpt: "Animal Crossing: New Horizons Update 1.5.1 Patch Notes - ... 12 hours ago Does Nintendo Have A Handheld Future Beyond The Switch? Y... 30 mins ago Random: Animal Crossing's Stalk Market Is Turning ..."
-    publishedDateTime: 2020-10-09T14:00:00Z
-    webUrl: "https://www.nintendolife.com/games/n64/starcraft_64/screenshots"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 17
 
 secured: "uMXJEL2eQhXYKUL4C6KaPf/ltNwVAX4amZXaVxWMubypbJnVBr3LHftHtHopAGft7HhRaG+oKSqrfhSQHUEVjAJBtKbMMaov0TkuB7tIgDBIhEScj2xzfUFdZdQTHrVzX+y1XRDybkL/EoeAp1YXkIIElkzID0CSu9OO1IDeaH3LJVCT79dpEXS4nlLlnNlC98fKlO8+gx/ucTG/IIRKgDwwfU75Xp4VqUKqt2XUsDVAstuHZDpeM7fM66eZ7B4YSO0CFdNvAJopQKYfumXtbMcMy7jAhfYV4FzFOpmeihySVv1n5ZHbsfotEpRfH7LDvA0Vhj1GS/hdWPQtUlrrENa77Ov3gb4u5BTVGa2DX10=;W2jitMv9YAjqCj/lwf01oQ=="
 ---
