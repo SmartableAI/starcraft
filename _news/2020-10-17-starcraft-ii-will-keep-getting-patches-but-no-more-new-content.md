@@ -96,6 +96,22 @@ related:
         width: 1422
         height: 800
         isCached: true
+  - title: "StarCraft 2 development is winding down"
+    excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."
+    publishedDateTime: 2020-10-22T15:45:00Z
+    webUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 57
+    images:
+      - url: "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
     excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
     publishedDateTime: 2020-10-16T15:45:00Z

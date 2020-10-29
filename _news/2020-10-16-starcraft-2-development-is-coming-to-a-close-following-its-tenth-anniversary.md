@@ -104,6 +104,22 @@ related:
         width: 1422
         height: 800
         isCached: true
+  - title: "StarCraft 2 development is winding down"
+    excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."
+    publishedDateTime: 2020-10-22T15:45:00Z
+    webUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 57
+    images:
+      - url: "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
     excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
     publishedDateTime: 2020-10-16T02:08:00Z

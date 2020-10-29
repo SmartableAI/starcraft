@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Blizzard ends StarCraft 2 development ten years after launch"
-excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
-publishedDateTime: 2020-10-16T18:16:00Z
-originalUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
-webUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
-ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
-cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+title: "StarCraft 2 development is winding down"
+excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."
+publishedDateTime: 2020-10-22T15:45:00Z
+originalUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+webUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: pcinvasion.com
-  domain: pcinvasion.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -72,6 +72,22 @@ related:
         width: 960
         height: 487
         isCached: true
+  - title: "Blizzard ends StarCraft 2 development ten years after launch"
+    excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
+    publishedDateTime: 2020-10-16T18:16:00Z
+    webUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
+    ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 57
+    images:
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blizzard halts development on StarCraft 2 after 10 years"
     excerpt: "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be"
     publishedDateTime: 2020-10-16T19:16:00Z
@@ -87,22 +103,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
         width: 1422
         height: 800
-        isCached: true
-  - title: "StarCraft 2 development is winding down"
-    excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."
-    publishedDateTime: 2020-10-22T15:45:00Z
-    webUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 57
-    images:
-      - url: "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
     excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
@@ -171,6 +171,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "bGH4Ffmnr1uJ7ZiuIL0+X+z2JVSGyi5aV9Qra48BWDyZjjs6S4ZlKal0YWL8LnNZrzJ5fmxEp526sf2WACHGqL7kMYtr6VpoaZllBUujTtmVxO6CUIx3uKb4WYAO5Buw8SZ8nHCvzVnJzBYhguSDrs9JH1bY7MOMM+OGojEJxYdPuZy9ITqvpa6mkRMmilPQgNgzmHdaVlLbp4kqspATDHvnQ0zTHVJhfpYSMy1Ox1wtxEN4CXbXaMieLbWRV0OE8J4qnpoFDdh0Ps4zcPmGM278DSh3HSnIaWPlJOcgoT2jTbJ4MvxWYIzNKx+dc1ncjfAJ5REqjGFTLkj7zFo5/FlUYACg4jJIRTHbRuoRv6PqPknAUvuhWSTmWienxXtfxmipcFO/nT8xWyOIySB3DSM+Dcua/BQBN2VT8Z4dUdJ+ZXYmxdd02gyKb7cDAULgu7v/OeByIZNBGXR3pGkAx+hqipkDQT/vSgCOsalLBcsLFVhPyvpBW0f3P7wrDukemPl6+0vqWcOzxwRX3ki1NQ==;QJchHox/mHnKgmhAviCVhw=="
+secured: "fjyViFHayii8saVpbcQI8i5HUGDCbJk6ocH69brhYas71AfuPP+xl4OFbmM6TGOIo6FdkbGV5qpqvJPFhtaBZwUzkNV3NdK557tsZddITWAiyANQoiirP1u53TaqcEo7uCojdAl8oczmp0Xg+77wvqaKFqAFM5nxjMjgKbdLp8cQ4uS6AD2BKYFSQSN9tmtuqrpJfX1+x1pJRytR5fmoQPUdPAB4oDeEaE1l1UjtmF9JJ8Le8KDzQDvyfqtug6/JhTKrTiy3LHx19Rl6CWJq6mVtqQAUvIUNxgNWFX3SI0DP9g1T+EeqjxSMznOmwf8+nz9+BybwME7otJpiIaLsew8ntjVNbnejy2ucCjmiwyk=;7fuc9d+BniWkSpaOWAKSug=="
 ---
 
