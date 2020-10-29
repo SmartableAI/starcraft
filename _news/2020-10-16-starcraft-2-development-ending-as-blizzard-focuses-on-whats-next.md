@@ -2,11 +2,11 @@
 category: news
 title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
 excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-publishedDateTime: 2020-10-16T02:00:00Z
-originalUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-webUrl: "https://www.gamesradar.com/au/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+publishedDateTime: 2020-10-16T02:05:00Z
+originalUrl: "https://www.gamesradar.com/uk/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+webUrl: "https://www.gamesradar.com/uk/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+ampWebUrl: "https://www.gamesradar.com/uk/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
 type: article
 quality: 57
 heat: -1
@@ -75,6 +75,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "GrS5LCr+w+QP7jdEOyepyr00b09eEzEdNhKQV27ldjT3Nxnxu1H5hGzoshgQU/ctMuAEf6SptosKbOfbs03lWYBSRRnTnAicmHe3wSezQIVMMXnkNg83gGoIQSoj6McH9uIe5vhEQ7Xt6yXoMsQHI15d08Exlf5nOCxuLa2B9qsQpJe/vMCTU8NIrXn2sbOhFMxWJltpgPA+E+kDdSJjt/5br3GGjbwdEYs0mzfRGwwJyQkQswZ6wgE6FVI4dt4FuIuHbrmGwv4tX62NoKKr3U2q4oEZW4XECcp/XEj5D7U4SvHtF2DiAfYvsm0JFDgXHbZxhuXzp9Dmsdi/PR61y+fuD69g2iZ1lMGSH8+bjpA=;/nTpl+SuyDsL08rxgjRwyw=="
+secured: "i1pGi5rtyPuXo7JBiyA4YIqvfr7VYoAVPKQU2EQOqsDzAyihQFjXV801ZaXSu4qDaPDnlhLa7ma7K5aUQe+SYa8JgKK2HILvCq71/0luXP+sFoxuKGQSffyQW/g/wsQ3qVrnQC3cYYnkrtbVsly/1BfvQmHyJHAL3QCqOUQfMprv4XbofZ+veS7GQbLWF1qldjC4ra6zfbTy03pYhRu9KqeygFAVe9Ivq7D6+eD0ZnVArONY39pmOPyvhiStlqfeo3W09IsJq4DwWgzqEhuGsqcBDfsfiEmDhShvWZnYy1ZftiPprtxLx+z6CX5upp1O/dgMa/+2P9ECzR7JHr8trJ+2hewz0u3SNfcEUt7vkUE=;ugJuEviO9Yo7072i6VSOUQ=="
 ---
 
