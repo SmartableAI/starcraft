@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-proxy-factory-insi
 type: video
 length: PT37M48S
 publishedDateTime: 2020-10-25T14:20:48Z
-heat: 140
+heat: 133
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yp5E5IIAemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KWJ7+EH+8D2IDfHCrQ1/xIHbo50F9jWtc4Bu3DZHvFhFBPL9JwGua2bsK14xNPTNDsblBRMIkN9LRMh77pfXN27wq4r/B2FT1LZUlo2VhKxD9bFhne7nTpq4atY2ac9D1rbOtXrVRCUxIGXREZXLTGJJPbiJm9Wr5iio5KmEnV4uX3606EGZTIqNxAzosL1KPCOjbMGYqAHeDCAiJtj+VxSi6v6WwjQxJVcTFCDSaL7KUJq9jqEmijRDRGUagxcnZ4paTCim5sG/ZqU9Fo37rhBNpUm1cXyZ+j1bVKRPdxrivqD0sALetQKwjH3PVejK7BD95rB8avKJ/O/zx/uBF+UB+H8q049llZ6NDL2HMsn4yHLp6CG8QJFXg06PUWFNlkxccdgcswpM9nf4dZbI5eZ1FmVl/gzgxoTT8d8Axnc=;SMdKCR6XD3joArQKUbhDLg=="
+secured: "VU/CWrea2orL9Z5+WMZhIpYWEGBdnBprysiCsEMKgpi87d6j/e+D2DXFj8iIlIE0qpooBOh+BahjXthJ9bK4L6fPU3HnjxEzVhUrJBQmXqXuocWM0cRFzb7eMysm4k4hDWApS6/haMewJYlZE0qKRHA4ztC0LDmXUE3p1m1t5goZfmm8DVB+yZZsM6/WUlg4w9ZaZu1dmtyrmWx4CsgZ0lfQctcYNdnYHafmqnoVhAKiLowRgE7QLXIQbcnaVy5BXW445KZf9bB3mWTQ8qCDrB72mxEzkzc7FyffvlJvKisgP17ehW+L1PzqwHqjXa0H3Pej4Q40YcsU+dgDd4ipYolD2sgG6ozAHhb1SQcf+ASr7xYUC6+lZDiQE+BJ2eGWCSvWgE/qRITvxtfvAXWtIUrc33RFgW/9IA8h+Z3M7kI=;Sq8xtSNcUi7vkPh3S0z4Qg=="
 ---
 
