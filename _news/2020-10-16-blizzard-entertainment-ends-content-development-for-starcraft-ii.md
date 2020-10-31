@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
+    excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
+    publishedDateTime: 2020-10-19T13:02:00Z
+    webUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/10/StarCraftKerrigan.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "sOttXrcUmdV7W0xq6UBKg4jvUPpIPMKLSVZoBnYD3Hoq3elIxPfva/kvaT7CmeQr4JYG6LfJjR3DAFhUW3qLFR4Un5uSQj4igOwYH3agCy1AcgHFJVbJN/PJL0NQjWqVUORwC18V1ZOVtBOR64o89CNjONUQB4iS33qHi/fqeCt6Ygm8Hrkl/mCzw8GKRLkgQWx5+jOynEkXS+L4hcegQiIuJqRwllsKA5mHtK/ba+V2xXSd9j6SsLRcelHq+S5ERiogfga1F9zlrJVUZpe41XNWIj5p1HzFaL26i3td/8T5OZMpErZp6517NRhSLbfoIp9SaTSqeXkcTLwsCektrGlMlt6sjoPD3qR09BYvNzCYS6jzWZ6vXkOox8NVGzSZd5dF7VF/tdOl89NhZuseROzCAEWXnTaLpuQ7cbxpA7VEXCTf7+lo82LO3mFxPZ0dFms5fxkZq9Fyx7DTZKSliu1jZkiM69RJ4MjREQ9m7q7NXBBxWoEtnRLmINnyfVvjhxQoN2A5oyMMYdQL9zuvXw==;LRzi0khv71wgWBwPbpmgEQ=="
 ---

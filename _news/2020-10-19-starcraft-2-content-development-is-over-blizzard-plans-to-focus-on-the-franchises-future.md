@@ -1,28 +1,26 @@
 ---
 category: news
-title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
-excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
-publishedDateTime: 2020-10-20T16:32:00Z
-originalUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
-webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
-ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
+excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
+publishedDateTime: 2020-10-19T13:02:00Z
+originalUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
+webUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
 type: article
-quality: 53
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: criticalhit.net
+  domain: criticalhit.net
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i0.wp.com/media.criticalhit.net//2020/10/StarCraftKerrigan.jpg"
+    width: 850
+    height: 478
     isCached: true
 
 related:
@@ -90,6 +88,22 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Blizzard no longer developing new content for StarCraft 2"
     excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
     publishedDateTime: 2020-10-16T08:06:00Z
@@ -104,21 +118,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
-    excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
-    publishedDateTime: 2020-10-19T13:02:00Z
-    webUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 27
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2020/10/StarCraftKerrigan.jpg"
-        width: 850
-        height: 478
-        isCached: true
 
-secured: "eKezJmXi8AgeeHLWm0zryn5CcAh0Oa6vm6pRfJzc0feeV1JycChunChxV7gC5lnaWqa3SV711Lg4jb0kgd9BW8SP41wVouaTTMVAc33iceVHOThmyzzTZHeU4dfBbQnwfE4H1EQkoGi7lf1n/PvzYxy5Lk0uWpVVbn0WeJh2/gb4OYNZRT4Hz8AENfD2cIC3NytZzK5Rbfp8z4nwuDMH5ZBp7aBJJLAAlB9kg8AG9/8bUvaFdo+Qj7/FYIftIFnSQ1CBpJ1uFUK3tnOzPHD0C87qbA06KCcr4Q5u60283lxXRgX1OZB27ktF8uAYl0x50jJ0sVODuhXhWifnA7vVKLjreS94ISm2X80wMEdkwYGamP/AM2ET1FYv1G40VHaxssWhBltnGMiXnOY7emLktu8olAyOzBl20B5j5BO+UZ7K9tRFwxTWsfCtzwbNOCLsrjArwan+85LV1QfNGnczRlZMleNv5AvEdiqodg9qoiZchPONNJJr2lAJLfs17bRPXCBk/HnR7CHggcc8qp3Q4A==;gaCKAGxY6q1u2MpNMb9ESw=="
+secured: "a7Aq8cRosOVB9mAgs+hJWW+gkDHcpYpYhhhlYQzb0gSv6G6YSAmaOD72tVto8yX2qqaH0mppd42odp9kFBh39L4VwVBKuVK6mU7tchjrCyXenusL50dkQI5BuEjxLl8b/2Li/J85cp3imjtoT1uqr0MT4xhSIHYa3TjnAuaOjjUvrozDPxYc08PM2SeYo+axiRbqpXHUjJa12BUHjdFl/PF6i6XDWmqnS7N19Ucg8q5ykO8bW34j3jZ/5EioLsJ9c34BBXfKjbnrTkXsbjhQBw2wF/wDqVfXVGRpYccGqyUVev/bxf/e+VYLf/wQDF4HIhdcc6TkIEj77z5l3Dl8eMJVtroDptx+XsNfQxXwfW8=;3yab+Nonj4yPy4HgPyMcFg=="
 ---
 

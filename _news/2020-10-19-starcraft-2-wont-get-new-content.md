@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starc
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
 type: article
 quality: 97
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
+    excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
+    publishedDateTime: 2020-10-19T13:02:00Z
+    webUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/10/StarCraftKerrigan.jpg"
+        width: 850
+        height: 478
         isCached: true
 
 secured: "waB3sitc2ZEMebFP2C2LKFklAEiqwKo9zh1UGI/i6MY8Cev7MuoL2YepulTxFSI/PE/l1hFRl7IYgeJl0rlSV/vhyyozLIGgQKJaGI2KGtJN7+ODrlLF5MoRZHAJibi3+Dgq3ZINxUutKq1a+8vsaov5VnDf0bPl5vp/NxnfuztpwYnjEgfeAGkkubfnuk1NVf+KCDeuc3mmugykxsBy7Kr6VfSadfkXKw7SYIbkbana1tT0/YKlgfqM54E5IRX0DjGxRzSlWmDI6bbBk+VFrdTHCHmMmoy1TOo9Z6HmdYPyydHTYbF/CSivxTynyOH/rXhV/lO4aBMpg/XnKza+gE7pP1lTQLU42mfm1LfRpU4=;5xiV9SFsz437T+0QR7AKDA=="
