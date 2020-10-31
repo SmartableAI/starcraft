@@ -118,7 +118,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Starcraft II Will No Longer Have Paid Content Updates"
+    excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
+    publishedDateTime: 2020-10-18T03:07:00Z
+    webUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2017/03/nova_starcraft-1280x720-min.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "a7Aq8cRosOVB9mAgs+hJWW+gkDHcpYpYhhhlYQzb0gSv6G6YSAmaOD72tVto8yX2qqaH0mppd42odp9kFBh39L4VwVBKuVK6mU7tchjrCyXenusL50dkQI5BuEjxLl8b/2Li/J85cp3imjtoT1uqr0MT4xhSIHYa3TjnAuaOjjUvrozDPxYc08PM2SeYo+axiRbqpXHUjJa12BUHjdFl/PF6i6XDWmqnS7N19Ucg8q5ykO8bW34j3jZ/5EioLsJ9c34BBXfKjbnrTkXsbjhQBw2wF/wDqVfXVGRpYccGqyUVev/bxf/e+VYLf/wQDF4HIhdcc6TkIEj77z5l3Dl8eMJVtroDptx+XsNfQxXwfW8=;3yab+Nonj4yPy4HgPyMcFg=="
+secured: "Mm+j73tkeaofg2RTrJBMbwDLIOFkSkfKG+zOzl9KM6v1EbkJBdvRfiijpQfp9eP+zufGJ9uzIi+mj42M0N0UkqDD4f3byDvrILvH5DtomIQdFRUW8Wwm3Jwqnz+Do1kpRbnkxsIkIfa6A45MyC2nwfWPU23GX1OCbfBQQzNXn6U4AoPraqELOc9E5HkE0nZwLp189fBDDkC/02MkIMFKUD9MGnG8iCLHgy7UT3zJlRvhrSe+VaSeQ2atqSy+ah4IQyk/pLmU+49jQ4TMn2ylmfhyHjjCcph6vxojtDD5HUFEn8qHc2XqCsabI655/lQlp5AiKAZZpiExs68o53aWR2JRRuKzeh/l53luT40x+etKWUMzhj8aQ4/oZzs6hFpciotLgUNH+yToSOEoKY1n48IoKy50w+9eBMGeo1d68vpdDeHNe3rYi7XzBxVyqvWRYEwTCe2893pC8PHb0lD3V/hs/FMlWdgjGm2+BPCB405gOaxvxHrKdoW0mDIbbxdm7opK1AE7vy0sGtEyl5EDTA==;PvtK0iMGtVNvIw4zOP0ibQ=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Don't expect any more new content for StarCraft 2"
-excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
-publishedDateTime: 2020-10-16T10:23:00Z
-originalUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
-cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+title: "Starcraft II Will No Longer Have Paid Content Updates"
+excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
+publishedDateTime: 2020-10-18T03:07:00Z
+originalUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
+webUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: COGconnected
+  domain: cogconnected.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
-    width: 1920
-    height: 1078
+  - url: "https://cogconnected.com/wp-content/uploads/2017/03/nova_starcraft-1280x720-min.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -74,6 +72,22 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Don't expect any more new content for StarCraft 2"
+    excerpt: "StarCraft 2 will no longer receive new content, developer Blizzard has announced, just over 10 years since the game's original launch. But the iconic real-time strategy game will continue to receive ongoing balance fixes and season rolls,"
+    publishedDateTime: 2020-10-16T10:23:00Z
+    webUrl: "https://www.eurogamer.net/articles/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    ampWebUrl: "https://www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2020-10-16-dont-expect-any-more-new-content-for-starcraft-2"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 57
+    images:
+      - url: "https://cdn.gamer-network.net/2020/articles/2020-10-16-11-04/-1602842658520.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
     excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
     publishedDateTime: 2020-10-20T16:32:00Z
@@ -104,20 +118,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Starcraft II Will No Longer Have Paid Content Updates"
-    excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
-    publishedDateTime: 2020-10-18T03:07:00Z
-    webUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
-    type: article
-    provider:
-      name: COGconnected
-      domain: cogconnected.com
-    quality: 37
-    images:
-      - url: "https://cogconnected.com/wp-content/uploads/2017/03/nova_starcraft-1280x720-min.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
     excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
     publishedDateTime: 2020-10-19T13:02:00Z
@@ -133,6 +133,6 @@ related:
         height: 478
         isCached: true
 
-secured: "XhZa7ibrnG9+WzwoDflPUD7X24lV9U+gDCVwwswF58BaJdCKJRBi7q4W75wgjjRETlHKqXyWXBhlUk2L4uql9tK7yy6y0d+MxH9pUHJma+6stfwiPCKQevDqmfZPTYuJcewkGN3RJ7WLr7NL9ZxoAt4rLk9MbP+k/dNamkTu3sN4mBgrwHBjPM+kGH0OoTcwTUTIvTn8datUBoHIThiHl0szTj+sdvFAtrgy0vv0HMZ/P+uJz7jga+pCobcy4o5iIay9cI5TZn0kZbCM/trn12q31J038o4JtSHf0bTKZDD9EcpIpEq8uRLM1ZXkbHlWcBNBDMOIF8HxUj97VY0MnUjo9Usg7PnnpiGElbRz9LFEaOI+lfgRM/HgR54wYseha3hwPAolS/MRanLNRfEkC3Ng745SAH9cSJahmoFKbZL0DyTy4lnODicHqwuCe9BihJfmfi6eiU08tTHazhPrMo4XzXM5J2PbPAnzqRBa6tBausHrP16Awjirl6j3orHNHSUlflJdr2HrvU1OfbSRDw==;E55EoxknsCAkI9kCj2NINA=="
+secured: "CYRT+EtyaRRCtbdJmTi+xtQhZmAuSY28XYFSXmjSk+ZALfEow/a4hlefVK/jQfcN0G9UD5Y/EbYUsj+rZt19bAHjlUnfZXYDMw1KjclI5IsAV9Zspmkb1rOkG2JjCZxNi8clusludKj2BwQJCSiyl2mkLGFnhuPPy9FnLiXTRFTCaspBq+VNF3cU0+gDzvBFCgDvBef6FAUf9xo3MzffkYxR0HcQRYiWFDZ4K3sKMQyAPpiNDFeEechSmDry/JEEeACCwwBzfnPSUc5m7EG2ZXjyhI8WDDs1AkmDtWK1Uec+Ofgd3qh/kdxJ2ZtubbdXOtHKQr8YmqBwW3QtvEhjebIKVnz46MJ/7bB/Xaw5NpU=;EPbPydNIBpIclQhgXWDNYw=="
 ---
 
