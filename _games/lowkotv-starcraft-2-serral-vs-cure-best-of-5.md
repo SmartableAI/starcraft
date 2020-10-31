@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=BZeCPfOKjvs
 type: video
 length: PT1H22S
 publishedDateTime: 2020-01-31T08:50:43Z
-heat: 125
+heat: 124
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZeCPfOKjvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,11 +22,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "j9wObBapGkKEXQmn9fs/sQ9LVNSMVGVg/m8UD1cHKcjHR2NZIJw/mkHAMs8iCppUxr/z80z8qLFLdfy5KLDp3i923tKF50fGXmtEvfkZEMTOLcFOMowZKsfl9lnqNl25A4zOxaAEY2gHgo+EBEIZXLnDpWAnHu5IVWnTbBb0wvGEayeHds4/KknOhufRv7tLga8FSoWGf0htqX77109c/ngf3Le9glYF4e3LJ86eDRoVCgv2DzXWQjmXCFMN0FAwyG0pYOvd3cHdzAZyA+GHYFZeVKaWW8c7Z2LMsGagAjyPgWUhVVYnxjKYqRlfWS7SUPHXxpNPMkpRq//sYN5iRBOqyRNlI01IrhDb2bCa+gS+qybtWpeW++CpZRKRPSdpMdAWxbj/UZZUPAryaaCjEw==;wq19/6m6BQLpzGCBYDxCdg=="
+secured: "tNuTlpimR50uF7mMhhYsCKxqpA/Nla1HCIh5TiBw62dQab98uwOrYIpM1YpW3RIgc9/Eu9gu8qwBHXYSWi4dF8oPnyBZDEUjdDGns5kfmUwM9mm5k/Ve8qhjtAQXqDdANNSdThObolTU5WB8TQclsq81K87av1pMT82VimIjtkq/UcRtvlWL/BG88PeAOOohY+zaOAWE0td/UELKEKyNro3845jZFVgYKvuXnqSaHnYx2ozieyYHEuDbSBmrY179oaamp5kMbsQ12ZA5+Up1huDK+5qtNtdZVBwEn95c3coQrNaCTSpmJWccXm/VNdfXuOue5QUsavVbClVIaSJAKKEFVJ0s5PuaZgHT6YU0io5dUcwBdqfyJuuOLAaV/V2DXUOSYK9QTzFCUeGA/ajxsQ==;8incvHOTkWrXger7UD+RiA=="
 ---
 
