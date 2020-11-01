@@ -262,7 +262,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 128,
+      "heat": 127,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CmF7zUANQBI/maxresdefault.jpg",
@@ -301,14 +301,6 @@
         "Zerg"
       ],
       "heat": 124,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-01-31T00:50:43-08:00"
