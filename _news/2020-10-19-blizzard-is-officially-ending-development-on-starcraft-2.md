@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
-excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."
-publishedDateTime: 2020-10-18T19:17:00Z
-originalUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
-webUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
+excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for ..."
+publishedDateTime: 2020-10-18T20:22:00Z
+originalUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
+webUrl: "https://in.pcmag.com/gaming/138644/blizzard-is-officially-ending-development-on-starcraft-2"
 type: article
 quality: 37
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_141a.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_yd9j.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -175,6 +175,6 @@ related:
       domain: worthplaying.com
     quality: 17
 
-secured: "5hVaAWqhtt6XNMG5jB9KELBUxfCHOByIo4prRrsat0mbPrV4gIg3uEYciyNwVK8crhvd8TlOyyLX9MwCx1sbfO6UNiYuRdzM9clj1yBEEHwDAshAgxqNzGpckjiJLGh6lpazDnNZ7Pjv1tLy55odpz1Ec6zPnYc69lev7HUgQ8Da9uMfMbRKkuQG2raIVXqhBHsy6UZL4W0bJ18LM+VPchhs+KhHfhJV+0z3z3m5rGgGdKrYXXbwiYlHMdbtgtHqG1zsnGVOmdToXWlN4gvvCa9dnNXQvKsSmkY2e64n9/me3Kk63/+rvOjfC8v6mdOV6URekt1Hflk+1CxRl4Jq03xbp4mX/Q4m05WsQbi4tqzQ6nn7bHUBp9fSQogMvByqW7L05CqPLFb3BelrZytm/IZiZmn+O2DsN8Nf8byrjT6Ktq5qvdUCfCceDiKEuzCYtyp7hltRuOTWNdjhTmy2LNL1Ps/Nh/CYBLQ6e0Llu2Wqnr6jIqLIC1hon0e96NZnIpFyiTYIcAVTagkxlK4Q+Q==;FWkO2PlNXiDXUzQj+cyU2A=="
+secured: "pHYZ9u3EC+yPiEzBcUuX12QmnF4V2eF03OjdI2sJzwIcgkqNqu7fSTL8xLPyxbgCCvP5U9Vq0fSV5yKv3BF+cploloBheXvdDkgSmdFXy4l4YmCUbyElm3OcKfEpY4SZRtZifZ7dxjR5koZSHPVtx1wsrCuvQ8BoWV6At5dMzx4nwpNHJgSH3bC6m4JH3Nz4+JZCfh9vybZsl5xybOV5NHhM90LE0b1ksngpD4qn7+Hc+lfVU6OjGinPM3cIp7R73JcgDlWwg9jnj2mM9TYfQ+u5ja4XFcmx4SdY0+W/59M9u1IgeGhdnNDeKIiFx3CBAUXpyfczh23+6kGTf18WK7A5uU8sDp7QWAzAm1KmeH4=;YnZN/s6doJWFsZU9Et1osg=="
 ---
 
