@@ -4,14 +4,47 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-cast-planetary-fortress-rush.md",
-      "title": "StarCraft 2 Cast: PLANETARY FORTRESS Rush!",
-      "excerpt": "Well... That's not what I expected. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  A crazy match of Zerg versus Terran between Gold and Silver level players. The Terran in this match has got enough of the standard Macro games and decides to switch it",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-planetary-fortress-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-planetary-fortress-rush/",
-      "originalUrl": "https://youtube.com/watch?v=6KGmLkFwq6I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KGmLkFwq6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M46S",
+      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
+      "title": "Best Nukes of Never Attack to Grandmaster Series!",
+      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
+      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M52S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 61,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-27T05:37:31-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-incredible-terran-vs-zerg-ty-vs-rogue.md",
+      "title": "StarCraft 2: INCREDIBLE TERRAN VS ZERG! (TY vs Rogue)",
+      "excerpt": "An amazing game of Terran versus Zerg in StarCraft 2. This match beteween TY and Rogue is about as good as it gets at the highest level of the game right now.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-terran-vs-zerg-ty-vs-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-incredible-terran-vs-zerg-ty-vs-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=ebg4uRQCZlY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ebg4uRQCZlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -26,12 +59,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
-      "heat": 60,
+      "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6KGmLkFwq6I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ebg4uRQCZlY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +73,46 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-02-09T05:35:29-08:00"
+      "publishedDateTime": "2020-09-03T03:08:25-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
+      "title": "StarCraft 2: MECH TERRAN, BEST TERRAN? (Scarlett vs INnoVation)",
+      "excerpt": "Terran Mech has been on the rise again in StarCraft 2 at the professional level. After the new patch recently went live, it's obvious that with the changes to the Nydus Worm, Brood Lord, Infestor and Thor the maxed out Terran Mech army is once against a threat. In this game of pro level StarCraft 2 I",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=DpjOeN65AxY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DpjOeN65AxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DpjOeN65AxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-13T04:56:59-08:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-n-u-k-e-s-series.md",
@@ -485,14 +558,14 @@
       "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5.md",
-      "title": "StarCraft 2: HYPER AGGRESSIVE Zerg vs Terran! (Bo5)",
-      "excerpt": "Bly vs Gumiho in a best of 5 series in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this series of Zerg vs Terran the Zerg player decides to play quite unorthodox. Instead of focusing on the more standard macro focused strategys, Bly",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=VnfFmXp7wK8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VnfFmXp7wK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M57S",
+      "path": "_games/lowkotv-starcraft-2-cheesy-terran-cheese.md",
+      "title": "StarCraft 2: CHEESY TERRAN CHEESE!",
+      "excerpt": "Why build inside your own base when you can also Proxy them? Subscribe for more videos: http://lowko.tv/youtube Proxy Thor: https://goo.gl/qgLVyt  In this match the Terran player decides to get cheesy. However, he does not expect the response from the Zerg.  If you have an awesome replay of StarCraft",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesy-terran-cheese/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheesy-terran-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=S_LS5VerSBw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S_LS5VerSBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -507,13 +580,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VnfFmXp7wK8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/S_LS5VerSBw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -521,7 +593,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-05-23T14:19:06-07:00"
+      "publishedDateTime": "2017-05-20T05:53:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-maru-vs-reynor.md",
@@ -737,44 +809,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-20T02:36:53-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheesy-terran-cheese.md",
-      "title": "StarCraft 2: CHEESY TERRAN CHEESE!",
-      "excerpt": "Why build inside your own base when you can also Proxy them? Subscribe for more videos: http://lowko.tv/youtube Proxy Thor: https://goo.gl/qgLVyt  In this match the Terran player decides to get cheesy. However, he does not expect the response from the Zerg.  If you have an awesome replay of StarCraft",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesy-terran-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheesy-terran-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=S_LS5VerSBw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S_LS5VerSBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M59S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S_LS5VerSBw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-20T05:53:44-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-old-school-strategies-parting-vs-ty.md",
@@ -1335,44 +1369,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-01-07T11:42:11-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-flavours-of-terran-cheese.md",
-      "title": "StarCraft 2: THE FLAVOURS OF TERRAN CHEESE!",
-      "excerpt": "Best-of-3 series between uThermal and Stats in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Lots of Terran cheese in this professional match of StarCraft 2. While uThermal decides to play macro in game 1, he has more cheesy plans for",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-flavours-of-terran-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-flavours-of-terran-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=l_WHqA3sZ14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l_WHqA3sZ14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M1S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l_WHqA3sZ14/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-10T01:50:17-07:00"
     }
   ],
   "nextPage": 3
