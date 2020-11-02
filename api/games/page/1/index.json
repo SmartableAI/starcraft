@@ -231,6 +231,44 @@
       "publishedDateTime": "2020-09-21T03:51:32-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
+      "title": "StarCraft 2: PROXY HATCHERY PROBLEMS! (Bly vs MaxPax)",
+      "excerpt": "Really fun series of professional StarCraft 2 between Bly and MaxPax. Every game brings something new on an already crazy build order: The Proxy Hatchery. In this Zerg versus Protoss we see two progamers face off an exciting best-of-3 series of SC2.  Become a YouTube member: https://lowko.tv/join Support",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax/",
+      "originalUrl": "https://youtube.com/watch?v=QNnmCRQpwWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QNnmCRQpwWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 148,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QNnmCRQpwWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-28T04:59:03-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
       "title": "StarCraft 2: FLORENCIO'S DISGUSTING TERRAN PLAYS!",
       "excerpt": "I've casted quite a few of Florencio's Protoss games in StarCraft 2. This time around he's showing some of the strategies that he is working on with Terran. In this game he opens up with a Reaper Bunker rush, then transitions towards Battlecruisers and eventually leads to Mech and quadruple Nukes.  Florencio",
@@ -501,14 +539,14 @@
       "publishedDateTime": "2020-10-20T01:41:14-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-late-game-protoss-wars-showtime-vs-hurricane.md",
-      "title": "StarCraft 2: LATE GAME PROTOSS WARS! (ShoWTimE vs Hurricane)",
-      "excerpt": "Top-level match of Protoss versus Protoss in StarCraft 2. In this game between ShoWTimE and Hurricane we see both players play a very macro focused game. They base their unit compositions around the Stalker, Disruptor, Dark Templar and eventually the Tempest.  Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-protoss-wars-showtime-vs-hurricane/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-protoss-wars-showtime-vs-hurricane/",
-      "originalUrl": "https://youtube.com/watch?v=a7twVRs84lo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7twVRs84lo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M37S",
+      "path": "_games/lowkotv-starcraft-2-cheeky-protoss-moves-maru-vs-astrea.md",
+      "title": "StarCraft 2: CHEEKY PROTOSS MOVES! (Maru vs Astrea)",
+      "excerpt": "Cheeky moves by Astrea in this professional game of StarCraft 2 versus Maru. A really fun and uncommon game of Protoss versus Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-protoss-moves-maru-vs-astrea/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheeky-protoss-moves-maru-vs-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=kOEL63wfznI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kOEL63wfznI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -523,12 +561,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Protoss"
       ],
-      "heat": 114,
+      "heat": 117,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/a7twVRs84lo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kOEL63wfznI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -536,7 +575,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-09T03:14:03-07:00"
+      "publishedDateTime": "2020-08-24T02:00:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
@@ -576,44 +615,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-23T05:16:59-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar.md",
-      "title": "StarCraft 2: MICROING MECH! (uThermal vs Solar)",
-      "excerpt": "Awesome game of Zerg versus Terran between uThermal and Solar at the professional level of StarCraft 2.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-microing-mech-uthermal-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=thSyg_vO2Bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/thSyg_vO2Bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/thSyg_vO2Bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-26T02:21:38-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
@@ -985,9 +986,9 @@
       "heat": 100,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
