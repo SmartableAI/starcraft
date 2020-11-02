@@ -2,6 +2,7 @@
 title: "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)"
 excerpt: "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=ZGBQn1UbR5g
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/
 type: video
 length: PT54M48S
 publishedDateTime: 2020-11-02T11:15:03Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kzxMVp2hpiDT4osYwvfGyI8ohcfIgPXBLwEnor+vxhynT91FknIo0E3jQjUji6g2r+Y9hBswAOkNdKZd2g3HcOMHf6uxQdnHc6OBbiJLKIt2Mc1d/QXgKQi+AHqWmsmXvM+28R4mmN40pO/7OBQ9U/3QBbUVJTt5HPmEPtvTmnGv8ByzDOISTysOcCjrxQsCjM7kAWODqVy1TGbyxK6ui3Z64JsnchJjnoMt3UgkUgPkrS75SlDGA0zdvAfE2TtToHXgdQaXemyq7dNsgQlM9nFw05jC7lpK2rNKAJBgcN2/E2gkJlvszsB2ixUKTQr5ERBYQfZp4wlk5abi8/vqPdeJxTi12WI7dHuZOJaTTI/f8cKDfl0L7Y5KsnaAaa3Cnuz38iCzEQOJofIf/OOFvw==;9Ry1BHzHqlAmpH76T5TElg=="
+secured: "1jAvrEuODVlcsdBzmLFO8AweJ04OzF3462eo65fiIrhG+chvh4yrATKPknPCaa50M+o3teqYlcPuIDZxXNRU7Y7HM59Vj50VjfRZLFsc0h54MaYpsaZROrQyd1+WRp4BBsZT6+ckJetP/LH89cfMrdJhcLwJvU6vl11FYXznKLnFcJXXB+ZNFLHOQ1U1/EQyor7+u/6fBaquVtbTLIWYlIOekb3PYwwoj4nzCcWa4cxA1Er23ztv2H/z8mOBlY88hqtz/E/xGa63H2bw/ZqgDFgcmJqRIg9YWwSDiVKciy/UzyOR74eFLQN11QypMXVgDMg5PbZtJlNaT3J/X9A6wE6dCXuNVm9nEhvxkvZgPgHQ0zBwRZvFn+JfOFdht78xCeVzeEZo1tuRJFjsyWcObg==;3AwqtbLiSuFHS110S1obrA=="
 ---
 
