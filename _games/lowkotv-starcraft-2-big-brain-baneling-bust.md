@@ -2,6 +2,7 @@
 title: "StarCraft 2: BIG BRAIN BANELING BUST!"
 excerpt: "Two viewer submitted games of StarCraft 2 with some very big brain moves.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=Hfq3RQydmQI
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-big-brain-baneling-bust/
 type: video
 length: PT33M34S
 publishedDateTime: 2020-11-03T11:17:18Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3eq9QKmPa3ihJpYS9mYCozhAMrCSfmlihFpELYaWjgfABreqcyD3lJAWX56MAxZrhZLycuYgpFK7ox6TnY28zhMVXB/PE1Hota21lJRTefNRrJte0n55UAnjfxkcdI674y2LITlk9CXQnjqp3hN/b0G9cfkyPIds41zoohd1J/3LZhkiv2pddvm4+YpmqCDXHRYtj2yRWUFxI4dvChfAjJNUg4woHCmHhc2EdD3EImnGK4p76HMhSjtyoCJYHbZtO5ieUEMTlZ2/gXppfnoIokBcA+3cVS+QoPuURgokI/iU++wf6PTVGQccUxDZDH5lMIs3xYADEgdxP4nplpWUPKU4+a+zjvEW1NDjPfB714skpEAb2AEgB6eBDwasn8HRn5yAcc2J4iFCziUDpo3t9w==;YQDpoxwEFYeYz8TuqkcNjA=="
+secured: "LW0cT9pOj0ACSdrP+jfl5yNU3lKbjepj9RUiqqzqTbUDIv7IyQ74r000pK162V3G/TRR93W2/pa/NfDwYFD7lYxAV8PCT9szDN/oX7BKIKlflndRIRvUeRhCPyCh9hkVxwWwWhg/2NWRKH1GNSa+9kkuYF2tXzJs+ygUuMDk2nae3fwj8xQGlMnodKBAFMXfp6CWHeZ7lsZhl9iCHpDdu/6N1EsE0kiZ74Wx4lFAZFB7t5ibm/HwnHEmPZ8CRz2widIhtwdE93RNyRZpmo24UccqmyNxuuGcAWqcflMfEeIUU6cjjg76L4WKPd5VG8vu72poX/wxD/P0OnAb0yyTALMN5qtrlkaIVYypT8wp4LfHpqTvyqw86LzCjS3eIGMgu/bEjOsLIZj0TiPQpf3bAQ==;ftJbsfhCc1nc3tjoopWztg=="
 ---
 
