@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=sGz5Zt86ocQ
 type: video
 length: PT16M48S
 publishedDateTime: 2020-03-18T11:51:46Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sGz5Zt86ocQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DVhyI50kaelFd+VJZjTUoV9payyjeJrYGoJwiDpF/SECKmV0yUPhgr7j33O8GbIb9lIlXPCbdmSiJC8pbBz+Nyxxj/ksoFBAy+HbJJ3aEpjql4WwZCqnc9Hl8wjo+/6eZl4XKsomI8pU4P6+NRJC52h+xZGRpy4Ft1aWaQRe1D8SVswYRCARNs3p8XFq1rVD18QMC1k3Q2189pkLCZa+ytnwIWPTwY649u1/6y1eKddjrtt9ZBqick511+6CSi+xBlna/yksHu7mWzVAlzHCmuEnwIDwUk80/zNCfDVyJnDW6mLC0rQFawNBrvj4dJJAps7HntyqXocOHBG8O67JL3tFcqEQM/z8v2Y1ELKGoGF2sK3DC5PqVHOfjU87XY4kiXXRerC20IItXfduQRvx2EKjvPAoRY66SbVmWwEaofQoOvMrhm+Hfi+ctNEUgXd+;/PCBS/Ep0aGDqZAmH2fO+A=="
+secured: "vAiAbUcKOX/Wd8umVglVzmRgFgFTT9QQ45BzatVWTPSbkwbRRXfA8akoHBkn6LyIVaJ5ZL0yYX+r59uWjOA89MyAwKz1RHoYPm1knb+zCeK/xoNcKtQBdk1ZJ9Ng6g5LsqbLJ1mCPs0shsc7aeHtruiLRLEN74i3fBn7QRyAPDz4DwqRJmddf05QMeRJ++dpmBpUoWExX3V62Zz6EWX+W+A9pxiDnkZC2p+5VamDI9T2eb3g4jP8MQj3dIrm9yUWBld1zYo7T0Ofwu6uSgUP4VcegxpTrAZqw76xqK+Px7rGK6Gm7zz5TetH3x/vbXgjZrOTIuYsXyie3Ur3GdHv74nk262O1ITgh4R7kkC7gsGjt9cBrpsNIvRBkYbIMb1eWLjUbSwa9mfDGAoJBe0ulT96S0cQgb3Kr3YSdPfSXS39WbPWi11HDOr4lZq1Ogw1;jrnkR0Z3DZboqxOWTo3ksw=="
 ---
 
