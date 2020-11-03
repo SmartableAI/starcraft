@@ -303,9 +303,9 @@
       "heat": 124,
       "images": [
         {
-          "url": "https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/BZeCPfOKjvs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -531,7 +531,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 106,
+      "heat": 101,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pNhMT3ZndxA/maxresdefault.jpg",
@@ -573,9 +573,9 @@
       "heat": 100,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Z8DlwTY9ce0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
