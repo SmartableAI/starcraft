@@ -60,6 +60,22 @@ related:
         width: 960
         height: 487
         isCached: true
+  - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
+    excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
+    publishedDateTime: 2020-10-16T15:40:00Z
+    webUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
+    ampWebUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 57
+    images:
+      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/89e25e045f89520256cabae5f19493fc.png&quality=70&width=808"
+        width: 808
+        height: 455
+        isCached: true
   - title: "Blizzard ends StarCraft 2 development ten years after launch"
     excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
     publishedDateTime: 2020-10-16T18:16:00Z
@@ -91,6 +107,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
         width: 1422
         height: 800
+        isCached: true
+  - title: "Ten years later, Blizzard is done making content for 'StarCraft II'"
+    excerpt: "A few months after StarCraft II’s 10th year anniversary, Blizzard has announced that it’s moving away from creating new content for the title and focusing on “what’s next.” Blizzard VP Robert Bridenbecker said the developer won’t be producing for-purchase in-game content and expansions for StarCraft II anymore."
+    publishedDateTime: 2020-10-17T07:15:00Z
+    webUrl: "https://www.engadget.com/starcraft-ii-new-new-content-070236232.html"
+    ampWebUrl: "https://www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 57
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F280d2e50-102c-11eb-b7ff-a497c1f63c35&client=amp-blogside-v2&signature=5d0c364195bc747efa103cc845803b7610fc2756"
+        width: 600
+        height: 350
         isCached: true
   - title: "StarCraft 2 development is winding down"
     excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."

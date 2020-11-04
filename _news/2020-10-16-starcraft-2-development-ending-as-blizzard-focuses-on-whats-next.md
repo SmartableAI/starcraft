@@ -58,22 +58,6 @@ related:
         width: 1680
         height: 1050
         isCached: true
-  - title: "StarCraft 2 Is Going Into Support Mode, As Blizzard Looks Ahead to Future of Franchise"
-    excerpt: "It's been ten years since StarCraft 2 launched, and now, another chapter in its history is coming to a close. Support for StarCraft 2 is moving away from monetized content and towards balance and support patches,"
-    publishedDateTime: 2020-10-15T22:07:00Z
-    webUrl: "https://www.usgamer.net/articles/starcraft-2-moving-to-balance-patches-support-future-news"
-    ampWebUrl: "https://www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    cdnAmpWebUrl: "https://www-usgamer-net.cdn.ampproject.org/c/s/www.usgamer.net/amp/starcraft-2-moving-to-balance-patches-support-future-news"
-    type: article
-    provider:
-      name: USgamer
-      domain: usgamer.net
-    quality: 49
-    images:
-      - url: "https://cdn.gamer-network.net/2020/usgamer/StarCraft-2-Key-Art-2-07302020.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/75/starcraft-2-moving-to-balance-patches-support-future-news.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "yHlUEyJ/B+AkfubsFIL9QoNR4PCJ4RRmfZlefMCCGO6cFO2luGxzpL4jSYpsmW7zWTi1l/P1u6PBDA78jjHUSUs0xviHDpwxHa/QZCqQeJ0bEFP4NoorfXkatdhc0Vl2arsrazF7uVi7tRA9B76uUFcQzhyLAvOvajbs7XqkFIWTVw6bIgLKfowVMzXQ36rw3YT04QJZ5+14t6hJd+pW86TdQhC6iBHHzEXG+EtDQVBEYdf0jfuCO1Jx03IhRZ4gDLCmZk53+msKrnbbjbHFvGagNbSzlBmdew+5xt9wkQI/tr6BWhM//8rsmRsa7CDQNZmC5esrmLw/LBnnIBA4TqGr7MfwzcPZF3jmPB0yNcY=;Wxc3yM85MIL9C4pjQ/yQcQ=="
 ---
