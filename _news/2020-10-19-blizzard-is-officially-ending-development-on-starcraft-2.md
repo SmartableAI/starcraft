@@ -170,22 +170,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
-    excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
-    publishedDateTime: 2020-10-16T02:08:00Z
-    webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
-    ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 53
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
     excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
     publishedDateTime: 2020-10-16T11:46:00Z

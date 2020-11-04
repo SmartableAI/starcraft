@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-develo
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
 type: article
 quality: 97
-heat: 337
+heat: 317
 published: true
 
 provider:
@@ -155,22 +155,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Blizzard Entertainment is ceasing most StarCraft 2 paid development and support"
-    excerpt: "Blizzard Entertainment is ending most support for StarCraft 2 moving forward. There will be no more paid content, though bug fixes and balance patches will continue. Blizzard is also looking forward to what is next for \"...the StarCraft universe as a whole.\""
-    publishedDateTime: 2020-10-16T02:08:00Z
-    webUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development"
-    ampWebUrl: "https://www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/blizzard-entertainment-ceasing-starcraft-2-paid-development?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 53
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/starcraft-2-image.jpg"
-        width: 800
-        height: 420
         isCached: true
   - title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
     excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."

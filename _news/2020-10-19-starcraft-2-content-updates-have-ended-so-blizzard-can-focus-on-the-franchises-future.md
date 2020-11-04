@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-ha
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2 development ending as Blizzard focuses on \"what's next\""
-    excerpt: "Blizzard has announced that it will no longer be developing major updates to StarCraft 2, instead focusing on balancing fixes and \"what's next\" for the franchise. In a new dev update, Blizzard VP ..."
-    publishedDateTime: 2020-10-16T01:51:00Z
-    webUrl: "https://www.gamesradar.com/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    ampWebUrl: "https://www.gamesradar.com/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/starcraft-2-development-ending-as-blizzard-focuses-on-whats-next/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/goP9LRcGuD5TnXtaPdzoHb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
     excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
     publishedDateTime: 2020-10-16T18:31:00Z
