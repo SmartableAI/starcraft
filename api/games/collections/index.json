@@ -649,7 +649,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 50,
+          "heat": 110,
           "tags": [
             "Live"
           ],
@@ -667,7 +667,7 @@
         }
       ],
       "size": 18,
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
