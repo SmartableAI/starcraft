@@ -26,10 +26,10 @@ images:
 related:
   - title: "‘StarCraft II’ devs open new studio to work on “next great” RTS game"
     excerpt: "Blizzard Entertainment might have ended content production for StarCraft II, but a number of the game’s developers have banded together to open a new studio focused on PC real-time strategy games."
-    publishedDateTime: 2020-10-21T09:25:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793544"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793544?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793544?amp"
+    publishedDateTime: 2020-10-21T07:13:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793282?amp"
     type: article
     provider:
       name: NME
