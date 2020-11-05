@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-starcraft-2-development-is-winding-down.md",
+      "title": "StarCraft 2 development is winding down",
+      "excerpt": "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html",
+      "originalUrl": "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html",
+      "publishedDateTime": "2020-10-22T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game.md",
       "title": "‘StarCraft II’ devs open new studio to work on “next great” RTS game",
       "excerpt": "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games.",
@@ -145,7 +187,7 @@
       "originalUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -227,6 +269,90 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-blizzard-ends-starcraft-2-development-ten-years-after-launch.md",
+      "title": "Blizzard ends StarCraft 2 development ten years after launch",
+      "excerpt": "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
+      "originalUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/",
+      "publishedDateTime": "2020-10-16T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-further-development-of-starcraft-2-has-come-to-an-end.md",
+      "title": "Further Development Of StarCraft 2 Has Come To An End",
+      "excerpt": "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by",
+      "sourceUrl": null,
+      "webUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/",
+      "originalUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2013/03/StarCraft-II-Heart-of-the-Swarm.jpg",
+          "width": 960,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/",
+      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/",
+      "publishedDateTime": "2020-10-16T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ubergizmo Feed",
+        "domain": "ubergizmo.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1063,159 +1189,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-starcraft-ii-10th-anniversary-game-updates.md",
-      "title": "StarCraft II 10th Anniversary Game Updates",
-      "excerpt": "To commemorate an incredible decade of comradery in the Koprulu Sector, we’re introducing some player-requested features to the game, along with a few extras we hope you’ll enjoy.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23463124/starcraft-ii-10th-anniversary-game-updates",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23463124/starcraft-ii-10th-anniversary-game-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/u2/U2969EQZFVS71595462463024.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-starcraft-ii-50-ptr-patch-notes.md",
-      "title": "StarCraft II 5.0 PTR Patch Notes",
-      "excerpt": "We&amp;#39;ve made massive updates to StarCraft II to celebrate the 10th anniversary! You can check out new features on the PTR now!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23482888/starcraft-ii-5-0-ptr-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23482888/starcraft-ii-5-0-ptr-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/k6/K6X08SHQEVJ61519841731768.JPG",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-starcraft-ii-4130-ptr-patch-notes.md",
-      "title": "StarCraft II 4.13.0 PTR Patch Notes",
-      "excerpt": "We&amp;#39;ve made a major update to the StarCraft II Map Editor, and you can check it out on the PTR now!",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23471116/starcraft-ii-4-13-0-ptr-patch-notes",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23471116/starcraft-ii-4-13-0-ptr-patch-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/zc/ZC04FJJYFNVU1594753466209.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T10:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

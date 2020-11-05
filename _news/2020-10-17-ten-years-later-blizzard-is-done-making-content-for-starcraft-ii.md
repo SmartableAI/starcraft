@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "A decade after launch, StarCraft 2 development is winding down"
-    excerpt: "In the decade since it launched, StarCraft 2 has become the RTS scene. It's just not had much competition. The RTS genre is in dire straits, but StarCraft seems to exist in a bubble where people ..."
-    publishedDateTime: 2020-10-16T10:47:00Z
-    webUrl: "https://www.pcgamer.com/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-    ampWebUrl: "https://www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/a-decade-after-launch-starcraft-2-development-is-winding-down/"
+  - title: "StarCraft 2 Won't Get New Content"
+    excerpt: "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ..."
+    publishedDateTime: 2020-10-19T14:34:00Z
+    webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content"
+    ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
+    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
+      name: IGN
+      domain: ign.com
     quality: 97
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xKMkK6U4TU6SSmxsDYJACJ-1200-80.jpg"
-        width: 1200
-        height: 630
+      - url: "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Blizzard Ending StarCraft 2 Content Development"
     excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
@@ -59,22 +59,6 @@ related:
       - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Further Development Of StarCraft 2 Has Come To An End"
-    excerpt: "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by"
-    publishedDateTime: 2020-10-16T11:32:00Z
-    webUrl: "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/"
-    ampWebUrl: "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2013/03/StarCraft-II-Heart-of-the-Swarm.jpg"
-        width: 960
-        height: 487
         isCached: true
   - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
     excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
@@ -92,67 +76,33 @@ related:
         width: 808
         height: 455
         isCached: true
-  - title: "Blizzard ends StarCraft 2 development ten years after launch"
-    excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
-    publishedDateTime: 2020-10-16T18:16:00Z
-    webUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
-    ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
-    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
     type: article
     provider:
-      name: pcinvasion.com
-      domain: pcinvasion.com
-    quality: 57
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
     images:
-      - url: "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Blizzard halts development on StarCraft 2 after 10 years"
-    excerpt: "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be"
-    publishedDateTime: 2020-10-16T19:16:00Z
-    webUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/"
-    ampWebUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+  - title: "Starcraft II Will No Longer Have Paid Content Updates"
+    excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
+    publishedDateTime: 2020-10-18T03:07:00Z
+    webUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 57
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
-        width: 1422
-        height: 800
-        isCached: true
-  - title: "StarCraft 2 development is winding down"
-    excerpt: "Blizzard has made the call to wind down producing additional “for-purchase content” for real-time strategy game StarCraft 2. The dev team will continue doing season rolls and balance fixes, but this will free it up to think about what’s next."
-    publishedDateTime: 2020-10-22T15:45:00Z
-    webUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 57
-    images:
-      - url: "https://www.pcgamesn.com/web-stories/assets/starcraft-2-update-announcement/og-image.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
-    excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
-    publishedDateTime: 2020-10-16T15:45:00Z
-    webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
-    ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 54
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
+      - url: "https://cogconnected.com/wp-content/uploads/2017/03/nova_starcraft-1280x720-min.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -170,17 +120,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
-    excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
-    publishedDateTime: 2020-10-16T11:46:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
+  - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
+    excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
+    publishedDateTime: 2020-10-19T13:02:00Z
+    webUrl: "https://www.criticalhit.net/gaming/starcraft-2-content-development-is-over-blizzard-plans-to-focus-on-the-franchises-future/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 35
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 27
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2020/10/StarCraftKerrigan.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
     excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
     publishedDateTime: 2020-10-16T18:52:00Z
