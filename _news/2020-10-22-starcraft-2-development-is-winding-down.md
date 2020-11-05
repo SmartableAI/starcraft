@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: PCGamesN
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Here’s what Blizzard has in store for ‘StarCraft 2’ now that development is over"
+    excerpt: "While Blizzard is known for their glacial time tables when it comes to developing and releasing info, here's what's in store for StarCraft."
+    publishedDateTime: 2020-10-21T03:29:00Z
+    webUrl: "https://www.thesouthafrican.com/technology/gaming/blizzard-starcraft-2-content/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 32
+    images:
+      - url: "https://gcs.thesouthafrican.com/2020/10/8827754f-starcraft.jpg"
+        width: 1422
+        height: 800
+        isCached: true
 
 secured: "fjyViFHayii8saVpbcQI8i5HUGDCbJk6ocH69brhYas71AfuPP+xl4OFbmM6TGOIo6FdkbGV5qpqvJPFhtaBZwUzkNV3NdK557tsZddITWAiyANQoiirP1u53TaqcEo7uCojdAl8oczmp0Xg+77wvqaKFqAFM5nxjMjgKbdLp8cQ4uS6AD2BKYFSQSN9tmtuqrpJfX1+x1pJRytR5fmoQPUdPAB4oDeEaE1l1UjtmF9JJ8Le8KDzQDvyfqtug6/JhTKrTiy3LHx19Rl6CWJq6mVtqQAUvIUNxgNWFX3SI0DP9g1T+EeqjxSMznOmwf8+nz9+BybwME7otJpiIaLsew8ntjVNbnejy2ucCjmiwyk=;7fuc9d+BniWkSpaOWAKSug=="
 ---
