@@ -74,20 +74,6 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "Blizzard no longer developing new content for StarCraft 2"
-    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
-    publishedDateTime: 2020-10-16T08:06:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Starcraft II Will No Longer Have Paid Content Updates"
     excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
     publishedDateTime: 2020-10-18T03:07:00Z

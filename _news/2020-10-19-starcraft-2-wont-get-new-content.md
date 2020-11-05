@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starc
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
 type: article
 quality: 97
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Blizzard no longer developing new content for StarCraft 2"
-    excerpt: "Blizzard has ceased development on StarCraft 2, at least in terms of new content. An update to the game's official website clarified what the team would and wouldn't update going forward, with executive producer Rob Bridenbecker noting that the original StarCraft was receiving new patches more than 10 years after launch."
-    publishedDateTime: 2020-10-16T08:06:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-10-16-blizzard-no-longer-developing-new-content-for-starcraft-2"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2020/articles/2020-10-16-09-02/starcraft.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Starcraft II Will No Longer Have Paid Content Updates"
     excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
