@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
-    excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
-    publishedDateTime: 2020-10-16T15:45:00Z
-    webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
-    ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 54
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "p/Lt7hUjZV4dwM6yaV9aug0w6OOyYrEtuH6Qo7W9k1+BV3ufgQc+a1502IZTZJsfQdP94MFeQlq5cRePH052KvHMCB12ziCoAVfrAuOu5z7o7rxWALuq68Iyhh7Aw2XWhBKNi1eItYkPcJuf+KOEW+hQEKZLEwK98vRY6aIh+d2b3rzKu8J79dvLnbHKqeCgBJGFG6vyVOxGcKkDilTwCAEffgNkVby6yGYogVtBfvJCwR1Ve8bpQ1M6ukySAGIklTk3rzcesXrdmgommaphRuAhGL6iLOEtbiUwTBOGYtM8kVu2geu5M3moNDhbEj+lC4XJ32DiWd/kF+/xmmPJ5hbo5cIQ2xYTzbXSkL3ebEfuMFkWFPsiRVIlPZPsMaUe9z7OR3NI9ub2+/sGBUbWbCeP71kHFMz00qCIbaj6BVWkz10xO+bmqo/dd4VJWs2ihYWyKDXnsdO7KqSIPdTHzlTDRpDU4c4ka/QzhweoWDmjzKdaZrgBpXsgPkDOuGHgQ6ce2eCaac6NZcu0K6C1oQ==;UP0rLArGXkn3Tyj/yFG6Ug=="
 ---

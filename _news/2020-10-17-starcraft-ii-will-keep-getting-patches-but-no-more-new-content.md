@@ -34,36 +34,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Blizzard Ending StarCraft 2 Content Development"
-    excerpt: "Blizzard has announced that it is ending development of paid-for content for StarCraft 2, a decade on from the game’s first launch. A blog post from the StarCraft 2 team explained that “for-purchase content”,"
-    publishedDateTime: 2020-10-16T15:52:00Z
-    webUrl: "https://www.ign.com/articles/blizzard-ending-starcraft-2-content-development"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 77
-    images:
-      - url: "https://assets2.ignimgs.com/2014/11/07/scjpg-eb5f8b.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Starcraft 2' Development Is Coming To An End After 10 Years"
-    excerpt: "The lights aren't being turned off, as such, the game will continue to be supported lightly by Blizzard, but the development team aren't going to be making any major improvements or changes in the future."
-    publishedDateTime: 2020-10-16T15:40:00Z
-    webUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016"
-    ampWebUrl: "https://www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/technology/gaming-starcraft-2-development-is-coming-to-an-end-after-10-years-20201016.amp.html"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 57
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/89e25e045f89520256cabae5f19493fc.png&quality=70&width=808"
-        width: 808
-        height: 455
-        isCached: true
   - title: "Ten years later, Blizzard is done making content for 'StarCraft II'"
     excerpt: "A few months after StarCraft II’s 10th year anniversary, Blizzard has announced that it’s moving away from creating new content for the title and focusing on “what’s next.” Blizzard VP Robert Bridenbecker said the developer won’t be producing for-purchase in-game content and expansions for StarCraft II anymore."
     publishedDateTime: 2020-10-17T07:15:00Z

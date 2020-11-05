@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
         width: 1422
         height: 800
-        isCached: true
-  - title: "Starcraft 2 development is coming to a close following its tenth anniversary"
-    excerpt: "Balance and competitive patches will continue. There won't be any more for-purchase content like War Chests and Commanders."
-    publishedDateTime: 2020-10-16T15:45:00Z
-    webUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary"
-    ampWebUrl: "https://www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120960/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 54
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/16/starcraft-2-development-is-coming-to-a-close-following-its-tenth-anniversary_feature.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "bGH4Ffmnr1uJ7ZiuIL0+X+z2JVSGyi5aV9Qra48BWDyZjjs6S4ZlKal0YWL8LnNZrzJ5fmxEp526sf2WACHGqL7kMYtr6VpoaZllBUujTtmVxO6CUIx3uKb4WYAO5Buw8SZ8nHCvzVnJzBYhguSDrs9JH1bY7MOMM+OGojEJxYdPuZy9ITqvpa6mkRMmilPQgNgzmHdaVlLbp4kqspATDHvnQ0zTHVJhfpYSMy1Ox1wtxEN4CXbXaMieLbWRV0OE8J4qnpoFDdh0Ps4zcPmGM278DSh3HSnIaWPlJOcgoT2jTbJ4MvxWYIzNKx+dc1ncjfAJ5REqjGFTLkj7zFo5/FlUYACg4jJIRTHbRuoRv6PqPknAUvuhWSTmWienxXtfxmipcFO/nT8xWyOIySB3DSM+Dcua/BQBN2VT8Z4dUdJ+ZXYmxdd02gyKb7cDAULgu7v/OeByIZNBGXR3pGkAx+hqipkDQT/vSgCOsalLBcsLFVhPyvpBW0f3P7wrDukemPl6+0vqWcOzxwRX3ki1NQ==;QJchHox/mHnKgmhAviCVhw=="
