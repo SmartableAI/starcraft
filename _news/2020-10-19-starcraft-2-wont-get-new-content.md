@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starc
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
 type: article
 quality: 97
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -104,15 +104,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
-    excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
-    publishedDateTime: 2020-10-16T18:52:00Z
-    webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 17
 
 secured: "waB3sitc2ZEMebFP2C2LKFklAEiqwKo9zh1UGI/i6MY8Cev7MuoL2YepulTxFSI/PE/l1hFRl7IYgeJl0rlSV/vhyyozLIGgQKJaGI2KGtJN7+ODrlLF5MoRZHAJibi3+Dgq3ZINxUutKq1a+8vsaov5VnDf0bPl5vp/NxnfuztpwYnjEgfeAGkkubfnuk1NVf+KCDeuc3mmugykxsBy7Kr6VfSadfkXKw7SYIbkbana1tT0/YKlgfqM54E5IRX0DjGxRzSlWmDI6bbBk+VFrdTHCHmMmoy1TOo9Z6HmdYPyydHTYbF/CSivxTynyOH/rXhV/lO4aBMpg/XnKza+gE7pP1lTQLU42mfm1LfRpU4=;5xiV9SFsz437T+0QR7AKDA=="
 ---

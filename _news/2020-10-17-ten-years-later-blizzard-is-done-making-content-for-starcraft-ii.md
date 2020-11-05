@@ -104,15 +104,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "'StarCraft II' Will Keep Getting Patches But No More New Content"
-    excerpt: "Designed to be the ultimate competitive real-time strategy game, StarCraft II will feature the return of the Protoss, Terran, and Zerg races, overhauled and re-imagined with Blizzard's signature approach to game balance. Each race will be further ..."
-    publishedDateTime: 2020-10-16T18:52:00Z
-    webUrl: "https://www.worthplaying.com/article/2020/10/16/news/122395/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 17
 
 secured: "lZ7Iuebwx/cyelUhS46uUkBTu9lOduwPLH5S2DL5d/DkDV9s5KG9tqroStg1/IUM8YkYyYSqQXCs5SjYyEcitoFBwDZGHXupW4ImRo5v7bVgxmWlFGT9Eg1X697XVvP6d70uj7CI0h4cc7Nmr7iKmdqbeXnv6AshMjiJAPD/WZ9bC0DagFWQzIDrBjZV1fdPe9FAe02THZ6MItV9EvgXB8JfaMi1b3mD4GMk3bD8IzB64HNnOnPbSZSqp1DvQ7IxSwFwNNAB+odBDlqHVao26PiBn7GfuJtCT8dbUF7FUPBaOsHs2hrlhGy565RD/zrHMrWPbhISIX+O7hO8NSpS2TOk2/rLs+FclTDC3C+I/F6/tDYb8D3ZkMIv2cnuZT1thsJskAiGz07IBrnlIGb0izGM1zs9kzhZOjGezrGTwqG7bM/q3UyOI3XOk59lOH1T7A0A4+gqlvBKu/9kEFRbgeiL8otSqFvMh1qxc917yem+Vkeu38Xo7XTgPf810i4D7L2DOsX55ZBGJjOF6G36Tw==;kkaqnsK3V9sl85XyQ128RA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/starcraft-2-content-updates-ha
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/starcraft-2-content-updates-have-ended-so-blizzard-can-focus-on-the-franchises-future/1100-6483434/"
 type: article
 quality: 89
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Blizzard ceases major content updates for StarCraft II after over a decade"
-    excerpt: "Sadly, as Blizzard has proven today with its latest StarCraft II community update, no king lives forever. In the update, the company reminisces about its long"
-    publishedDateTime: 2020-10-16T18:31:00Z
-    webUrl: "https://www.techspot.com/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87150-blizzard-ceases-major-content-updates-starcraft-ii-after.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-16-image-19.jpg"
-        width: 1680
-        height: 1050
-        isCached: true
 
 secured: "ZPNUnSqapSu838jPJs0K3lye5LvVex1D4qJgU+AGFhOHSWsCmnbIIbEgSvFAooIHI/T1W6OfWGR1H4bq9/5eUyKt0v4oFr88orq3+3U/hxGAxg+rHJIxO5yZG924B4MGVSil5QCEU5b/Z0u8tOA5w+P+vVJ2roFzd/cPQOeTeIvdseMtruHYg6+0+qnkixkOigvAN0JL85oAIuwf44qilfL9OvGoATwGBTgfLGQnExl/PkgTpBYr2pA4KXVfey/+CxOMp1nd+X+qtt6yjbt/Wqp2z8synaYt6AXlcIykNAvHOqbxsjKTZcOMSGUnAatHNTr3LVVHeSMvMsv3OgcwRImj3OENHYHoJsBvl5p0qkkdpKYzEMuKQ5FfbNv9eBGga0IoYyXq4G/BymVb1xmjtO0gjyzOeVKZf0TqHsqDgP6u+J/eJTjl5IvVNWE/kM0SHpYoxx6mh9rZOm4DqB+fLQaMC8rG32hfUtnqRnvpeFNKx89Wgx/G9/ly0pdt9wRM69VBAqW74u6HQmb6A9SGmg==;zZ8s/YFeUmlftYPiBNM9yw=="
 ---
