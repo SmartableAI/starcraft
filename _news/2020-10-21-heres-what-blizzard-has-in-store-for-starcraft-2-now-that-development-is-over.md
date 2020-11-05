@@ -40,17 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
-    excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
-    publishedDateTime: 2020-10-16T11:46:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 35
 
 secured: "fQYhWecnN4TnICru5F4a3vu/K847sXl/LILJ7ulr3SFDS+cd2cmbCXD5Mh/2jZKjUe83AShLl+ml8TitHppkpqMU7VgfyQCFj0lqR/H5rvU1o0pYm2+E9bKMKsQWwfXUK+HhhP8FiwwsalcTffS3cYGxOUBj0GmwW7e91qvyXBIsJb2ZC1iA4pASJNOuqCrJHd18dt31HmXJJW7Jebe9StNfs+Qafh6yy2sNNnbK83IRwcRTMfuZhksg+Wu2w5OBVsfVmWSvDxvXJA1L+UcSGB2vAu3kAGyXdMQr49rWgqqD8Z1HKqoEfeVAfuPEG6CFsfZeFI+l2acxReFMxi986P77prgdWRQBWwe+LC57njYZEUHcVcRr+elf/S4G2nzJPUppn8HzP5ExOtV7fK8vNITn/J5umG9u776fm+OHaG2i9mIhlKWgSL3Jn1RysPGCBX5uYFEJj4Yb2BEK4gZA89EOGJFUaA+/X80cu6ZwQp4qEx0t5Yz9u6Juu8RxwD3OOSzftYFGtLLI06457xI+0Q==;QmTQapQTxAe0AGYWUzx7tQ=="
 ---

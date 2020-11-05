@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Further Development Of StarCraft 2 Has Come To An End"
-    excerpt: "Blizzard’s StarCraft franchise used to rule the RTS eSports scene, and to a certain extent, StarCraft 2 is still beloved and played by"
-    publishedDateTime: 2020-10-16T11:32:00Z
-    webUrl: "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/"
-    ampWebUrl: "https://www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/10/starcraft-2-development-stopped/amp/"
+  - title: "Blizzard ends StarCraft 2 development ten years after launch"
+    excerpt: "Commanders, take a bow. The decade-long conflict will no longer see new content as Blizzard announces the end of StarCraft 2 development."
+    publishedDateTime: 2020-10-16T18:16:00Z
+    webUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/"
+    ampWebUrl: "https://www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/blizzard-starcraft-2-development/amp/"
     type: article
     provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
+      name: pcinvasion.com
+      domain: pcinvasion.com
     quality: 57
     images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2013/03/StarCraft-II-Heart-of-the-Swarm.jpg"
-        width: 960
-        height: 487
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2020/10/Blizzard-ends-StarCraft-2-development-ten-years-after-launch-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Blizzard halts development on StarCraft 2 after 10 years"
+    excerpt: "Blizzard has delivered some sour news for fans of StarCraft 2. The company has confirmed that is has essentially halted development on StarCraft 2, confirming that it will no longer be"
+    publishedDateTime: 2020-10-16T19:16:00Z
+    webUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/"
+    ampWebUrl: "https://www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/blizzard-halts-development-on-starcraft-2-after-10-years-16643048/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 57
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/StarCraft-2-ray-kerri-arty.jpg"
+        width: 1422
+        height: 800
         isCached: true
   - title: "StarCraft II development comes to an end"
     excerpt: "Blizzard officially announced that it has ceased development on StarCraft 2 content. There will still be occasional updates for legacy support purposes, but there will be no new DLC or playable content on the way."

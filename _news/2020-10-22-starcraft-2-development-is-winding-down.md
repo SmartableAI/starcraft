@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamesn.com/web-stories/starcraft-2-update-announcement
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/web-stories/starcraft-2-update-announcement.html"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard is winding down StarCraft 2 development to focus on “what’s next”"
-    excerpt: "\"We're going to continue supporting StarCraft II in the same manner as we have with our previous longstanding games\""
-    publishedDateTime: 2020-10-16T11:46:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/update-development-announcement?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 35
   - title: "Here’s what Blizzard has in store for ‘StarCraft 2’ now that development is over"
     excerpt: "While Blizzard is known for their glacial time tables when it comes to developing and releasing info, here's what's in store for StarCraft."
     publishedDateTime: 2020-10-21T03:29:00Z
