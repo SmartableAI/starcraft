@@ -2,6 +2,7 @@
 title: "StarCraft 2: WILD MICRO BATTLES! (Zest vs Dream)"
 excerpt: "Terran versus Protoss in StarCraft 2 between Dream and Zest with some action from start to finish.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the"
 originalUrl: https://youtube.com/watch?v=6GWgvx0wfhg
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-wild-micro-battles-zest-vs-dream/
 type: video
 length: PT32M14S
 publishedDateTime: 2020-11-05T10:56:07Z
@@ -27,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "gfmFx1DXAqot1EWtXIuKEIu8XBTddmGL1cwzaSUVL+FkExexr4sGO2ipYN6X/lGvFAVHvdyXOFq28mhuZOoxvMESVb1LF0pS7hLTNjNCfucUZYNEb19TmicP7STCx0jaOIJUh6382i7xtNQRPVJkCJ/OQveUHtJJDcu2Kzufc6wHQRKwVJkkPOJPbdApseMYqtshUebxvSbpm31C3TZPksH6W+lQbgh2/FfHq96sJYa+5fgnQ3LTd8aM4B687z1hcfj1vI8PLVh3sUs6NQ27gUGqeOXR8nTMW8xyVIhXUW6mqv0OErN87e8q2UGNgIMqZCXn/2+wrhBO1Yx0GJaiWO7qIPzLh+E757EpaA/cloIuf401IzfMHosHF8UNj+lknz236SsUOZ53CrF0RHyiiw==;tK5YbRB1qhaYr/GuKYxsQA=="
+secured: "0dpZkdapqzu+J6ntPwwVEz1JxagN9DDDQyFnRVEJO4+sA72DmO4yBQ9ItoO3qxwieR4Ch+wgZbqAOJPNUAoNbq2ZzW5VYVKJHssytuMhQwjy92p2G4QDKAVKK9tUeodoGLB686oO67XUGr10rfY1HBEDrCDujbP4rfzvfUOCkJ7WeiipSZiY47xFLI4g9oLf41pG56wDT6lwLqARJd/QL0fJG3d4PVWdx1RiwNIe7Lzhx/lYIScQMcEZKfBzkOyXdm3rPStCYGLruzuZm4xgOOez42oO9mwfs7OSmg7btt/slTUHQpdGBZTmtSy4DkQ6+DwoE0NQHaN6O3IAhczZJclwlZ/azos6E5B3TO3JlaziZasuxX8M0mGnT94hqVTVvQLZqfP8s2qFsXrlrLZ/lA==;jebg7VUoEHPrKS/CBV6DIQ=="
 ---
 
