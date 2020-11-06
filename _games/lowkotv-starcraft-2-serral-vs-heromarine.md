@@ -22,11 +22,11 @@ topics:
   - Zerg
 
 images:
-  - url: https://i.ytimg.com/vi/PnecLuthYfA/maxresdefault.jpg
-    width: 1280
-    height: 720
+  - url: https://www.youtube.com/yts/img/marketing/browsers/dinosaur-vflc7WKGL.png
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "daYv2o9cx/0czxA8XhvdNJJl1yhwNP8bsJw02yxqa3j22vTbr01DaslpjHiUh0uW+jgWNdaJiC7XPAYeNWNrC3EQtR09mbHf9XFP21lIQmNOG6p7SsGSQWE6CEU808f14Z8u25GFoj+CfxnRD8uKRpj2/WoHLqi9iqf9YcuygtYBAStQ/VlU38066dbXj/9xncRohm2e7aST1IHR0CoHQeKbzP/0B4wrpex/hWuzlizBM4Nyn7PqUTs3XTLXbKrlvOp5tTyjdtGuelE7byReV7EpL0Jp4xESnIFO2LgYEzfwLKpefc870BCu7iBt1YaYPM8XNWfHGp2okdCwGHFsVzZa9KzIW2LZ6/E+6WRyxd8a+zknVF/f2/edi0mNk0UARIcY5tBu1Uf1JvTFHudkRQ==;rvJn7AGkHyMaCGYRlN2Pmg=="
+secured: "6ODGwtfkEO7CMRMmZu0Y8/Qd77IHQaNbVXEZaqxNoplycjLyVAzFrPdeqeFHkSaY5aJDzsX4De1Gxa4LBTXZmB859mBhiwgL8pw/Uq/XJrq1wQGN50YV987Uxfyb75hveE8EK6+q7+pfjHVWmehCgVf5m3nFAgglmEYzJxbxK77ujZaGPnqKYxNiMrPz1nYVkKcB/ZAhcRVbDSHrwEzl4cpQ4jUHofP1NJAwkefQvEtFi/GIxyR2tIZwdqcQelWLwtzwFbOF10CTUkIOAe8/RQHqrqZpp/C3dBrKFOk3zh77j5fwbpQtENy0nhxkcqemjAi9eKV/U8aJ7fqNFcUV5f/Zh9EcjR0u44XPbr0UBonKJNO6EWrV0Aeng4EFTOCHWbgRUuHVL14wE4TfI2LSEg==;DeRmn5IAue5bJU8LkBySgg=="
 ---
 
