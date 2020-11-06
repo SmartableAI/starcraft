@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=LY7W8dG_qDk
 type: video
 length: PT57M8S
 publishedDateTime: 2017-12-23T12:49:29Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LY7W8dG_qDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "idPseQbY+kJohj5klvmrJjlwTF1wC1VpPrNYUYwAe+RHug3qx1RLHRYQRXwSJCl0HyMp7RxtfVmu7i8C3u8/GeOaLyPoFxuXDSGXxrhdtZEQ1Uxmhas8CCIP+67/ITyIRT0+0Sg1grmckeoT/6Aex3U8i7E9Ykl1owEJOBbnkIrr0lpmMXr7i8aE3kwuy+fctUlGZ+MZRuzsV+FOogf6XBtsVJPNq9/OVQbbVwOgFCUMMPuzeSpH9fHt6kZF4hhU4ns4Os4/1rFlyPvBJWaZ5vh94cT/Wz/ppLBZsgxMQ+F/Df61DQtsJX9v4ox+jQ7HZI85FCB6fMwKsa+eXwqKDfSicD7QqAKQUery4AQQLppFAJ/s18NVvC2cYkf5cwralxt3mab4X4dTNW3SB5LQqDKrp134lpakGgPR+d+ZrhO0nrJEFiG+rn16tfr4B9GG;M+ZHCxdxRJJY5zH8rhuuvQ=="
+secured: "asBiodnaUuJswNNDobDmciY2K3Rl8rG+DbvBieZ5j9qFqlT0gJHPE6N751IAEPzK2BUQOpohHQFKGUJw3q6IZK3Uda76rV/gatk9pUdeCRCwUh/0V3+tQzp2UVL/vvffWnxWD0pBVGLwfWpQJ/m0yTGU+p7Ga95N1Kk4RD3LYfQ+6zjWpMtQ7M4R3cmiPewo8YOO9MflmWp6Njeu3xwhu9YUapGu5OZ8CQ/w2oDrRqO8NsayM3imJ9MeEZN/Ubf/ShpaILetdZeWnJVGzrhDPD07HV2JOBd37d/IYlVEOh/Q8obtWOU1jNwfYClh0esCaZcSMRZ9rjK9KhSXXpWk6HIfuB7fXAm7L8eSRBYWauY4qPXnHb3fqcVtraggVrn/gt1/Y5BQoc278UEf7cHiQHhzBIh1R0ENdUvEw67DUZ8jMN7eLlWBAW8QNuNXhYFS;ANa3FlfhjcNN8YYqTWlR+Q=="
 ---
 
