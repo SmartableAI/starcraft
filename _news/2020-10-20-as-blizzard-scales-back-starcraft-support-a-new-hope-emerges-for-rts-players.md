@@ -42,20 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Starcraft II Will No Longer Have Paid Content Updates"
-    excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
-    publishedDateTime: 2020-10-18T03:07:00Z
-    webUrl: "https://cogconnected.com/2020/10/starcraft-ii-will-no-longer-paid-content-updates/"
-    type: article
-    provider:
-      name: COGconnected
-      domain: cogconnected.com
-    quality: 37
-    images:
-      - url: "https://cogconnected.com/wp-content/uploads/2017/03/nova_starcraft-1280x720-min.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
     excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."
     publishedDateTime: 2020-10-18T19:17:00Z

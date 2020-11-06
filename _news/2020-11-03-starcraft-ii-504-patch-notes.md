@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23557934/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23557934/starcraft-ii-5-0-4-patch-notes"
 type: article
 quality: 177
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "StarCraft Remastered has cross-play with original game"
+    excerpt: "Today is an exciting day for RTS players: Blizzard has not only released StarCraft and its Broodwar expansion for free in celebration of StarCraft: Remastered, but they've also revealed both the ..."
+    publishedDateTime: 2020-11-03T17:55:00Z
+    webUrl: "https://www.tweaktown.com/news/57205/starcraft-remastered-cross-play-original-game/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/57205/starcraft-remastered-cross-play-original-game/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/57205/starcraft-remastered-cross-play-original-game/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
+    images:
+      - url: "https://static.tweaktown.com/news/5/7/57205_3_starcraft-remastered-cross-play-original-game.jpg"
+        width: 620
+        height: 310
+        isCached: true
 
 secured: "cKIOd33l9L1UGs9ffdALGyqwLX/Jg285A/Au+mjEVRN3ogkKzeR4oYNZX+7YR9Cxmc9j0TNZO1MrnnCzjnT0TcHlU8Dv3GaBkKT9MBEJJew8Fw2XokOEeJ0YdRQtKZRnvFcVhQqMDTLaU8PZOBMfduHcltFSGpe7ZXNMTwPIuQ/zwqX7p1OscjccGh0TW9ekzAF+aKW/UkRih19k6d7P3QV5TiTm9ddaI3NOKfUag6McJ+c3vIJJKlyAwfFEkIMXrG/a6C0GqswOKGwD2c64sy496Jp9oZywy76xLVm23PdGTwSavgT7Svd1o+MXN+NUPxIyDgeNi3nxEVzILf7fSnDtWz3bgjkRVYwU3s2cRsU=;t2omK8zA5ehoTUtyvksR2w=="
 ---
