@@ -42,22 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Ten years later, Blizzard is done making content for 'StarCraft II'"
-    excerpt: "A few months after StarCraft II’s 10th year anniversary, Blizzard has announced that it’s moving away from creating new content for the title and focusing on “what’s next.” Blizzard VP Robert Bridenbecker said the developer won’t be producing for-purchase in-game content and expansions for StarCraft II anymore."
-    publishedDateTime: 2020-10-17T07:15:00Z
-    webUrl: "https://www.engadget.com/starcraft-ii-new-new-content-070236232.html"
-    ampWebUrl: "https://www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/starcraft-ii-new-new-content-070236232.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F280d2e50-102c-11eb-b7ff-a497c1f63c35&client=amp-blogside-v2&signature=5d0c364195bc747efa103cc845803b7610fc2756"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Starcraft II Will No Longer Have Paid Content Updates"
     excerpt: "Looks like time's finally running out for the historic Starcraft franchise. Recently Blizzard has made the announcement that they are no longer going to be providing any paid content updates for the game,"
     publishedDateTime: 2020-10-18T03:07:00Z
