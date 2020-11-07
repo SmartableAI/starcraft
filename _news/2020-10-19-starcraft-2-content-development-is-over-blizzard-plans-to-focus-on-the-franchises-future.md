@@ -56,20 +56,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
-    excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."
-    publishedDateTime: 2020-10-18T19:17:00Z
-    webUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_141a.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Mm+j73tkeaofg2RTrJBMbwDLIOFkSkfKG+zOzl9KM6v1EbkJBdvRfiijpQfp9eP+zufGJ9uzIi+mj42M0N0UkqDD4f3byDvrILvH5DtomIQdFRUW8Wwm3Jwqnz+Do1kpRbnkxsIkIfa6A45MyC2nwfWPU23GX1OCbfBQQzNXn6U4AoPraqELOc9E5HkE0nZwLp189fBDDkC/02MkIMFKUD9MGnG8iCLHgy7UT3zJlRvhrSe+VaSeQ2atqSy+ah4IQyk/pLmU+49jQ4TMn2ylmfhyHjjCcph6vxojtDD5HUFEn8qHc2XqCsabI655/lQlp5AiKAZZpiExs68o53aWR2JRRuKzeh/l53luT40x+etKWUMzhj8aQ4/oZzs6hFpciotLgUNH+yToSOEoKY1n48IoKy50w+9eBMGeo1d68vpdDeHNe3rYi7XzBxVyqvWRYEwTCe2893pC8PHb0lD3V/hs/FMlWdgjGm2+BPCB405gOaxvxHrKdoW0mDIbbxdm7opK1AE7vy0sGtEyl5EDTA==;PvtK0iMGtVNvIw4zOP0ibQ=="
 ---

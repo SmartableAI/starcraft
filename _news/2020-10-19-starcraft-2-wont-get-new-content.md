@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starc
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1"
 type: article
 quality: 97
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Blizzard Is Officially Ending Development on 'StarCraft 2'"
-    excerpt: "Blizzard is looking to wind down further development on real-time strategy game StarCraft 2. In a recent blog post, the developer announced that it would be ending production on additional \"for-purchase content\" for the game in the near future."
-    publishedDateTime: 2020-10-18T19:17:00Z
-    webUrl: "https://uk.pcmag.com/migrated-84555-gaming/129404/blizzard-is-officially-ending-development-on-starcraft-2"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/b/blizzard-i/blizzard-is-officially-ending-development-on-starcraft-2_141a.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "StarCraft 2 content development is over, Blizzard plans to focus on the franchise’s future"
     excerpt: "Blizzard launched a sequel to one of its tentpole games that helped establish the developer in gaming’s latest golden age. StarCraft II was a bold approach at the time, dividing its story campaign into parts that had staggered release dates."
