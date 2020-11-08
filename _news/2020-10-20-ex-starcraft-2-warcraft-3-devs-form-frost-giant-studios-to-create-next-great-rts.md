@@ -40,6 +40,22 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "As Blizzard scales back ‘StarCraft’ support, a new hope emerges for RTS players"
+    excerpt: "Two former Blizzard employees are branching out with a new studio that aims to make the RTS genre more accessible."
+    publishedDateTime: 2020-10-20T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/"
+    ampWebUrl: "https://www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/20/frost-giant-rts-warcraft-starcraft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 53
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KID3MI7CAZEE5PPTNVAWAQFHU4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "gBBglL11tITnsWa33pfx+PEmvOiPtuyey4V5EqFb2ej3g0x4jUR/EYCsrkyVB6HHjOXrsBBVaQpfkyYyh9FamEthqsrPg2xZ7j7RoZl79epldcrPM62r0PohmsngCpysgCIdoZe/pGVXWLZ/2kY3s7Zttwp6ESWPl2umuTHQMyLR+JMK1iRk4KKrMAmG4kvYoRDomRxtEUZBWf8iGZKv3a0UIlvrpoO7ktbaSuAoRGIb60JtKQ6+NRY3iyUS3MvLMPqhXo6rC6Edo84obvXLt+svX9j54N+Fh8SHK9Cz/UxWQwHZiX8jVpMDQyE0l48wG0Qxe0PaM4uGU5Uoo9WZn4d6yhCOtQgQjY5DyGjEoGI=;+TCrkPsZPrPKm6EFgNBI3A=="
 ---
