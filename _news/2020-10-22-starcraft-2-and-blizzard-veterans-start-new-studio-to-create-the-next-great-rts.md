@@ -24,17 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft 2 veterans team up for 'the next great PC real-time strategy game'"
-    excerpt: "Blizzard announced that development of StarCraft 2 is winding down. It wasn't a particularly shocking announcement—StarCraft 2 is 10 years old, after all—but it was very much an end-of-an-era moment for a seminal RTS and esport."
-    publishedDateTime: 2020-10-20T23:47:00Z
-    webUrl: "https://www.pcgamer.com/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/"
-    ampWebUrl: "https://www.pcgamer.com/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/starcraft-2-veterans-team-up-for-the-next-great-pc-real-time-strategy-game/"
+  - title: "‘StarCraft II’ devs open new studio to work on “next great” RTS game"
+    excerpt: "A number of ‘StarCraft II’ developers have banded together to open a new studio focused on PC real-time strategy games."
+    publishedDateTime: 2020-10-21T06:26:00Z
+    webUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542"
+    ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/starcraft-ii-devs-open-new-studio-to-work-on-next-great-rts-game-2793542?amp"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
+      name: NME
+      domain: nme.com
+    quality: 57
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
 secured: "1ni1+Rk2kRSiz+JibmBYTLmWUtOQT+UgO4l7OSPWccSI+ZJdUUn7Tf2Di6fE9euvdhaykNJOyA21CSsBhascKw6/U4J1SDHbOmd5OG8KRQcDD0MVhew7L9EYkaqKO/ti49u+uBTJDvInudl0K5WCva/+aONUDQY/2gbdy2xBwjV9nUFmCPCSRd5swXZEYh+2BwYWEKabVEFbNpNm1/8vCk8FndbjgywCbq3BP2GK+bbZGuHUtPcrHCg3PaCL63Q8Ej/MFOeGd7CLI2KtuV7KDI23/+SZytuTIQQSR120H2AH1Y31721HiPIHUgZQs7fCBky/fUKAc5QK8qXWehqrtZtPMoLYRYUdTL+rrTJuccw=;3C01GOQx/CsfNH34O0vhGA=="
 ---
