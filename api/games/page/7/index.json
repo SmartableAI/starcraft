@@ -4,6 +4,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-terran-vs-terran-insanity.md",
+      "title": "StarCraft 2: Terran vs Terran Insanity!",
+      "excerpt": "An amazing game of Terran versus Terran between FanTaSy and Cure. I think this is my favourite game of TvT I've seen this year. It's really good. This match was played as part of the WardiTV Summer Championships and displays everything from Cheese to Battlecruisers.  Get more videos & support my work:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-terran-insanity/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-vs-terran-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=AH194cvrl0M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AH194cvrl0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AH194cvrl0M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-15T07:44:55-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-200-iq-probe-rush.md",
       "title": "StarCraft 2: The 200 IQ Probe Rush!",
       "excerpt": "This is one of the dumbest games of StarCraft 2 I have ever seen. It's amazing. Amazingly stupid... But fun!  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv.  My second channel:",
@@ -1040,44 +1078,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-04-06T05:39:34-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure.md",
-      "title": "StarCraft 2: HUGE PROTOSS SANDWICH! (sOs vs Cure)",
-      "excerpt": "sOs versus Cure in a professional game of StarCraft 2. In this Protoss versus Terran we have both players deciding to rush the opponent's main base after the early game. A wild base race ensues.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure/",
-      "originalUrl": "https://youtube.com/watch?v=VGL0z0kvA5s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VGL0z0kvA5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M28S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VGL0z0kvA5s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-27T02:25:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hyper-aggressive-terran.md",
