@@ -306,44 +306,6 @@
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani.md",
-      "title": "StarCraft 2: ACTUAL IMMORTALS?! (Trap vs Armani)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Trap and Armani. In this Protoss versus Zerg we see a variety of build orders from both players, and surprisingly enough... No Void Rays!  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=kVcMwAi0uds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVcMwAi0uds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M52S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVcMwAi0uds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-27T04:13:20-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
       "title": "StarCraft 2: INCREDIBLE BEST-OF-5! (Maru vs Dark)",
       "excerpt": "Amazing best-of-5 series of top-level professional StarCraft 2. In this Zerg versus Terran between Dark and Maru we watch two of the highest ranked players in the world face off against each other with a variety of strategies and build orders.  Support my work: http://www.patreon.com/lowkotv  My second",
@@ -615,14 +577,14 @@
       "publishedDateTime": "2020-01-31T00:50:43-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-vs-clem.md",
-      "title": "StarCraft 2: REYNOR vs CLEM!",
-      "excerpt": "Awesome game of Zerg versus Terran between Clem and Reynor. In this ZvT Reynor decides to go Mutalisks versus a Bio Terran player.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-clem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=-V8RoSPjn7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V8RoSPjn7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M52S",
+      "path": "_games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani.md",
+      "title": "StarCraft 2: ACTUAL IMMORTALS?! (Trap vs Armani)",
+      "excerpt": "Best-of-3 series of high level StarCraft 2 between Trap and Armani. In this Protoss versus Zerg we see a variety of build orders from both players, and surprisingly enough... No Void Rays!  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/",
+      "originalUrl": "https://youtube.com/watch?v=kVcMwAi0uds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVcMwAi0uds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -637,12 +599,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Protoss"
       ],
-      "heat": 121,
+      "heat": 122,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-V8RoSPjn7E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kVcMwAi0uds/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -650,7 +612,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-25T03:27:30-07:00"
+      "publishedDateTime": "2020-10-27T04:13:20-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battle-royale-pro-gamer-free-for-all.md",
@@ -728,6 +690,44 @@
       "publishedDateTime": "2020-07-18T05:07:54-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea.md",
+      "title": "StarCraft 2: GATEWAY CHEESE vs GATEWAYS CHEESE! (PartinG vs Astrea)",
+      "excerpt": "Awesome best-of-5 series of StarCraft 2 between PartinG and Astrea. In this series we have a variety of Protoss versus Protoss strategies and some cheeky Proxy situations.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-gateway-cheese-vs-gateways-cheese-parting-vs-astrea/",
+      "originalUrl": "https://youtube.com/watch?v=eKYBdUHpnx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eKYBdUHpnx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M5S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eKYBdUHpnx4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-17T04:53:08-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
       "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
       "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
@@ -765,14 +765,14 @@
       "publishedDateTime": "2020-10-19T03:09:33-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator.md",
-      "title": "StarCraft 2: THE PROTOSS PROBLEM! (Hurricane vs Creator)",
-      "excerpt": "Best-of-5 series of professional StarCraft 2 between Hurricane and Creator. Macro, cheese, and Protoss problems.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-problem-hurricane-vs-creator/",
-      "originalUrl": "https://youtube.com/watch?v=61ury_cloIk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/61ury_cloIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M43S",
+      "path": "_games/lowkotv-starcraft-2-domination-serral-vs-parting.md",
+      "title": "StarCraft 2: DOMINATION! (Serral vs PartinG)",
+      "excerpt": "Serral versus PartinG in a top level game of professional StarCraft 2.   Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-domination-serral-vs-parting/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-domination-serral-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=0tqkfW8uPaI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0tqkfW8uPaI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M50S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -787,12 +787,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 115,
+      "heat": 114,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/61ury_cloIk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0tqkfW8uPaI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -800,7 +801,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-02T09:21:45-07:00"
+      "publishedDateTime": "2020-08-27T01:19:23-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-zerg-mothership.md",
