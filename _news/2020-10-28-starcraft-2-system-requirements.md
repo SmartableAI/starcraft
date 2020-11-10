@@ -1,10 +1,10 @@
 ---
 category: news
 title: "StarCraft 2 System Requirements"
-excerpt: "Based on scores by our most trusted members. Please login to add your score for StarCraft 2 Graphics played on the pc. Lifespan Lifespan score reflects how much gameplay this pc game has in it. This is an average score out of 10 left by our most trusted ..."
-publishedDateTime: 2020-10-28T14:05:00Z
-originalUrl: "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft 2"
-webUrl: "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft 2"
+excerpt: "Based on scores by our most trusted members. Please login to add your score for StarCraft 2 Graphics played on the pc. Lifespan Lifespan score reflects how much gameplay this pc game has in it."
+publishedDateTime: 2020-10-28T14:02:00Z
+originalUrl: "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2"
+webUrl: "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 281
     isCached: true
 
-secured: "kYbem4caOulRR5uuQ0yiJr8OytwJh1+CU9PQVAauLEkChyTOvtzLH23AebbKC9ev9e6akS/chFmvQ14Zv9n4bZ6Floji/GDQnuJLapK2epRA87inJkTHns4cAQvdIFEyQWi/1Fm9xZYV6NKEJrLuwqjJWlvzuZZfZ31Zj4B/q5aesf4IVNoieypgYvqckuEwELZtCYX6V3zpZJKYRp9cKPxn3Z6oqAsNCPyXCgrvoZjL2FbgyjjQ6fnuDB66Lwk2Y+6TeaTIor1fPdjF1rEg792taDGP9GXwWtcR2kbqhq/XRHG6PrfzmD7TyD7Wp7WvwXUGXEE6iJOYywpEyB1COG8UbdSFYlnuOoChlocdxFc=;ceAUwYdWBA5JyfkxHbGtzg=="
+secured: "+J5PrObglyjSJDjXqZ6fgzEEn6dqBUizkU4+KXSY3QFiXTo+uGu1vkggweLGYc92lIhVMvgyxJVhjeUJRV1GTwI3RcqbTeXrjcU3RIxIFgs4/xY2z/b+hWdMC1e+o05CrK/SxLx3NmNG40Rf56Bz6ZPp1e9DlARTP5JzA9tzl0vF4TOi/1uBcFRw6FIqcR5T9gHzrtCo6W8F2ehGEoJi1qQfamZentDOn14EHw60rto1M0VGyfKpEJVXlC0NmGaErcRS4D/g4rH7u6gKuu1Wuf3SZvftrvu023hCMnTmaLpLwny7j4Yz5mLnBQp1sprHN2sbmgvvqY8OpX5pU207RPnIgt07oh2Y+73vTpMNCVQ=;xUzl/+hwxsaDyLn2kv/4+A=="
 ---
 
