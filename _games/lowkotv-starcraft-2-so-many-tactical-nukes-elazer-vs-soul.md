@@ -2,6 +2,7 @@
 title: "StarCraft 2: SO. MANY. TACTICAL. NUKES! (Elazer vs souL)"
 excerpt: "Fun professional match of Zerg versus Terran between Elazer and souL. This late game focused Zerg versus Terran has tons of Tactical Nukes.  ByuN versus Lurkers: https://youtu.be/eLWJxqsr7gs  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My"
 originalUrl: https://youtube.com/watch?v=x900enTWliI
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-so-many-tactical-nukes-elazer-vs-soul/
 type: video
 length: PT35M22S
 publishedDateTime: 2020-11-11T11:23:12Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "j+DejuBeyLucB+l4NlF3XHcECjSxLLVfHgV9G8JBSLSCqIVNn9ZHDRN/FHmO9HAexVsK+4yvV6RqxdnwlPU48gRmpCkQ3O32OlzgvDPk48UKyunAH6NYTCMoMqdGKeGoJJSB0lQvBq/prjUV00wRKkExgxxWu3EMWo2FTPdCau4pIfuq6yUXO+7YYp+syEtvV1EtdiKxMH82Tdof51/9uz257nfRphtFd1Y09F7P53ehsV+w5MbSowVczcF5l/+qbu2CFXbUeNxZZLIkFiSYQu3QQcp2hX5B3Rp9Zhx46aN6hUrqh0Czkip18Jir8pyH9qtZokjeuVZkX5spWriw+wZnuIu9UgVENlEOK6sGXOeSG0XT9XoKlKpVgxWYKvd8tCbE+O7LgNWdpqsoSiBnVQ==;lDUI1kdaU9DEfLqD1e798g=="
+secured: "/w3umhmzt2APSteDjyPh/NztjZUQMShbflOJZlZvAB0J+xRhOTK+6sta6nYKeXbotpbCkfv8bIXRyip1Z9jK01EYDvBMwNr5EiWg8oqdz/JfTExh9NXCHtw/wDfwZ5AJ5T80aHHyjkUm0nCy61mmEYVZczCv+NfiC26QfdZ9oSGLyUb8a5meYmAE9yxy0YH3rdO9xiQCTk5JMPgs2HB7MCnzJ1Xh2NOVFAV/36cd5xYRMDLOAJqQcVRdufm1laHccy1tLsmBKWAxmblkzYcfWzO8y/zY5aqbof8/9xF8tgsMssOxeudAXvIUbZiYL6PMkOMj+ALYV4A3O8Y9u2FLr/AJ46ybvkFBnG5MHupJz9LfYmzYUG8AW340xYqgyZia7uY2BBtkNkxwRyROtZbg9A==;1B6LXNEL1TAonmlayDVVyQ=="
 ---
 
