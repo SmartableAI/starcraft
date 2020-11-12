@@ -4,6 +4,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-grandmasterand-msnand-ventrilo.md",
+      "title": "StarCraft 2: MASS Marines Grandmaster...and MSN...and Ventrilo!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-grandmasterand-msnand-ventrilo/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-grandmasterand-msnand-ventrilo/",
+      "originalUrl": "https://youtube.com/watch?v=dOeH59TWup0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dOeH59TWup0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M54S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dOeH59TWup0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-08T05:53:32-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-marines-last-episode.md",
       "title": "StarCraft 2: MASS Marines LAST Episode!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -1042,44 +1075,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-04-09T11:08:48-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-non-stop-terran-aggression.md",
-      "title": "StarCraft 2: NON-STOP Terran Aggression!",
-      "excerpt": "An awesome match before uThermal and Nerchio. Subscribe for more videos: http://lowko.tv/youtube The Crescent Moon Strategy: https://goo.gl/Rs8Qw6  In this game Terran decides to play an incredibly aggressive style. uThermal decides to pile on the aggression and hopes Nerchio crumbles. Nerchio however,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-non-stop-terran-aggression/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-non-stop-terran-aggression/",
-      "originalUrl": "https://youtube.com/watch?v=TEFIkZlCdbQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEFIkZlCdbQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TEFIkZlCdbQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-04-22T04:08:47-07:00"
     }
   ],
   "nextPage": 6
