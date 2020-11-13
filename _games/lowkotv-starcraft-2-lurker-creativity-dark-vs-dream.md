@@ -2,6 +2,7 @@
 title: "StarCraft 2: LURKER CREATIVITY! (Dark vs Dream)"
 excerpt: "Awesome game of Starcraft 2 between Dark and Dream. A Zerg versus Terran.  Dark vs Creator:  https://www.youtube.com/watch?v=ZGBQn1UbR5g  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:"
 originalUrl: https://youtube.com/watch?v=L5qAk3G5CAE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-lurker-creativity-dark-vs-dream/
 type: video
 length: PT29M37S
 publishedDateTime: 2020-11-13T11:05:36Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FYu9okIlxMjx5VyxlHRJ2MPNrAvgWKxqxpeRMLCO1U5p6+0yDBqdEisA8DjUWGrdiLFajfymOOoZLx+0A/ZMrgX/gY+kFZV+IoHmU50/Gvq5VAl6AdoIP/Rt9kuOCXfh2LbzTp7wn1gUud9LGWI2hYCcJwIE7m4krhmY3sWIOYbKRhjdACUcamLZSJbALrFcwBCAMC1SMY+voB9/eMD781qICOb4lyMnxPNVpFpcF6PdDKOo+HPLUz1ckSuTGY5+nTmuAJP57jio8Eo+3KJvjeGR9blf1FJN4+AsvWfwm12oZXsxVKAYWf3uJLrIPbHA8PCmNRFllWeUpjuolttKhLhoB572Z3KxYmhqxzXmHR/+LlPgDJYS/cjEZQl9UmUTay35t9IZUZyMLIgJLKZVLQ==;Aes3mrK1gjPyFy00TdIcnA=="
+secured: "zbGndWL7VI+fxxp2mKUZNfREAA5x42/ZvdSxQTsjhlinSL4cIo1bIQcIFftVsp74LzkMoKvJgWBPfOjdah4oGi4vgkNdqCghml8+Su/yd0qFTJSgAdO3rRbdexvEmmLUA98fc7jF4EI6DlhUopc1HmYsHq29WMiGHu7eu6zIpusn/NC6qKOX7wxRY12OAK0blGw241pLd7LTqAwVPiv0qkgCTx4ZYQPVLhbrpRM4y9YsybkrkzZQ75VZDsL1usWF8odUDdetzGIBDCbpUoh/UjCqxu2HaqrCsBAzSpII5LjLiUgIMtuTJo0CyAXylfu4pbHZSmFsqgT4EnpHVjEZ295VsiNv8ijtXAatJw+s8s+YdXCkJ0dbOR9U5gv2ZC+l6dMqlEoprGnjmtHT+ix9SA==;/5Vm1Jxf1uwcAS8P1HqCSg=="
 ---
 
