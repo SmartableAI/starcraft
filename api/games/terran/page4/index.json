@@ -4,6 +4,121 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-planetary-frustrations.md",
+      "title": "StarCraft 2: PLANETARY FRUSTRATIONS!",
+      "excerpt": "An awesome match of Platinum League Terran vs Zerg! Subscribe for more videos: http://lowko.tv/youtube Welcome to Aiur: https://goo.gl/1giyV2  Easily one of the most frustration games of this level of play. While the first ~10 minutes or so are very strong, the followup, after the Plantery Fortress rush",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-planetary-frustrations/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-planetary-frustrations/",
+      "originalUrl": "https://youtube.com/watch?v=2eOkMHi03bk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2eOkMHi03bk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M18S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2eOkMHi03bk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-07-06T04:04:57-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear.md",
+      "title": "StarCraft 2: TACTICAL NUKES! (Cure vs Dear)",
+      "excerpt": "We don't see a lot of Tactical Nukes in Terran versus Protoss at the professional level of StarCraft 2. This is a very fun pro match of SC2 between Cure and Dear. Dear decides to open up with very quick Blink Stalkers and High Templar with Psionic Storm. As a response the Terran player decides to go",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear/",
+      "originalUrl": "https://youtube.com/watch?v=1ZYgZ_qoMcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ZYgZ_qoMcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1ZYgZ_qoMcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-19T03:14:36-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-bio-vs-terran-mech.md",
+      "title": "StarCraft 2: Terran Bio vs Terran Mech!",
+      "excerpt": "Terran vs Terran match of professional StarCraft 2 between Cure and Dream.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-bio-vs-terran-mech/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-bio-vs-terran-mech/",
+      "originalUrl": "https://youtube.com/watch?v=mc-3WHF1zT8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mc-3WHF1zT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mc-3WHF1zT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:20-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-terran-vs-terran-insanity.md",
       "title": "StarCraft 2: Terran vs Terran Insanity!",
       "excerpt": "An amazing game of Terran versus Terran between FanTaSy and Cure. I think this is my favourite game of TvT I've seen this year. It's really good. This match was played as part of the WardiTV Summer Championships and displays everything from Cheese to Battlecruisers.  Get more videos & support my work:",
@@ -273,14 +388,14 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-i-ran-into-a-nasty-lurker-trap.md",
-      "title": "I Ran Into a NASTY Lurker Trap!",
+      "path": "_games/beastyqtsc2-a-new-way-of-dealing-with-tempests.md",
+      "title": "A *NEW* Way of Dealing With Tempests!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-i-ran-into-a-nasty-lurker-trap/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-i-ran-into-a-nasty-lurker-trap/",
-      "originalUrl": "https://youtube.com/watch?v=HNr4V_uyUUI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNr4V_uyUUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M10S",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-a-new-way-of-dealing-with-tempests/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-a-new-way-of-dealing-with-tempests/",
+      "originalUrl": "https://youtube.com/watch?v=fuNtcHTrfeM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuNtcHTrfeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M40S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -295,7 +410,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HNr4V_uyUUI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fuNtcHTrfeM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -303,17 +418,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-11T05:24:55-07:00"
+      "publishedDateTime": "2020-10-02T05:25:24-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster.md",
-      "title": "*NEW* Series! Hellions, Ghosts & Liberators to Grandmaster!",
-      "excerpt": "NEW series is here, back to some Terran gameplay! Let me know how you guys are liking this one!  Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-new-series-hellions-ghosts-liberators-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=6XOOIeuFQHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XOOIeuFQHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M14S",
+      "path": "_games/beastyqtsc2-ghost-goes-pewpewpew.md",
+      "title": "Ghost Goes....... PEW.......PEW.....PEW",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-ghost-goes-pewpewpew/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-ghost-goes-pewpewpew/",
+      "originalUrl": "https://youtube.com/watch?v=UX45YMlIZx8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UX45YMlIZx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -328,7 +443,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6XOOIeuFQHM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UX45YMlIZx8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -336,17 +451,17 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-23T04:49:52-07:00"
+      "publishedDateTime": "2020-09-28T04:40:40-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-prophet-beastyqt-100-prediction-rate.md",
-      "title": "Prophet Beastyqt... 100% Prediction Rate",
+      "path": "_games/beastyqtsc2-giving-my-opponent-the-final-warning.md",
+      "title": "GIVING MY OPPONENT THE FINAL WARNING!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-prophet-beastyqt-100-prediction-rate/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-100-prediction-rate/",
-      "originalUrl": "https://youtube.com/watch?v=maFJ2fB4AB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M15S",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-giving-my-opponent-the-final-warning/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-giving-my-opponent-the-final-warning/",
+      "originalUrl": "https://youtube.com/watch?v=7XMfyJNVVEk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7XMfyJNVVEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M54S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -361,7 +476,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/maFJ2fB4AB4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7XMfyJNVVEk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -369,40 +484,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-13T04:50:46-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-rage-spamming-pause-before-quitting.md",
-      "title": "Rage Spamming PAUSE Before Quitting!",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-rage-spamming-pause-before-quitting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-rage-spamming-pause-before-quitting/",
-      "originalUrl": "https://youtube.com/watch?v=AGlUHAXXdJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGlUHAXXdJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M36S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AGlUHAXXdJs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-06T05:38:27-07:00"
+      "publishedDateTime": "2020-09-26T04:25:22-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-1000-apm-commentating-while-playing-mass-marines.md",
@@ -964,72 +1046,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-29T01:27:41-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-the-anti-terran-salt-miner-build.md",
-      "title": "The Anti-Terran Salt Miner Build!",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-the-anti-terran-salt-miner-build/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-the-anti-terran-salt-miner-build/",
-      "originalUrl": "https://youtube.com/watch?v=YB5vFvdnW6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YB5vFvdnW6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M6S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YB5vFvdnW6Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-24T05:15:38-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-winning-the-impossible-game.md",
-      "title": "Winning the IMPOSSIBLE Game!",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-winning-the-impossible-game/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-winning-the-impossible-game/",
-      "originalUrl": "https://youtube.com/watch?v=uwXiWeSKbT0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uwXiWeSKbT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M52S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uwXiWeSKbT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-03T04:26:20-07:00"
     }
   ],
   "nextPage": 5
