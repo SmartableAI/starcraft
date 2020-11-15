@@ -4,6 +4,37 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz.md",
+      "title": "Hellion-Liberator | Build Order Guide TvZ",
+      "excerpt": "Build Order Document: https://drive.google.com/file/d/1p498T52iQWahcCZs5tKGG1mxBqwqIXZO/view?usp=sharing  https://www.hushangcoaching.com Find personal one on one lessons, guides, community & more -------------------------------------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/",
+      "originalUrl": "https://youtube.com/watch?v=zNnrd1-eWPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNnrd1-eWPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M2S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-30T17:18:13-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zNnrd1-eWPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg.md",
       "title": "Mastering Starcraft 2 | I kept getting rushed today! (Protoss vs Zerg)",
       "excerpt": "In today's lesson we look at a few games where I get cheesed by zergs players. Actually, zerg player. Singular. Let's take a look at the mistakes I make and how I know these rushes are coming!  Protoss vs Zerg | I keep getting rushed today! #PvZ #protoss #StarCraft2 #RTS #SC2  Coaching --------------------------------------------------------------------------",
@@ -83,6 +114,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/W3AERGMCp4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in.md",
+      "title": "Starcraft 2: Build Order Tutorial | Zoun's Disruptor into Colossus All In",
+      "excerpt": "Starcraft 2 Build Order Tutorial. Did you see Zoun's insane performance in GSL?! Let's learn the build order he used vs soO: a disruptor colossus all in. Enjoy the Starcraft 2 tutorial!  #Zoun #Build #Order #tutorial #starcraft2 #sc2  0:00 Intro 1:59 Build Order Tutorial Begins 10:02 Like + Subscribe",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/",
+      "originalUrl": "https://youtube.com/watch?v=KzjT3CaXtHI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KzjT3CaXtHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M37S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-17T22:51:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KzjT3CaXtHI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -898,68 +960,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
-      "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
-      "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/",
-      "originalUrl": "https://youtube.com/watch?v=bnT1opNwMQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnT1opNwMQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M24S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-20T19:06:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bnT1opNwMQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2.md",
-      "title": "Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2",
-      "excerpt": "In part 2 of my mini series on hyper aggressive TvZ we take a look at some example replays to help you guys out with various scenarios. Hopefully you learn a lot and enjoy the daily!  Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2 #StarCraft2 #Terran #SC2 #guide #starcraft #tvz  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=4Z2G5h0vUrM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z2G5h0vUrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-18T21:09:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
