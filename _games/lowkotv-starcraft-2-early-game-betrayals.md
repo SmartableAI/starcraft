@@ -2,6 +2,7 @@
 title: "StarCraft 2: EARLY GAME BETRAYALS..."
 excerpt: "Disgusting cheeses in two viewer submitted games of Zerg versus Protoss in StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community"
 originalUrl: https://youtube.com/watch?v=h3E8siepLCU
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-early-game-betrayals/
 type: video
 length: PT27M22S
 publishedDateTime: 2020-11-16T11:07:14Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YxxoqA4yYKbKQeOzjdnBToUNtmZzx+L7k1d8ARG8IIy3NkmX3/+idUxy7Ta2/MAYMAiP4r0Ra0EwJPENiPKfgz/N+W0asz3bdPS+F0Rnpobq5Xp4sCfnwzXO3NZ5tt6vmTjdTRB3wVCLLlmV5AztAP+UwI9wbM5EQ8XejwmJ4GB++N6re/ldq9pVl8K9BUrtCV9brlQnGZglkImJSxdKt5V5NEZXifzeCsf6NH6vmtk6Qtp5Jdz8Z2qXjIIBtOeAiFinj1MI57WlpIkgOIQ/Ig5lTO2eJX+AIAWyq5M2dXaxaUIMKLeXVVwv/G4JizxGbXCgLSnoJiOP6K1Uwdh2kh9dlBdo8CYK9wH+0q5CiLA5k0IxN82CClzNm41rVqBgkVXuHhWUpvntaKWPxFQp2g==;Ul0rwTGt20gQt6Mi+akxdg=="
+secured: "sLTy6Ile1c0XvLIFWmxpW8WKSxUCVH6yZLk1WmagTifW3xscZvTptXesWJOyO5IZ/OEmFahrvQaRK+N/TQv1yqH2hrv+bJV68jm5z/jXvX0NtdRst6mIluMoaGux1EFQ/mEGuiruvDShhV5k5b/zcJOIRd3oSFfCG/HjX/RWbco9ueD1DzqoMajbAm5I5VMlzv3PSZG7vihD+wZzBGtOygIvsXcQgxEq7PFmw+oEQuV1qFyCno3G8tQzBVlKv8Q6lvjawr8xfrgmbgFq9QDu7v5qnyjdTedD9CLjRAAnEsx+8fo6wKx8LyGmLuny4tUDvk2ftzKmsix5flAkkhYzznmPCWsmeTNJ03N7dtHWVE9EQJzDPZ9lEd7EfU7s98XccPSxP+dIpdHkNpz0Wo2UNw==;qHTkawKmPbTqGnt3fU/7sA=="
 ---
 
