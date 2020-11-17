@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=L6k2Nxhk7Bc
 type: video
 length: PT1H59S
 publishedDateTime: 2020-01-21T12:39:47Z
-heat: 74
+heat: 75
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L6k2Nxhk7Bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "rd7EaoYpW5QgPdDT3FV4rCDyUQJRmNHM5Yv7vno3ahZtlvkc+zYhWT++iOvWZiD/UJk3DQJE6pJe6j6T1cFKnbZkki1PbzPlv9jBdTCIWYI0+hzgdDsP2sUTTLYxGMGGWig9bJ05jQAOWMdQfmLY79erPlQEISj0qvkoou1Rt2NUhTXdEURzAQzq+JfLVcVZ87A3zxsR3ffpzrx1d/ZUxuXFZ5AryqzmgsvaegBNyJWtSjDSaTMdhfTGsSAwWsfuUV58QX3YEP3QFnIuypWG8JHlyWuwm/NeAJpVD6O2VbiAqc775zwjnY2XyYQ6sK7/rau03lJA1yhSZ6DNI05ixpx+h8eJ0EZ9bWZlN2WWnE+2vc29+epFNxoal/n7rIkiNsMIxck3dkr5/TTNSFHpVEmHehGznkCR1Qj92P/8LbeeNgaXkf7sWT0ae0vNVmxg;7Wlrgreh0U2acriUdLGUjg=="
+secured: "sGBVu6raQm/GSEGA78kHNo9Cn3BFCFEuUCUU+dRLem4MG3H2kgoeISH5Z8s9/fnIdaCOZXoT2Hr7qw9hnwj5BoHYQ0QiYxKRvQSltAxpLFtmelzlFvzGm8sAF7kFy1S1x8JnEU1JmA8UMSKccBJtxWJIL3HS0AcBZApc3z9XSUZjmsNiY2A2vZW7D9vssAsMsLZeE7OADxQPHPThctDsNPj5eVdS31lxOKFtcKmLNUy8DB8uWrSu7X1wvg7OcejTmZeByC3OWxRXFLY3xMloc528EQSwdjrdltCUsGFfcFE2wxNQI3BZEkDsq07v9UYbUh0SY41SytIp1PSn6ClCtKQBGmIF8DEmYyiQmKGgINsv6kMW/3xAdb73zGg7pYw9LoRm2nZfiHlYlkjzvFbMMHisl4j/kF69NRLS+SmM/vYy0zjINxLy/BxjOVZZ4y0v;cJX07z54mGX6cfeoSPRm/g=="
 ---
 
