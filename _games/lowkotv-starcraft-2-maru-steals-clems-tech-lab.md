@@ -2,6 +2,7 @@
 title: "StarCraft 2: Maru STEALS Clem's Tech Lab!"
 excerpt: "Best-of-3 series of top level StarCraft 2 between Clem (Terran) and Maru (Terran).  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=BZZosGja3cg
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-steals-clems-tech-lab/
 type: video
 length: PT21M34S
 publishedDateTime: 2020-11-17T11:05:58Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0wmeYefy0us4HNm+61mSNyEIkRrqMatg+MxZmDm7XgAyI6LJd5BO/XirWt2UNfdfG54vHIA0PW1X6FGyRo9aJOlU6XDeljolyJChHrYb86c/bKUiijYn9JvHyp3jxkS5t/bru75Mgk9q3e/zunpWmqf4m+6yAd+ayAr2lm+cdjWLbRd5ypv+oSD4Atvdr1rvO06MlenoYgJVAcCfg4KJmgaeBk4xMrObztqmFrvmzgjo3Ti6H5xF1Lc/8Llpl3tDhxP7bOwtzWoRyA4gglDYa94lYPz3x/Uxlrbf7RSL7ck/Qv9JnBj9g75/60j43P9UiO3+BqZ2BIvsp0BntaYIIe6ugOEkOtfApesFTiXq01kPI1m9Cjrog4plTczYxc1kzZVkWBZ1wWB+biS5QWMTOw==;ITMkleI+ZsXEQgXgflKJYA=="
+secured: "vZnWrQzSZxnnpdTdyOsSYYuYSlVri/ID0Kc1YTbG4IUFQt81h6fFLyD2/5h9K26/IfzNwiDDxQQpijzUU6YGydFgz1QVe/iQdIYHcgShtGAGbi4uROMvdWMszmYaV/R33cFNi+I3tt+NOgl1+9zENkzgjsJiQgf1XpKVLyUp/d8haAv4OwLmEpqKk5N0/QZo9kPH6nizwk1VtrMoIFg3grWN8eErKGRZ3KLyQvIeiRHudLivsIgvP1IlhlGIrz3XCcKnlG7fEj7ReBgZO1vICY9ZUbxkplbyiuH0/SCtFuKSZ9XwTVydhApNSQo+vamQdDasB0BApECc0byHKjm4k2N3oZPmQBBuCJCMxXFuWtR0OWXjNgSncmqtrhObga3IIATXuhWWTVPztvM0jGTerg==;4g0i4qXvVzRb4tzPz9GyQg=="
 ---
 
