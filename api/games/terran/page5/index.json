@@ -4,6 +4,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-blowing-up-battlecruisers-with-widow-mines.md",
+      "title": "StarCraft 2: Blowing up Battlecruisers With Widow Mines!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-blowing-up-battlecruisers-with-widow-mines/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-blowing-up-battlecruisers-with-widow-mines/",
+      "originalUrl": "https://youtube.com/watch?v=lCX1UJNTycU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lCX1UJNTycU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M30S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lCX1UJNTycU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-12T03:14:52-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-cannon-rushing-vs-mass-marines.md",
       "title": "StarCraft 2: Cannon Rushing vs MASS Marines?",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
@@ -598,14 +631,14 @@
       "publishedDateTime": "2020-10-03T04:26:20-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-banshee-assassins.md",
-      "title": "StarCraft 2: BANSHEE ASSASSINS!",
-      "excerpt": "Mech vs Swarm aka Terran vs Zerg in a professional match of SC2. Subscribe for more videos: http://lowko.tv/youtube Mass Thor: https://youtu.be/xJCcTlq6x5g  In this game between Fantasy and Solar, the Terran decides to open up with a quick Command Center first and transitions towards a Mech based army.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-banshee-assassins/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-banshee-assassins/",
-      "originalUrl": "https://youtube.com/watch?v=1kiKwqVIaKI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1kiKwqVIaKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
+      "path": "_games/lowkotv-starcraft-2-battlecruiser-mayhem-special-vs-soo.md",
+      "title": "StarCraft 2: Battlecruiser Mayhem - SpeCial vs soO!",
+      "excerpt": "Awesome match of professional StarCraft 2 between SpeCial and soO.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-battlecruiser-mayhem-special-vs-soo/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-battlecruiser-mayhem-special-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=dnla62dZpRE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dnla62dZpRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M9S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -620,12 +653,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1kiKwqVIaKI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dnla62dZpRE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -633,7 +667,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-04-28T08:06:51-07:00"
+      "publishedDateTime": "2019-11-19T03:32:42-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-battlecruiser-timing-attack.md",
@@ -828,44 +862,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-21T04:53:28-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-different-types-of-tactical-nukes.md",
-      "title": "StarCraft 2: DIFFERENT TYPES OF TACTICAL NUKES!",
-      "excerpt": "A very cool game of Terran vs Zerg in StarCraft 2 between Solar and Cure. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/EQ_JvXQFDEU  In this game of high level StarCraft 2 we see Cure building on top of the advantage he established for himself in the early game.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-different-types-of-tactical-nukes/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-different-types-of-tactical-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=X2a_JvUWrw0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X2a_JvUWrw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X2a_JvUWrw0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-06-12T04:17:02-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-epic-terran-vs-zerg-bo5.md",
