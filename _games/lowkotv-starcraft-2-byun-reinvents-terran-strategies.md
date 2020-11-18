@@ -2,6 +2,7 @@
 title: "StarCraft 2: ByuN REINVENTS Terran Strategies!"
 excerpt: "Awesome series of Zerg versus Terran between Solar and ByuN. In this best-of-3 ByuN seems to renew Terran strategies in both the early and the mid game.  Match is from the OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=b223lcwanCs
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-reinvents-terran-strategies/
 type: video
 length: PT35M6S
 publishedDateTime: 2020-11-18T10:53:19Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DqkHUlD6nhbkP1w4ipVNwU3EUDpTz7YdvhxCJQ+1ozGSetuTSWbT+icL0MOnS11hY3y3fLkhVodzXf/h6izBTE9tbGHo67l8l49VnPQ/rkGiypG0fuPPeVpQaYK8IU1aw68Z5rzr5VyxeZ8VETyfVm8Vw8JiEk4nlauh11ptOabglStcEToQYXC5oH6TdVo/5uQAi7VDE+F8bw2XRZ1qX5P5Qrbq9g9F825QfpKs3w0ru77NKuQcmZD2RSS7/o0sIKCAK+OlNV5vnFYaXwb8GNlPZY0EfffZJ7RDqoFTJ8hALiDYQ/CeLQMMAqkLxnl6J984UNhKBYC4k03vdQKd4F/5EtkM6Nh9zaeLVz93nXYvqf49tTxe6PIMvyWRUX0npFXBgzV/eB0oSope6rUX+w==;vRJtJSqyjiwyj2UfgBLj7w=="
+secured: "TSUXR7stHkz2mtQdcgLwssIZa/tkt1FzQxYCT50PX3tOe8hazxKipXydP63iQabGBOk4I47edVye1ilJMM9j04JXrsm30M9u2p2iUS9esBvOEeckZRyBMcZZ9ZVhsiln8pLJsFuvFbSz6G01nkVIbwQdiIVBJyp9CkUSP77OR//hZHY/Ip+IH/ELsGSkhleNpOJ8BrNPM5GVn6B2GPWntGJh9wRHTANhhYLSUSFnVKcZ+vjSTPBkKWfIhn1qef4TrnsNNjg9t22bxyhFrVBjqPmUzExYWVmdXAPNmh1lcEIPh3Zf3OpB+oxrJTajTIG/Jdj4RMorsGjHIuGuy8q4CEklbTUmJsUpwleV1f/5FLnRII71WT3aei5u1BFhSMtnxd7fZ41EEdeUN0Kq8a3wrg==;wb66Sytkqxmlq/EKxGWVmg=="
 ---
 
