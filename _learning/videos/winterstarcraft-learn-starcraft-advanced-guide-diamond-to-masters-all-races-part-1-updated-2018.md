@@ -4,9 +4,9 @@ excerpt: "A guide for more experienced players, detailing the things that diamon
 originalUrl: https://youtube.com/watch?v=jzoixsf3yJQ
 type: video
 price: Free
-length: PT3H7M1S
+length: PT3H7M
 publishedDateTime: 2018-09-21T22:07:42Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V31ZgapPipLiIttjzidTJP0sRgMTaYNOaoClZ+IE61To1K8isniEJiz8TUxMY2GeXRlQ4XXFMiXg19hIff6FNQwPr2Gekm+rVcz3xIcJFzu9Mm2VgZk92MtGIF9J4D2XXf4Jh4kWE29jkTyBE/6OOOoDqz3OSHhUY07kJY3vSapgubDpWNmJ4Oi9OKbmohZbBWGW1DONczQp5rB4liJt3c5KFbUfPkOBnSl+nnTQVD+ybhGFYEmPdna8wZxq7PWKQorSXTlUNe5NEA/c7Zto1fMkJOqJXOgaCxct9quoWXV1DuMGw6k73dx7IPOmmfHjUhZ4rXQjK+QmnphujN4sMWmvSlPPQL5eOihaiqezgc7LVI6TEQ7izw0O1zli441o+T3ZpcrDoRK/nwDeDJFPp7ehpvb86EFCSvSGLgs2S0PRo9Up+cEaGt35YgJDXh9U;YR60aef+5rCVqORcmDpfpg=="
+secured: "/4AXdw9SMxGM/4+NNA7B35gqTTmGLdMREpRJYjBPR76XEkFAqW77H1vQMZgEI2FZIoAlnomSvzQQdKd8vwVUMyS361Pbhu3cC27Lz+YyCPhCyWV/CIIzo4uYg35gFv0TZeskrdbIlYTXSNlrdRqiY+341KppeDYpksk2mRaFjFXQxqGh4imUJpWRAB5lBnZxgp6VoeV+5Z1R3r4JAvzCE3n7hak6Xx20t4YBUODcnPZs2COnWlyXOIoRLlAdhsf6q+AdQKniqq5HXPcW93tAMhfuzQZJAcaW4iuxC+8oaZTV3pTL5+d/an2BLKNLD4V0t9MlLgAwPwyjiIdGXgsferVxRwntB5ZDCa2VfCTitiLIBtEnrxICq59xQiQn2EjJh0HkjjHhPs/zEqi/tshWrCd70QlKgDnuNDTnQzTnq20Qks/lfysKiWKKohpW/5Ft;cc2JviEvocc679Mo2bvYug=="
 ---
 

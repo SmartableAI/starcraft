@@ -48,7 +48,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2018-09-21T15:07:07-07:00",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
@@ -139,13 +139,13 @@
       "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/",
       "originalUrl": "https://youtube.com/watch?v=jzoixsf3yJQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H7M1S",
+      "length": "PT3H7M",
       "provider": {
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
       "publishedDateTime": "2018-09-21T15:07:42-07:00",
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jzoixsf3yJQ/maxresdefault.jpg",
@@ -176,7 +176,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2018-09-21T15:07:57-07:00",
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
@@ -240,7 +240,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2017-11-19T09:09:08-08:00",
-      "heat": 60,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UdFTRsXMG7w/maxresdefault.jpg",
