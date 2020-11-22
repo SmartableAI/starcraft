@@ -3,9 +3,9 @@ title: "StarCraft 2: CHEESE vs CHEESE!"
 excerpt: "I'm starting to really like Battle on the Boardwalk.  Subscribe for more videos: http://lowko.tv/youtube The Double Cheese rush: https://goo.gl/dGUuCF  An awesome match of Protoss versus Protoss. One of the players opens up with a Nexus first at the Gold Base, but also starts off with a Canon Rush. His"
 originalUrl: https://youtube.com/watch?v=d3pQFMq79tU
 type: video
-length: PT20M58S
+length: PT20M57S
 publishedDateTime: 2017-12-01T13:25:24Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d3pQFMq79tU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2Q+jTFBROuYps2qXKTQyb+HK9H463U55MhOefjfpbk2wuH2PqrseE5yWJBIo9IH+aDpESN3PqdGFUTRSJ52G7z/9/q7kT2SPN4CCPDtWnN3N4vg2B5z8bLzstCRqxcLddd5DksPW8cE0taG7d24WsSLHEY6cOSPMk0XT9hzd0+pbCaggl+loalOdFSj6W//ZMbYRXN+wn36Nrm8Ve9OpHIBFkXCI5e1NkVWVUSd2gnYEdQ6+IumK+tZnP8zdFVaum7pbAUZ1EIWVU8nJhof1FSy7a7yTBGgMWOwIH/xBgNHT9Q8+k8eI1OzRGcTxSWGPk1QZVSg/84WuLto0VygDC1Nzkr6OsfBIPYt5nf98GnTQC8eSO5bwEfBI6P0jDPYhaFB8CLyKijJrf9oB6NvnAhyCnlRKno3gmRvGc4UrfRa1Kspf5SaYGVsMTfW3/sKz;t5sq0Uq/dStEmQL8iq76Tw=="
+secured: "zlCQToW+wM0kxeeRBDy20D2FjzVgv54YnqOcwMiK17Zjc3K0wg6i9a7f1KmEn8ZXy9pzOnfuaoAIfu2fY0nNFodt3S2dt5tR6VLdVaBamiiAXzgZwgK5kx4IxNNnte+SKVHvxfpq6Dd4dBMSaVCYr4y3fn/MOGS0UNvn8f3/q2A+l7q1Sc/XrdudtxeLJGJQ3k6W7Ax4aiKvRHQRP66mpS1PCDED/DQufeEvVdiNC4ydNSg2FETH9aBomGB3TmwxvoLgeW0mUstDnc7C4ShTs3VW5InI2pFUWnv+CxbRP88N/VF9oSHsatUIi/phwGryMK3xV3zMiuwhWWpaLfYwOFfnHXzjSNcYAvK/ty832KYqFruQKiSECEZNjgXVUEJzV1hzrzNDW3RpXjHTOoPsk1iYf+eX6X31JPv33MFBBFfo5+sqKJ7CAppg7z79bXJ5;7j7Ab3HKneZx/oKZ9R5hhA=="
 ---
 
