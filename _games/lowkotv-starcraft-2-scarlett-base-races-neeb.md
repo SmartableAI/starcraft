@@ -2,6 +2,7 @@
 title: "StarCraft 2: Scarlett BASE RACES Neeb!"
 excerpt: "Long macro game of Zerg versus Protoss in StarCraft 2 between Scarlett and Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=QAUbqVt5hRY
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-scarlett-base-races-neeb/
 type: video
 length: PT39M3S
 publishedDateTime: 2020-11-23T09:09:07Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XBPhttLiM8g22QRoY3gQW+cyzk+IXcteHgOTJ6TsVCxVNa7K8L0UIB46LN+m+aEGYIX0L+iD8DS3KksN3evmeSIgUt6PiH+NMPdH2EsIgON6IE8Y3oleMRl/aBfeXZKGUd8y6CGZqn3+s/FJ5a28bkRqSq3TJR5IQMivP7vV2A5B1X+lc70JyyHjJlpTzjenuf4AcW3IYxVRhcD7z/UrfvfRkfuHK9kF51LPPH8tFHBX3KfCPN8IeWq6UVCqks/Euu9lS4kPnSFrm4OZuPAg0O7E3DC5lWa8G0flSPzD7V3mDPJlLczSnJEhKVOJSv+8HxMgaa0g8zYQ9BZBgja24haNT5wTQHCFmX2GzUz5CFGj6Vplq2Z7BCPqvfUxMb4wvy85y39V2JERKkXse/Xziw==;sqaTxzx9SlGBx1T0zyuuGw=="
+secured: "h+YM5apZ3fekDA8xzd1CiLzB5VcrGB07uQALo1YGW+lDC2qENXFqgpjo1Vzr+kGPT1g2J4U648f0+7OZSFKVKD2GIaW9SJIejbOeDXCgF8DAZTWQmL7Ifg/v7e8yDyfLOxS2dHMMQrOkQEOn8NbAIk3J5vPGZdRSkVBS3AZK1Eb86dU7O8c8nI8tZ7iC/h5xZ/T5ORtEOjEr2UcEptVPwTnLIW3waciH3uqrbSRQHaBxDuxKB3nbT7Xh125z3twDUkVd2ARYqXMOIF45bjWZ2nu17Yk4hYY8XqnsQJ5WHb39vYtYi5qWLjbdgoG9PoWtvxleOHpk7tz8pYahkPUgLuD4JPZF02LlykDkN74PlFm03rWHaAtm/IW4Fun8R+W0LvSASeXO+yqmbByzTR1JZQ==;g4lq1PTDMgrJ6jo3iUQ55Q=="
 ---
 
