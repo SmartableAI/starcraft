@@ -4,7 +4,7 @@ excerpt: "Pig is a former professional player who now streams regularly and is o
 originalUrl: https://youtube.com/watch?v=5EIBqtNrsuA
 type: video
 price: Free
-length: PT1H21M41S
+length: PT1H21M40S
 publishedDateTime: 2018-09-21T22:07:18Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4h4tbm0w8qPmwVsFYxhJq2wHdATi1olqdaQDpSQoSNubcujaCacJet1MsDP4WFJmygAonxkKg6pZH+aAQ+gqqkHhIdSWK74NqTOispMEx7ttXRJ+1JOTPZXh9CeqXNRNdYEcG9a0XPfw/Mdeu6UXZ7Z4wO8g8AOgb3FdvKonPx5FrQd8olkH4a37vXqljr3wuVRbFRBYdfWXqROHZL0JxvigziQcXCBbgc0ND7RpY8YnUky+kysi1dRWX5eRQABKtXyUy5m50K1MsdDF/rrBknKSGUKw+e6C55OyoKhvBh5N7jfKUEupz6cb3LZ/OpvnSIGz4p9Xfg/Bw2NobLFUkI+eye8opUUCf+FQq4Do6Qq7cJ0PA1OBEWkSqMYv+FWHQkUFKr3nBCW+pYVYTvr+UxZcVol4Eb1DdnHnDVY2vcY=;NcH9GwzJ3U3nUX3idi0Mlg=="
+secured: "Lm2uGWacwL1UZNgvly2NUfhJpU+MNz9LxrdENHQtY4mdM0VIBe/zB4wWVTd6HVUtO0yvQASJlRHzBzIXy1y2UwJNDe5cUQUupyCCW4ZvY2M60GM9eePNYYtHIq9f0Ue8iNhtddFojW+9w/8O1TH+B8920HH3oC9WmagfSUf5A6AekEyeqk2pOe+v1iH+aWIuL8SKMAEHQzY3OxkEA21namzmrkSFKxsWdrmWV94XaCbFUr/vYT4xHBQNgNzKp7RsqKN0hPecPiMp6z2dfJZ5Qhkj7RBUVoEoYF5kroI1NA2weVz7iBLDLF7mI8xMHDXq3w8u9lDOktGMCbpzIXkhjVxi5QdIf6gceAZsug6w5cA7eAf/nG+VrPI6ZXau2azuKlqwg4hctA9D2k1Uyep2zDhbzki4tMBdbQEZdo7UUsY=;62Ykd5GqocNEDc3AyHlDSA=="
 ---
 
