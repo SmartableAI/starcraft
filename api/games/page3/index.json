@@ -161,7 +161,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -318,7 +318,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -527,7 +527,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 111,
+          "heat": 51,
           "tags": [
             "Live"
           ],
@@ -620,7 +620,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -938,7 +938,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1099,7 +1099,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1487,7 +1487,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1648,7 +1648,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -1997,7 +1997,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -2158,7 +2158,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -2319,7 +2319,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     },
     {
@@ -2480,7 +2480,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "collection"
     }
   ],
