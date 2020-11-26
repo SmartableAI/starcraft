@@ -4,6 +4,75 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-co-op-han-and-horner-guide.md",
+      "title": "StarCraft 2 Co-op: HAN AND HORNER GUIDE!",
+      "excerpt": "The most efficient way to play Han and Horner in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 co-op: https://goo.gl/rTBoJm  Han and Horner recently came out, and I've been playing as much as possible to get them to the maximum level quickly. While leveling them up,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-co-op-han-and-horner-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-co-op-han-and-horner-guide/",
+      "originalUrl": "https://youtube.com/watch?v=esbFR47-3Eg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/esbFR47-3Eg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M41S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-18T13:43:36-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/esbFR47-3Eg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
+      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
+      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
+      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-05T16:15:55-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
       "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
       "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
@@ -245,23 +314,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful.md",
-      "title": "Starcraft 2: Parting's Blink | Build Order Guide [Caution! Extremely Powerful]",
-      "excerpt": "In this Starcraft 2 guide we take a look at an incredibly strong build order by Parting: \"four gate blink\" which he used several times against Maru in the ro8 of GSL this season. It's an incredibly strong build order that often wins the game before even arriving at the mid-game, so it's sure to be an",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful/",
-      "originalUrl": "https://youtube.com/watch?v=aPPHx7GAVUo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPPHx7GAVUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2.md",
+      "title": "Starcraft 2: Protoss vs Protoss Macro Game [SC2]",
+      "excerpt": "Protoss vs Protoss. In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Starcraft 2: Protoss vs Protoss Macro Game #ProtossVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/",
+      "originalUrl": "https://youtube.com/watch?v=gj0bdIiDF70",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj0bdIiDF70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M36S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-05-31T15:48:59-07:00",
+      "publishedDateTime": "2020-10-26T18:53:02-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aPPHx7GAVUo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gj0bdIiDF70/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -679,6 +748,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
+      "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
+      "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
+      "originalUrl": "https://youtube.com/watch?v=scB6uE4jFuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/scB6uE4jFuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-04T16:07:56-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/scB6uE4jFuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
       "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
       "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
@@ -696,37 +796,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2.md",
-      "title": "Starcraft 2: Protoss vs Protoss Macro Game [SC2]",
-      "excerpt": "Protoss vs Protoss. In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Starcraft 2: Protoss vs Protoss Macro Game #ProtossVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=gj0bdIiDF70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj0bdIiDF70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M36S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-26T18:53:02-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gj0bdIiDF70/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -971,76 +1040,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order.md",
-      "title": "StarCraft 2: ZERG CHEESE Build Order!",
-      "excerpt": "A very easy build order with a solid win rate in Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  The strength of the 15 Hatchery, 14 Extractor and 14 Spawning Pool is the fact that it makes your build order look very \"normal\". Your opponent",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-cheese-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=EFGJKS69qz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EFGJKS69qz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-11T06:23:54-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EFGJKS69qz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018.md",
-      "title": "Learn Starcraft - Advanced Guide (Diamond to Masters All Races) Part 1 [Updated 2018]",
-      "excerpt": "A guide for more experienced players, detailing the things that diamond (and below) players frequently miss, and what to look for! Covers all races and builds. Required: https://www.sc2replaystats.com Replay Pack of All the Games: https://drive.google.com/open?id=16TEQx8mNyKoiKJvymM3l7Vnb5X53HHrX  Thumbnail",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/",
-      "originalUrl": "https://youtube.com/watch?v=jzoixsf3yJQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H7M",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:42-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jzoixsf3yJQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
       ]
     }
   ],
