@@ -2,6 +2,7 @@
 title: "Starcraft 2: Live Terran vs Protoss Practice Session"
 excerpt: "In today's video I recorded a terran vs protoss practice session. This week I'm working a lot on the Terran vs Protoss matchup. Let's try and figure out this frustrating matchup :)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=N1rZW8yd_7M
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session/
 type: video
 price: Free
 length: PT1H2M2S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Yn+OciPtwN1ZnJF48f/s8PFEwqvVSPgY/InQ52LQhk7mGSCpI+r6towpYs1DpKFnQ/heugzJK30/rlvpb1bDJgRulOmoRxr7rZaSe51ChXSXHwHt0n6N6RfUd76WasxwqPgMrhGvWhVM8toeW9XSK9mj6j/mjkNx6dcCBBMt0fkqFRS9Mmt+dyCGLzxwtYZemU3tLKh9hyeDKPQRDZ0bYDnqtnTQo/Z5QMgmQw/w5oIsZyxY1BLbXoYR5oabePD/bChi6daozAYPABrJOBLutpocD3P8H+Ot1PU+HhEaSH3iv27STOEbmxeyvVmBn5yhWYld5rcrLGSZgQwTnaqiF+mMf1A8uFt5I/Xg/7vTOO0pykii8QoqZXj5JNl1ojmWDpumxNOXt5zr5mR+F79z1A==;qJ9aWhZJf2lcMHcYdaXafg=="
+secured: "Khtv5E8zr6UOCcjxN7iCv/PbVG4L3HBHN1aoX60i+KWKuVnnDjEu3ltfLTiFHiC/GBB4BJQKciEK0/GLnEnR9e5eMTCIDHwAWdaThJYpBb1ewDxoIG/YWKzwbclgeJ+IHpRiuLs/UI0bEKKe2el0xmyTNo40lIxMmpE3kLmHN9MJo44j4xw9ZdN6aF79RkUgo3tXjN7qIRRlmuRN/XM+DH95EhaB4JtQK6FvCAdEp30gw+9Snu/eX6dBm93DpwmXVRLj6hcpZnu99j76HFMXtjagWFwAToylN8Vl1A14Fwq1KlxIadF8qEEfgrqRbRIARa0ScrxvGmMCfX2NTt/lX/s9kiSFvdy1nebSkusd+vdAOXr6LhGvxJOjAT6WStOC;+HCLqV2IlvxfiIcLCmhbBA=="
 ---
 
