@@ -2,6 +2,7 @@
 title: "StarCraft 2: Clem Kills 100 MUTALISKS!"
 excerpt: "Zerg versus Terran in a professional game of StarCraft 2 between Clem and Elazer.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=7JmYu75kjkQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clem-kills-100-mutalisks/
 type: video
 length: PT29M3S
 publishedDateTime: 2020-11-30T10:23:15Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nvlYkjUkIcQ6jyAADvU5XqsH7OtJj48sNaPhF5PzyP1ix3rus2XfTQ1tbWpiXSSOCHgLo1gEezvK/Zwz6vaStbpJwFEGeC7kBzp3poOBYOl0OfO0fICP4+z6XbItJzAC4LE6SBZcudjK5rZFyXJgWlX+nEYxzo9wvo51eMaZK0CdSB0nX1F+WVmRrUcGVXiuEIzplU9IVOeikk819KZlbFyKg5YCkF7GlzXSStRkMtOHn+2/8tn+AHiZ6ZkxaxVS4fqF4YgSI8p7BlRtUW+QqdlpSEycjzGaNNFCo6EVbVJzeyAScAr7g96cziE1eYkxUgY2CwrGhZQC+cz+tKWCrEeRVFh6RWuw52wneifyWj1NjCvHGkIk/9LfyrfNMv5m6OUbXcBKYG2wt4GN8t6+Dw==;d8qPl/yKO7TV2LS44CSRQQ=="
+secured: "yxQfBNELPVBurvfWI65sCGH8sKiaCNlj5D6+Wx+PHKhBrdiesXDuYlrrNFp57JG3MlacDUlWVd1aUsHO5Cl3otToDduDtM4QgJ25aZwWl1OpL1SfPaZSbBpYadEu/wqRiV1bodhgR3rbyRQ34rL6owwAIXfQELWpOAcJ2aVrEbFSVof6cDIULFm7PbYwst+bQYmBfrwwx8RaTNvTxLhNU90SXxc065ZH4DcK6wp0k7VGlexKhXPzbNWZYFlRvxPzwxnf4s0/JAhcf1S8F0rrbnO653LnKYVjiB+iGt/A9oyrzJTVlmoqP4CaapaiYTXsulBHKuKWP5qaR3ITbIZEUqkcb4FICM/9JkuB+5MSvhoT/Y0L+Ynvmcia79vHlPTxcffYUt9vijBr2OfooIhRhg==;FV5hA9zrboAPGDnAR4aKYg=="
 ---
 
