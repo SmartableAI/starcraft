@@ -2,6 +2,7 @@
 title: "Another ZERG PROGAMER... Can I survive their all in? [Starcraft 2]"
 excerpt: "Today we are looking at a game I played on ladder vs CHAM, one of the stronger players in Latin America. I'm trying this new void ray style vs zerg and it's REALLY strong. Imba?  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=S0aStr5dYqY
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2/
 type: video
 price: Free
 length: PT10M4S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Cynt3edsT+E4EYndr6vQ2qK8YJ6adfTgWzAw1cEB4ha2BC/CtXfhgb6w6GgxyA50wFQyz8tXYvHGMQ+bNj0hLkHJTiAyrqxHNtcH6xEfyTclBiorGYuv/yd96nTBFjg0vTTNY73j947163IQrYvT3tWGeqMgoh9RjM0wyxpsvXAjOxWTtwAXbxlWYsB7WRnri+bFlasd+/Sc/OM8aOFsSL5j0eL5W5gsWqzlgEHUHbYUAAVoSLXDFQRljp3vbPrhx2unfSyAo+MqpX/HHXlrXKVzisA0H0DjXvKcjB/QLNPhUDVPHepzab6/wp7ixR0iMEb6+yv6/HB4P4Fk4rspKqCdG9KJuUyLLU70bz+ALb7qIAySeysAzwBqe2DH7KMeL6aaDSSzok7FrIErvmL+HA==;woiGbyajL+HaZBkxm309+Q=="
+secured: "uYYFi4Um8HqfyN4wFXxAdoPzbBWpaSPZa7B09XbTeq5QI2MrCbsUo6B23c+8uXHbGkFU1dlHwr4lsbzorPNZ08xg/QqYbZX9blVay4cvdlLqbT2NE/E5loHdbnpcHmUf6O3QO3Ds1IQ2MuHSNeA3hg6qa3U6Ja+C0ft48CfqVXOPgpWN7j3r4Os6WkAvUtJahqf0M+elUHwfvJYO4fE+RUJ8SR/QpW13q7h3qFslAUWGcb+u8HDjw68UGCfn6fEPzMoFahY9MvDzo/Ygso65UDiNbDOXxrJ9gb4J4xO+kfBljxNS1yHLXx9khHexd4BQMNk8q1v980ttvpZ9Di/vQyYZpUZWYqVELssdDV13LIIN7rFP0r1aJ/qGLeDCqyiA1HddYxWAg2hkd/BEN2dZpw==;4B+W7OVePA++9SeInEpDvw=="
 ---
 
