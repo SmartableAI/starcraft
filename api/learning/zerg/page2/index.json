@@ -4,6 +4,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018.md",
+      "title": "Learn Starcraft - Protoss v Zerg Build Order! (Updated 2018)",
+      "excerpt": "A basic build to hold off and then defeat the disgusting Zerg! Meant for lower level players who have little direction, not for high level players looking for the dankest meta :) -- Watch live at https://www.twitch.tv/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/",
+      "originalUrl": "https://youtube.com/watch?v=ZlNdkpjFifA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZlNdkpjFifA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M21S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-20T04:23:53-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZlNdkpjFifA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv.md",
+      "title": "Learn to play Starcraft: Zerg Starter Guide #2 [BUILD ORDER] (Updated 2017 LOTV)",
+      "excerpt": "We go over a very basic Zerg build order designed to get you into the midgame with a good economy and options. These guides are in no particular order, nor are they meant for COMPLETELY NEW (less than 10 games) players, instead are all meant to help improve generally!",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/",
+      "originalUrl": "https://youtube.com/watch?v=Jb-fmYlR6fI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jb-fmYlR6fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:08:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jb-fmYlR6fI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
+      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
+      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
+      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M11S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-11-27T18:30:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2.md",
       "title": "Starcraft 2 Newbie Guide - 003 - Training: Stage 2",
       "excerpt": "In this episode we pick up the pace and explore more advanced units and upgrades.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list...  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64 Tumblr: http://davidr64.tumblr.com",
@@ -942,124 +1036,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained.md",
-      "title": "StarCraft 2: EASY Zerg versus Terran Build Order EXPLAINED!",
-      "excerpt": "This is a Zerg versus Terran build order for Zerg players in StarCraft 2: Heart of the Swarm.  Instead of focusing on Zergling Baneling Mutalisk, this build focuses more on Roaches in the early and middle part of the game while transitioning into Ultralisks in the late part of the game. All the while",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/",
-      "originalUrl": "https://youtube.com/watch?v=ZOMj6X5_eHw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOMj6X5_eHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-05-11T12:57:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZOMj6X5_eHw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg.md",
-      "title": "StarCraft 2 Gameplay: Defending Cheese in Zerg vs Zerg!",
-      "excerpt": "Safe Zerg vs Zerg build order guide: https://www.youtube.com/watch?v=-Hqgyx6z-6E  In this live game of StarCraft 2: Legacy of the Void I play a Zerg versus Zerg on one of the smallest maps in the current map pool. Because the map is so small, the chances of my opponent opening up with an aggressive push",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=SHWX5M54-ds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHWX5M54-ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-21T07:04:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SHWX5M54-ds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained.md",
-      "title": "StarCraft 2: GASLESS Zerg versus Zerg Build Order EXPLAINED!",
-      "excerpt": "Zerg versus Terran Build Order: https://www.youtube.com/watch?v=ZOMj6X5_eHw  This is a video about a gasless Zerg versus Zerg build order for StarCraft 2: Heart of the Swarm.  The gasless build order in Zerg versus Zerg is currently one of the most popular builds across all of StarCraft 2, simply because",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained/",
-      "originalUrl": "https://youtube.com/watch?v=OLpOrsJT96U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OLpOrsJT96U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-05-31T10:24:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OLpOrsJT96U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
         "Zerg"
       ]
     }
