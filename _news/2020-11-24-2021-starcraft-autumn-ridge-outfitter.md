@@ -36,20 +36,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Tributes for Paul Makin after Starcraft's popular owner dies aged 82"
-    excerpt: "Paddy's Rewards Club: Get a £10 free bet when you place 5x bets of £10+. T&Cs apply. Paul Makin, who owned globetrotting multiple Group 1 winner Starcraft, has died at the age of 82. The Australian, who made his fortune through betting, also owned the ..."
-    publishedDateTime: 2020-11-27T00:00:00Z
-    webUrl: "https://www.racingpost.com/news/tributes-for-paul-makin-after-starcraft-s-popular-owner-dies-aged-82/382649"
-    type: article
-    provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 37
-    images:
-      - url: "https://www.rp-assets.com/images/news/2019/05/26/62269-medium.jpeg"
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "KECVpeW15LbKE/bdsj8bAXsEg+3PruhnqzigMV+HJLRiSCckh16NZZ25a8wO63JAtGjz5zaOHOY/EBwsldrIhqhfdn7r5aVHRYMWBPj9oWqsRjnmL3WoJL87QnFlpK1+e/jTOucYLVHyrFw6OUeSeEc+9jGa1il6gGrbk7HG0avSz4sEpHy2jQUqC8OmWwr5sdziICzkbMS6DuePWg7Z8sBI9iNBXyxWuq7ceNRAtQk/+R+QqDWzSGCMW3ly2i8VI4iQ8gyeaMaKsipJj2ZlS0m2wjpoVpIXFfc5Ks5x06k1KPJxj1fCYz6w8rnqgpZ8eN27lHTDkrSeb5KP2Rn5VKayoLz40+W6V04nsahEOeI=;cYyGbwxuTgvz4IMJe6Xjbg=="
 ---

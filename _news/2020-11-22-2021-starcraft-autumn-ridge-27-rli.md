@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-27-rli-travel-
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-27-rli-travel-trailer-2854463"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Tributes for Paul Makin after Starcraft's popular owner dies aged 82"
-    excerpt: "Paddy's Rewards Club: Get a £10 free bet when you place 5x bets of £10+. T&Cs apply. Paul Makin, who owned globetrotting multiple Group 1 winner Starcraft, has died at the age of 82. The Australian, who made his fortune through betting, also owned the ..."
-    publishedDateTime: 2020-11-27T00:00:00Z
-    webUrl: "https://www.racingpost.com/news/tributes-for-paul-makin-after-starcraft-s-popular-owner-dies-aged-82/382649"
-    type: article
-    provider:
-      name: Racing Post
-      domain: racingpost.com
-    quality: 37
-    images:
-      - url: "https://www.rp-assets.com/images/news/2019/05/26/62269-medium.jpeg"
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "GZYD3XA7oef+OG98bP2NYNlPykoGQLWm3sCcM1u60LfQ78kJ37fGh8qIAwEgXNItwVRDoW2jJCfArPjEed0qSuhTzwtwmjQmJ8m2MrGbmIKumCsUESpHtcG6KswX6TRst0e6uuXaXdqQCPM8KhVyvxdcu0ibq2rlj5DdhXbIRVgA3xciFRLOvYMXSv4qMCLsL24vz+uOybj49vaeO1njdARXKsX1WwPfQNpBhA/dDmnGEVgGAoRVsRU9FluK5p1gJ+Yl14lJEwb6rqP5MALaMkJeYNKzs83pcutzOChNB3E+A3Q0FP1z+e0sd9XogQ97nQC97ZdeUzXYK18vhQ523Vpehu/yu5fqeGvtu/lbVMWUYmOlJf8GBcMIjcr1ktM+YUs0HkO5uE64FnAmUjmrEPGTCmo0UOwcUDs7kwHccD0fhBuNNzQa3hYp4gT7c+Oas7WY+XhYliX/1knWyTdKWKXURS2FC+uyvcpFf8t3zHaflhAKB9ObhIuWhd8fsMw1V9P+9iuIqgonrgA0HJMi3g==;ruC+3n/x1UV7Ynz4iuyTGw=="
 ---
