@@ -29,7 +29,7 @@
         "Terran",
         "Zerg"
       ],
-      "heat": 228,
+      "heat": 437,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VZeBQi3WXlk/maxresdefault.jpg",
@@ -267,14 +267,14 @@
       "publishedDateTime": "2020-07-18T05:07:54-07:00"
     },
     {
-      "path": "_games/beastyqtsc2-prophet-beastyqt-100-prediction-rate.md",
-      "title": "Prophet Beastyqt... 100% Prediction Rate",
+      "path": "_games/beastyqtsc2-little-weird-timing-push-vs-protoss.md",
+      "title": "Little Weird Timing Push vs Protoss!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-prophet-beastyqt-100-prediction-rate/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-100-prediction-rate/",
-      "originalUrl": "https://youtube.com/watch?v=maFJ2fB4AB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M15S",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-little-weird-timing-push-vs-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-little-weird-timing-push-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=g7qSFGe07TQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g7qSFGe07TQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
@@ -283,13 +283,13 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 110,
+      "heat": 111,
       "tags": [
         "Live"
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/maFJ2fB4AB4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/g7qSFGe07TQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -297,7 +297,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-13T04:50:46-07:00"
+      "publishedDateTime": "2020-10-01T04:20:41-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
