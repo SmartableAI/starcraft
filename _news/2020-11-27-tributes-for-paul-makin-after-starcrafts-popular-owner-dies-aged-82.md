@@ -40,6 +40,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge Outfitter"
+    excerpt: "Starcraft Autumn Ridge Outfitter Travel Trailer #128449 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2020-11-24T10:14:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2898601"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2898601"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2898601"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "jzn6bZBUYYzDgYEPK0Gbv22mSkwuKPKNPFzSUghN8xO7hUIySm97NCzNdIv+3nFs+d7M5Ln4TE6HogWGJ9AkQDKQr279LvssmaeZ/+fMS6Ev0sexLJhyAgfO1ESy9KCsjE2QeteOx4u0JEdVGa/vswZd3yGOc6Fj4/xlNw+QZ9oCSCMMJJJHSBHhb3PmI9tdufZ6ccRMETxK0R8Sx2ezPohs9CM6embdKMQDytanrqvygLhnu48b2FqlW69kX5eu1WoapC0FD3WqJEPiXNC8n/cZJGnEeLVkl9OLxAeyK/P4LziQWFJ2asASqq0xTYGlrblhIihVNfzk0jmGf2/5zvZNf/p9vfPKahldm/fdh+I=;p1HZYU5Zr3xp+DHBEsWDnA=="
 ---
