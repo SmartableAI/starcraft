@@ -2,6 +2,7 @@
 title: "StarCraft 2: The Very BEST Of The WORST! (Bronze League Heroes)"
 excerpt: "A crazy game of Terran versus Protoss between Bronze League players in StarCraft 2. In this match we see some crazy strategies coming into play.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=jdhzJmvrC2Q
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes/
 type: video
 length: PT19M24S
 publishedDateTime: 2020-12-03T10:22:00Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KUad9iaeYrStRr9NPvL+lY7cgfotDOj1gr1pacjKgxi3YJFZqhJMnkR5ain92fk9LYwaxeqjfjhi88NPacgq4MgO1pNXwTmnVnjynWxOSWEKjdbSfGy4gJB5K/4PZR6OPAyyxoSXcme/GTl6x0wHsIKzmaZluienHYyELk6wzyjCHDiiTa4y36WXHHijJDHC+g9WwzSHJpg7QN3zUQlATAn8hBPOdLn1JglFK0VTXrVu1W2cgfqNHIkkqFAynUykENTOWJUpekEToM+ayAtWEzTUuhGd7NUy/+my8G7Cxr7Q1G171nWc9d4e4NKvA8Jr1L9WtqkTohA4PZL4a/V6cwMO1D0pC6OxnGaaM3fz1Wfy+LqdtbJPy22pTw/WMWRHbi24HhoGrUJtsXcRW7qJhA==;sK0ZKnTFYQsulU9IjcJxKg=="
+secured: "DIylSTwDXSECALoivvUhfQiw7JQ0rGMBxMyPFWHfwEUpUtcRXVfBbzMqRVBf/UY0Ryb61hqYBE1Dlp7ICTAtj219p7Nbl2RYq4H16HWEIj59VWUI8UEe2VMyf9SE7+BJJxjSwsPPh9WewY1P2gRCbUTmLvUn1EflvoOTx7Oik3hhxKDc2Thh3flZB3PbF1bgLIyIXOWFrftt0xTYKZUtXAdiGqLlI2jiv7H6BpJ3lzReKpHd+QomsPlQJFIjvZ9bdbNRSzU/GsePPVipF+ydjkPIT1oH+M9+HagtKlW2i7l8mGLDa4MP5NnZeZ0dMz9F1riGzgbrzpxJLT3ylqw8SE0azQtHF6LiwL8MbDkxW492GYfzaH2ttvDp/5ArWfgJvKas/T3dPJGVx3pDa88Thw==;TZHWf+I5kALzvk0SA9Ry1A=="
 ---
 
