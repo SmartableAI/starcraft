@@ -3,7 +3,7 @@ title: "StarCraft 2: THE ULTRA LATE GAME!"
 excerpt: "The ultra late game of StarCraft 2. A professional match of Zerg vs Protoss! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://www.youtube.com/watch?v=NI3-ujm7Ru8  Denver versus Harstem in a really cool game of Zerg vs Protoss. Both players take significant amounts of damage,"
 originalUrl: https://youtube.com/watch?v=EQ_JvXQFDEU
 type: video
-length: PT32M35S
+length: PT32M34S
 publishedDateTime: 2019-05-30T12:00:39Z
 heat: 50
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UEFnAvcoE2GM+xVCWYLr7iS2uZU3Hvaag+XRKxsB6fjZVU87zXdmf0Le82vTwqJ9205mwenGnD/WHxfTE32n6/1PPGFpO5Uxd4z+2+4G5c29htoPcTOOT4gquNuVRl0QuIDZMyNGuJ7llgkO6AjESrXUeIJVq7cVRPXUYeyWFgyQo5QAhKZLDWwGRk0d+S5TbugozvqQ933tYfQnJ+xQZjoxzLO1kJarMtPokm2OOzJnlqLAUyNhhVpDPTi+3suOXEStJaKhs4LQXUobz0HJTgGIkW4IikjdOKJkCy+huBIloTXgU7IPf560UXd5j4HZIIecQa2vtajva5lEOFYPWP4hsdTdy01Mbwvx2p2Gb+DfOBSI5hG9XsFzA7ZIu0xFFqyg7BDM1sDUs1gKsn4BMFi0O9357DNfNPRYD+8JEu8=;ctbtsWaVh6U9srnc2npS6w=="
+secured: "Xp2Zmuwo5763AHjGpYaASQ3uYuux17/EmoKPJMV8+MG0JtnGRJt+V6ufDFK6Wr3QwSTlIkW1wZNzqqO/6RiPlV0moP4aRcjKKrpCP83DLIHhs/+Ze0kNDv8WoZOlkXKJ62sHWj8+LLgvrG7cIyuv3iVAYbzhIVPgKcjMGQ4yFjQf5EeQLMnxrvaJArW8GgJAfd4UKoLIvEGshdp9Q0OqMGSKpML2ofPfNDHPzX2FMahCVbYhhseLd7BaeAaSRKxznNZp7n/1SrhsDZFgG9RPedZH21A/8rJm3nRDFMsPV1bvUwMeUI5IzmD5pI1b4nROIeK+kPVIM2gs6hMISiv3flyEF5uFnjzXSzramciIfHogSiZa9ossR4O7DAeOoRMZio5d5RSGUQJW8w0CQWRw+4DwOSDgeSz2G9MsZXAXScs=;UFP4GGFj3wkWv88uzpg3EA=="
 ---
 
