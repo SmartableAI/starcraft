@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-27-rli-travel-
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-27-rli-travel-trailer-2854463"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Pirated Starcraft II Holds Record for Most Transferred Torrent"
+    excerpt: "According to an article over on TorrentFreak, a pirated release of Starcraft II, with a torrent size of 7.19 gigabytes of data, has been downloaded around 2.3 million times totaling 15.77 ..."
+    publishedDateTime: 2020-11-16T00:00:00Z
+    webUrl: "https://www.themarysue.com/pirated-starcraft-ii-torrent-data/"
+    ampWebUrl: "https://www.themarysue.com/pirated-starcraft-ii-torrent-data/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/pirated-starcraft-ii-torrent-data/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 37
   - title: "2021 Starcraft Autumn Ridge Outfitter"
     excerpt: "Starcraft Autumn Ridge Outfitter Travel Trailer #128449 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-11-24T10:14:00Z
