@@ -4,6 +4,37 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks.md",
+      "title": "Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks",
+      "excerpt": "In today's Starcraft 2 guide we're looking at the zerg vs zerg matchup. Lets' learn how to play confidently against mutalisk as the roach player!  Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks with Roaches #StarCraft2 #sc2 #ZergVSZerg   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/",
+      "originalUrl": "https://youtube.com/watch?v=MUtRoqvzO-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MUtRoqvzO-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-25T21:11:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MUtRoqvzO-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-submarine-le-walling-guide-pvt.md",
       "title": "Submarine LE - Walling Guide PvT",
       "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
@@ -66,37 +97,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
-      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
-      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
-      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-30T19:03:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax.md",
       "title": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax)",
       "excerpt": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax) Learn how to start dominating Protoss players with one of the most standard builds in TvP. In this guide you'll learn how to begin with a mine drop to put on some pressure with the possibility of dealing game ending damage and then transition into a",
@@ -114,6 +114,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F92vx4MNbc4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2.md",
+      "title": "Terran vs Protoss(tvp) | Scouting & Early Game Basics [Starcraft 2]",
+      "excerpt": "Terran vs Protoss | Scouting & Early Game Basics In this video we take a look at everything you need to know about the early game in the Terran vs Protoss matchup including: what you need to be identifying with your scout, how to get the tech structure scout consistently, how to deal with the very aggressive",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protosstvp-scouting-early-game-basics-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=GW0w2tUHauA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GW0w2tUHauA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M10S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-10T00:11:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GW0w2tUHauA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -238,6 +269,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NAzXv812sg0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end.md",
+      "title": "Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end]",
+      "excerpt": "In today's zerg vs protoss guide I show you how to scout and adapt your zvp opening to stargate play to get the most out of your economy.  Mastering Starcraft 2: Zerg vs Protoss | Adapting to Stargate [protoss tips on defending at the end] #StarCraft2 #sc2 #zerg #roach #zvp  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-adapting-to-stargate-protoss-tips-on-defending-at-the-end/",
+      "originalUrl": "https://youtube.com/watch?v=iHxkpjJwrjg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHxkpjJwrjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-24T15:54:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHxkpjJwrjg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -990,14 +1052,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained.md",
-      "title": "StarCraft 2: EASY Zerg versus Terran Build Order EXPLAINED!",
-      "excerpt": "This is a Zerg versus Terran build order for Zerg players in StarCraft 2: Heart of the Swarm.  Instead of focusing on Zergling Baneling Mutalisk, this build focuses more on Roaches in the early and middle part of the game while transitioning into Ultralisks in the late part of the game. All the while",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained/",
-      "originalUrl": "https://youtube.com/watch?v=ZOMj6X5_eHw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOMj6X5_eHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M4S",
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth.md",
+      "title": "StarCraft 2: EASY Zerg Build Order! (In Depth!)",
+      "excerpt": "In this video I cover a relatively easy build order for new or returning Zerg players for StarCraft 2: Heart of the Swarm. This build order is relatively easy to execute after a few hours of practice and will allow you to beat your opponents.  14 Spawning Pool 15 Hatchery 15 Queen 17 Overlord 2x Zerglings",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/",
+      "originalUrl": "https://youtube.com/watch?v=ScyK_2okKZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScyK_2okKZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M33S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1010,90 +1072,11 @@
           }
         ]
       },
-      "publishedDateTime": "2014-05-11T12:57:09-07:00",
+      "publishedDateTime": "2014-01-06T07:05:30-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZOMj6X5_eHw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg.md",
-      "title": "StarCraft 2 Gameplay: Defending Cheese in Zerg vs Zerg!",
-      "excerpt": "Safe Zerg vs Zerg build order guide: https://www.youtube.com/watch?v=-Hqgyx6z-6E  In this live game of StarCraft 2: Legacy of the Void I play a Zerg versus Zerg on one of the smallest maps in the current map pool. Because the map is so small, the chances of my opponent opening up with an aggressive push",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=SHWX5M54-ds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHWX5M54-ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-21T07:04:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SHWX5M54-ds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained.md",
-      "title": "StarCraft 2: GASLESS Zerg versus Zerg Build Order EXPLAINED!",
-      "excerpt": "Zerg versus Terran Build Order: https://www.youtube.com/watch?v=ZOMj6X5_eHw  This is a video about a gasless Zerg versus Zerg build order for StarCraft 2: Heart of the Swarm.  The gasless build order in Zerg versus Zerg is currently one of the most popular builds across all of StarCraft 2, simply because",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained/",
-      "originalUrl": "https://youtube.com/watch?v=OLpOrsJT96U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OLpOrsJT96U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2014-05-31T10:24:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OLpOrsJT96U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ScyK_2okKZE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
