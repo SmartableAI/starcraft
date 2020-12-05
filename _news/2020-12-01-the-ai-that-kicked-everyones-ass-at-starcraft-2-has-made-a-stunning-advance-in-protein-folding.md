@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-star
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
 type: article
 quality: 84
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 720
     isCached: true
 
-secured: "bhg1x2Yy/MIrwsdX+e749SXDoh77jr+jt7OoVwf74WcT3SuSxFyKnLnrP2AZBkG9gtzeOQYObMVZSAp3nVJJs7/n76dueVZlpwbF0xqgWN3zPZNaRIQqTcZRIhfjTX5DQ5RIvxyU4xaJz3OqphbBQqfUmJFT32LO9cGiwLWLGMJjt7r8j1klD862U5JJTI689dV2xozA6Y+901CZTS8SC9WxLR+QBFAwquFjwxkRAP5gOCtQB0yCcty1ysyaL9jUfo1Bj+ohC+Uf7ds+RLlJ9pEApdteIr93O5b0rlJmhDwwhcvT7QdjMa3xANs7YCLcwh3XfX+T5TnJnxaoIA8dVw8TMG/rL/WOC2BT8zgx1xU=;7jePhyUQeHaTIee9Vjxxag=="
+related:
+  - title: "The AI that kicked everyone's ass at StarCraft 2 has made 'a stunning advance' in protein folding"
+    excerpt: "Remember AlphaStar, the AI that kicked everyone's ass in StarCraft 2? That was cool. But it turns out that DeepMind, the Google-owned company that created it, had higher aspirations that just being really good at an RTS. As reported by The Guardian ..."
+    publishedDateTime: 2020-12-04T14:15:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53209-the-ai-that-kicked-everyone-s-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 4
+
+secured: "8BaA57x2ZuyLd62Hgnjco/LaV3X+Q6L9T9kR4dTxq7FeHdelKjoWHfhJqdzoohHwJkEZRIuGUA2DntvCh2K3hr3BoXxbfELptla95/l0XDITXEYdXh3i549SnpwmPq56YRFt5Jurj+idXvvyUxNZqJkj/9OkHDHslK/ZNJ0eb2bOZaWliojTjbVqcZE8hvFTit4VkZRdVNVS+uIpV29AUx7YCbVCQWINf9ENKOGiJMeVHzViz2kxTIv+ra+02xy0ljIIFKTMBTM5uQxcyeTJBQm3U81ThdWuXbcvBPk4z3vu5pivP7x9Mteh5nxtEYV/7bzH9omdpMJyYH0RqLrMrV9gnwnXWeBmZi4RlwKARNzalCZQhQFBuBTwtZ066egjr9a6ATpBKcoJe40Xj3ZbxXwzILf+24ensM2/fYvjFCCNLYTEcBZFQ4JCTogqyHg3BIBZSLuTjxEVJpueQWY1z6lRmV+Q5bkEF4nsPKKVVElfN9RiNhnEteXirQO6mOotssjyJTfLJ+upozFm9zgktg==;/ZAlDZqZ/5SGu94wclU8CQ=="
 ---
 
