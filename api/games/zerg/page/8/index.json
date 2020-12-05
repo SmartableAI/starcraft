@@ -4,121 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-special.md",
-      "title": "StarCraft 2: SERRAL vs SPECIAL!",
-      "excerpt": "Mass Battlecruisers vs Mass Infestor in an epic match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/XGRElTXTFsQ  Serral vs Special in a really cool match. One of the strongest macro games recently. Special decides to focus on lots of Battlecruisers,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-special/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-special/",
-      "originalUrl": "https://youtube.com/watch?v=kQ3kvCV1lyo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kQ3kvCV1lyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kQ3kvCV1lyo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-05-21T03:06:52-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-time.md",
-      "title": "StarCraft 2: Serral vs TIME!",
-      "excerpt": "For years StarCraft 2 felt like a game that was focusing primarily on the \"real-time\" aspect of RTS. This game is an epic example of the strategic part. A brilliant game of professional StarCraft 2 between Serral and TIME.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-time/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-time/",
-      "originalUrl": "https://youtube.com/watch?v=YEIOen2vUo4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YEIOen2vUo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YEIOen2vUo4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-10T02:24:39-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serral-vs-uthermal-bo5.md",
-      "title": "StarCraft 2: SERRAL vs UTHERMAL! (Bo5)",
-      "excerpt": "A very high level best-of-5 series of Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Serral is currently the highest ranked player in the game, statistically speaking. He's an absolute monster and great at the Zerg versus Terran matchup.  uThermal",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-uthermal-bo5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-uthermal-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=7bFOTtzNzBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bFOTtzNzBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M55S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7bFOTtzNzBQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-12-02T05:39:35-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-sniping-brood-lords-bo3.md",
       "title": "StarCraft 2: SNIPING BROOD LORDS! (Bo3)",
       "excerpt": "A tense and very close series of professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  In this match-up we see a lot of variety throughout the series. Both players are not afraid to mix it up and for example go for both Adepts as well as Dark",
@@ -270,6 +155,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-08-06T02:18:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
+      "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
+      "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/",
+      "originalUrl": "https://youtube.com/watch?v=atDlF8G-PD0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atDlF8G-PD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/atDlF8G-PD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-07-30T02:52:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-baneling-bust-bo5.md",
@@ -690,6 +614,44 @@
       "publishedDateTime": "2018-12-29T00:41:52-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-swarm-host-proxy.md",
+      "title": "StarCraft 2: The SWARM HOST Proxy?!",
+      "excerpt": "Just your regular good ol' Zerg vs Terran. *coughs* Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/mA3c6U  In this match of Zerg versus Terran the Zerg decides to go for quite a strange rush. Instead of building his first base close to his main Hatchery, he",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-swarm-host-proxy/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-swarm-host-proxy/",
+      "originalUrl": "https://youtube.com/watch?v=nHtXJgNOWBs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHtXJgNOWBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nHtXJgNOWBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-10-04T06:42:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-swarm-host-switch.md",
       "title": "StarCraft 2: The SWARM HOST Switch!",
       "excerpt": "Scarlett versus Neeb in an awesome match of Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/FUBQ5y  Swarm Hosts are an odd unit. They're technically not great at finishing the game, but they are awesome at buying time to climb up to higher tier",
@@ -841,6 +803,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-23T07:24:24-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zerg-doom-drop.md",
+      "title": "StarCraft 2: ZERG DOOM DROP!",
+      "excerpt": "An awesome match of professional Zerg versus Protoss. Subscribe for more videos: http://lowko.tv/youtube Professionals cheesing: https://goo.gl/APqMmJ  This game is a very close match of Zerg versus Protoss. While DnS approaches the matchup a lot more in \"standard\" macro way, Nerchio decides that it's",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-doom-drop/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-doom-drop/",
+      "originalUrl": "https://youtube.com/watch?v=d6osETj5OWA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6osETj5OWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d6osETj5OWA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-04-26T04:48:04-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zerg-trickery.md",
