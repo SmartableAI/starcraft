@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-i-ran-into-a-nasty
 type: video
 length: PT32M10S
 publishedDateTime: 2020-10-11T12:24:55Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNr4V_uyUUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ugx7EM7345oyoU5Tiyy/aavu/txJrbJX6ueASTwR8DIJqh3+zzPAZPBLhLkV+Fd12E6kIoDrHzRP3COYD+1HiAMv96B3pCLrkAXsSiwfFBNmQ8/y8cG4Ae5Oqa0SSKSvr2+M/+WMUFRl7SFlBn0GtV10sshOEbILDWBPtSEj3/TlcE3yS+kycCn4o3c6TpA+h/yYTKO4jDX9309Ld+ckO6yJ9YdihATZoapAT6dvXeZ4OTr2YX7PCJM5hcPiGNdJbEdCdX3dXFVBd74Z8nvbzlnYun1JY0UB3jKoLhgRwJk3qlRz5suRCVz9ZiXOEHKy5vV2FGbDqoch2gsOrvH50Z51evI1/BCwcoRZjG7/S0fcf2wmt1tuCSEJ3xoPZvTztc1g4WqRg0aeVZAuEZqCSYOOfrmjgCEMjtJ/tiU0y+M=;rGJdcTHMAu6pV3hL4MU/Vg=="
+secured: "mpXUHNVhhCyViINpAbRqJV5yM74fl2CeJFBLhlDzTz54tjj2HjvXC1+/+Z7+bTRVFwmSVK7g9sLroUKPYrtDFTBjhLmTTTWA0pMAITUdZRijTo4HvxuU5rUEV1r3TzBWq2hTGabXozNIezWYTvLr0+m+IZ+IrVGvmRK016nJiKTYBWqjIKFBVv6o7jexgLOgGrOzxAqIE9Yl2F1v69dTIk1s3aHOM/mDGNMn+Hme+64ifdzRtrmLVnC3fYaPlnibA2CkesowOQhKTBm7Xp7EuxVFEu97IIJlt43JzpEpGKLElqkhXWizDzBFajzngBcLU9LFhtvmEHbs6WMSmdxhLwXPaPW8+675HpKwpUIOfTZfD2s8XU/xgFM7Jm4jPfAhW8xZB9ZI+3VwQt+y+qVmcIt1qjFh4oZ3EEBFG4bzxgg=;f7ki3uICD13HbvzMm9m47w=="
 ---
 
