@@ -4,44 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-infestors-vs-high-templar.md",
-      "title": "StarCraft 2: INFESTORS vs HIGH TEMPLAR!",
-      "excerpt": "A professional match of Protoss vs Zerg between PtitDrogo and Serral. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Serral is the current World Champion of StarCraft 2. In this game he goes up against PtitDrogo, one of the strongest European",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-infestors-vs-high-templar/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-infestors-vs-high-templar/",
-      "originalUrl": "https://youtube.com/watch?v=EtRFqqTFsec",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EtRFqqTFsec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EtRFqqTFsec/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-04-04T03:55:12-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-insane-game-proxy-hatcheries-base-races.md",
       "title": "StarCraft 2: INSANE GAME - Proxy Hatcheries & Base Races!",
       "excerpt": "An absolutely ridiculous game between Neeb and Bly. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/ezD8-mETu74  What a match! In this game Bly decides to open up with a Proxy Hatchery. While he manages to break the Natural of Neeb, it still proves difficult to get",
@@ -1132,6 +1094,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-06-07T04:08:38-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-serral-vs-ty.md",
+      "title": "StarCraft 2: SERRAL vs TY!",
+      "excerpt": "Serral is the current World Champion of StarCraft 2. TY is easily one of the best Terran players in the world. In today's video they face off against in each other in an epic match of top level professional StarCraft. This is a tournament match that was recently played at Homestory Cup.  Get exclusive",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serral-vs-ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=3gh-U20ZUUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3gh-U20ZUUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3gh-U20ZUUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-04T02:33:13-07:00"
     }
   ],
   "nextPage": 16
