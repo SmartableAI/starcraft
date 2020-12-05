@@ -2,6 +2,7 @@
 title: "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)"
 excerpt: "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:"
 originalUrl: https://youtube.com/watch?v=kVLznaW8EmE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/
 type: video
 length: PT29M24S
 publishedDateTime: 2020-12-05T11:15:53Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "48NOU1WJGrxcZOIi/gwN8aF+EvR0kEL5HG7a9KtJTWGxNqNeLOV2qhVJDDRF1wqIK3D4HsdUY2b1H0m1brB4AqPOch1IyGhbKBM0vNpt0OGYQ5+ZB5tx6RB0BRrgX8Z4EnnSlP1siyqp0t6JqgCCje4U1cVm13CxmzZSjeDB8qHhd35JOAm90QedNKq8+Jq9VwE71wcKN0Ofm2KOvWkYXAMPX5ya8uuib/3vVAAb4DqPWu66xbJ2jGAO6XjsQjkdvWk2bKyP+0h/J8qfffb7PkZ3MPhV9Rly4yRB5X4/FYmRNaST0rGJvLUQLV+fJ3whF1JxPI6tw6zR1FHF9s4i6a3rzQ5p5pSEsGWiYW+jIUHKdkQiVYwFnbP5YdmFhxcw9nlNJMNl/9ZhTzIWTxNk5g==;/cU/UE/7ugta5urCa2UGOA=="
+secured: "DJXUiGePl1/7qBrbZ3hlLTJjMuV7HTzsfL6EOMN45MPOIaBC+5Gi5ze78vztrqb8s9/o+KKyGtvKyUlAeIitQYohoNksZWjDgQRaISw9//ScVbEweE/oiJsHktRujxymbdgqD+00MT54kt1C94aKxlV2Wd7NmJzG9T1x2/oUETQIxfgK6jTL778ZTeRg03IBsUm1ANNnt6bzrF8KOZXQwTpvyMYagAZqFbqELNgmc9MahDy2E9QAdPkhq9d0x8wW6uNdIrkSGBephAqF++wz6rMFRWX2d2dkqayje04c08Mdr/xwv9vQt4EMsUCa2Ine3l7n3rvfcUuR4odx9fDsjiuurwPetp64PG1R+3zhH1QTIJ0CRU3bfh2PGuezu3V31XQmjtsu9r2P+fYqE1r0lA==;2K+8hsSjswVZZNw3gaW0pA=="
 ---
 
