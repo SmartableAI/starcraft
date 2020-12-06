@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2.md",
-      "title": "Zerg Macro Guide | You WONT BELIEVE how many MORE DRONES I got!!! [Starcraft 2]",
-      "excerpt": "In this zerg macro guide we take a DEEP look at the nuances of droning, economy & macro to help you understand where you might be going wrong in your games. How is it that Grand Master's a pros generate so many more drones than you?!? You're about to find out :)  Zerg Macro | You WONT BELIEVE how many",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-you-wont-believe-how-many-more-drones-i-got-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=QmfbJTpcvt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QmfbJTpcvt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M1S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-08-31T22:12:47-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QmfbJTpcvt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players.md",
       "title": "Zerg vs Protoss | How is this unit not NERFED? - protoss players",
       "excerpt": "In today's Starcraft 2 lesson we take a look at a Zerg vs Protoss game against youtube celebrity \"casually explained\". We use one of the most protoss hated units: the swarmhost. I can personally guarantee this strategy to be an exceptional salt mine.  Zerg vs Protoss | Protoss players LOVE this strategy,",
@@ -727,37 +696,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins.md",
-      "title": "Starcraft 2: Zerg vs Protoss strategy | Defending Adept All Ins",
-      "excerpt": "In today's Starcraft 2 tutorial we are looking at the Zerg vs Protoss matchup and correct the strategy to defend vs protoss adept all ins!  Some important points to this defense include 1. Getting an early tech scout with your overlord so you know when to get your buildings 2. Scouting the protoss gasses",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-protoss-strategy-defending-adept-all-ins/",
-      "originalUrl": "https://youtube.com/watch?v=JJRhGUCdJw4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JJRhGUCdJw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-28T23:49:58-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JJRhGUCdJw4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
       "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
       "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
@@ -980,6 +918,83 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-how-to-nydus-rush.md",
+      "title": "StarCraft 2: HOW-TO NYDUS RUSH!",
+      "excerpt": "How does a top-level player execute a Nydus Rush? Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I analyse a recent game between Serral and SpeCial. In this match on Backwater LE Serral decides to rush a Nydus Worm with minimal",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-nydus-rush/",
+      "originalUrl": "https://youtube.com/watch?v=R2zN8eEaztM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R2zN8eEaztM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-02T04:44:42-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R2zN8eEaztM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - Basic Terran Tutorial!",
+      "excerpt": "A basic Terran tutorial for StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/IKl51P  In this tutorial I cover the very basics of ranking up with Terran on the StarCraft 2: Legacy of the Void ladder. One thing that a lot of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=jHu5qIISMKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jHu5qIISMKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-21T04:13:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jHu5qIISMKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     }
   ],
