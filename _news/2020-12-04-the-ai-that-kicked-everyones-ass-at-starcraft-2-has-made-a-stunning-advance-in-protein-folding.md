@@ -21,9 +21,9 @@ related:
   - title: "The AI that kicked everyone's ass at StarCraft 2 has made 'a stunning advance' in protein folding"
     excerpt: "Remember AlphaStar, the AI that kicked everyone's ass in StarCraft 2? That was cool. But it turns out that DeepMind, the Google-owned company that created it, had higher aspirations that just being really good at an RTS."
     publishedDateTime: 2020-11-30T21:01:00Z
-    webUrl: "https://www.pcgamer.com/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
-    ampWebUrl: "https://www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+    webUrl: "https://www.pcgamer.com/uk/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
     type: article
     provider:
       name: PC Gamer

@@ -3,10 +3,10 @@ category: news
 title: "The AI that kicked everyone's ass at StarCraft 2 has made 'a stunning advance' in protein folding"
 excerpt: "Remember AlphaStar, the AI that kicked everyone's ass in StarCraft 2? That was cool. But it turns out that DeepMind, the Google-owned company that created it, had higher aspirations that just being really good at an RTS."
 publishedDateTime: 2020-11-30T21:01:00Z
-originalUrl: "https://www.pcgamer.com/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
-webUrl: "https://www.pcgamer.com/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
-ampWebUrl: "https://www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+originalUrl: "https://www.pcgamer.com/uk/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+webUrl: "https://www.pcgamer.com/uk/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+ampWebUrl: "https://www.pcgamer.com/uk/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/the-ai-that-kicked-everyones-ass-at-starcraft-2-has-made-a-stunning-advance-in-protein-folding/"
 type: article
 quality: 84
 heat: 104
@@ -40,6 +40,6 @@ related:
       domain: gosugamers.net
     quality: 4
 
-secured: "8BaA57x2ZuyLd62Hgnjco/LaV3X+Q6L9T9kR4dTxq7FeHdelKjoWHfhJqdzoohHwJkEZRIuGUA2DntvCh2K3hr3BoXxbfELptla95/l0XDITXEYdXh3i549SnpwmPq56YRFt5Jurj+idXvvyUxNZqJkj/9OkHDHslK/ZNJ0eb2bOZaWliojTjbVqcZE8hvFTit4VkZRdVNVS+uIpV29AUx7YCbVCQWINf9ENKOGiJMeVHzViz2kxTIv+ra+02xy0ljIIFKTMBTM5uQxcyeTJBQm3U81ThdWuXbcvBPk4z3vu5pivP7x9Mteh5nxtEYV/7bzH9omdpMJyYH0RqLrMrV9gnwnXWeBmZi4RlwKARNzalCZQhQFBuBTwtZ066egjr9a6ATpBKcoJe40Xj3ZbxXwzILf+24ensM2/fYvjFCCNLYTEcBZFQ4JCTogqyHg3BIBZSLuTjxEVJpueQWY1z6lRmV+Q5bkEF4nsPKKVVElfN9RiNhnEteXirQO6mOotssjyJTfLJ+upozFm9zgktg==;/ZAlDZqZ/5SGu94wclU8CQ=="
+secured: "1E3WiUURIb8oV/b9envopda9oFCx7oVP0pXYp45V0+qlpqof1UXlQ5EH2Hvwk8RCCELJtfLvJey5UXl3SZZ6tBPXMrsHNN7I1pnyq856MmYyFCxfLJ+8Tb6kS/2cKX6Z8qOGgqd4T/KvHc5xqpbd54I3iBZ51wFkr0CxqLJiVHVXKmlpDInfk2lUKPsEh1UopP//23175ACuiJ6VdixARH0MPeagfwCwy2U7n/T1w7KX8cmeGUNo0YRTUVPNn0l0Ocpu441M5nuA8g7DmwOeAtSA/KsJftK+CO5BoKa4KKX4ekU4zihlPGNeoA/ZTHCQrwFsipcqn+RsLvToPpMRjqSNRvaDyq/lxj+LEJJkpjI=;mdgJ6nUFj1vdq7L7VUWNlw=="
 ---
 
