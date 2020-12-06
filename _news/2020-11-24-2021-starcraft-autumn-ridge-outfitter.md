@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/20
 type: article
 quality: 37
 heat: -1
+removed: true
 published: false
 
 provider:
