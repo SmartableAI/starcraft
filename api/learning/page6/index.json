@@ -4,6 +4,46 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to.md",
+      "title": "StarCraft 2: Easy Terran Build Order Versus Protoss (Guide / Tutorial / How-To)",
+      "excerpt": "How to beat Protoss as Terran in StarCraft 2: Heart of the Swarm. StarCraft 2 Build Order guide for Terran.   Reaper Expand 10 Supply Depot 12 Barracks 12 Refinery  @Barracks: Orbital Command + Reaper @Reaper: 2 SCV's off gas + Reactor on the Barracks  17 Command Center 18 Supply Depot  Transition to",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/",
+      "originalUrl": "https://youtube.com/watch?v=GYI4EANKDCU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GYI4EANKDCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-11-17T10:22:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GYI4EANKDCU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained.md",
       "title": "StarCraft 2: EASY Zerg versus Terran Build Order EXPLAINED!",
       "excerpt": "This is a Zerg versus Terran build order for Zerg players in StarCraft 2: Heart of the Swarm.  Instead of focusing on Zergling Baneling Mutalisk, this build focuses more on Roaches in the early and middle part of the game while transitioning into Ultralisks in the late part of the game. All the while",
@@ -119,6 +159,44 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial.md",
+      "title": "StarCraft 2 Guide: How-to Micro Mutalisks - Magic Box Tutorial!",
+      "excerpt": "Guide on how to Magic Box Mutalisks in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control groups guide: https://goo.gl/VQQQQ7  In this StarCraft 2 tutorial I go over how to effectively micro your Mutalisks. The Magic Box technique is incredibly important if you're looking",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-guide-how-to-micro-mutalisks-magic-box-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=raiDzJfQAt0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/raiDzJfQAt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-02T13:57:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/raiDzJfQAt0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
       ]
     },
     {
@@ -516,45 +594,6 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial.md",
-      "title": "StarCraft 2: Legacy of the Void - Sticking to the Basics! (Terran Tutorial)",
-      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over how to play a defensive style with the Terran. Sticking to the basics is very important in order to improve long term. Often times it is easy to get caught up and to try and finish the game off immediately, where as in many situations it is much",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=DKOX-eRmtJY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKOX-eRmtJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-05T09:06:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DKOX-eRmtJY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks.md",
       "title": "StarCraft 2: Legacy of the Void - Timing Attacks!",
       "excerpt": "Zerg vs Terran build order: https://www.youtube.com/watch?v=SUOhXtYRl0o  Timing attacks are one of the most important subjects when it comes to StarCraft 2: Legacy of the Void. If you're looking to improve, you need to make sure you push out at the correct timing. However, in a lot of scenarios it is",
@@ -749,14 +788,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-massive-balance-changes.md",
-      "title": "StarCraft 2: MASSIVE Balance Changes!",
-      "excerpt": "Massive balance changes were announced for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Patch notes: https://goo.gl/64DKjp  In order to keep the game fresh, massive balance changes have been announced for StarCraft 2. In this video I read out all of the patch notes where the latest",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-massive-balance-changes/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-massive-balance-changes/",
-      "originalUrl": "https://youtube.com/watch?v=Zlq7u_qVXRc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zlq7u_qVXRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M5S",
+      "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
+      "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
+      "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=Mn3Twb13398",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn3Twb13398\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M54S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -769,11 +808,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-08-18T02:21:54-07:00",
+      "publishedDateTime": "2019-03-08T00:26:03-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -783,45 +822,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths.md",
-      "title": "StarCraft 2: NEW MAP FEATURES - Purple Gas, Slowing Fields & Mineral Paths!",
-      "excerpt": "High Yield Vespene Geysers, Inhibitor Slow Generators and Reduced Mineral Fields. Lots of new features in the next StarCraft 2 map pool! Subscribe for more videos: http://lowko.tv/youtube  New StarCraft 2 maps: https://starcraft2.com/en-us/news/22938943  Check out Lowko merchandise: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/",
-      "originalUrl": "https://youtube.com/watch?v=qOxDEALdW9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOxDEALdW9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-11T01:09:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qOxDEALdW9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -904,14 +906,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide.md",
-      "title": "StarCraft 2: The Zerg Priority List! (Guide)",
-      "excerpt": "In StarCraft 2 it is generally known that macro is more important than micro. However, this concept makes sense to those that have been playing a lot but if you haven't played in a while or if you're new to the game this concept is confusing. In this video I talk about the Zerg priority list and how",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/",
-      "originalUrl": "https://youtube.com/watch?v=O3aGlfvQiqo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O3aGlfvQiqo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
+      "path": "_learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix.md",
+      "title": "StarCraft 2 Strategy: Adept & Phoenix!",
+      "excerpt": "Let's talk about the latest Protoss vs Terran strategy. Subscribe for more videos: http://lowko.tv/youtube Proxy Oracle build: https://goo.gl/CvGoaB  The Protoss versus Terran match-up has been a tough one for Protoss over the last few months. However, recently the match-up has started looking in favour",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=YsiIVvPAPhY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YsiIVvPAPhY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M57S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -924,11 +926,11 @@
           }
         ]
       },
-      "publishedDateTime": "2015-02-16T07:09:19-08:00",
+      "publishedDateTime": "2017-03-24T06:35:53-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/O3aGlfvQiqo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YsiIVvPAPhY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -939,46 +941,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide.md",
-      "title": "StarCraft 2: ZERG BLIND COUNTER?! (Scouting Guide)",
-      "excerpt": "Zerg vs Protoss scouting guide in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  Scouting a Protoss can be very difficult. In this video I explain how to scout with Zerg in StarCraft 2 without losing an Overlord.  In this video",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-blind-counter-scouting-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Ti9a7AvLOCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ti9a7AvLOCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M47S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-04T02:58:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ti9a7AvLOCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "Protoss"
       ]
     },
     {
@@ -1061,14 +1024,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know.md",
-      "title": "StarCraft Remastered: Everything You Need To Know!",
-      "excerpt": "Everything you need to know about StarCraft Remastered. Subscribe for more videos: http://lowko.tv/youtube StarCraft guides: https://goo.gl/lUNauh  Yesterday a huge announcement was made. Mike Morhaime announced StarCraft Remastered, which is a remastered version of StarCraft 1 and StarCraft: Brood War.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know/",
-      "originalUrl": "https://youtube.com/watch?v=JRded9XJX-8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JRded9XJX-8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
+      "path": "_learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches.md",
+      "title": "StarCraft 2: Zerg vs Protoss Unit Compositions & Tech Switches!",
+      "excerpt": "Zerg versus Protoss can be pretty overwhelming. Since watching any of the professional gamers play, gives off the indication that all units are viable. And that is true, for the most part. However not all units are the correct choice in all situations.  In this video of StarCraft 2: Legacy of the Void",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-vs-protoss-unit-compositions-tech-switches/",
+      "originalUrl": "https://youtube.com/watch?v=cLtcsIGEXAw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLtcsIGEXAw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -1081,11 +1044,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-27T06:10:39-07:00",
+      "publishedDateTime": "2016-01-08T04:21:07-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JRded9XJX-8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cLtcsIGEXAw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1095,7 +1058,9 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
       ]
     },
     {
@@ -1175,6 +1140,45 @@
       "topics": [
         "StarCraft 2",
         "Terran",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-zerg-early-game-mentality-zerg-build-orders.md",
+      "title": "Zerg Early Game Mentality & Zerg Build Orders",
+      "excerpt": "Let's talk about Zerg early game in StarCraft II: Heart of the Swarm. I know I emphasize build orders a lot, however there are a few reasons why I do. I have always felt they are absolutely essential for any starting StarCraft II player and they help out in every aspect of the game.  ▶ StarCraft II Study",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-zerg-early-game-mentality-zerg-build-orders/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-zerg-early-game-mentality-zerg-build-orders/",
+      "originalUrl": "https://youtube.com/watch?v=WRk8luOR8Jk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WRk8luOR8Jk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-04-26T05:26:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WRk8luOR8Jk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
         "Zerg"
       ]
     }
