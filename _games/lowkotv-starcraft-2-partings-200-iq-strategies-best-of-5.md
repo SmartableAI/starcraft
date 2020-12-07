@@ -2,6 +2,7 @@
 title: "StarCraft 2: PartinG's 200 IQ Strategies! (Best-of-5)"
 excerpt: "Best-of-5 series between PartinG and Rogue. In this series PartinG decides that it is time to try and outsmart his opponent every step of the way.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=7V_xet9gA-c
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-partings-200-iq-strategies-best-of-5/
 type: video
 length: PT50M42S
 publishedDateTime: 2020-12-07T18:08:47Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TD9fSl19R+mxcxooNX2zEvADhD8AZ/I7Z+6qg+DCXdG/5Ex+TINCz9zE3V01MurfiywgzxhacfcFLMXDHyoB5W7ugPncajisblEleg81bU/ahFdSAqcLisVlM9VoDevCCqXBlz0pmL5gNMwk+SreM+Fwdxfy35ZBIhs3t/aeAns67zrjpVVriS8ECkAvgQr9H/evR2XyvYdigUmR8/PCBAUQ+BZXVOh8mP88ONlYuLU8mhm54aXrOQrReFQDMIRcSwkQBcOs4t9qs1iBu5pzTzOCDlgyehWMgFfCe002TxwwrI2jADWCOqrMb+MtT6TjH8XWT/Ne4Xa5JsMIIvQpvcqcCRa+NN+qs4vfXDmMaQrDy1dnpa6yFDE954XdXpEpb1aEyiAJHCMpme1CSQ1TQw==;GMXffHnntIofhCRTJGD/Tw=="
+secured: "mAfaeCX9WZTpOQEEzBbJKGuRx0ceq1HkuZS0cbpEsXdBagpIifzSuzpzd4KyqDWnJZ2hMsAebo5sSCXOFMSWqkCF7Cj395gB3Kc3bNv0Vkzj70XzHQcLjIeDOgnycwOXJUDswAvNk8rX0LfXYZcXqzmC0xZJPXwyYcoLq5nFIiyNlpv2vvOMmZOZCQR7I2WCoWGW5ZHNX3iqTeAlWYW2lfkElCM8+O3s6LnOfbfT3z6XrnaLR1nm+Itf9oSmJyNiE/lJyqpPt99aKLYICTXge10hVAqZuTFXtHJn9xz5C0/SekQg9TgOOXab7ue+RcU1xEFWUoQVck33/ERwnlZGlauZmvoSQ2bNwD5d+waArvoV+b0AzAguHTTwBhtYZi0p;VJk4dalbNm6I2IldyWXRFQ=="
 ---
 
