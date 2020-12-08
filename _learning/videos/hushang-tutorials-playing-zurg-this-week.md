@@ -2,6 +2,7 @@
 title: "Playing Zurg This Week~"
 excerpt: "Starcraft 2 Zerg Gameplay #zerg #starcraft2 #ZergVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've"
 originalUrl: https://youtube.com/watch?v=NeC7arRLIqQ
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-playing-zurg-this-week/
 type: video
 price: Free
 length: PT25M18S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FZCKkJNtzHYk+8ZDL+dyi2jMhuHaDT+vzXFcKa2GOxDTAa0hT+TPb6p+F6Qyi9LAshSw5ul/o+hDH9j3/hPxpm1r+BmI6GyLQIoPbnkSjgbotfA8ViX8xKo0NaND6pl7Jm+4Qlvd6IYWMUYOkn2FW/aFPsfMyetbDcuQuDdZA1KaaqXWBKgCmkpXVBldbZ+GKbUbQ1WEQmTVt2tTn/vbyFVgBb9tq8vnZuDJdQDwVAP8CoffWwZ3oogI6M8arwHo+gCVD8PjHMoG3Rk7aXJgF2tB1po7qwVfR5OJ0MGD8WyClrGx7hYhxYm44bmf7+jPM4meu51VZ4cuKjy1VwLkyzQohXk7TmqZgv3MolxnaU6qxCTZ7NocGJpRRgW7OyssbKRl0MJa96TgYDRBX8kPKQ==;fySBt2F5PedOlXnVUcy0XQ=="
+secured: "FPKYjyQBoUUU+GxWQy+fAJAAySv3A+Mw/giBLPKzSQxXgTFoP0T5HwEOZW8wN3fKpUSYB3Ysig2hSDThvZ4COd6BoLf4G+gCfWpro4xQSXAj68oDpb8zJ8vJjfc8xODOYHtVn3rZ8sFXEPMX+Qzk3ZUpVK5DXeSOEL5Nv+hXTBhjSieeunsLhPts4pOTtLXYWalW2u/YcoGlLHJcbPMrz/vw3OW+xicG9RP14Dlc2GTxwrs3+rSwECNZGgTJP5CzkDVofOAg3TlbP2Ps3sxuZLgD2T6zk8yTROeep+zhVZLBq8hA+dXaDTb+Y4uSOxX0sRfdhAUbnMy5Yp9uQbLOtT/uItGQ/CqycRdFwF/Dv42TkY1XBVWz93OkD/xXVomzb03qAMyTSnb9SbrcFWdUIA==;zm41gilqLIjcvl+v1GNoQw=="
 ---
 
