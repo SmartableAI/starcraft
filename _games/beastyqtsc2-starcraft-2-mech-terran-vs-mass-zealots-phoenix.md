@@ -3,9 +3,9 @@ title: "StarCraft 2: Mech Terran vs MASS Zealots & Phoenix!"
 excerpt: "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content."
 originalUrl: https://youtube.com/watch?v=NcEQDzFHUHY
 type: video
-length: PT33M21S
+length: PT33M20S
 publishedDateTime: 2020-03-29T10:32:59Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NcEQDzFHUHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ww11MglhW+qXtjxxF86Bh469E/z5kN2lcRCYPKQoiqBOEz3AZxUYk9RdJ0fnPvYfVtEL/ojyREqmjaUeY4SfhCkzNCG9PVTDBQfN5UR55jStOOioyBHsizw2/0vAzFTVUTKZDRPxIKh13Uh8so9XDxKGYd/JGTqIOshC3wxWXxcao8oVjRNTF5EF+gPajcn/m0zjAd3aVbsTdhfaYvcioMNmJ9bx6TputrX3maBNKrVZvW1ARH86q5daQEN9/2gyy+ORjkuqPrevYM2Kbhcd+SNUXka2LUdOpuKFbzioRo9VX88Eir2FQLRzIAv+guJwGKfm1awVWJUcKwMbDK8Z0efX0AL83khF67/HGSkPpBmBezNh3ZGj0RKTbZSRgJyeQBlzVOuWA23zd+aRBQ2Db5JYDrjQ+O4sy68Bi8AzUL8=;mjqXx5i2O3dYlGuEVsiGJw=="
+secured: "rf+uhFYzqPu1K68fRSQZXANhTdmV8JpK2ypfAYtEnIucfrcnIsbKndV7uG5DVjAkUMSKCZS4IaufogW4HXdiwjy4Iml0a/cDIrfN7SM+MZhFw1ptUqtTlK3s12q+PZsKzBFQPfLKrwQUEoyKRh4x4zwJoQGEte9endUjafR5/f9tDYhkOkSsVh0nVkC5eNAVr7kE7R16SxVbdB6I9p6FhmF8TQzdkuJOFkoDjptAl1peBtJ6FRbzZwdOYdQ4MLF/2b40gynWgj6G/L1k7g/CT02ieh9s/G8mXdZqgPgXaZRLosDppYin9ZaoNgR82GUPhEAP+cilPGXHVZ0j/j7YXL48wWpnwR38Zno9WF166ObBnxY0rRin4/xip24hCuNo2rn83GL3e1fzKxDjXA3NqseBL7Yr7lNFwyTLmdE+1bY=;j4bQj0vbyKMUGvYZSxf0dg=="
 ---
 
