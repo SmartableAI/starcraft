@@ -4,23 +4,23 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-standard-zvz-opening-part-2.md",
-      "title": "Standard ZvZ Opening - Part 2",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=eTIxEgIViWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eTIxEgIViWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M35S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg.md",
+      "title": "Starcraft 2: Defending Mutalisks [Terran vs Zerg]",
+      "excerpt": "In today's Terran Starcraft 2 lesson we are looking at how to defend mutalisks in Terran vs Zerg  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=WPLvSCJNvkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPLvSCJNvkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M25S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-05-27T14:40:25-07:00",
+      "publishedDateTime": "2020-11-08T12:36:07-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eTIxEgIViWg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WPLvSCJNvkM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,38 +31,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-standard-zvz-opening.md",
-      "title": "Standard ZvZ Opening",
-      "excerpt": "https://drive.google.com/open?id=1rxFigz8SV5okMVa10TdNsyzravYgkTjE  Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-zvz-opening/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-standard-zvz-opening/",
-      "originalUrl": "https://youtube.com/watch?v=B6HGWECDgWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6HGWECDgWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-26T12:49:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B6HGWECDgWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
+        "Terran"
       ]
     },
     {
@@ -176,6 +145,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JJRhGUCdJw4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks.md",
+      "title": "Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks",
+      "excerpt": "In today's Starcraft 2 guide we're looking at the zerg vs zerg matchup. Lets' learn how to play confidently against mutalisk as the roach player!  Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks with Roaches #StarCraft2 #sc2 #ZergVSZerg   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/",
+      "originalUrl": "https://youtube.com/watch?v=MUtRoqvzO-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MUtRoqvzO-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M46S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-25T21:11:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MUtRoqvzO-k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
