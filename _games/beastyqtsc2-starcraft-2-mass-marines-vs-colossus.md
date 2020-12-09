@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=P9WkjHqXESI
 type: video
 length: PT37M24S
 publishedDateTime: 2019-09-22T09:10:43Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P9WkjHqXESI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8t8bZZHPN9mGXYWr2UusH3cATje7GKx/Hkusu3WuWRI3GcdIuHkqjLT0KWLc6LTL4XjtWZ4Gl2aseBYrM/S2mch23wB42xqYEUmYE2nM4j1BIZQWY402YiOjeeV9TgMf6VLnVcorM3jCgbafJSAKAokBT5HoAPZ/JAJzekHuO3KwfYhL0ppccxbU/9Yn2MyDesJ5KFQxuWH+I5JITqiPeSfqyIHeqBj/LKWIZuGkFLIFqSu7Y11L1fltJ0RPUKJKVTvVm7y9sgsWwqvthFLocDTpquzGNhvIidx6OFxy0fsBqEpzExRAEuiNJeOiEdfT8RurOyP14Qy9SPZunKk1sxTzCFA8ttXMoaD9/EmJNe322iRoj2C7QRjv0xVjHg+is/CYXD795ZVZqnzyGfRwMNO01Q5HtSV1c4cikdkZVVk=;l5AmOiKEbpUrFGMBunlCbw=="
+secured: "PS7R+MtAHz2LluBnqIXxBbjE6dlPDxxmwYlA+OoIgGc9vGQrJl+yFSVM5DsD/IXaQhxq7yvACHzYayl5vbFEJno4m3Cx41fSkaIUPPQJBE36kxSNoDAOZylJRhU8VDF6Ox0OH3f9fOsQv7Tio39728w0X+JkSraIE1VYv6+Ola7M6Fk/QB8amgQHWR2fZq2PUJCFQK0Dv5oRlC9VztwyU21jygRmjl9zXxwrLAjCCG7Im+NVM/5JsYrLhlEOP47v7t6yWoTCZadgTykEL3bpaxuU8rTuX9Uv57bYN1K1J4oPqh76WiUGv2YWb1EpQHu7Y2vQu+GKZKNd8y4IF8znP6GoH/zZbNzHwhw4zNq1UoIqG3GmiAm3dbtFB/5kwgg4GG1W6XMRd+NhIxwLij0BtnhIqFWtPjfmftXWY0aPXpU=;Tq3wyOX0T/zyvUMO7GSMkA=="
 ---
 
