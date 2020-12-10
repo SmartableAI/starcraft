@@ -35,15 +35,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Former StarCraft 2 devs form new studio \"to boldly advance the RTS genre\""
-    excerpt: "Frost Giant Studios are mostly former StarCraft II developers, and say they are “on a mission to bring real-time strategy games to a broad audience.” They haven’t specifically announced a game yet, but I’m certainly curious now Blizzard are ..."
-    publishedDateTime: 2020-11-20T11:15:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/52977-former-starcraft-2-devs-form-new-studio-to-boldly-advance-the-rts-genre"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 16
 
 secured: "v0ehYeoSWTDnckDM5DcpqqsMgk/GYJ2g2mvbgNSGQ8KKJ2yEv6bRbN8fJ6POZlvfpNuRQxRLnUGXrX5PINmCRjGyMxICmUhBk0FXU/+Vi2ZBW+v0a77ECkGHGCw7/anrZbT1Y48wTq46JfuSondzkg67X5mKq+m8vpeW1YQwqkcubfvZTCji460bZURDqTtAacx8p3YHsm+119nuoLb2VORiCM9PT/VE9LuVMi56jpT+KzljxPMKaSLcUBOTDyMrT1A3iN19YP8X41USzU8u0dVE2QYv0VefTYkf8SE8CcrneIgBrrNBQDrf9Os/wcG5W503xjeK36MoRR9lybuupkY4q1RU4EEI7/hLodSwzEc=;45vbEpiGs2dczLEvLCfQ7w=="
 ---

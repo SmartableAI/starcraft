@@ -34,15 +34,6 @@ related:
         width: 1240
         height: 640
         isCached: true
-  - title: "Former StarCraft 2 devs form new studio \"to boldly advance the RTS genre\""
-    excerpt: "Frost Giant Studios are mostly former StarCraft II developers, and say they are “on a mission to bring real-time strategy games to a broad audience.” They haven’t specifically announced a game yet, but I’m certainly curious now Blizzard are ..."
-    publishedDateTime: 2020-11-20T11:15:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/52977-former-starcraft-2-devs-form-new-studio-to-boldly-advance-the-rts-genre"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 16
 
 secured: "C/+k+mMFwNIvBzm7ZDbl8AZrLthFSIICcTRctU/aRm3WjSxxO4TmHmt5SZewuM7t8N6Tf+ZFSGhe4tMTIxH5UsVC1krmzrnuIgVA96nHitOvr/ZP0YBOEJN19qV1ynQy8XkxOzm40iSjtA34aS6rjVdDNk0QZUJpJxOMAqrKN12O5bHyjbwbR85/+vGNG+Wj6Z2tu2J3RuWGpWYFyl9pCQSmrQOr8Zs/F0m61Nh82RMaGJMW0cpc0eNOP6zE+JTjObd5RI4RnIEpVqpK0dH1WQWe6tNfW/cy0pgL1deIRgPKnI+4rSe86ZflyudUfA8PSHJe56Q7WYrf4EjZilizwWnn2qNhD1Wiy5O74fniCY4=;ttUOnmTleqFbBrGjRjC5/w=="
 ---
