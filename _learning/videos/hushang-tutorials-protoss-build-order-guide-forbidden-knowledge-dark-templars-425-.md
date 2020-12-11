@@ -2,6 +2,7 @@
 title: "Protoss Build Order Guide - FORBIDDEN KNOWLEDGE - Dark Templars @ 4:25 !"
 excerpt: "In today's Starcraft 2 guide/lesson we are looking at a very powerful protoss vs zerg build order. We drop dark templars at 4:24 and at the same time harass another bases drones with 3 adepts. Very difficult for zerg to defend.  Protoss Build Order Guide - Protoss vs Zerg - Dark Templar Drop #BuildOrder"
 originalUrl: https://youtube.com/watch?v=d3UPyQPRA5M
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-build-order-guide-forbidden-knowledge-dark-templars-425-/
 type: video
 price: Free
 length: PT12M33S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TQ4naaCCv5juKylIkQ9CjKhmpJZ3SnKFSZ60w66Knl3M1Gk9YqfpE0n/sVFSI1fPIQlFXZuS99HiOJMvUDJwcSspjyxqZsk6+ETxd6Qspyjy1Glz5Miwl4Q0qI/X2f/9QHK+izVu+ScqWk3QHEY/HeB/xd9iAMiYRgHDrnRhyaLbXitlFi/i8TJmpQa5UWvhfxfNwvWIWyMNazXhquvJlHIjEjslearsRxT9V1OzRMPUGN+1UV3I4N67FbUuu2cECUIkZBQdD3y7RIv4dv5/nXBP69c0xXwryrVT09HiORgnzJRLsyFlN32xSD1xa88sKg5P1XoxvyJIeABwu6i1Bq7KurOoGQSlVWMoy8JAGr5Bahtik5IGCs6qahcWLvtkwqH+lj/UgPqmQty7+u+gjw==;mtR6pMJJ/BNsm9DDYmWDAA=="
+secured: "GUqpOljSjr3GYCO24QwoOXZzrzYSVWaH2HAT732Vr+pT2W0gynFKTP/51Xf2HL1auh9RzbHcS/X7co2YAGU5aRlpfGSn4Iv6ab6UyrmhWygHjJ4+HtjvXm9EhILA8f0xc8O6Y8gyrT0xTlvBVkLzElZtpkKpWDbmgLBr1pDWiM9Pb48UlYZRC4cmgNbBSLgPLSdh1e8+IWDTs3W/chI1mjr84Mn1kmdv47nsOhWLC6htdHMouTWrTjeepS+khMl81aty+lNfRrD0/GQjXt6NI3pUKutUcnZVqU5w5Uf8aXs4Umyn3XPDB+zOvUri18bNGlzDEvnz7HuTISYpY1wIYXRwx32W2AgZZ3qEIgoo3U0L3Qj5/yeJ97FqL5wURVxLL0Spl20aeufAOhfPuCTf/g==;HrNHyJvSq5PRooeKgNb9vQ=="
 ---
 
