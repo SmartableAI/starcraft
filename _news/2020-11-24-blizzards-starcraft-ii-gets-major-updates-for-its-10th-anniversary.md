@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/24/blizzards-sta
 webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/24/blizzards-starcraft-ii-gets-major-updates-for-its-10th-anniversary"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1240
     height: 640
     isCached: true
-
-related:
-  - title: "2021 Starcraft Autumn Ridge Outfitter"
-    excerpt: "Starcraft Autumn Ridge Outfitter Travel Trailer #128592 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-11-24T10:14:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2912744"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2912744"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-travel-trailer-2912744"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
 secured: "v0ehYeoSWTDnckDM5DcpqqsMgk/GYJ2g2mvbgNSGQ8KKJ2yEv6bRbN8fJ6POZlvfpNuRQxRLnUGXrX5PINmCRjGyMxICmUhBk0FXU/+Vi2ZBW+v0a77ECkGHGCw7/anrZbT1Y48wTq46JfuSondzkg67X5mKq+m8vpeW1YQwqkcubfvZTCji460bZURDqTtAacx8p3YHsm+119nuoLb2VORiCM9PT/VE9LuVMi56jpT+KzljxPMKaSLcUBOTDyMrT1A3iN19YP8X41USzU8u0dVE2QYv0VefTYkf8SE8CcrneIgBrrNBQDrf9Os/wcG5W503xjeK36MoRR9lybuupkY4q1RU4EEI7/hLodSwzEc=;45vbEpiGs2dczLEvLCfQ7w=="
 ---
