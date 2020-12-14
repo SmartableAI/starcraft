@@ -2,6 +2,7 @@
 title: "StarCraft 2: Armani's Nydus SPINE CRAWLER Rush!"
 excerpt: "Best-of-3 series between Armani and Clem in StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=qSwYAyBaXs8
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-armanis-nydus-spine-crawler-rush/
 type: video
 length: PT24M28S
 publishedDateTime: 2020-12-14T11:20:45Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "T0dztuPCwtu06neqwtqJoc0EhRMxHyuWgp2GNjfUQ9nrOJoY2HdxN3pRtSQPubDL3CcJIN6rn8oauhVBwFNRAXjVIKA3jTsrawSiK3NcX3bZ/HBwENWlXivObWohYVgDXv6d3cjAfbaHHF0g8i2RQM0GUFQN3UDZQkv3TrHUy0w+du2uZE7YIs/mf4IluB9qilFMXQ+QTs39UD5G4uk7BFXnY+0Mfeg8TFE5W8BmwxyCiQRvaifGNNVTp7oFpweTDHSd7nQXjtdQEknwO+8Mm7HUoP94FT2Gc5Q4T2OTe6wfTx8ZbRlyiMmdy76p746VdchWGJR6VJl8R1zd9SfhvLrykTttzAzfVs7KeNfh15xAM6s097wGmxQnv78kp6+ENLNzya/3Ht9cY4oxokjCLw==;EHjALNQHgFfIcBeYGA4WoQ=="
+secured: "B01+z2kcX+MfHMF1LcDJ73mjOxnD2sz9MDWbOS5wyUxHxivYJwAQjnwj0YSo0ZWjKjnYkmqpdFWXeyAdyGhu42U4Wc6z60SYpMXzFbwlfl0sY5jiNwAIqtLi6b92UoMd9wYtNvt/YesAUUogvCAGB++W8RXH90znY3jGSwhUWFT2wDO6g07/Yzslkyd9SrRpeEcEuDPIssJBuUbomZOdXS/wxfUiPPxnz77eIN4sbmHopd7/S23dyW9HCYZDpGjotojq7Kjn7XFZTpnfxMqL6yaHPk0LrtJcd898R3c8lRSnusMF4zTTIHAGfxPNWArnTzA+ClNV6KzCCvDympyL/NRKf0CjShBfC9NTr+/y62TIPg0caxd6gj6lFGRb9dAXNuyJIkMeoOi8ASIRiO6cbw==;G1fIFswZo7BmVMFmOgn01Q=="
 ---
 
