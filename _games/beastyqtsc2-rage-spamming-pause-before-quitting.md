@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=AGlUHAXXdJs
 type: video
 length: PT33M36S
 publishedDateTime: 2020-10-06T12:38:27Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGlUHAXXdJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5yVLtWxs4fbytjEN2+383RydkYrGieMOcAiBznOBWXURHPBdA+/mB+Kfnt4G4De2G/YPKn+dXSbbhKVij6N3+VSVGiEPRIHn6q534b/dwVsqf8VejW/7cqYtB8oijStVuZcnebrurNFmSJPwITYZ/1yHe7ipqzDTK/J5q7AdJ9kFu0E1+yzccKDCrXYTPpyZBYJx5OUOXP7iFU5/NcfuiOiHodRfPhZG3tsF5xtQ0AtiA7PKy5/xNKITyRBwCyewRLhOKN2P4Bd9Gj/BE9HKwaOb6PN5xZAdc/xhMcuciBQZSCkjUWgafC654VhuTNo498hPebS1DDwtPJDjCTjj2vdfM5sXEujGOy8mV6y+P/hnIpQVv2333aicqvK+U/vaJy0wK7WnssLIyvAmtt1YLKXPker+uCaywvEF1oIyolQ=;FaUhM0sro6q5v0wq1J1YjA=="
+secured: "UIAGROsB3UD3ptdADYcKcDni7uElAKHb/mzdt7tvr8QHguOk262j/SyX6gs5rrhQpD71NVTjBknCS61yVRUpvDTTKRi1kcgD95wslkBw65r5R2lIMPDAy7JsXYIsvSqaau9LOBf9BGa7pfE/cXrxRlCaT17eQ7A5IA2Kz1AD95VKBlZQHrp0fpJeqQdDrZiP1TJIOjnQgY0j/id2XHX3YJhXH+CXk4NyizirB9gr0plstP2CJwzdaiQeVSPi0kUpwM0kg39vuXayVS8QeQMjpjp6S0QQzb7ddVu17xEtrKDy/b/7yXeAv7JsR2bu/vQE1xbp3QvX2+tbHGkyeuf2TAOtvU6aXi1RQpA/Ur+KSVUbW/pF5i3Nc/o3HutImpW1No8G9O861CeO/1TFQPVYF6tOPpbYXUcsJuAqUrdyt80=;QF+HPmqpeHfTTyVTP49ddA=="
 ---
 
