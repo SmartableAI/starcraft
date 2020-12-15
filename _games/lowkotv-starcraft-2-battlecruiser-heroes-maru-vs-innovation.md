@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=MfPoT1p5Z-o
 type: video
 length: PT21M31S
 publishedDateTime: 2020-08-20T09:36:53Z
-heat: 56
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MfPoT1p5Z-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cSz+iier39PvXNSScgWaVCu5EZC8lmRyIQ1u85KyHFB87Fhyp3VVWX0iHBk7Ce+QRCucVm/Va9G+W+Nu778fB0+8A05ZYY+yi5g+aUzzvvEgwnRejKNUO3ALfWuzKjCMTfCAY6/jLIOQDt9Ydvuhj/tgfcdJuGP0GbrNOx2hRgn8UrscXcC0k/rLKZIAGaGiGLRnKua5l/YxkkW+o5GNFykv+0X5ZZGje7QIoypDf1vGptZJ2XsavIhUpfKRAWuktIxWwP5ES8lyGF+ScXyt3nRng54cnfAkqJDOjRsoKR8j07NGfChQRZ21yHuJ55rBm5gFDCA6UZ1tovy/ptzgV1ZexbMH9EGlI+6gNNqcyWwlBXScJLcwaRFzvvZMBLT6eZ7JWo3lTcedOLNCvhnfkYXUcwt8vOtGhqCXeW5gylc=;qi3ozYAAk6148jCuwV8GNg=="
+secured: "SiwerKako8rWTHBMcqde9ycN9UDFMdPP03VvyoTnJ0LigRsQ97vgmkRHPpUg3cfs9itB7Ncisl0u76mOMUDQ/aFbrQBaTb70vyum9PRwe2Fq+jMn5zilRSYkmLcNmrzRqcEm2ll1DA68SmXy5Gix6sa2V4kqMuEfAr3Rq4FIw5kpnO+rPcxxt0udrdtoeUZ/u0F4KzXwvatZ3nTKU7/QCrKSkxNFQcxa43whTS8ceLUNEQHP/pCujN3QfSlKsQhq9CQOil2Ee+trUOeiFfSdIqBNNIZL0q1zBdzJZxA/DjpqGVjhFIzp4Xy5q9fDRRfs1MiWUzUg8SWSNAuTw/L4KgR1W2BZGQjjiOvgPQxVzHMJMFQOkkuKrWkuKbFlY4ci5p6oXb3qw/Fhq0afTF4VD2L7zMW9fjcZgomZR36YzpI=;BWTAebSzMiRtRqIkto6E/A=="
 ---
 
