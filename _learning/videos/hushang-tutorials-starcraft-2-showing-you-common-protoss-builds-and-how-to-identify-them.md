@@ -2,6 +2,7 @@
 title: "Starcraft 2: Showing you common protoss builds and how to identify them"
 excerpt: "In today's video we are going to be playing protoss, but teaching zerg! You might pick up on a few things if you're protoss as well but the goal is to teach zerg players what to look for when they're playing and how to identify certain protoss builds  Starcraft 2: Showing you common protoss builds and"
 originalUrl: https://youtube.com/watch?v=-3cHdfjR164
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them/
 type: video
 price: Free
 length: PT29M15S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+uI7jQTn84yBE7dKyacoTXpKA+/tTIarc4gHmvWITkK+T/Y7nJiJW0lfsUzxj2ykDgC7RlSODZLub7PngHmRJHPLfC23pRK/F/cJ8oOQOsw3SbVHN+95FLjCEh3+joFli2sIJW3iiA9ImShXGSFMtCFOJ17dsqEcerQ9YfcMtMPHlMwQWfoJyXbkE36nSvfbSmkFO4kmRnaM+7humyprcLI1chekay+lG80O/lT21jaWLB7WDw2yDDcKsDPeFl7VMbEYDryIkg2jaOnUEfU+85IttfaKu3GL7MTnkCMSs26HFDTs7HaqRxcnvG9EhGAtaSvBpliG7vMA1esj8rKDNSD5q21gUzoDG0wc6hIXRKOZrR4wP27qHV2tuoy3fhaALm/rVdUaHpnPaO45O0Qr+Q==;qfsJTVLyo2zQcBcQ92H1JA=="
+secured: "+3/NtfYMHN76YWKLDAThM2YA4read+pt299N9R8R/hSrehpKgEdqCIophI1LkEVGA1fgr+A6yh0uw5Z9qIbhyjprs5hBAbQWza9HTEtf4hYz4WzZlKyuls8aTsZ2P1O072glholX4QxUjsVx044CXKEaWgNP6KrDgbGDFaokDe6tObxDPINRVNAwikdwkdxSBZHdIMA5GNdZ+AaR95hFF9hZ1Bg6e1Ww8iR2c3Xviv+n8w/Pell+JoqrJbpUiOvDxl9Am31GavbqQmdVybmVhiqlRo9Qpq6Dxm3OiBk0RshT0IbPHpJttS5SJG2MDcv+wuo1CQFu1hR2n9+iRdnv6S81L1jeHOVKrdKyWSJE1SJjHCfQ0AcWfwU/J/ZwhvM8zbydAXDxu7v0P7qGT8Yyxg==;LUWbomvtQucfJrID3RwFfA=="
 ---
 
