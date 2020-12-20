@@ -4,7 +4,7 @@ excerpt: "They said if I stopped talking they'd take away my ladder points. Next
 originalUrl: https://youtube.com/watch?v=OeQMTUZjdtc
 type: video
 price: Free
-length: PT57M1S
+length: PT57M
 publishedDateTime: 2018-09-21T22:07:00Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PvuyF8rimlM9DMYdPaN+c+fL9Z2BeetE2r15zyaQXNp/DrbDe1Mj1Ot95C1aduDAdLy53P2aX6LwH6ahQRd7/TvgC/F7hQV04F71MUlmdsL3nvw62j02FgHnOmgBUDI07KbGWBRDMM+M+CaxC+gtXe8q4v367BMVSNG8XDiC8qJgKh7LqIde1IO2awr0+47GxlpBoWN0yAw8D7HP80dWlscabxftVKgmghK1AcRhSXaec0u6feZ1OCrgXAOIQ6ImYCQOyykp7uUmZHNP8Imo30Ia3d117joxmmBStT0nrzJaLl3qwh/nbcIJ7vwmLHrzTwDNyvnNHwYgeXIpl5oNWRFqAXzKf2Rn1ZTgaCpM3PcVDTMx1ZztbGmmI3P5TebdMSHcFbCK2YqZ0yA9q4n43frWg8AtvPCLMeuQD6GylMA=;oAll/1Frmu6D2W6BVNpFPA=="
+secured: "StRo3yeh8ibFdrnfPYMuqX/2RX1aAK9AJuQTY58JFatNfbbOTyghT0wnmArZFKZRf4R+69l+dXZuu1UKQRu02ocIV4X2JYA4525n5/KH0vaQ2pMbvLGShTmawsaleytyb74ct/JdnzFDZPpme1gbR8nbZ5vFWp/GevMyb8MDMrrE0uFRDvCHKy0CRTpI95vOKpz4q5hpn5EYy32k3kHmfvLC2Kw/3HX0TRODMiNa3rM2Hto0G0Gx5wwoKQ6KLVVscN2rbf7bJA6BxhjnA7wLyikNoJ79eBir7JVikPrzENz3PhNcugjmESf+2cgM7o6EsQTvRFDYo6if58PljAACq8HDFao6ChuncUC1k/Aay/vfovnkLl9kJgGB2tOyfT8CQRZoqc01d6MkOBdVOJK6wUTjzK/6E8m8wdYhmW7PWdk=;fQYOyYR4lpelCmPBppIVuA=="
 ---
 
