@@ -4,6 +4,45 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-aggressive-zerg-build-order-guide.md",
+      "title": "StarCraft 2: AGGRESSIVE Zerg Build Order! (Guide)",
+      "excerpt": "Easy Zerg build order: https://www.youtube.com/watch?v=ScyK_2okKZE  Zerg build order for StarCraft 2 versus Terran. This build focuses on a powerful timing attack with Roaches, Zerglings and Baneling.   15 Hatchery 15 Spawning Pool 17 Overlord  4 Queens as soon as possible 5:00 double gas 6:00 hatchery",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-aggressive-zerg-build-order-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-aggressive-zerg-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=jbT7bDvBjcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jbT7bDvBjcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-03-16T06:32:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jbT7bDvBjcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-balance-changes.md",
       "title": "StarCraft 2: BALANCE Changes!",
       "excerpt": "Let's discuss the latest balance changes in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Offical patch notes: https://goo.gl/5nj5yf  Buffs to the Corruptor and Hydralisk, and nerfs to the Widow Mine and Reaper. In this video I give my opinion on the changes to the multiplayer version",
@@ -1122,44 +1161,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths.md",
-      "title": "StarCraft 2: NEW MAP FEATURES - Purple Gas, Slowing Fields & Mineral Paths!",
-      "excerpt": "High Yield Vespene Geysers, Inhibitor Slow Generators and Reduced Mineral Fields. Lots of new features in the next StarCraft 2 map pool! Subscribe for more videos: http://lowko.tv/youtube  New StarCraft 2 maps: https://starcraft2.com/en-us/news/22938943  Check out Lowko merchandise: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-new-map-features-purple-gas-slowing-fields-mineral-paths/",
-      "originalUrl": "https://youtube.com/watch?v=qOxDEALdW9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOxDEALdW9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-11T01:09:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qOxDEALdW9o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
