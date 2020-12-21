@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-that-sweet-juicy-g
 type: video
 length: PT46M8S
 publishedDateTime: 2020-10-26T13:20:57Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfBqRFymELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KeqGxYbl5NXMeu4+MmcStU0iOsW/fOJUAeVwcwOl+OFWb8pfOXFFFivrEcaZpIbXvek8ex4OO1EOfsnVza4+r/pu0LOmoZP9/Lccag/iHDLi3VcEdr70p0UUnObsczWw7xb2q1MHZQZ0X5eyLnsEKK/4a5j6ki7wCN6CQtoVKZgj57x2l0N83bEzs67KRLHs/SOCmBTexJprj5vYYEtJyg4dN985PWJBSd+epVMDjSKfMqOgJ6WgJzm50LooWKX+mi32j2VE+zd5TkOUwfdGshE1yxa9HskO6QUuZuAsDsSTQVpHRzSRIyJs15YV7g7JDx8gX0O7jBYfLyiNqWCZ/315jyYXpaHNcTJLkVgXWjRqpJXCdmBFx2W7MtTT/YoNE4im1MeiK1LUQIVP7spOynjZm35RJbyXAI8LOiCNVxE=;FsAR5rlEfViqKuOcOJcvXg=="
+secured: "Eq+FY15awvkcvn4iNqqW14C0ah8arUjMgdbda6n4xnFd/1ElIAEUhm1vo0FY6OD2kh6zW9vbTQAwOjE9xg/TaNz5t0WJp6HxEMtLK7N5dbJhOUTfWjwqElt8PfcWfTi9V4FipMm9fZK+jDOuwXcRW1n0RnixOBco5mxtT7Qbul/MgSOSyDwwmJYt7Bf3tLw67go21x4WjieuHrBeK42EW3ddu1WuDA2G9/d3xSijsSbBnqf+FHWv3JkhrIXK+XybwduI50faPITrkNAj9Dgv7yqkYEg4HBkPN3bZxsaJKLdtDBz2jrviDl2i1wQVUmGUPCFr6VTNHeCm8aKC7Smohvkh8Yhe7yMUhIMOuf/P03bU73KQun+trKmh1Sfi1aoOumRPfEbvuDUgcmjPWg6utIc4b3dVtwYv08dCwin76vM=;DiDBgrLoA96iUmfBR0446A=="
 ---
 
