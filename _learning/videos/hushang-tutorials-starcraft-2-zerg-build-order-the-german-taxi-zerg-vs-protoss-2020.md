@@ -2,6 +2,7 @@
 title: "Starcraft 2: Zerg Build Order | The German Taxi [Zerg vs Protoss] [2020]"
 excerpt: "In today's Starcraft 2 guide/tutorial we are investigating a brand new build that popped up recently called the germany taxi! It's a zerg vs protoss build order that's been destroying many protoss players as a response to the double stargate voidray meta. Let's take a look!  Starcraft 2: Zerg Build Order"
 originalUrl: https://youtube.com/watch?v=igVyxwnfDMI
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020/
 type: video
 price: Free
 length: PT11M39S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iJLUsGIbbUfbbnYfzKBm5fYU+m6twhYyLGUipFSlyOK5DOaFF/UtY71RJPtU01Z9YAQpLm1JNZstshpy1ZVQSyvL5ZGsWKPrIJRtF1mSy8/lOLXOe/PtrU5r+WPXGBpgGcyaJ3LyyHaa66bTlZO+ekWwVd8OvloIEy2gGpHJNDMBdB+TbNGLZnq+i4K1b11PWU/kkbP28y5BFx3lLEX3AvjNMIdyAIKVIrXBOW/uX7htrIyRmDvdBAoJF2BbM6AqMTK11TPXGC+xbvizIpayGEzFTmPtIAL7rNorZ+X2b0yKu7Z9HhFuPgDbnu/07t+h+0VMBPD4mcfe4fgOgYpw/aYJhrTegmGh4ApOkU8ru6cpHJtpQsSpq+jvUyq39kytwZHnbuQXqhz/IKt+lgEwKQ==;cXA9ELyeOCKReBGCGUakoA=="
+secured: "LiJNHyg+gg/BBzh+iAHJPC08cKErllk3tENIpI/BXoQHACrNzs7Y15STyahxb70PxJk2hQiS5f1NAx+CYDr2Lq2NbVTnu2UYLNKoMGt5fVvyD6h9wHwXUo2HxluvCVuLu+J+jLQcE5y8gXLy1HrT7GxJJ8R31OMKzIxDhXO1LKcBJ38H1bY67LA3Z8aqJInt5oKnwf8V7X6JaKCyrGd9JaPqt+c5wY11nEePdNvs2WLHir9juwu9RTmXTYMudyu9o81C0C3pyucRLFVyyVjqj4dl0XAgy1zGA5hHmdiDGFRNb+M8JJtRisPeYBPt9cMZ2BeuaL42ROrgk6A7fS0FL1x54GZVvdM/l7nDWQLLELU4RFtJEYSACyeYfwFF7ga7wiJE9HhnLZmVSlHOJoFUrA==;Lp+9NicjyXDTbNF5TUgsuw=="
 ---
 
