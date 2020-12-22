@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth.md",
+      "title": "StarCraft 2: EASY Zerg Build Order! (In Depth!)",
+      "excerpt": "In this video I cover a relatively easy build order for new or returning Zerg players for StarCraft 2: Heart of the Swarm. This build order is relatively easy to execute after a few hours of practice and will allow you to beat your opponents.  14 Spawning Pool 15 Hatchery 15 Queen 17 Overlord 2x Zerglings",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/",
+      "originalUrl": "https://youtube.com/watch?v=ScyK_2okKZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScyK_2okKZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2014-01-06T07:05:30-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ScyK_2okKZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-how-to-baneling-bust-intelligently-guide.md",
       "title": "StarCraft 2: How-to Baneling Bust INTELLIGENTLY! (Guide)",
       "excerpt": "Baneling Busting is one of the easiest Zerg all-ins in the game. Most Zerg players are aware of this strategy and realise that it works great on the lower part of the ladder in Zerg versus Terran, Zerg versus Protoss and Zerg versus Zerg.   In this video I discuss how to Baneling Bust intelligent instead",
@@ -928,37 +967,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1wk_1EV9I-g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz.md",
-      "title": "Pillars of Gold - Walling Guide PvZ",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=I3Sp4sc5Ylc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I3Sp4sc5Ylc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-28T13:56:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I3Sp4sc5Ylc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
