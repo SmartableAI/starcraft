@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=1YqCf5-lXLc
 type: video
 length: PT1H6M9S
 publishedDateTime: 2020-11-23T16:38:34Z
-heat: 116
+heat: 121
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1YqCf5-lXLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "H5yv5UqPHvltCPeILggj0v81rGix9sFPHYsONbQIiuLC2oC10B0MJtdRzZrlturb6p0djiOG6xoS7TpmsoklHVVxK1dYX5Lkm3lASBVmSkbCxoHdK0N/FDeC9nbgyrN3byrvA/USbtzqIn6Op2FCQ234jnBbuom/NKxSWbt2iP2ksmHuPeS1Nb8DEZ77UZaVsXnEC+yly168p8mStSHBzijHbzfWvoNTUJ1TsYIzFEW8xjpu8Oocg4NeHbkdETHEWBQJ43IwrLnSS05Yv1eP3gHHnXB18x+VrnmD+OwmfkkIVzlrwqICG26WRAqw7zct5uK8BcRP1CldP/od4vcZd9D1BU1p1x1i6Pe2N1b6aZIBF0T3FHzA/klbE6VuEcB8wJwu9tONxuuKu1izS64htOkNwd9HulDwtynbfIkN0EqcwvDbPcfy2wpyaSUdFqxH;e18CHAixE1iHE/MaASFNIA=="
+secured: "sHlqhl9cYG2kUDKL4d8alx3ZI8z6i2n6tzdp9K6ss3ii7PFYURQio7GmcnNCaJkIr6hqCBCQMZOwbVGTKonehl5Pzarv3jiNf+y1sdWGvEr2gh0Ohvgg46h7qX+5tF/gciEZKIYSkcKXLAsFFYX77Rqg8LL55Y05/ZBbYYPUX+tFE5ScxVJuUU4gSlNRYRdg41EX0E8K0n+YCYkbou5qdthp79+RuprgZwrjjPr8S/MBAminkWOa0XAbDjf5n5MxaR0mBYRXti3dne8p0Qoh1ZckL+Klcyxpn1SaqPC5zFyFq+0HwJQZyIW4MAnhbB0x79z69cvAyWVWeEF2TJdGkD3AJxp8LbiTVjhxtALaeSOf9UjtA1mb5sTUPM76e4K7quvELe1qBTxG9D+nP0fnuBIUnAIW/bZ9ND/oR+zH80KRd3DVvgwbdcKToEQ4awZd;ymkZENP2OXaZVtz75gt49A=="
 ---
 
