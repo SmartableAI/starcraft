@@ -35,54 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020.md",
-      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2020]",
-      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/",
-      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss.md",
+      "title": "Starcraft 2 Zerg Grandmaster Gameplay | Macro Game with LURKERS! [Zerg vs Protoss]",
+      "excerpt": "Starcraft 2 Grandmaster Zerg Gameplay. Using lurkers vs protoss is one of the strongest ways to currently play a macro game in the zerg vs protoss matchup. Let's take a look at an example game I played against a master 1 protoss so I can show you how to progress safely and then wreck your competition.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-grandmaster-gameplay-macro-game-with-lurkers-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=mi_0Of48t1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mi_0Of48t1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-10-02T18:54:21-07:00",
-      "heat": 148,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral.md",
-      "title": "Starcraft 2: Learning Zerg vs Zerg from Serral",
-      "excerpt": "In today's Zerg guide we are going to be looking at a Zerg vs Zerg match between Serral and Elazer, breaking down the game and seeing what we can learn from two of the top players in Europe.  Sponsor: https://www.siteground.com/index.htm?afcode=2eac6a366dc6939df6d36d5d2217e02c  #Starcraft #zerg #zvz",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-learning-zerg-vs-zerg-from-serral/",
-      "originalUrl": "https://youtube.com/watch?v=7tRaskU_pCE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7tRaskU_pCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M46S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-23T14:42:39-07:00",
+      "publishedDateTime": "2020-09-30T13:43:23-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7tRaskU_pCE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mi_0Of48t1M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -337,6 +306,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/F_C9Vqv6lFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020.md",
+      "title": "Starcraft 2: EASY Beginner Protoss Build Order Tutorial vs Terran [2020]",
+      "excerpt": "Very powerful protoss build order vs terran. We begin with observers for scouting, blink for helping to defend terran early pressures and then transition into a formidable colossus/chargelot army which should safely get you to the mid-game phase!  0:00 Intro 0:56 Protoss Build Order vs Terran | Opening",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-easy-beginner-protoss-build-order-tutorial-vs-terran-2020/",
+      "originalUrl": "https://youtube.com/watch?v=XvRoGf3SXRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XvRoGf3SXRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-10-02T18:54:21-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
