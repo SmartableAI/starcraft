@@ -2,6 +2,7 @@
 title: "StarCraft 2: Bly's AMAZING Proxy Hatcheries Vs Clem!"
 excerpt: "Bly versus Clem in a best-of-5 series of professional StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=1RpcgiNR9xE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-amazing-proxy-hatcheries-vs-clem/
 type: video
 length: PT59M14S
 publishedDateTime: 2020-12-24T09:43:03Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WGrKJ4T/SKUVOJJrF3AJjj30MlGtC7vDs8uU2k1E53lAzOTsvAwktCMjoylR9yUDgE07lRdY13oiviH7nKXedYMpb0KjYJNtYNZ/mHNtjaVQuwd62s1AtTRiEQSpxror3drdGOFj07mLVn4h1YGBL1ELsTw5w22rvSsgC72Y3ix0RXoC2DpwDtnN3b7tXvpAj7ZfEvavHmyQNVA56Z98a4R4xNCzoIhRQN2S+POssvCcOYht8FzSKY3tKlnnkOvwQSU7Y0qu5XFsj+O+nfkOhJVu3qeb9NquuCwh/O9x6o4shaQpCoCSRgDwSWypnh4yxkTuOSnivEGCigemPwoyjXLLjpp5w76t/nXGcuWwKN22W90q0Qf7UlGX6Np47RQzlO0mEoDELywjnOrpzHkf9w==;4ZJJ9OigBgeb2tA11FZvHw=="
+secured: "S1VorXrIlo8yRGpvsOdUqvgntedzMLICOoq2x05vx4mQuzzPSaySQuuBuwmUNRxmWk/HFzeswhb4EQ8zoBhpGO6UHunSL17YD+RTzHdzh28H7luO5ffTsCBfco5vElbDBeudvEagXXuYDdwhAshb8LfXsuAvmBHX+K6ph2G5UD22I7JIinbLZ8CHgDr2XlNw9opNzrMnSnAlg/T+0fCmlgv98Gp6upGQhxsdfH7lSrlTBEFx602qAhxksUVeSK8B+qX1LRTOXrUNBudtzpWzlXUlshBN2r031Yht4prhx+tv5XX9UotuKSSPM2LQKupu5GWQ06Ap2qg6K03NfRHKD3W47Ep3VYIzfbylOqJk4MWq3O1Q4ccm198YbXuGWNpohG/GnVaC5kvbkVg1VvmuYg==;OpJnLFMmGg0muBQoZ6z5QQ=="
 ---
 
