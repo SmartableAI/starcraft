@@ -2,6 +2,7 @@
 title: "Chill Zerg Gameplay | Trying to play aggressively vs Terran"
 excerpt: "#ZergVsTerran #Starcraft2 #Gameplay #Commentary In today's video we're doing some chill zerg gameplay and we're going to be playing very aggressively. I'm done taking my beatings as zerg, it's time to take the fight to the terran!  0:00 - Intro/Teaser 0:32 - Zerg Gameplay 11:20 - Like/Subscribe/Share"
 originalUrl: https://youtube.com/watch?v=Kpyndf1PfSI
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-chill-zerg-gameplay-trying-to-play-aggressively-vs-terran/
 type: video
 price: Free
 length: PT12M52S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KO8E6OgGKf6I3KPnCsVwDsOWX6kmhzzmeMgwZPl+DyEFZ4EHt8UZuRjJ2Y5fWFK68SdhkhwRxeVXfnllvQpkxvZI35uEvd4b0Vf06xhVfIFELeGcLnz2BvJMcuyKx866xJaAos+dxWFxFpQ1xwddEY2y1esbgLwpccvzP2MAZV/MOqn7vHRGikABZOizsC5wVwY9c/DoynP2aXEXqP8NnoU1KfYpUe53t3idxVL00ANcG7g1vMtdKCbhvq2FZ0phexf4eLhX+TmqNFOvLWvDasa8TcVCgZ36ZyweA25kndtl+iuA34IMVEHEtmAQFUrh3dofTHPwwSQ5Gk4zpdFjsXO2mJzgrQ0tRMsfAVXUDi3qifzoK7IH4lFPzBnapriEc4G/3fXzrFiprh0E4HnsVQ==;bibTkLwlGO2U7sJgycJ/SQ=="
+secured: "PcxQnrCs8uNCr/CjWgLNdPCWH41gCWQwTP8KO5M+Q5iPIFme/liCssemak2FtI4u3O1J/lOE2YIYu/kYex31Jeh4uk+K5y5c6bMs1moE91SMovMpglXweFjoYfZwPejJYuDqSHfhHvnwUT+cGK7qDFtqO9ME2c90Le1YbgdYRd0Ef1nAzKBDTxOEmXoqOqXD989DZKHGnPaHaZYBN25N8RwNTlTnugz3YzFlvEBgK8FzKwo2maUmgEil7mULPWvVZyoAlKUJ6xXowp0VULlRnmmvnJ2J49kXwL7My/f3QWSHYGU5zOx6nKVUPxORBoALLfedALNeSBN5+tYTxGejtXiO3Ws65Da6BcEYZkRctRfL1put3Y0MuwPlQ/nzgzM/;PXqpkHJJOVM/QdXiot8vhg=="
 ---
 
