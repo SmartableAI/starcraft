@@ -3,9 +3,9 @@ title: "StarCraft 2: The WORST Warp Prism Driver vs MASS Marines!"
 excerpt: "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make"
 originalUrl: https://youtube.com/watch?v=cb-NaBdy2_U
 type: video
-length: PT30M29S
+length: PT30M28S
 publishedDateTime: 2019-10-02T12:05:37Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cb-NaBdy2_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "izZCzMEmo5mowJK5rxooPlI62QZvkpBWTZalihGS8lKwwBGej2pOXmOL9o1DrIeKF789VgR1eu8WWpXDOdSqDATVw8aMimM9Tuyn2/mYv5XLezscU5GPbjvQg3qGQ2zRqxvrJ8JBdts584kYpVzI5xHYVXIFbNlClxpm7uBSenZejHihA5gPFxVJoTLa6Xs+opFdzavdXffz+k81Qbui8P5T7uGwxSAQJTgh0EU6gXAeyG//dJoP8wnOj0VDDVL9fkX34WkBdnUP7HynVMrsQVDm+3V+nOFU7rYtsx9urQB5YZghhvtvV8Vlfc7meNsaFpg6Jv+4wxBsmNxZZQerKoFCshVAkH8IxnKI8HgrqO27muZxj2WPC4z3utj0IenDP9MBDPQeQrHECchfto3sSz8V1Dk3CPJNzTNQC4cWgTE=;JSmYCkEb8lr+Fq5EAvKrqw=="
+secured: "kCk0Fo2j0dk4nwL6MyA9bA6+pj/hHeYctHvtETjIvIkaMZiyobAdIp6ZptYDaTgUblku/0N7gkHKxC8WIWVBeKukvOwwOyIbFIHiPLCq9mrOtwksjNnoL1qVM75v3F5c08s+eoN3JlP5BxekivUco/rqh4gCve73TirPx1osHlDra/iozPn6zav801Pa4gc029GNHtL/PMR5ykzutT1u7OUGExCgUv1b7Xgq7vDkHUIx29K2PqKUB9cnKWzkR3ns1NnIc/b+WqGKInakHAkeJxwIejUKC7uIgkjNA0vcf5thBIjmKCY8JujZp+n5FoADUc+CUFZ8ph8kDgIMnYgAQ6xedyvdgssnch79nWg2LtU5o/ms1Kw8xadAbBwonvaYtSeqh/EQJ+BivMLic2oLVLetrbAXJQ8Zfjdy7nrRuP8=;Wng+7yh+xUuACa1YR7TSWw=="
 ---
 
