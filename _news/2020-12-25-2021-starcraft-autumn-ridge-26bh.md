@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26bh-travel-tr
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26bh-travel-trailer-2923901"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - StarCraft 2
 
 related:
+  - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
+    excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
+    publishedDateTime: 2020-12-26T17:35:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 53
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
     excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
     publishedDateTime: 2020-12-24T17:37:00Z
@@ -34,6 +50,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PSISTORM StarCraft League - Season 1"
+    excerpt: "PSISTORM Gaming is proud to show support to StarCraft 2 in the Philippines. Hence our inaugural season of PSISTORM StarCraft League (PSL) will be for Filipino players. We are creating a tournament league modeled after the prestigious GSL. We all have been ..."
+    publishedDateTime: 2020-12-19T02:10:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/42459-psistorm-starcraft-league-season-1"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
 
 secured: "V7/tiIQYtrDTtmGizLDkesbwCSWedmB4j6YVVb1g6eUL74tQQWl2DBkS4fFtdzaT/qCYnStiRHgjT4iSNvWxyHAquMBSzGDTfP4U1w/etNAtJ4yOtZzZ5GWtGsHmuWtrbtdHbISmdTEQIfkvw1cmmN6uSVgO70J/OZL05N9WGaT7sZSzHlkTnD+obmw7//bxiQ8QFneQLcp5vvemfEOqRZd2lwWFznQBKW9d7k9P/Ct3DsCYxofrXDmbf0U5VG9KRyMpS4k5Z7jAcjZEevUeAM1uQcgjJigrizNLGAm5R1FMI/VGro6FcV1QuskXW9OzNNvRqn4xoEpnViUh18zv71shL2zqL89mhUcIoEA6buQ=;V0D9z4GL+zJMCV/O9lM1Yw=="
 ---
