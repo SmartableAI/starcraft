@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
 type: article
 quality: 53
-heat: 153
+heat: 193
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
+    excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
+    publishedDateTime: 2020-12-27T07:32:00Z
+    webUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/"
+    ampWebUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 45
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-scaled.jpg"
+        width: 2560
+        height: 1442
+        isCached: true
   - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
     excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
     publishedDateTime: 2020-12-25T10:35:00Z
@@ -65,6 +81,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2018 Starcraft Autumn Ridge 265BHS"
+    excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2020-12-27T07:05:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
     publishedDateTime: 2020-12-26T22:40:00Z
