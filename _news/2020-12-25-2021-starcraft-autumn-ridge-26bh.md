@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
+    excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
+    publishedDateTime: 2020-12-25T10:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 41
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
     excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
     publishedDateTime: 2020-12-24T17:37:00Z
@@ -47,6 +61,20 @@ related:
     quality: 37
     images:
       - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
+    publishedDateTime: 2020-12-26T22:40:00Z
+    webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 37
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
         width: 1200
         height: 675
         isCached: true

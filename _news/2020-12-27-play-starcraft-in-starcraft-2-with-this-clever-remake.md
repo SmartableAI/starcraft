@@ -1,24 +1,28 @@
 ---
 category: news
-title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
-excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
-publishedDateTime: 2020-12-24T17:37:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
-webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
+title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
+publishedDateTime: 2020-12-26T22:40:00Z
+originalUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GosuGamers
-  domain: gosugamers.net
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -65,17 +69,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
-    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
-    publishedDateTime: 2020-12-26T22:40:00Z
-    webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+  - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
+    excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
+    publishedDateTime: 2020-12-24T17:37:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: GosuGamers
+      domain: gosugamers.net
     quality: 37
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -89,6 +93,6 @@ related:
       domain: gosugamers.net
     quality: 17
 
-secured: "30A97l+EtYhie7HG3e9fzWlloLa6vYBoxcULJgpcNYj4KfOgDyjnfnOllVzlk7zTzPVuvkafJDdhVrT0ndMcTAPIiJgCs6TEHsv2YmSLj9+NZSZXmziG20RMH3sUg0QZ5xZoa/eMolGuELtJ01PuSt1IA5hswkmcWuWMYjQTM1Nr5alOfmwgLqp6ZBXK+MLO5tV9mlUWaYFZ8dfBnFDicPYV2BpXGG2+XZVboX0PGSaU4MBgm/5NHZthTPNnPorOuV8CvrFrQ6Ul1g5enWp3HMfrMExmZgAIfIEa/PMDEcIG8OGHLoRLMMpcxQu+tdeSwkEjUPj6RJqb66Pg0KeWzO4fN4dErXtuH+vlpCgfFfA=;j3mOcX90QFh7XeN3wlnYuw=="
+secured: "vnHHf6V1vyGAfv7LDXerwtmpx0MMV7SwCi/KCXKWPjqXyHwDWQDhF0jr/ybzLKH9Hsv/ELb1P4UuiiY2W5n4Dkr0HGioJtFlxVa7wcFLBgiEpw4ZFzqzhlLZBRfkM8Y+pt6RnN3h0BsLMlJYojGUrdVBx74cQu+z1+rRxcjVezsk0bVwxBhMxpKsT0l+URMNhT6TnK/eWkXPQAa8ucdb5KJICS6mXpvCbA2bKnRdoq+yBxydrb3iKbUDK2Lq216d0dtPKSrkv6LHn1MUngFBDAtPWfqh9UAmFnKpPZqoHzyNvYdGaGfzgKZ2BrHLz78zYveUy+p4h3UZA2V6HpqIIyxdpLVPjop0HkNnCwE5HE0=;ty0ULygdPgEyYS18fRhRaQ=="
 ---
 

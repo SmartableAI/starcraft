@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
 type: article
 quality: 53
-heat: 113
+heat: 153
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
+    excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
+    publishedDateTime: 2020-12-25T10:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 41
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2021 Starcraft Autumn Ridge 26BH"
     excerpt: "Starcraft Autumn Ridge 26BH Travel Trailer #07767 for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-25T07:05:00Z
@@ -48,6 +62,20 @@ related:
     quality: 37
     images:
       - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
+    publishedDateTime: 2020-12-26T22:40:00Z
+    webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 37
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
         width: 1200
         height: 675
         isCached: true

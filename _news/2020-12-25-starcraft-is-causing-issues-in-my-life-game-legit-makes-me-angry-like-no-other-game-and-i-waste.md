@@ -1,12 +1,12 @@
 ---
 category: news
-title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
-excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
-publishedDateTime: 2020-12-24T17:37:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
-webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
+title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
+excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
+publishedDateTime: 2020-12-25T10:35:00Z
+originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
+webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - StarCraft 2
+  - Zerg
 
 images:
   - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
@@ -40,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
-    excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
-    publishedDateTime: 2020-12-25T10:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 41
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "2021 Starcraft Autumn Ridge 26BH"
     excerpt: "Starcraft Autumn Ridge 26BH Travel Trailer #07767 for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-25T07:05:00Z
@@ -65,6 +52,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
+    excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
+    publishedDateTime: 2020-12-24T17:37:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
     publishedDateTime: 2020-12-26T22:40:00Z
@@ -89,6 +90,6 @@ related:
       domain: gosugamers.net
     quality: 17
 
-secured: "30A97l+EtYhie7HG3e9fzWlloLa6vYBoxcULJgpcNYj4KfOgDyjnfnOllVzlk7zTzPVuvkafJDdhVrT0ndMcTAPIiJgCs6TEHsv2YmSLj9+NZSZXmziG20RMH3sUg0QZ5xZoa/eMolGuELtJ01PuSt1IA5hswkmcWuWMYjQTM1Nr5alOfmwgLqp6ZBXK+MLO5tV9mlUWaYFZ8dfBnFDicPYV2BpXGG2+XZVboX0PGSaU4MBgm/5NHZthTPNnPorOuV8CvrFrQ6Ul1g5enWp3HMfrMExmZgAIfIEa/PMDEcIG8OGHLoRLMMpcxQu+tdeSwkEjUPj6RJqb66Pg0KeWzO4fN4dErXtuH+vlpCgfFfA=;j3mOcX90QFh7XeN3wlnYuw=="
+secured: "oDok8hWsTODADv5HPf/eRAaAhFNBv2CHtya8bS0FTnsL2hiHdrQFF3kls17KvUj2fvdX2ZUbDAcaTXiLhhXS7E0Eo/iypi+cvg5V7V1P2KKRbJ8eBb2SBclB4YvKhwxO6KJe2rMraOfOTDwL6+wWe4ZcAK2UG0xZ995+QKtzS1EGdcyI/e9/cHfltbb8vMg8avng/ApBQAuSIe/iibcByQwxDWT7rtZPADHw7dYPiXPfnNtJ7mzI90Bc+bqrQ4LfmnAEnnrkyEE0elTF8LKbWC9ghJV0qYHGPtBnkpDkZSS28sylD+9CPss5B4p5GwldFO0uIBB1hpTESuoAQKUUBiLhZLehD7Xz2Ua1uQM2n+o=;h2vnQaqXNwPATBr0PoMKJw=="
 ---
 
