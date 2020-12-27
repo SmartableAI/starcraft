@@ -4,6 +4,233 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor.md",
+      "title": "StarCraft 2: TERRAN VS ZERG INSANITY! (Clem vs Reynor)",
+      "excerpt": "An insane Terran versus Zerg between Clem and Reynor at the professional level of StarCraft 2. This game showcases some of the highest level SC2 with both players constantly trying out to outsmart and outmicro the other. The skill level of the game in general is continously rising and it's noticable,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-vs-zerg-insanity-clem-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=TwXQfT_0DdU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TwXQfT_0DdU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TwXQfT_0DdU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-23T02:35:20-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice.md",
+      "title": "StarCraft 2: When Behind Go Dark Shrine... TWICE!",
+      "excerpt": "Amazing game of professional StarCraft 2 between Astrea and Trap. In this match of Protoss versus Protoss we see very high level decision making and unit control.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/",
+      "originalUrl": "https://youtube.com/watch?v=0SlB8B7UdZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0SlB8B7UdZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-19T02:13:18-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Marines to Grandmaster!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M15S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 67,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-14T04:35:04-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem.md",
+      "title": "StarCraft 2: EPIC ARCHON MODE - Serral, Reynor, Elazer & Lambo vs Clem, Kelazhur, souL & Harstem!",
+      "excerpt": "An insane best-of-5 series of top level StarCraft 2. In this video I cast a series of games that was played in Archon Mode in SC2 with Serral, Reynor, Elazer and Lambo controlling the Zerg, and Clem, Kelazhur, souL and Harstem controlling the Terran. In Archon Mode multiple players can control one base",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-archon-mode-serral-reynor-elazer-lambo-vs-clem-kelazhur-soul-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=qU5HmyLz6xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qU5HmyLz6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qU5HmyLz6xA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-13T05:03:46-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor.md",
+      "title": "StarCraft 2: INTENSE PROTOSS MICRO STRATEGIES! (PartinG vs Reynor)",
+      "excerpt": "Amazing series of Zerg versus Protoss at the professional level of StarCraft 2. In this match between PartinG and Reynor we see PartinG go for some uncommon strategies. He opens up very aggressively with Photon Cannons regularly and then transitions towards an army that is extremely micro heavy, but",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-intense-protoss-micro-strategies-parting-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=Q04LqCLjX1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q04LqCLjX1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q04LqCLjX1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-11T02:29:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-siege-tank-vs-protoss.md",
+      "title": "StarCraft 2: Mass Siege Tank vs Protoss!",
+      "excerpt": "A best-of-5 series of professional StarCraft 2 between uThermal and Harstem, the two best pro gamers from the Netherlands.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-siege-tank-vs-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-siege-tank-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=iXO2XbL7ESE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iXO2XbL7ESE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iXO2XbL7ESE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-09-03T03:51:47-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-silver-league-cheese.md",
       "title": "StarCraft 2: Silver League Cheese!",
       "excerpt": "A very chaotic match of Terran vs Protoss in Silver League in StarCraft 2. What happens when you're getting cheesed while you're cheesing yourself?  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit",
@@ -39,6 +266,167 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-13T01:57:08-08:00"
+    },
+    {
+      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
+      "title": "MASS Marines to Grandmaster!",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Marines to Grandmaster!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT45M15S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 67,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-14T04:35:04-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
+          "title": "StarCraft 2: MASS Marines Basetrading!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
+          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT49M48S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 56,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-15T05:08:13-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
+          "title": "StarCraft 2: MASS Marines MASS Drops!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
+          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT36M11S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 52,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-18T03:20:11-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
+          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
+          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
+          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M9S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 53,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-09-21T02:47:54-07:00"
+        }
+      ],
+      "size": 19,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cheeky-stargate-strategy.md",
@@ -115,14 +503,51 @@
       "publishedDateTime": "2020-06-24T05:08:41-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-zerg-creativity-neeb-vs-bly.md",
-      "title": "StarCraft 2: ZERG CREATIVITY! (Neeb vs Bly)",
-      "excerpt": "StarCraft 2 professional match between Neeb and Bly. In this Protoss versus Zerg we see the Protoss playing a pretty standard strategy focused around Void Rays. Bly decides to mix it up (read: plays his normal strategies) and go for a Gold first, push with Queens and Roaches and then transitions towards",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-creativity-neeb-vs-bly/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-creativity-neeb-vs-bly/",
-      "originalUrl": "https://youtube.com/watch?v=rdhuaEPpSJ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rdhuaEPpSJ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M28S",
+      "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
+      "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
+      "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/",
+      "originalUrl": "https://youtube.com/watch?v=gaBWTfu0Glc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gaBWTfu0Glc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-19T03:09:33-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord.md",
+      "title": "StarCraft 2: ZERG LATE GAME... SUCKS? (Serral vs MarineLorD)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and MarineLorD. In this series we have an epic game of Zerg versus Terran Mech and an amazing match of non-stop Terran Bio aggression. Turns out Zerg late game... Kind of sucks?  Get more videos & support my work: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/",
+      "originalUrl": "https://youtube.com/watch?v=H7X3zl5P8hs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7X3zl5P8hs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M30S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -137,13 +562,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
         "Zerg"
       ],
       "heat": 66,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rdhuaEPpSJ0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/H7X3zl5P8hs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -151,7 +575,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-14T03:15:47-07:00"
+      "publishedDateTime": "2020-07-24T03:42:56-07:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-never-attack-to-grandmaster.md",
@@ -311,6 +735,43 @@
       "type": "collection"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo.md",
+      "title": "StarCraft 2: EARLY GAME DRAW?! (Bly vs Lambo)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Bly and Lambo. In this series of games in Zerg versus Zerg we see something extremely uncommon... An early game draw?  New ladder maps: https://youtu.be/uLw-YVtBtn4  Bly's YouTube channel: https://www.youtube.com/blyonfire Lambo's YouTube channel:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo/",
+      "originalUrl": "https://youtube.com/watch?v=CDsNPcv0y3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDsNPcv0y3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M19S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CDsNPcv0y3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-23T11:20:07-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-florencios-200-iq-cannon-rush.md",
       "title": "StarCraft 2: FLORENCIO'S 200 IQ CANNON RUSH!",
       "excerpt": "Generally speaking, the higher you climb on the ladder, the worse the 'classic' Cannon Rush becomes in StarCraft 2. Since players get better at responding quickly and making the correct moves, it becomes more difficult to win with Protoss cheese. In this video Florencio introduce a new 'flavour' of Cannon",
@@ -425,57 +886,20 @@
       "publishedDateTime": "2019-12-13T04:56:59-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
-      "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
-      "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/",
-      "originalUrl": "https://youtube.com/watch?v=gaBWTfu0Glc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44M36S",
+      "path": "_games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo.md",
+      "title": "Does he see the Nuke!? - Starcraft 2: Maru vs soO",
+      "excerpt": "Maru vs soO in an intense Terran vs Zerg, featuring some Nukes on the Terran side! Playing during the GSL vs the World.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Full VOD: https://www.youtube.com/watch?v=Mw98Mg8pE4M  Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-does-he-see-the-nuke-starcraft-2-maru-vs-soo/",
+      "originalUrl": "https://youtube.com/watch?v=Jj-qIw_NMW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jj-qIw_NMW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M39S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gaBWTfu0Glc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-19T03:09:33-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime.md",
-      "title": "StarCraft 2: THE ULTIMATE PATIENCE GAME! (Rogue vs ShoWTimE)",
-      "excerpt": "While this professional match of StarCraft 2 starts off very slowly, it turns out to be one of the most spectacular matches of late game Zerg versus Protoss I've ever seen.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultimate-patience-game-rogue-vs-showtime/",
-      "originalUrl": "https://youtube.com/watch?v=P-84Oh9yx7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -484,13 +908,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss",
+        "Terran",
         "Zerg"
       ],
       "heat": 65,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/P-84Oh9yx7w/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Jj-qIw_NMW0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -498,7 +922,79 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-10-20T01:41:14-07:00"
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
+      "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
+      "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
+      "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/",
+      "originalUrl": "https://youtube.com/watch?v=X8jnYBGnyKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8jnYBGnyKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
+      "title": "Best Nukes of Never Attack to Grandmaster Series!",
+      "excerpt": "Welcome to a fan-made supercut of all of Beastyqt's Nukes! Enjoy this Nuke Reel!  Check out Black Fire's channel who edited this video: https://www.youtube.com/channel/UCT2zCxLrL91NILOBHcRAELA/featured?  #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series/",
+      "originalUrl": "https://youtube.com/watch?v=-HaQ_9HnPkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HaQ_9HnPkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M52S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 64,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HaQ_9HnPkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-27T05:37:31-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-planetary-fortress-rush.md",
@@ -539,185 +1035,36 @@
       "publishedDateTime": "2017-02-09T05:35:29-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb.md",
-      "title": "StarCraft 2: TLO's QUEEN DROPS versus Neeb!",
-      "excerpt": "Best-of-3 series of StarCraft 2 between TLO and Neeb. TLO has always played his own brand of Zerg, and he once again goes for some cool attacks versus Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb/",
-      "originalUrl": "https://youtube.com/watch?v=1KazjH_9jO8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1KazjH_9jO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1KazjH_9jO8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-23T04:55:04-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice.md",
-      "title": "StarCraft 2: When Behind Go Dark Shrine... TWICE!",
-      "excerpt": "Amazing game of professional StarCraft 2 between Astrea and Trap. In this match of Protoss versus Protoss we see very high level decision making and unit control.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/",
-      "originalUrl": "https://youtube.com/watch?v=0SlB8B7UdZI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0SlB8B7UdZI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-19T02:13:18-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord.md",
-      "title": "StarCraft 2: ZERG LATE GAME... SUCKS? (Serral vs MarineLorD)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and MarineLorD. In this series we have an epic game of Zerg versus Terran Mech and an amazing match of non-stop Terran Bio aggression. Turns out Zerg late game... Kind of sucks?  Get more videos & support my work: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/",
-      "originalUrl": "https://youtube.com/watch?v=H7X3zl5P8hs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7X3zl5P8hs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/H7X3zl5P8hs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-24T03:42:56-07:00"
-    },
-    {
-      "path": "_games/collections/beastyqtsc2-mass-marines-to-grandmaster.md",
-      "title": "MASS Marines to Grandmaster!",
+      "path": "_games/collections/beastyqtsc2-mass-void-rays-to-grandmaster.md",
+      "title": "MASS Void Rays to Grandmaster",
       "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-marines-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-marines-to-grandmaster/",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-void-rays-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-void-rays-to-grandmaster/",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss"
       ],
       "topItems": [
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Marines to Grandmaster!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT45M15S",
+          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
+          "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
+          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
+          "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT39M22S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 62,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-09-14T04:35:04-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-basetrading.md",
-          "title": "StarCraft 2: MASS Marines Basetrading!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-basetrading/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-basetrading/",
-          "originalUrl": "https://youtube.com/watch?v=51TeNfxbivw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/51TeNfxbivw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT49M48S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
+            "Protoss"
           ],
           "heat": 54,
           "tags": [
@@ -725,7 +1072,7 @@
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/51TeNfxbivw/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -733,24 +1080,57 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-15T05:08:13-07:00"
+          "publishedDateTime": "2019-11-30T04:55:08-08:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-marines-mass-drops.md",
-          "title": "StarCraft 2: MASS Marines MASS Drops!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-mass-drops/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-mass-drops/",
-          "originalUrl": "https://youtube.com/watch?v=e06Mf8oU41E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e06Mf8oU41E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M11S",
+          "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
+          "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
+          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
+          "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT37M6S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
+            "Protoss"
+          ],
+          "heat": 56,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2019-12-01T03:18:56-08:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade.md",
+          "title": "StarCraft 2: MASS Void Rays vs MASS Bio BASETRADE!",
+          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/",
+          "originalUrl": "https://youtube.com/watch?v=mx45Kv3pw3E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mx45Kv3pw3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT39M11S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
           ],
           "heat": 52,
           "tags": [
@@ -758,7 +1138,7 @@
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/e06Mf8oU41E/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/mx45Kv3pw3E/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -766,32 +1146,32 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-18T03:20:11-07:00"
+          "publishedDateTime": "2019-12-06T04:16:47-08:00"
         },
         {
-          "path": "_games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines.md",
-          "title": "StarCraft 2: FLORENCIO Nexus Rush vs MARINES?!",
-          "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-florencio-nexus-rush-vs-marines/",
-          "originalUrl": "https://youtube.com/watch?v=fJOQJIAD9rI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fJOQJIAD9rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT34M9S",
+          "path": "_games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays.md",
+          "title": "StarCraft 2: Sniping ALL Orbital Commands With Chad Rays!",
+          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/",
+          "originalUrl": "https://youtube.com/watch?v=GxWVeRPPqo4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GxWVeRPPqo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT40M19S",
           "provider": {
             "name": "BeastyqtSC2",
             "domain": "youtube.com"
           },
           "topics": [
             "StarCraft 2",
-            "Terran"
+            "Protoss"
           ],
-          "heat": 52,
+          "heat": 51,
           "tags": [
             "Live"
           ],
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/fJOQJIAD9rI/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/GxWVeRPPqo4/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -799,14 +1179,14 @@
           ],
           "content": "\r\n",
           "type": "video",
-          "publishedDateTime": "2019-09-21T02:47:54-07:00"
+          "publishedDateTime": "2019-12-06T15:32:01-08:00"
         }
       ],
-      "size": 19,
+      "size": 24,
       "heat": 64,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -891,47 +1271,14 @@
       "publishedDateTime": "2019-01-14T04:10:23-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster.md",
-      "title": "StarCraft 2: MASS Marines to Grandmaster!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This is the \"Mass Marines to Grandmaster\" challenge, where the only attacking unit that I'm allowed to make is Marines - and that's it! I am allowed to make Medivacs just so that the gaemplay is not too monotonous, but I believe I could even make",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-marines-to-grandmaster/",
-      "originalUrl": "https://youtube.com/watch?v=dTWvlG6Lork",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTWvlG6Lork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M15S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 62,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-09-14T04:35:04-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani.md",
-      "title": "StarCraft 2: ACTUAL IMMORTALS?! (Trap vs Armani)",
-      "excerpt": "Best-of-3 series of high level StarCraft 2 between Trap and Armani. In this Protoss versus Zerg we see a variety of build orders from both players, and surprisingly enough... No Void Rays!  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-actual-immortals-trap-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=kVcMwAi0uds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVcMwAi0uds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M52S",
+      "path": "_games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5.md",
+      "title": "StarCraft 2: SCARLETT VS NEEB! (Best-of-5)",
+      "excerpt": "Scarlett versus Neeb in a best-of-5 series of StarCraft 2.   Serral vs Maru: https://youtu.be/h4A8ZTaPBAE  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-scarlett-vs-neeb-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=yPXkXTRZgYw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yPXkXTRZgYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M6S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -946,126 +1293,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVcMwAi0uds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-27T04:13:20-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-professional-match.md",
-      "title": "StarCraft 2: INSANE PROFESSIONAL MATCH!",
-      "excerpt": "TY and Dark are just so good at StarCraft 2. Insane! Subscribe for more videos: http://lowko.tv/youtube Mass Battlecruiser: https://www.youtube.com/watch?v=XzISfSZCLfY  In this video I give commentary to a professional match of Zerg vs Terran in StarCraft 2. Both players in this game are some of the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-professional-match/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-professional-match/",
-      "originalUrl": "https://youtube.com/watch?v=bU7QF8rLeBw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bU7QF8rLeBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M29S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bU7QF8rLeBw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-07T04:06:56-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
-      "title": "StarCraft 2: MARU vs PARTING!",
-      "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-vs-parting/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-vs-parting/",
-      "originalUrl": "https://youtube.com/watch?v=1O8KnA0Dwgs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1O8KnA0Dwgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1O8KnA0Dwgs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-10T02:09:38-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul.md",
-      "title": "StarCraft 2: SERRAL'S PROXY HATCHERY! (Serral vs souL)",
-      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and souL. In this series Serral players differently than he usually does. In the first game he opens up with a Proxy Hatchery rush... A little bit of Zerg cheese.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serrals-proxy-hatchery-serral-vs-soul/",
-      "originalUrl": "https://youtube.com/watch?v=s3X0i5us-Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s3X0i5us-Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M16S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
+        "Protoss",
         "Zerg"
       ],
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/s3X0i5us-Hc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yPXkXTRZgYw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1073,46 +1307,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-07-29T04:07:45-07:00"
-    },
-    {
-      "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
-      "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
-      "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/",
-      "originalUrl": "https://youtube.com/watch?v=X8jnYBGnyKU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8jnYBGnyKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M45S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+      "publishedDateTime": "2020-10-09T03:45:25-07:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-cannon-rushing-to-grandmaster-series.md",
@@ -1146,7 +1341,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 53,
+          "heat": 57,
           "tags": [
             "Cheese",
             "Live"
@@ -1180,7 +1375,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 52,
+          "heat": 53,
           "tags": [
             "Cheese",
             "Live"
@@ -1267,7 +1462,7 @@
         }
       ],
       "size": 8,
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Gg-KYV9GWyc/maxresdefault.jpg",
@@ -1278,6 +1473,82 @@
       ],
       "content": "\r\n",
       "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-professional-match.md",
+      "title": "StarCraft 2: INSANE PROFESSIONAL MATCH!",
+      "excerpt": "TY and Dark are just so good at StarCraft 2. Insane! Subscribe for more videos: http://lowko.tv/youtube Mass Battlecruiser: https://www.youtube.com/watch?v=XzISfSZCLfY  In this video I give commentary to a professional match of Zerg vs Terran in StarCraft 2. Both players in this game are some of the",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-professional-match/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-professional-match/",
+      "originalUrl": "https://youtube.com/watch?v=bU7QF8rLeBw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bU7QF8rLeBw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bU7QF8rLeBw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-02-07T04:06:56-08:00"
+    },
+    {
+      "path": "_games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague.md",
+      "title": "SUPREME LATE GAME PROTOSS VS ZERG - Dark vs Stats - StarCraft 2 Starleague",
+      "excerpt": "Dark vs Stats in an epic 38 minute Protoss vs Zerg during the Starcraft 2 starleague. Going to the supreme late game.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!  ► Watch the Starcraft 2 Starleague on: http://youtube.com/esportstv    Thank you for watching our videos! Subscribe for more StarCraft",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-supreme-late-game-protoss-vs-zerg-dark-vs-stats-starcraft-2-starleague/",
+      "originalUrl": "https://youtube.com/watch?v=8x9xoxB1DfI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M30S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8x9xoxB1DfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-08-04T12:34:48-07:00"
     },
     {
       "path": "_games/collections/beastyqtsc2-hellbatghostliberator-to-grandmaster.md",
@@ -1441,489 +1712,6 @@
       "type": "collection"
     },
     {
-      "path": "_games/collections/beastyqtsc2-mass-void-rays-to-grandmaster.md",
-      "title": "MASS Void Rays to Grandmaster",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-void-rays-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-void-rays-to-grandmaster/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster.md",
-          "title": "StarCraft 2: MASS Void Rays to Grandmaster!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=qyvOV-b5TZs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qyvOV-b5TZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M22S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-11-30T04:55:08-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
-          "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
-          "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT37M6S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 54,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-12-01T03:18:56-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade.md",
-          "title": "StarCraft 2: MASS Void Rays vs MASS Bio BASETRADE!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-bio-basetrade/",
-          "originalUrl": "https://youtube.com/watch?v=mx45Kv3pw3E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mx45Kv3pw3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M11S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/mx45Kv3pw3E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-12-06T04:16:47-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays.md",
-          "title": "StarCraft 2: Sniping ALL Orbital Commands With Chad Rays!",
-          "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-sniping-all-orbital-commands-with-chad-rays/",
-          "originalUrl": "https://youtube.com/watch?v=GxWVeRPPqo4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GxWVeRPPqo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT40M19S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 50,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/GxWVeRPPqo4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-12-06T15:32:01-08:00"
-        }
-      ],
-      "size": 24,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qyvOV-b5TZs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
-      "path": "_games/collections/beastyqtsc2-mass-widow-mines-ravens.md",
-      "title": "MASS Widow Mines & Ravens!",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-widow-mines-ravens/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-widow-mines-ravens/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster.md",
-          "title": "StarCraft 2: *NEW* Series! MASS Widow Mines & Ravens to Grandmaster!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=uTf8FZN9x68",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uTf8FZN9x68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT43M4S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 54,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-01-18T03:52:13-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens.md",
-          "title": "StarCraft 2: Planetary Fortress Rushing With Mines and Ravens!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-planetary-fortress-rushing-with-mines-and-ravens/",
-          "originalUrl": "https://youtube.com/watch?v=lCxdH0tQn9Y",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lCxdH0tQn9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT31M16S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/lCxdH0tQn9Y/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-01-19T04:30:50-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops.md",
-          "title": "StarCraft 2: Widow Mine & Medivac DOOM DROPS!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-widow-mine-medivac-doom-drops/",
-          "originalUrl": "https://youtube.com/watch?v=oWq4sG1LDi0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oWq4sG1LDi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT35M7S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/oWq4sG1LDi0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-01-24T02:41:14-08:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran.md",
-          "title": "StarCraft 2: BRUTAL Widow Mine Connections vs Terran!",
-          "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-brutal-widow-mine-connections-vs-terran/",
-          "originalUrl": "https://youtube.com/watch?v=yegQnJoexJ4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yegQnJoexJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT36M53S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Terran"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/yegQnJoexJ4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2020-01-24T10:10:59-08:00"
-        }
-      ],
-      "size": 24,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uTf8FZN9x68/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
-      "path": "_games/collections/beastyqtsc2-only-sentries-to-grandmaster.md",
-      "title": "ONLY Sentries to Grandmaster",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-only-sentries-to-grandmaster/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-only-sentries-to-grandmaster/",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "topItems": [
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster.md",
-          "title": "StarCraft 2: ONLY Sentries to Grandmaster!!!",
-          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-only-sentries-to-grandmaster/",
-          "originalUrl": "https://youtube.com/watch?v=afB5F1bvx90",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/afB5F1bvx90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT41M54S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 54,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/afB5F1bvx90/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-17T13:38:31-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors.md",
-          "title": "StarCraft 2: MASS Sentries vs Tanks and Thors?",
-          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  There are sooo many gems from playing this series on stream - from splitting Sentries vs Ultralisks, to trying to break Terran Mech,",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-sentries-vs-tanks-and-thors/",
-          "originalUrl": "https://youtube.com/watch?v=vUVCm0iEJuk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vUVCm0iEJuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT48M49S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/vUVCm0iEJuk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-18T15:54:23-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-hello-anyone-there.md",
-          "title": "StarCraft 2: HELLO? Anyone There?",
-          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  This set of games in this series ends with a great turn of events - my opponent thinks I'm actually AlphaStar!   Feel free to let me",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-hello-anyone-there/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-hello-anyone-there/",
-          "originalUrl": "https://youtube.com/watch?v=mPtPn89RYrg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mPtPn89RYrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT33M46S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 51,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/mPtPn89RYrg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-20T04:02:45-07:00"
-        },
-        {
-          "path": "_games/beastyqtsc2-starcraft-2-cocky-stream-sniper.md",
-          "title": "StarCraft 2: Cocky Stream Sniper!",
-          "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Folks in chat on my stream think they can snipe me and get away with it. Not if I have anything to say about!   Feel free to let me",
-          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-cocky-stream-sniper/index.json",
-          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-cocky-stream-sniper/",
-          "originalUrl": "https://youtube.com/watch?v=tg2hFwPGltk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tg2hFwPGltk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT16M50S",
-          "provider": {
-            "name": "BeastyqtSC2",
-            "domain": "youtube.com"
-          },
-          "topics": [
-            "StarCraft 2",
-            "Protoss"
-          ],
-          "heat": 52,
-          "tags": [
-            "Live"
-          ],
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tg2hFwPGltk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "publishedDateTime": "2019-07-20T04:11:24-07:00"
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/afB5F1bvx90/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheese-vs-cheese-into-cheese.md",
       "title": "StarCraft 2: CHEESE vs CHEESE into CHEESE!",
       "excerpt": "I don't think I've ever seen so much cheese in a series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More professional cheese: https://goo.gl/GoJKmX  Scarlett vs Shadown in an epic series of professional StarCraft 2. While I wasn't too familiar with Shadown before this series, I",
@@ -1959,43 +1747,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-09-19T10:42:26-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo.md",
-      "title": "StarCraft 2: EARLY GAME DRAW?! (Bly vs Lambo)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Bly and Lambo. In this series of games in Zerg versus Zerg we see something extremely uncommon... An early game draw?  New ladder maps: https://youtu.be/uLw-YVtBtn4  Bly's YouTube channel: https://www.youtube.com/blyonfire Lambo's YouTube channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-early-game-draw-bly-vs-lambo/",
-      "originalUrl": "https://youtube.com/watch?v=CDsNPcv0y3I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDsNPcv0y3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50M19S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CDsNPcv0y3I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-23T11:20:07-07:00"
     }
   ],
   "nextPage": 4
