@@ -2,6 +2,7 @@
 title: "StarCraft 2: PHOTON CANNONS vs PHOTON CANNONS! (PartinG vs Zest)"
 excerpt: "Best-of-5 series of Protoss versus Protoss between PartinG and Zest, with some very cheeky build orders.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part"
 originalUrl: https://youtube.com/watch?v=42GvDc4uvHU
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-photon-cannons-vs-photon-cannons-parting-vs-zest/
 type: video
 length: PT17M26S
 publishedDateTime: 2020-12-28T11:41:25Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7o3X4dqiLNtOELr+qh5UQJEl0kp9I8diukbTqak03lMk3TCIYoDyZmqHzd6OQU+87jmA01wysx0yVtUmdpio6I12FlH8GIZucR9EzEjucMxjGt3CC1n48qH60QxAvM6LETnGoXPLSXf1JQrsJm9nc9c9Sy4qDuERdtqNDr806YAURGzPVm0rUcy1vRIbBKkZjBKGTsB9OOsF85EPUaADNwEDqjSwsOKBS3ynpcol0J3pTlJXpKS1Ud/J1zZGMg+tdgnO1uIthOWms9pw7Y6c6MCKpL8oWtgJ58CDf/gfaJazcRG/ApY4vPIWeXzYtpvB1kaeEOaZDQSAHBkeqoVNojXoRe9dzOBF9aleFsdsflHK1Y23066X/las8FRXFoXl5isnl+RlZS4WFbu5z1q1lQ==;9eJo6UEPajrGSifbnI0S6A=="
+secured: "RzZfV2A6xxqR7Nvpf/dUjBN+h4UmIJDR3nrIQXH3zOKxCM1Ptnj21sDwxlo+oRZy5b5lTMDV5qoQ8j7sCCCknV0XAS3GaAcss8rV3v/hjCEe8vmW6cEFdYbfqD8/ICgS0EqOxUhLPXsOPzC95yhwSx5qLOPz5yDpUHRlzGFtSUrHd2w/dV2sQIJXyTMLi05TQEKx2svM7hJcgjXuQY9wxycROR0KECpc0b9Vf92KLwEicGhMwlu9BpkTBO8ws9ntHg3Bhe2gj+psFlwEywN6jaWKMdofhqV+0lryvjD3/pEYE3RQaxPv+rq9PbH0TAPlK4GZJUrnfrl8qypx+eIeD15UrcAs9wy3olUzWC582UMlVsgEa9IEWnp0myMFia8efpOsBWssEOIc9d1LOyeuoA==;ZCjFd/vgbPyL0Qn17NlT9g=="
 ---
 
