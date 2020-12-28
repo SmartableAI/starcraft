@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
+    excerpt: "If you’ve been wanting to go back to the original StarCraft story but too put off by the game’s dated graphics, then this fan-made StarCraft: Mass Recall is for you. StarCraft: Mass Recall is a fan-made campaign on StarCraft II Both StarCraft II and the original StarCraft games are both already ancient by today’s standards,"
+    publishedDateTime: 2020-12-28T15:26:00Z
+    webUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/"
+    ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
+    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
+    type: article
+    provider:
+      name: ClutchPoints
+      domain: clutchpoints.com
+    quality: 57
+    images:
+      - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
+        width: 1024
+        height: 574
+        isCached: true
   - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
     excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
     publishedDateTime: 2020-12-26T17:35:00Z
@@ -106,15 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "PSISTORM StarCraft League - Season 1"
-    excerpt: "PSISTORM Gaming is proud to show support to StarCraft 2 in the Philippines. Hence our inaugural season of PSISTORM StarCraft League (PSL) will be for Filipino players. We are creating a tournament league modeled after the prestigious GSL. We all have been ..."
-    publishedDateTime: 2020-12-19T02:10:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/42459-psistorm-starcraft-league-season-1"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 17
 
 secured: "iKFi3ISTab35smm3WYcnCpzBUlwl5uDoIfKX5AmZ32Ht0ti9/bhT3Pxrzk8VmrDH8QizIKZSejjgHG0yzCfsSsIdQkiDweoTd/e2CWLwlK69GGmpA0XNgnrGoF5Mve6H3o+pSV6MJTPp7dvmoKwfTRln1G86D2Bnebrx+fYW4JrI54PCimPLSH9UUXz43H3NSZQbePo3mOvLh3jp5VawjCAE2+dPLnmkckxQICTY4Z0CrrN5Ir+umUmJe6rJHgnYVW+8melHXgwC7g9gBdrr8OHpNoJZx0yJAuhHKve/c9xBVk5pkkf4gQOl7daOSu/xWHnmVHrISwx4F3C3cpSpPKsXLr4LramRi/pjNyxR3dqk94tnCYRbdDQRfbpgzaQtXVeAghyUh63Nn4O4Wg803xbb7XZ8nQlQNXZPSIpfVk6DapIHj3ZOVdf1arQeBAhdgR2IjFw9WeMs2ttP6x+IavH7WvmdHUDEFk5w1YaKBau3IecPxFVJonS0MH4KkS2qzdH4R/8+fjxWvcPCdxNS3g==;4Sh+z5FWRIYteLWwjI3q6g=="
 ---

@@ -1,46 +1,46 @@
 ---
 category: news
-title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
-excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
-publishedDateTime: 2020-12-26T17:35:00Z
-originalUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
-cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
+title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
+excerpt: "If you’ve been wanting to go back to the original StarCraft story but too put off by the game’s dated graphics, then this fan-made StarCraft: Mass Recall is for you. StarCraft: Mass Recall is a fan-made campaign on StarCraft II Both StarCraft II and the original StarCraft games are both already ancient by today’s standards,"
+publishedDateTime: 2020-12-28T15:26:00Z
+originalUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/"
+webUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/"
+ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
+cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 57
+heat: 197
+published: true
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: ClutchPoints
+  domain: clutchpoints.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
+    width: 1024
+    height: 574
     isCached: true
 
 related:
-  - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
-    excerpt: "If you’ve been wanting to go back to the original StarCraft story but too put off by the game’s dated graphics, then this fan-made StarCraft: Mass Recall is for you. StarCraft: Mass Recall is a fan-made campaign on StarCraft II Both StarCraft II and the original StarCraft games are both already ancient by today’s standards,"
-    publishedDateTime: 2020-12-28T15:26:00Z
-    webUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/"
-    ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
-    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
+  - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
+    excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
+    publishedDateTime: 2020-12-26T17:35:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
     type: article
     provider:
-      name: ClutchPoints
-      domain: clutchpoints.com
-    quality: 57
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 53
     images:
-      - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
-        width: 1024
-        height: 574
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
     excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
@@ -123,6 +123,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PC1HT3NfKhU5+B2vTGG4dzB2QJq5Z8KiDVHiFw9tKalw41VhmNarPlsIdfrcdHZr1RAOlCTnM2ITx4PIWq8IAnUoTGspXYv7SHVpavkeJeS1SLvVx/ItVVAoKd30sKyLdV5S/t/bMqNArQ10yua5df0Alu1t3FlMbOH69WOpmXOsb3pZx27c5q/Zw2ogrE7HUX5Pbvyp5RmMlQk2nNHxSQKQspbO+xm3501HPSLVAkeZNGuYGUA8qGYOQuzbwOMp4Z2yDTq5C4GG3RQWgny7mBrn4o6jHNtIZtoxXBFxai1o2QuBz1dG/rEXDvPzdLcDj90IbyJf0ukPZpewPHedmfp1uFT6PyZia1BMyquGkILvxp6tksqkP/z+xB+E3aQwtJKkc2nn2L7ugzZ7kTRfNxvhjS2qPxXdVZdtt8m9T4E1QnA/03dcBJOFSz4Sjball4//U1DfcND1ZO0Q2FlH+ljXrGzVEW/vx3PRkjPpdHDSftG63pC82SE9e5lytlQ5sdkiCeQ8Vl2aj+DKuw6XeA==;HvKS/k1vyw2c/CJx2QdhEg=="
+secured: "Z0x7VWxnSwaJT2gWdg49z0ScMihcK2UzRg5EHmFSkmOk9MphnT+IYbjE6kHOAxBCWAEjojti8sjoc1pfscb7USzXZQJ8RY/0rot82/bwyEQO+xiWeOg93Nh5DKeHHwg9n2y4e6uyal+LuoPQbtXxwnsNYA3OpGISUDaiswm9G4oguU2ktoLq6HUU3uTG63+vXhoGwXcgPHw6o5tM4QXjeaKz6QoTRUf/B8LD/Unk92cLKnsLgr+QCDCRBbJZJ5uw4b3i7WBnJMQGO+UA1lk1SE0f13Ti3eDQoapQHyp2+ylRuTu82HEZ2CxgjQjlEUQLhnANPGQ5ganKdopQiYcuYP7O7Y0qLbqyzJvU7PbgMEk=;5vdf3qgYpKosA6UwsIHMow=="
 ---
 

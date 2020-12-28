@@ -38,6 +38,15 @@ related:
         width: 705
         height: 308
         isCached: true
+  - title: "PSISTORM StarCraft League - Season 1"
+    excerpt: "PSISTORM Gaming is proud to show support to StarCraft 2 in the Philippines. Hence our inaugural season of PSISTORM StarCraft League (PSL) will be for Filipino players. We are creating a tournament league modeled after the prestigious GSL. We all have been ..."
+    publishedDateTime: 2020-12-19T02:10:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/42459-psistorm-starcraft-league-season-1"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
 
 secured: "7WNkaWmK1lkdt8zJaFPg7/+4i4ULyTfCRg8Cn0E/X6+0llOghD2Nd9NP4v8h0KM9QI332MrEoLHdZAqp+SEfAFEbDIqoPm76UljBHPaRUQ7+Cqmf637DXW6L/A99mVnJ7XoVU4KmABIRQOErGKOhuHgPHgazu1iPIBnUgJah+22v9pQFbkuvDJG7i4shy8f4ePieojVsKEga761cs7tlW66kXdl40IdnZ+9cN12XT7m87Htr0vvfSkFpRK/UttUh5S+daHlg0NHI2usUu60W+cBUFUWJ2PHG3ayCGShx0QgygujfGmJKTloqCy30QMGUZb6LVUHNmIIoxOm4cnpKu0JHn8vi7+hiMv+u2OmLXbc=;86StGDm8ISEWH5Rw8FDebA=="
 ---
