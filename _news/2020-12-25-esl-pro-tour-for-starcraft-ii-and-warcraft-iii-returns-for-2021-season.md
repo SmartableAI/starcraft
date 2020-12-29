@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
+    excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
+    publishedDateTime: 2020-12-28T22:06:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/starcraft-mass-recall-mod-offers-sc1-and-brood-war-campaign-on-ne/z92ab4"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=10932"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=10932"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 55
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
     excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
     publishedDateTime: 2020-12-26T17:35:00Z
@@ -121,6 +137,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tag Archives: Starcraft Mass Recall"
+    excerpt: "Starcraft fans, here is something special for you today. A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it. Continue reading Starcraft ..."
+    publishedDateTime: 2020-12-27T07:32:00Z
+    webUrl: "https://www.dsogaming.com/tag/starcraft-mass-recall/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 37
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-672x372.jpg"
+        width: 672
+        height: 372
         isCached: true
 
 secured: "30A97l+EtYhie7HG3e9fzWlloLa6vYBoxcULJgpcNYj4KfOgDyjnfnOllVzlk7zTzPVuvkafJDdhVrT0ndMcTAPIiJgCs6TEHsv2YmSLj9+NZSZXmziG20RMH3sUg0QZ5xZoa/eMolGuELtJ01PuSt1IA5hswkmcWuWMYjQTM1Nr5alOfmwgLqp6ZBXK+MLO5tV9mlUWaYFZ8dfBnFDicPYV2BpXGG2+XZVboX0PGSaU4MBgm/5NHZthTPNnPorOuV8CvrFrQ6Ul1g5enWp3HMfrMExmZgAIfIEa/PMDEcIG8OGHLoRLMMpcxQu+tdeSwkEjUPj6RJqb66Pg0KeWzO4fN4dErXtuH+vlpCgfFfA=;j3mOcX90QFh7XeN3wlnYuw=="

@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
+    excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
+    publishedDateTime: 2020-12-28T22:06:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/starcraft-mass-recall-mod-offers-sc1-and-brood-war-campaign-on-ne/z92ab4"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=10932"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=10932"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 55
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
     excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
     publishedDateTime: 2020-12-27T07:32:00Z
@@ -121,6 +137,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tag Archives: Starcraft Mass Recall"
+    excerpt: "Starcraft fans, here is something special for you today. A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it. Continue reading Starcraft ..."
+    publishedDateTime: 2020-12-27T07:32:00Z
+    webUrl: "https://www.dsogaming.com/tag/starcraft-mass-recall/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 37
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-672x372.jpg"
+        width: 672
+        height: 372
         isCached: true
 
 secured: "PC1HT3NfKhU5+B2vTGG4dzB2QJq5Z8KiDVHiFw9tKalw41VhmNarPlsIdfrcdHZr1RAOlCTnM2ITx4PIWq8IAnUoTGspXYv7SHVpavkeJeS1SLvVx/ItVVAoKd30sKyLdV5S/t/bMqNArQ10yua5df0Alu1t3FlMbOH69WOpmXOsb3pZx27c5q/Zw2ogrE7HUX5Pbvyp5RmMlQk2nNHxSQKQspbO+xm3501HPSLVAkeZNGuYGUA8qGYOQuzbwOMp4Z2yDTq5C4GG3RQWgny7mBrn4o6jHNtIZtoxXBFxai1o2QuBz1dG/rEXDvPzdLcDj90IbyJf0ukPZpewPHedmfp1uFT6PyZia1BMyquGkILvxp6tksqkP/z+xB+E3aQwtJKkc2nn2L7ugzZ7kTRfNxvhjS2qPxXdVZdtt8m9T4E1QnA/03dcBJOFSz4Sjball4//U1DfcND1ZO0Q2FlH+ljXrGzVEW/vx3PRkjPpdHDSftG63pC82SE9e5lytlQ5sdkiCeQ8Vl2aj+DKuw6XeA==;HvKS/k1vyw2c/CJx2QdhEg=="

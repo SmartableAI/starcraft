@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
+    excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
+    publishedDateTime: 2020-12-28T22:06:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/starcraft-mass-recall-mod-offers-sc1-and-brood-war-campaign-on-ne/z92ab4"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=10932"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=10932"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 55
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
     excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
     publishedDateTime: 2020-12-26T17:35:00Z
@@ -126,6 +142,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Tag Archives: Starcraft Mass Recall"
+    excerpt: "Starcraft fans, here is something special for you today. A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it. Continue reading Starcraft ..."
+    publishedDateTime: 2020-12-27T07:32:00Z
+    webUrl: "https://www.dsogaming.com/tag/starcraft-mass-recall/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 37
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-672x372.jpg"
+        width: 672
+        height: 372
+        isCached: true
 
 secured: "N3YQUx7wR48gqnH36Sj1Vin+zz+CftYb1Q6hk5OH/E3rnIuFtrr1jiM0lySZwHCMfKa+iPPqYOsbXZAVacBEojgdAzeeWDHY8are6ugSvN+QpTQYSsVSayghWRuBFjWoAwQPkrYDMaesIt91kTua9Hd59KNoS1tLy17yUE8AUGXV+VCKiTZkmhm6p+mBahY3pc5NXft34NIl/e5c0G2MRvZXSXt/K2r5lgnhGpODVzuoFNLkOEkvCMSH422DBsKivgJ7fZN74PHRxcAakQBEq0qReo4fS495F2ldB98IYMcLX9YT/RzYq67DIwkNLiZk+qEAx6yONaM3YXi3aobR9QnjsQMtmMdZVZ7pILx8IaypIe0MITEYbnLmxQ50LynlozMA9Ty2Mq1+aUQO7HsV0zXTtwPOzvqnB2E5coKQTg1lIlGnVXNg8CywG1QIV7hLmXNDqXnMyontmmXDWHzwRl6CgGNamfgTvuA4YWdTZikwzAV/4vNNeauXUhinNN77YSO4Ff0uLhCa1+3RwNB8eA==;l2CDJJgAjT0G2I1NYeEMWg=="
 ---
