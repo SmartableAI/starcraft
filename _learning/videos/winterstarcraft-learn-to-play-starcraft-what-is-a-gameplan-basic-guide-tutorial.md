@@ -4,7 +4,7 @@ excerpt: "Starcraft 2: Legacy of the Void - I go over the basics of what a gamep
 originalUrl: https://youtube.com/watch?v=RkwtFcw8ztw
 type: video
 price: Free
-length: PT9M54S
+length: PT9M53S
 publishedDateTime: 2017-11-19T17:10:18Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mIWktUE/CzL8R1eejbaAurzOxC4uxKVTRP26Y/Te7FzYXH7tz+fO3FRlNrZpqMSw+LslF132dRds6uBxi5dv6/gQKIpcJfHz7w7XbU1DX1PEQvNO2CoKTsxqjndks4jGIoExMGhZodei6ZwNWBtPdgR0FgdOT5Bj9zWdob8UzFZzKk98QPFB/8WTzEgMZ1UeuTU2OXP+toWWM+TW0UDLV2ABULTltHQ1F/CPtP2PebCCwOsFMlufECeqlLXjKDh4WI6UYpGKdaBiU+emvhWLBTOFfbGzIiju2/P8SCESw28wSjbdh/4S2mz22SvqTHo0wzjSGgYL/bJ+F2Pg44rY+oSs4JcbL8iC8Sw9m4NhNQH/IPq2s6INfZtCo9dZuVVuDaEdjoPTyq5mPfiMnYRkZz8s9czvuY2DQH9QrHc2UvM=;R6k+lmKbGpQoueSoFQNnyw=="
+secured: "ANkWPM4GILIoQLdXCofGVf+DvPRfULJz3xZG/MHnKjD9thZHp60mJmcKSPRdVEE/cA6QCqI+16dGgJnaVW6kI66lEllBhKqOKWIAmi+auUzDhTkwG049dY+0iMvqPLgTXJr/y2fH7jOol3DcWyYnRaijQh155s32CQszcFWm4XGuvvd0MFP1Qm/xOrrpprYbYvqoOiAuckc4a8R8fq0/hVAFhlqdzcQm3ITpsGzBFDFLpWrcrQDm9XAbnHWia8dFoQ+X0YsDVu8H7gWm6gGvf16Uxn97oWk0hKXHrUcE9J+N0vO6/AC/W3q4sAGSxV8UuJvA1h+cyUgg5aOqJwNKkzj2WCITG3nYJgaNP23I52XvAOv2Apv7Soy4iG86bN+pZM0dIUE6stlXd2Nfm2+gzVLZhpUfAb5+CmLOFI8t8P0=;KWMg0rymEPdiqmUYwz2wMA=="
 ---
 
