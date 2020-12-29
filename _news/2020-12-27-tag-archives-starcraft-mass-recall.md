@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
+    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its inception. This is technically the 8.0 version of the ..."
+    publishedDateTime: 2020-12-29T11:48:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 37
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
 secured: "zAbH6TH2SCgXkmYVartt+bDaAFXc5QXY4uGYECYeU1PFbAqpGwOMFrPeVYmwcw6wOB/BYhrfz6ilx+OGxQJMH3fQIpk8vbS7eKRIYfIWKJo40npASeNsanwvgW5A9otVn3fnRcDQQ5Lt4gsGmp6qvNitPqunPC3iX4wzls2h03d8skl6cx4Ob1C6rVP/J9zIrocQ+xlil7r0MlTUHrY5WxIZjf+M/XQ3XWQ8nBQhWx1fcP33aMIUeaOXC3yWiyhwTw+hIT3m1cY1U9n5yQKiA7h8RMdRk+YprevFIIga6ey0Q+8aGZtDApZmN3G3nmwxKO8aDsDAXt5GGI1AOD2wpCeSfbcR0HCUpR68Rk2l3sc=;5bRlGXU7tkBIUXjKW4nMsQ=="
 ---

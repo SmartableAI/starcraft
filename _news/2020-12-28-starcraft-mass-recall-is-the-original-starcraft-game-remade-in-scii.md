@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-672x372.jpg"
         width: 672
         height: 372
+        isCached: true
+  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
+    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its inception. This is technically the 8.0 version of the ..."
+    publishedDateTime: 2020-12-29T11:48:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 37
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
         isCached: true
 
 secured: "GTOP1TMA/O7+0biEwh7nrIcL/mZH3a22/jf00RzA7pi/Q8F5SbIrydLYibKPLDO4E/86CyDAkqysBghvVlUXg7YYME0/QPJs06YzvUkCsKeWAefP/p1jxu/6B/S2xTk7/y5xbMGsWU/QUq/NdH3DYCWHynNiH6vBt1HgptOcOHiJ76689w/GK4DynONES+Im1sRzYiR90wysOV7UOfuMqRRCDQVf6TOBbWmQFI2KAzyg2qJ2eeCnDzb7BID0HnF561uctEzUXLzqntg/NAvLHPSRHSCuPf37OOMpaXkg0lwqA2PfPp6mscr7/Q6J78zGYM7YlgWkCR0BYYTcoxMTg6CIDY77mcM6QcZ5My31DB53wp1fxiS2sr2m+ZYeDr5CjyjEDkWo4h9eMSw5xZ6ZHgy7hAizbyqHnSc3nyhNozM/Ghky8u08m7GRSgQCex+zmgqUggFlBYgbQswBpCUMKG82CzLlknXracF0Bhbux7j1/WfWcuocrHR1bCSnpPZxaPI0Bx0MCxEMgFxIZuq6KA==;r8jEMN+hAYlRYoBxn4f1Ww=="
