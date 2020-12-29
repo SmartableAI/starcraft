@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-i-ran-into-a-nasty
 type: video
 length: PT32M10S
 publishedDateTime: 2020-10-11T12:24:55Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNr4V_uyUUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ir4Sz/WgDtRs6imorr4zWUY6JCDt/fDWEcPUuI3bxtnSo3Cu1uxM/Ui8Ku9InbLw2zCy0+Hjqzj6iod1JYMpvSUU3DzgTbcVv+1xrKWqSf+pGGJ2YsgO3afa4Pm524eozmOKChkxkyeSheQGhSIedbSUhm8rsq7G11k+cUSvtkxKxc33JCsd45w5VQJMCkwQfzzGhU5YTtzIBmUwdnfA9yUXEa7QRKuq0QwGdgqUwBlHTPccuw18POpiqL9t3DmyapLyQgw/PdRcBgf29wGEUSc5nq0K4vwZT/tCqSYMSvrSk4lhh4BSs6PBkc9srI9t1H6VWt8jmnzcaZO/jszVysH1s5Lia+RIKgvR/p0oCs7n3swXrEpK8m8G3+h/duPm7RRvNQN/AA2Iy0m2KnTqeW41hHtioOggTvUblH8EjWI=;/ZXOBvHcVxzCr31LhEW4Pg=="
+secured: "B3ffm+8zJJpizgMm8/es9B2f9ypPATDRLOkCfYSsv48nT2QyYBxJrBUGufkykCZmURhqLtafvOokTyfGGJYLKfwhFWajYQ3VHeSMDcR3r0Vk11btVzTTUw0NGA6VnZXgMa0+TEOBIo78WczkTHsFA99VyRopOw2L19yU2Qkr3IqRjagJgin/mr+qnsZA/bzED5W3eXIDxkOgQVUtMJtFfKWhIFL3Xl6twDBxduancJfkGyGrf+XzucD+o7LblsamEaOx5qsF6id/u8RCFQFeKCX4iYcDmul7eHgqr8lXNJlJ2C+0TwWYHtJt6JP3vjIr1vDQ1PmQUHUTw0KJQWbZgVNPZsVjZUpW4Ps2k2HypOBIMEnaeQo+aGwVDOolEH60nTs8z7E7QcISFzvROkfqg1JVAG5G3prB/vg4vQy18yE=;yF2lyCPqvHegQ42EM32mwg=="
 ---
 
