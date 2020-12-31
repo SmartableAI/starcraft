@@ -166,7 +166,18 @@ related:
         width: 672
         height: 372
         isCached: true
+  - title: "2018 Starcraft Comet 16KS"
+    excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2020-12-31T07:06:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
-secured: "ui29B3UxJwwCP8+OwKUhTmacTBt32BSxUe5hwptVvo1cZLR4evaz3dNgj9cdZmR9qjsOLEOW5T+0/5bSt6Q+aMz5WBiSxT2XVCyocCX4a5FYWPqNTKFVgQqGjQ/S5vJ+rBV3j6c0+wn/qzi55Pohhy5gVZVxbwXDPN/HRnGeS2RfVUuu8OTg+kZzi2dAsOciNX7ADoECDAuxCWOXTzEN0AiW4PmfLQ3nA7cyQZ4rHUUxG6njcppNCbT8kpcAAnUE0d4n17hNpnRvUJZx4ZdKtzxC87P61ufYgGWDM5iwkc3HjI0S8Na/8/zol6qrmDyqoHVDTubOVhIWX/+6XfRiBN5p+Qr1WASJAOH9Nmm6dQ4=;LyIMjbk1YgWh2hox6uAmyQ=="
+secured: "7qLl/HETSPuxeGqZIuKyjjq6LAUKkb+Dat83ywbZZ+Lf/ill6lU0vhaMEvWzLSbDYlzcDoDmj9ieijfXtd5B08KDWP8L5YQFcyd12kwZUPy32Zdw6o+XrM0tC33DfEZakYkoUUQPRG5XlBEKYreb3jB1HB0RtDIBeZ5LO7QpXj0FkKfyR6INfCnpc7MLVVUkiXQ5Dx6cXUicHLdzg/VoFX/e3XBpFkMCTMDCHx0tgLI7msK+x2i42cOz/08F124Y9+VIjSzKFqoETEgmDvcw4NFb/2CoUYjdvyMSeN2fKVI5qFvh+JIDexoMw0NZwPmr4cMJR6nznxM5Jz3twyXX/MfI8nv11Ac2sqf5LxWm4d4=;6wFsLsqo1z3nOYCZkS1JJg=="
 ---
 

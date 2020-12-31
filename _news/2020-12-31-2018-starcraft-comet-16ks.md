@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
-excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
-publishedDateTime: 2020-12-27T07:32:00Z
-originalUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/"
-webUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/"
-ampWebUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
+title: "2018 Starcraft Comet 16KS"
+excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2020-12-31T07:06:00Z
+originalUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
+webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
+ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
 type: article
-quality: 45
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-scaled.jpg"
-    width: 2560
-    height: 1442
-    isCached: true
 
 related:
   - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
@@ -73,6 +67,22 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
+    excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
+    publishedDateTime: 2020-12-27T07:32:00Z
+    webUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/"
+    ampWebUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 45
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-scaled.jpg"
+        width: 2560
+        height: 1442
         isCached: true
   - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
     excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
@@ -166,18 +176,7 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "2018 Starcraft Comet 16KS"
-    excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-12-31T07:06:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
-secured: "iKFi3ISTab35smm3WYcnCpzBUlwl5uDoIfKX5AmZ32Ht0ti9/bhT3Pxrzk8VmrDH8QizIKZSejjgHG0yzCfsSsIdQkiDweoTd/e2CWLwlK69GGmpA0XNgnrGoF5Mve6H3o+pSV6MJTPp7dvmoKwfTRln1G86D2Bnebrx+fYW4JrI54PCimPLSH9UUXz43H3NSZQbePo3mOvLh3jp5VawjCAE2+dPLnmkckxQICTY4Z0CrrN5Ir+umUmJe6rJHgnYVW+8melHXgwC7g9gBdrr8OHpNoJZx0yJAuhHKve/c9xBVk5pkkf4gQOl7daOSu/xWHnmVHrISwx4F3C3cpSpPKsXLr4LramRi/pjNyxR3dqk94tnCYRbdDQRfbpgzaQtXVeAghyUh63Nn4O4Wg803xbb7XZ8nQlQNXZPSIpfVk6DapIHj3ZOVdf1arQeBAhdgR2IjFw9WeMs2ttP6x+IavH7WvmdHUDEFk5w1YaKBau3IecPxFVJonS0MH4KkS2qzdH4R/8+fjxWvcPCdxNS3g==;4Sh+z5FWRIYteLWwjI3q6g=="
+secured: "0nsaleJw8EkZeeRs+1gh6QgsjO55AkqmsEWDN77bbo5AhkCG4XDuJcS0vrXDhJRvvZwzCBGKlZ8PjfR7z4KctJxO1ucrzFpr3JAznErYhZrj7bhtSBxoXIL6b9lWFK64wBDVwUQbc7EjhJd/HzsUUQ9qjNEUCS21ed8tNldn19Blmeg41jCofFnC7yKuVSmJ2xQmWuDyZt+L0XK+dr/3ki71j37wl7RgSwBKGQz8jqfdPYG07Wk8XQgtSeZru496xEOmBrhSuaQtnBAHfY2BcpwMUWh0urlaTBpcq1hsf0GU6pPlsPeA6H5fVvW/vzgEB1S1oD2GLCKglJ6XMcIsxfzrKe9ytOOhTNyxZByRmgI=;Dd5mAVLefnoCxyBcubasZw=="
 ---
 
