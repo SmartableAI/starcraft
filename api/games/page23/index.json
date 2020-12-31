@@ -4,118 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-brood-lord-infestor-is-back.md",
-      "title": "StarCraft 2: BROOD LORD & INFESTOR IS BACK?!",
-      "excerpt": "It's almost like we are back in 2010... But at a much higher level. Subscribe for more videos: http://lowko.tv/youtube Zest vs Solar: https://www.youtube.com/watch?v=Bj6749fN7ag  In this match between Scarlett and Zest, Scarlett decides to focus on a very defensive style. She defends pushes with Hydra",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-brood-lord-infestor-is-back/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-brood-lord-infestor-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=Q6jDYnf7Dtk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6jDYnf7Dtk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q6jDYnf7Dtk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-20T08:07:06-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-butter-my-biscuit.md",
-      "title": "StarCraft 2: BUTTER MY BISCUIT!",
-      "excerpt": "An insane amount of worker harass in a very strategic TvT. Subscribe for more videos: http://lowko.tv/youtube Macro Wars: https://goo.gl/1c32tn  Terran versus Terran is becoming more complicated by the day. In this professional match of StarCraft 2 I cast an epic game between Bunny and SpeCia;.  Support",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-butter-my-biscuit/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-butter-my-biscuit/",
-      "originalUrl": "https://youtube.com/watch?v=llsq4bfZRAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/llsq4bfZRAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/llsq4bfZRAY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-06T23:33:31-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-archon-drops.md",
-      "title": "StarCraft 2 Cast: ARCHON Drops!",
-      "excerpt": "Professional best of three in StarCraft 2 between MaNa and Nerchio. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/S1lJbH  In this series of StarCraft 2 we see what is currently considered to be a very standard Zerg versus Protoss. MaNa decides to play the same",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-archon-drops/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-archon-drops/",
-      "originalUrl": "https://youtube.com/watch?v=PJflxfEnM-s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJflxfEnM-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJflxfEnM-s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-01-11T03:59:35-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-best-zerg-vs-zerg-dark-vs-solar.md",
       "title": "StarCraft 2 Cast: BEST Zerg vs Zerg - Dark vs Solar!",
       "excerpt": "The two best Zerg players in StarCraft 2, playing Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  Solar and Dark are widely regarded as the best Zerg players in StarCraft 2.While statistically Dark is slightly stronger, Solar's Zerg vs Zerg",
@@ -495,6 +383,43 @@
       "publishedDateTime": "2016-12-16T08:56:26-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-cast-insane-base-race.md",
+      "title": "StarCraft 2 Cast: INSANE Base Race!",
+      "excerpt": "An insane match of Protoss versus Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/wxjjLT  In this Protoss versus Terran the game leans heavily in favour of the Terran players for a long time. However, due to a serious of unfortunate events,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-insane-base-race/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-insane-base-race/",
+      "originalUrl": "https://youtube.com/watch?v=nc-92PmceM8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nc-92PmceM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nc-92PmceM8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-01-17T05:33:29-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg.md",
       "title": "StarCraft 2 Cast: My FAVOURITE Players! (Protoss & Zerg)",
       "excerpt": "A professional game of StarCraft 2 between my favourite players for their respective races. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  In this Zerg versus Protoss we have a match between Dark and Neeb. Dark is without a doubt the best Zerg in the",
@@ -685,6 +610,44 @@
       "publishedDateTime": "2017-01-07T04:45:35-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-cast-terran-drops-everywhere.md",
+      "title": "StarCraft 2 Cast: Terran Drops EVERYWHERE!",
+      "excerpt": "Terran versus Terran between aLive and INnoVation. Subscribe for more videos: http://lowko.tv/youtube Proxy Barracks vs Proxy Barracks: https://goo.gl/Xy5WW8  Terran versus Terran is a very difficult match-up. Being able to harass at several locations at once is incredibly difficult. In this match, aLive's",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-terran-drops-everywhere/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-terran-drops-everywhere/",
+      "originalUrl": "https://youtube.com/watch?v=sE9RZTHZNN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sE9RZTHZNN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M10S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sE9RZTHZNN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-03-10T00:12:59-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-terran-mech-versus-zerg.md",
       "title": "StarCraft 2 Cast: TERRAN MECH versus Zerg!",
       "excerpt": "INnoVation versus Dark in an epic Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/RZRyOs  In this match INnoVation decides to play Mech. This means that he bases his army around Factory units such as early game Hellions, Hellbats and Cyclones",
@@ -798,14 +761,14 @@
       "publishedDateTime": "2017-02-14T02:06:40-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cast-ultralisks-vs-infestors.md",
-      "title": "StarCraft 2 Cast: ULTRALISKS vs INFESTORS!",
-      "excerpt": "Professional match of StarCraft 2 between Scarlett and Nerchio. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  Both players in this match are Zerg, but both play different playstyles. Nerchio is generally speaking playing a macro focused style, where",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-ultralisks-vs-infestors/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-ultralisks-vs-infestors/",
-      "originalUrl": "https://youtube.com/watch?v=GEFkQRiVLKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GEFkQRiVLKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M36S",
+      "path": "_games/lowkotv-starcraft-2-cast-under-water-zerg-vs-terran.md",
+      "title": "StarCraft 2 Cast: UNDER WATER Zerg vs Terran!",
+      "excerpt": "A professional match of Zerg vs Terran between ByuN and Solar. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  One of the new maps in the new map pool is Abyssal Reef LE. It's a map that plays out fully under water and the physics of dying units is changed",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-under-water-zerg-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-under-water-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=7KGdWw-EPYo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7KGdWw-EPYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M12S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -820,12 +783,13 @@
       },
       "topics": [
         "StarCraft 2",
+        "Terran",
         "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GEFkQRiVLKc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7KGdWw-EPYo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -833,7 +797,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-01-31T05:59:40-08:00"
+      "publishedDateTime": "2017-01-28T13:36:38-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-warp-prism-harass.md",
@@ -1135,6 +1099,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-25T04:59:18-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-comeback-mechanics.md",
+      "title": "StarCraft 2: COMEBACK MECHANICS!",
+      "excerpt": "I guess there are a few other ways to come back.... Subscribe for more videos: http://lowko.tv/youtube More viewer games: https://goo.gl/TSZ62L  In this Platinum League match it starts off as a very one-sided match. However, while I'm discussing ways for our Protoss player to get back into the match,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-comeback-mechanics/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-comeback-mechanics/",
+      "originalUrl": "https://youtube.com/watch?v=wWIQrBbaNwY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wWIQrBbaNwY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M49S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wWIQrBbaNwY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-04-16T01:33:33-07:00"
     }
   ],
   "nextPage": 24
