@@ -1,10 +1,10 @@
 ---
 category: news
 title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
-publishedDateTime: 2020-12-29T12:00:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
+excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
+publishedDateTime: 2020-12-29T11:48:00Z
+originalUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
 type: article
 quality: 37
 heat: -1
@@ -167,6 +167,6 @@ related:
         height: 372
         isCached: true
 
-secured: "eflMd1kOUhXn+8RQhAXmaOuBsfo1zLG4SEe/tAKfM0DHNzFO1TquCcMMVfU/RAYhniH/9u6CFTrHulKZRETB3OZaahEuVSElrU0DcSNEYyYp5tzeflzNM3eGagPBrGZDISQuEDsyC7M5MFwbziNqnS9EGGAmeHCBSrRtFHkn8SDycTFNGj5/O4e+bKlYdzP6otBO4ARUi22RkN1E/6GcJ7eJJxhPvTKrECgNzSyI8Aob48S8aGwW0Zmovcis7Fm0LjXb3SqJs4pmTrKJ21zn0Cd4VIWtRUzbTZ0g+pot3ORnUcfJV22ekeeWeovt8eaTwxw2oCQY7Vq4tIAD9zMWOuF16PLwjZ6Y4SnX4PJ7hw2fhXbili4uzf8yh2VPz4dwoObH5Z3LngQ82V0kyrczIY/SMY6q064mfJG4kE8lZqlP4l4qrVLopwPjmiFbUiO3ubzFIjo8Wpoy60H9uqa+RFBy2n2G1r21KWwW/Su/5t/wsDrzYkuSuW3xTUV3lZNhXgkBG+FqPtbEI/F3Xqp9pw==;8PO33Uk36n8jPjy8pmRzHQ=="
+secured: "ylxwZG0VWxQzDPkjGdxBDS6wGsgh+g0TvELlCfyhZfskBZn76M53YuxBU2sIpCtrc1a+apf6H4XC7wjSHOUhU4UQ+tpehchbBNpBjHQDoHV/hAMUt7QU5IN3EjZ6mdq2s9uIO8SXwkAuZhwQaX87F5KHc5kKr46IMp4cctXLE5Fi3TYnvuNh7QrPOm2ZRI/FH28v7qemKOabMqTw8741K3a5oZ4s4U2NCjiGquXj6nrgWb5hI1uvq/6yJzoS09D3u/bwbJiNipxyjGt7cMUDDTCeXro4hig0ssDXPRqGrWytxr01+9a5ls5ezHCfXF/GJa3HDYjf4LZLDKgK/kCAjpLhw948ZTzKXWrWoZwK6ms=;64EQQvXKv7pxWpESBTLgFQ=="
 ---
 
