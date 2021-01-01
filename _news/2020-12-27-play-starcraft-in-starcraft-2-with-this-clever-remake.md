@@ -195,6 +195,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2018 Jayco Starcraft 26BH"
+    excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-01T07:06:00Z
+    webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "N3YQUx7wR48gqnH36Sj1Vin+zz+CftYb1Q6hk5OH/E3rnIuFtrr1jiM0lySZwHCMfKa+iPPqYOsbXZAVacBEojgdAzeeWDHY8are6ugSvN+QpTQYSsVSayghWRuBFjWoAwQPkrYDMaesIt91kTua9Hd59KNoS1tLy17yUE8AUGXV+VCKiTZkmhm6p+mBahY3pc5NXft34NIl/e5c0G2MRvZXSXt/K2r5lgnhGpODVzuoFNLkOEkvCMSH422DBsKivgJ7fZN74PHRxcAakQBEq0qReo4fS495F2ldB98IYMcLX9YT/RzYq67DIwkNLiZk+qEAx6yONaM3YXi3aobR9QnjsQMtmMdZVZ7pILx8IaypIe0MITEYbnLmxQ50LynlozMA9Ty2Mq1+aUQO7HsV0zXTtwPOzvqnB2E5coKQTg1lIlGnVXNg8CywG1QIV7hLmXNDqXnMyontmmXDWHzwRl6CgGNamfgTvuA4YWdTZikwzAV/4vNNeauXUhinNN77YSO4Ff0uLhCa1+3RwNB8eA==;l2CDJJgAjT0G2I1NYeEMWg=="
 ---

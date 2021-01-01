@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -191,6 +191,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2018 Jayco Starcraft 26BH"
+    excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-01T07:06:00Z
+    webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "GTOP1TMA/O7+0biEwh7nrIcL/mZH3a22/jf00RzA7pi/Q8F5SbIrydLYibKPLDO4E/86CyDAkqysBghvVlUXg7YYME0/QPJs06YzvUkCsKeWAefP/p1jxu/6B/S2xTk7/y5xbMGsWU/QUq/NdH3DYCWHynNiH6vBt1HgptOcOHiJ76689w/GK4DynONES+Im1sRzYiR90wysOV7UOfuMqRRCDQVf6TOBbWmQFI2KAzyg2qJ2eeCnDzb7BID0HnF561uctEzUXLzqntg/NAvLHPSRHSCuPf37OOMpaXkg0lwqA2PfPp6mscr7/Q6J78zGYM7YlgWkCR0BYYTcoxMTg6CIDY77mcM6QcZ5My31DB53wp1fxiS2sr2m+ZYeDr5CjyjEDkWo4h9eMSw5xZ6ZHgy7hAizbyqHnSc3nyhNozM/Ghky8u08m7GRSgQCex+zmgqUggFlBYgbQswBpCUMKG82CzLlknXracF0Bhbux7j1/WfWcuocrHR1bCSnpPZxaPI0Bx0MCxEMgFxIZuq6KA==;r8jEMN+hAYlRYoBxn4f1Ww=="
 ---

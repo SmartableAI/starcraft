@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
-excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
-publishedDateTime: 2020-12-26T17:35:00Z
-originalUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
-cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
+title: "2018 Jayco Starcraft 26BH"
+excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-01-01T07:06:00Z
+originalUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
 type: article
-quality: 53
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
@@ -57,6 +51,22 @@ related:
       - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
+    excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
+    publishedDateTime: 2020-12-26T17:35:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 53
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
     excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
@@ -191,18 +201,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2018 Jayco Starcraft 26BH"
-    excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-01-01T07:06:00Z
-    webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
-secured: "PC1HT3NfKhU5+B2vTGG4dzB2QJq5Z8KiDVHiFw9tKalw41VhmNarPlsIdfrcdHZr1RAOlCTnM2ITx4PIWq8IAnUoTGspXYv7SHVpavkeJeS1SLvVx/ItVVAoKd30sKyLdV5S/t/bMqNArQ10yua5df0Alu1t3FlMbOH69WOpmXOsb3pZx27c5q/Zw2ogrE7HUX5Pbvyp5RmMlQk2nNHxSQKQspbO+xm3501HPSLVAkeZNGuYGUA8qGYOQuzbwOMp4Z2yDTq5C4GG3RQWgny7mBrn4o6jHNtIZtoxXBFxai1o2QuBz1dG/rEXDvPzdLcDj90IbyJf0ukPZpewPHedmfp1uFT6PyZia1BMyquGkILvxp6tksqkP/z+xB+E3aQwtJKkc2nn2L7ugzZ7kTRfNxvhjS2qPxXdVZdtt8m9T4E1QnA/03dcBJOFSz4Sjball4//U1DfcND1ZO0Q2FlH+ljXrGzVEW/vx3PRkjPpdHDSftG63pC82SE9e5lytlQ5sdkiCeQ8Vl2aj+DKuw6XeA==;HvKS/k1vyw2c/CJx2QdhEg=="
+secured: "53J4EJGJ5V6Y1DcXJAQl9FAMhzbZ2+XzTGZrAPtKfwIjOFgtYDlWmpFbE0TY4hAEJ0phHjWHY7aJChqIf80r5p/Wal9aTv1VNCaZNQMODazM1lGEhdEFSt5paZC+UgrVHpwNspoJCAeOITKDrtWpq4YO94Ag//NZuUimmtZp1stonsGZC8S559JZ11XZf8fl76d5a/IBzNyvf3j2bwoHYipmGryzZ6gOjx9sfeJGqwsx4AtnYOBwe6Px8R7/hPOoOFuM383hGylFMzwxxrCIr/f7M8F5xrsUfrj7JrBf2kJv7idsdN5Rk+9ijBeB9T2IRzYAtnNItmNRJYQ/l7XLUPFmYGfc+HgOrMSE643oeiE=;aPcjG11BPrIm4ekLM8qTiA=="
 ---
 
