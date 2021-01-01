@@ -153,9 +153,9 @@ related:
         height: 372
         isCached: true
   - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-29T11:48:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+    excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
+    publishedDateTime: 2020-12-29T12:00:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
     type: article
     provider:
       name: NME
@@ -177,6 +177,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
+    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
+    publishedDateTime: 2020-12-30T16:06:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "PC1HT3NfKhU5+B2vTGG4dzB2QJq5Z8KiDVHiFw9tKalw41VhmNarPlsIdfrcdHZr1RAOlCTnM2ITx4PIWq8IAnUoTGspXYv7SHVpavkeJeS1SLvVx/ItVVAoKd30sKyLdV5S/t/bMqNArQ10yua5df0Alu1t3FlMbOH69WOpmXOsb3pZx27c5q/Zw2ogrE7HUX5Pbvyp5RmMlQk2nNHxSQKQspbO+xm3501HPSLVAkeZNGuYGUA8qGYOQuzbwOMp4Z2yDTq5C4GG3RQWgny7mBrn4o6jHNtIZtoxXBFxai1o2QuBz1dG/rEXDvPzdLcDj90IbyJf0ukPZpewPHedmfp1uFT6PyZia1BMyquGkILvxp6tksqkP/z+xB+E3aQwtJKkc2nn2L7ugzZ7kTRfNxvhjS2qPxXdVZdtt8m9T4E1QnA/03dcBJOFSz4Sjball4//U1DfcND1ZO0Q2FlH+ljXrGzVEW/vx3PRkjPpdHDSftG63pC82SE9e5lytlQ5sdkiCeQ8Vl2aj+DKuw6XeA==;HvKS/k1vyw2c/CJx2QdhEg=="
 ---

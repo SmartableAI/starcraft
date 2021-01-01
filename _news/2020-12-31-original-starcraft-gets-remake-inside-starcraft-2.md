@@ -1,10 +1,10 @@
 ---
 category: news
-title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
-excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
-publishedDateTime: 2020-12-24T17:37:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
-webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
+title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
+excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
+publishedDateTime: 2020-12-30T16:06:00Z
+originalUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
 type: article
 quality: 37
 heat: -1
@@ -113,6 +113,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
+    excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
+    publishedDateTime: 2020-12-24T17:37:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2018 Starcraft Autumn Ridge 265BHS"
     excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-27T07:05:00Z
@@ -177,21 +191,7 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
-    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
-    publishedDateTime: 2020-12-30T16:06:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "30A97l+EtYhie7HG3e9fzWlloLa6vYBoxcULJgpcNYj4KfOgDyjnfnOllVzlk7zTzPVuvkafJDdhVrT0ndMcTAPIiJgCs6TEHsv2YmSLj9+NZSZXmziG20RMH3sUg0QZ5xZoa/eMolGuELtJ01PuSt1IA5hswkmcWuWMYjQTM1Nr5alOfmwgLqp6ZBXK+MLO5tV9mlUWaYFZ8dfBnFDicPYV2BpXGG2+XZVboX0PGSaU4MBgm/5NHZthTPNnPorOuV8CvrFrQ6Ul1g5enWp3HMfrMExmZgAIfIEa/PMDEcIG8OGHLoRLMMpcxQu+tdeSwkEjUPj6RJqb66Pg0KeWzO4fN4dErXtuH+vlpCgfFfA=;j3mOcX90QFh7XeN3wlnYuw=="
+secured: "GdjmncTPhY0TWB2ngmm7gzgzdGdWDEfTSFTSWyLOWEcL1JAJsXUyhSq228CusED0XVxJPjtlRcSxwE+TzYG6vztMu1mxfZmUXFgAf4TbMQo4TMOIsq7gM8ooDdHoes4hbL28GCgX9jF2w+/HTfkNrmNzSinvoRZI4oVK515NI/CU1Sm19QzEL4az3LYkc+EDV98ungOTcX1TrWEn35ub1HS2gQwKwgZsTx6ZrZdfeZUTU4/dU9dg+6Ec1rqYJMdEdt5IXml5/o04AGZ/u5EXTTWBbeui5MnrEIya7UH2reM3FDspHjuylgXzDr73ODs1Jq7qIGLBbJQtQJ+03KqwdUL+uZr1pSJpG4BWR+ZwO3A=;k8cjQZrNlJOjrxoGNtvYGQ=="
 ---
 

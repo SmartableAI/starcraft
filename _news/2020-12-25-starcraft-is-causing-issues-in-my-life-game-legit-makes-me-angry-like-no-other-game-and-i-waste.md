@@ -154,9 +154,9 @@ related:
         height: 372
         isCached: true
   - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-29T11:48:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+    excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
+    publishedDateTime: 2020-12-29T12:00:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
     type: article
     provider:
       name: NME
@@ -178,6 +178,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
+    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
+    publishedDateTime: 2020-12-30T16:06:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oDok8hWsTODADv5HPf/eRAaAhFNBv2CHtya8bS0FTnsL2hiHdrQFF3kls17KvUj2fvdX2ZUbDAcaTXiLhhXS7E0Eo/iypi+cvg5V7V1P2KKRbJ8eBb2SBclB4YvKhwxO6KJe2rMraOfOTDwL6+wWe4ZcAK2UG0xZ995+QKtzS1EGdcyI/e9/cHfltbb8vMg8avng/ApBQAuSIe/iibcByQwxDWT7rtZPADHw7dYPiXPfnNtJ7mzI90Bc+bqrQ4LfmnAEnnrkyEE0elTF8LKbWC9ghJV0qYHGPtBnkpDkZSS28sylD+9CPss5B4p5GwldFO0uIBB1hpTESuoAQKUUBiLhZLehD7Xz2Ua1uQM2n+o=;h2vnQaqXNwPATBr0PoMKJw=="
 ---

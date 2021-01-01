@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -153,9 +153,9 @@ related:
         height: 372
         isCached: true
   - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-29T11:48:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
+    excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
+    publishedDateTime: 2020-12-29T12:00:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
     type: article
     provider:
       name: NME
@@ -177,6 +177,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
+    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
+    publishedDateTime: 2020-12-30T16:06:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GTOP1TMA/O7+0biEwh7nrIcL/mZH3a22/jf00RzA7pi/Q8F5SbIrydLYibKPLDO4E/86CyDAkqysBghvVlUXg7YYME0/QPJs06YzvUkCsKeWAefP/p1jxu/6B/S2xTk7/y5xbMGsWU/QUq/NdH3DYCWHynNiH6vBt1HgptOcOHiJ76689w/GK4DynONES+Im1sRzYiR90wysOV7UOfuMqRRCDQVf6TOBbWmQFI2KAzyg2qJ2eeCnDzb7BID0HnF561uctEzUXLzqntg/NAvLHPSRHSCuPf37OOMpaXkg0lwqA2PfPp6mscr7/Q6J78zGYM7YlgWkCR0BYYTcoxMTg6CIDY77mcM6QcZ5My31DB53wp1fxiS2sr2m+ZYeDr5CjyjEDkWo4h9eMSw5xZ6ZHgy7hAizbyqHnSc3nyhNozM/Ghky8u08m7GRSgQCex+zmgqUggFlBYgbQswBpCUMKG82CzLlknXracF0Bhbux7j1/WfWcuocrHR1bCSnpPZxaPI0Bx0MCxEMgFxIZuq6KA==;r8jEMN+hAYlRYoBxn4f1Ww=="
 ---
