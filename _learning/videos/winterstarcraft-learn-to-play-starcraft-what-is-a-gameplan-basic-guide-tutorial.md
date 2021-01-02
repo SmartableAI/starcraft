@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M53S
 publishedDateTime: 2017-11-19T17:10:18Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RkwtFcw8ztw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "faRz+zNwKaedrbxiPJ1sucbNRy2IThAkTTTGVM158jtw1B563gInFdnCpuBSaAsQxtH6m5cMJJtOLGKSL98bpr+nTVSru1GBxAV4uIo5ZLA2Y1y5QdzdWnH9NChH8nhGXGmAM1qMg12raLzEdOqPYUNTOLqZ0InZFb+E6xvuoAXNfzTNb71/emZ23lZ4cIyDR+pGtiYErfPzxcra7/FK1JiOWjHlN690wsljwDpWVS+iI//Yf44Y7ruHjAYh6ShhB4XVrGTapp2X86KcAY5fHySo4d8/Vl2k3WSJITqypg4hRoX9DULNzn84t4tqnkMRvf0lwNwjHkUhBV5RyI6KsRLbCJlWNtHg6ZBWWxvzsxsySSuMJdBR5EISdx73EYJgRwNL+tpqCIf/+JIWIu9/aIA9vErUMJgOb7ve8b582mc=;2vX0ACAVRhtyWZaiLsOA4g=="
+secured: "R7XdR+jqOOviLt/jorak+bR5/v9rz2VhhAQn9+jzW3ymtfk8HJ/k0TLNlvgFpFcfzRajItb3CEwlbs9rPAa6kfD47bW2AIj0w5zjMk3JjVGP0NhIhQAGAEngbUzEt/wsyhEaHkMD7alp+EIWKPIKW+isrYpMk5LevFTkUPQTr+StaNf2v5C14Qm/P8Hkkh85WeiSB3edNfOZQhoDhw7Va5Uy5aSv+dZWt5uPaceTYEbqAOSnZdrg5O/BWLq6RgwCZcc+9SE8FSQXlVBHZkvVmZSkmcac4tZz6mDHVN0aRQu/DGyx5x55aXa72ZIb6JoaNvHA7O/I6LOj+MHtHPw+iWEb5w9GoAcJ4AnH3+W2Rehh6LmgFm4VnFZ3Y8Eo+aVLaiPd96uWFY6HLQGEeIsrk2wsmyXRezEEWfBJ/wdZK/Q=;YYqsNCo1OU3z5XpI5HNbFA=="
 ---
 
