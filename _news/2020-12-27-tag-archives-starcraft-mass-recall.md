@@ -139,16 +139,16 @@ related:
       domain: rvusa.com
     quality: 37
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
-    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story. Oh, and as it turns out,"
-    publishedDateTime: 2020-12-26T22:40:00Z
-    webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
+    publishedDateTime: 2020-12-26T22:51:00Z
+    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 37
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
         width: 1200
         height: 675
         isCached: true
