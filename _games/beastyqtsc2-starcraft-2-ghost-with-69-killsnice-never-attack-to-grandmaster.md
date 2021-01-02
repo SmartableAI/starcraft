@@ -3,9 +3,9 @@ title: "StarCraft 2: Ghost With 69 Kills....nice - Never Attack to Grandmaster"
 excerpt: "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack"
 originalUrl: https://youtube.com/watch?v=Syh0gb5tdxA
 type: video
-length: PT42M39S
+length: PT42M38S
 publishedDateTime: 2020-05-16T11:52:53Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Syh0gb5tdxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Oceg99L4ZwUKKd9BOsUep8vo0p0r2HYFmvmm6JGqtWSjCPVY6wNnGqnLuHwR0KUcuNhvpHdnzJ700wZUbxhudyPOPcYeOaODKPQdCUxnPfUKW368yBb4WBYFMZnOqELFLUtOH8KQu5+YBFigYroiQukpsl/g+9tPKxbrf9SCCflTpKvmfqoOznYop3qm8GVzJlVUO3Gskdr/NI3LCijFGfYJgBoRzkv/Wa0Hp6MAbhhf8KqS0zg2qxRN11F408ExAk9jan90hf0XPgpv1f5n+Zjq2w63P2T4rY3CvF8ZUULVVxuQFhS5aViXyK4y2/0xjX9mnY6LQ1pXNxKZ5AZEInJoiLxMmNPl2xwmTMPGiVn+cc/8KynkAxOVdGO0ltN3539lX39QMQOTggYlwdMahgytmECyE0HCvJS9UtnsZYY=;jNmIQOKBwYEzUvuTy+Wthw=="
+secured: "n++yruOq4bnK0XRMn/QfSAN84gTP9BfQO+ouFx/gFlV4LbST5UZj6BrXfQEXlRSL5/K69PkZKUvQxyEgB8inRgzX6WUwq2qCn4oPwh3wxrPYB3uLcOYvWcfR12QbYgLQLZ7s9gi4jCihE5c2MYaNPtTqPrEcABOuDtQ4YY3R5qjwmve3iV8lcfAnrhQkAa6XR+h8633g3kit8xX4ZjbnjwUq2Q4w1PjYrnf37c6UPWzg4u9lWRXMB8nRVaEymRb9LH4+h6+MgqwRqDZVkDBS3O+A71uvDTzj7xhffAtcI8u/6IQjcSagcDujuyFrkmGiUD+CPnE8YtFrtAT+rAwlZFcqCJcQnyknDM5/t4HPAjBuqDjMLWxKfzYRDF7c5NPQAFiOsWhS8/aaY7nLH0GP/9H0zUx0wzrnOztdOVayJnU=;3UiyZe9A1zuOEKtQVG2axg=="
 ---
 

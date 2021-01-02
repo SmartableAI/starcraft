@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheesiest-
 type: video
 length: PT11M51S
 publishedDateTime: 2020-12-12T10:43:08Z
-heat: 71
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sMto+5qUMRXQxU4X0zPFKKJ+EqfT11HqAXTupCi6riZdMqgxExTXMWvJ8DtwxyPxJCB1ABXNZ+G+31yKLzpj/vBRU4e2ZP0wSJjpYYcZp+RiORttliT7xahs8eShS5au8c5dfZxm7ID3w4O1b58Rh1z5fXKudyzjVu8aBoZaxXwCuxwx5hgPzNHfRuXvP+5JLwHC0f+Y+kIZMjRUgT1F3vgLhBYxt5BKR1lpoaLubzbCL9nXQeA2NQMrwaIZ7v72YO+0MsE4JA1MYrv904crw9KTCoEh+cldN5FDK2sbmgpqE9gV1A4EKWnv60RE1B1GY4pzMiRhnLhgdGv6UzuEavdgMBRYApW8oBZm04Tjq4EPfKQPfp/qyFa5I1PKiaG4iw/QmKRuNLH9ddxWpYKZzGOAL+tZVNbnaD1zcZaneg0=;2Z6fs+I3uUcNf8Vt6woR8Q=="
+secured: "aHb3M/Q2JZ55kp18hHMBSmGwy8nslEi82cqBRbIZgeRzP6orMqIJVAJm7+6zuY02bghe50qCxAOxO6G6nUFoeLiEiJWGgiw3PVsCpZkCRiod/xWfM0cCcY722s3xRESevZer6u/2yRy9hOwZpjclwda5EiOmewe9m1OKv57S424IdMWVdsid66Hri1KbPoFGoupxeHHQfXxSC4Nd4Q77RaPQIl3Ym84kH2vHQzXl9j8MibmIAsM8JrK8PBKhZwxMUSXvyoL+MBNOef2sM83btUyVs19tdNlQyBxfY4H1yNR4QkuZ5UVp6JZvcF9nzAXcheYyzyDM3IGp16CpPhXVIaeel6R5X0NeGmXx6RqWifTYRt/a/BdZivnVgZ17WA7ZHh8KHFLuA/m27kjhyKAnq/O3uyJZXzIHLKKfSFXnA04=;pb2WTGZ9BMnrgBWFkra1sA=="
 ---
 
