@@ -4,6 +4,39 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-phoenix.md",
+      "title": "StarCraft 2: MASS Void Rays vs MASS Phoenix!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-phoenix/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-void-rays-vs-mass-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=GzAv8m0TggY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GzAv8m0TggY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M6S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GzAv8m0TggY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-06T15:34:15-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix.md",
       "title": "StarCraft 2: *NEW* Series! MASS Zealots & Phoenix!",
       "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
@@ -400,6 +433,44 @@
       "publishedDateTime": "2019-08-02T02:56:50-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-fighting-the-protoss-deathball.md",
+      "title": "StarCraft 2: Fighting The Protoss DEATHBALL!",
+      "excerpt": "ByuL versus Stats in an insane Protoss versus Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/RZRyOs  This is a cast of a professional match of StarCraft 2. In this match the Protoss player decides to sit back and try his hardest and creating the Protoss",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-fighting-the-protoss-deathball/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-fighting-the-protoss-deathball/",
+      "originalUrl": "https://youtube.com/watch?v=d9krkcF9Qw0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9krkcF9Qw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d9krkcF9Qw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-12-30T05:17:09-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-huge-protoss-sandwich-sos-vs-cure.md",
       "title": "StarCraft 2: HUGE PROTOSS SANDWICH! (sOs vs Cure)",
       "excerpt": "sOs versus Cure in a professional game of StarCraft 2. In this Protoss versus Terran we have both players deciding to rush the opponent's main base after the early game. A wild base race ensues.  Support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch:",
@@ -475,45 +546,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-18T04:48:16-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3.md",
-      "title": "StarCraft 2: INCREDIBLE Protoss vs Terran! (Bo3)",
-      "excerpt": "ByuN vs herO in an incredible series of Protoss vs Terran. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this video I cast a best of three series between two of the world's very best for their respective races. Both players play their standard style.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-incredible-protoss-vs-terran-bo3/",
-      "originalUrl": "https://youtube.com/watch?v=fzBv-rqYZxg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzBv-rqYZxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fzBv-rqYZxg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-06-06T04:52:03-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-insane-protoss-micro.md",
@@ -746,6 +778,44 @@
       "publishedDateTime": "2020-10-07T01:58:37-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-probe-rush.md",
+      "title": "StarCraft 2: PROBE RUSH!",
+      "excerpt": "After the Drone rush video... It turns out Protoss can do it too! Subscribe for more videos: http://lowko.tv/youtube Drone Rush: https://goo.gl/8EyX2C  Easily one of the craziest matches of StarCraft 2 I have ever casted. In this match, the Protoss decides to go for a Probe rush. However, it doesn't",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-probe-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-probe-rush/",
+      "originalUrl": "https://youtube.com/watch?v=eM3kT7ScShI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eM3kT7ScShI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eM3kT7ScShI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-17T03:59:58-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-protoss-cringe.md",
       "title": "StarCraft 2: PROTOSS CRINGE!",
       "excerpt": "Cheddar, Gouda, Protoss, and Brie. My favourite types of cheese! Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  Easily one of the most cringy games of Protoss vs Protoss games I've ever uploaded... And it's awesome! Probe rushes, Cannon rushes, Dark",
@@ -782,6 +852,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-28T03:35:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-proxy-hatch-vs-cannon-rush.md",
+      "title": "StarCraft 2: PROXY HATCH vs CANNON RUSH!",
+      "excerpt": "Diamond League Protoss versus Zerg match commentary in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  A very close match of Zerg versus Protoss where the Zerg decides to counter his opponents cheese with cheese of his own.  If you have an",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-hatch-vs-cannon-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-hatch-vs-cannon-rush/",
+      "originalUrl": "https://youtube.com/watch?v=eYeM9VJhJiw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYeM9VJhJiw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eYeM9VJhJiw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-18T04:34:51-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-neeb.md",
@@ -1014,121 +1122,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-28T01:58:23-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-hero-banshee.md",
-      "title": "StarCraft 2: THE HERO BANSHEE!",
-      "excerpt": "The story of the hero Banshee. Subscribe for more videos: http://lowko.tv/youtube The Zerg... Mothership?! https://goo.gl/bZtVFG  A really fun match of Gold League Terran versus Terran. In this game, both players open up with odd strategies, allowing us to arrive at a very strange mid-game that is determined",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-hero-banshee/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-hero-banshee/",
-      "originalUrl": "https://youtube.com/watch?v=ubfhupz_9s0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ubfhupz_9s0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M9S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ubfhupz_9s0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-10T02:53:37-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-nexus-all-in.md",
-      "title": "StarCraft 2: THE NEXUS ALL-IN?!",
-      "excerpt": "Taking Protoss cheese to a whole new level. Subscribe for more videos: http://lowko.tv/youtube Comeback Mechanics: https://goo.gl/qqP9rB  Why play macro when you can build a Nexus inside of your opponents main base and win the game super early on anyway? Mistakes were made...  If you have an awesome",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-nexus-all-in/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-nexus-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Fs3Z2tzWgCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fs3Z2tzWgCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M39S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fs3Z2tzWgCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-04-28T03:04:08-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-protoss-hit-squad-bo5.md",
-      "title": "StarCraft 2: THE PROTOSS HIT SQUAD! (Bo5)",
-      "excerpt": "An awesome best-of-5 between Elazer and Neeb. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/vx3A7i  A variety of playstyles in all of the games. However, it is noticable that Neeb is incredibly good at taking out his opponents workers. Even though he makes",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-protoss-hit-squad-bo5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-protoss-hit-squad-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=QYSV69RsMEg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QYSV69RsMEg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QYSV69RsMEg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-02-07T04:23:51-08:00"
     }
   ],
   "nextPage": 6

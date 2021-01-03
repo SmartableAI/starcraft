@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
-      "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
-      "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=okcJxrHF3Cs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/okcJxrHF3Cs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-15T04:14:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-tlos-queen-drops-versus-neeb.md",
       "title": "StarCraft 2: TLO's QUEEN DROPS versus Neeb!",
       "excerpt": "Best-of-3 series of StarCraft 2 between TLO and Neeb. TLO has always played his own brand of Zerg, and he once again goes for some cool attacks versus Neeb.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
@@ -782,6 +744,45 @@
       "type": "collection"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5.md",
+      "title": "StarCraft 2: HYPER AGGRESSIVE Zerg vs Terran! (Bo5)",
+      "excerpt": "Bly vs Gumiho in a best of 5 series in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this series of Zerg vs Terran the Zerg player decides to play quite unorthodox. Instead of focusing on the more standard macro focused strategys, Bly",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=VnfFmXp7wK8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VnfFmXp7wK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VnfFmXp7wK8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-05-23T14:19:06-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-non-stop-zerg-cheese-serral-vs-elazer.md",
       "title": "StarCraft 2: NON-STOP ZERG CHEESE! (Serral vs Elazer)",
       "excerpt": "Very cheesy series of StarCraft 2 between Serral and Elazer. Zerg rushes, Drone pulls, Zergling cheese, early Spawning Pools and perfect micro in this best-of-5 series.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -1132,6 +1133,45 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byun-vs-solar-best-of-3.md",
+      "title": "StarCraft 2: BYUN vs SOLAR! (Best-of-3)",
+      "excerpt": "ByuN has been steadily climbing through the ranks again in StarCraft 2. In this today's video he's facing off against Solar in a best-of-3 series.  Clem's 9 Barracks Reaper: https://youtu.be/bbJWnH_ooAI  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-solar-best-of-3/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-solar-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=eLWJxqsr7gs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLWJxqsr7gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eLWJxqsr7gs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-07T03:35:45-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats.md",
       "title": "StarCraft 2: CRAZY NEW MAP - Purity and Industry! (Dark vs Stats)",
       "excerpt": "Amazing game of Zerg versus Protoss at the highest level of StarCraft 2. Stats is also known as the Shield of Aiur and is one of the most succesful Protoss players of all time. Dark is the current World Champion of StarCraft 2 and as such is obviously amazing at playing Zerg. In this game they face off",
@@ -1207,45 +1247,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-27T03:56:05-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5.md",
-      "title": "StarCraft 2: HYPER AGGRESSIVE Zerg vs Terran! (Bo5)",
-      "excerpt": "Bly vs Gumiho in a best of 5 series in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More Starcraft 2 casts: https://goo.gl/NG8qAV  In this series of Zerg vs Terran the Zerg player decides to play quite unorthodox. Instead of focusing on the more standard macro focused strategys, Bly",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-hyper-aggressive-zerg-vs-terran-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=VnfFmXp7wK8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VnfFmXp7wK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VnfFmXp7wK8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-23T14:19:06-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-heromarine.md",
