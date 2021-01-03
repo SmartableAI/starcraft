@@ -4,23 +4,85 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
-      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
-      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
-      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2.md",
+      "title": "Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2",
+      "excerpt": "In part 2 of my mini series on hyper aggressive TvZ we take a look at some example replays to help you guys out with various scenarios. Hopefully you learn a lot and enjoy the daily!  Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2 #StarCraft2 #Terran #SC2 #guide #starcraft #tvz  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=4Z2G5h0vUrM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z2G5h0vUrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-30T19:03:30-07:00",
+      "publishedDateTime": "2020-07-18T21:09:10-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran.md",
+      "title": "Mastering Starcraft 2: Take control of the Mid-Game TvZ [3 Rax Transition Guide] [Terran]",
+      "excerpt": "In this Terran guide, I'm going to show you an incredibly powerful timing attack to show Zergs who's the real nerd in town. Let's get to it!   #terran #Starcraft #Guide #sc2 #starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/",
+      "originalUrl": "https://youtube.com/watch?v=QkyNGd-2E0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkyNGd-2E0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-12T19:38:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QkyNGd-2E0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-tricking-your-opponent-tvt.md",
+      "title": "Mastering Starcraft 2: Tricking your opponent TvT",
+      "excerpt": "In this video I show you a very tricky opening that looks EXACTLY like a standard build, but is a DIRTY CHEESE instead. I swear I only do this on Monday's & Tuesday's ... I mean Friday's... Today is Friday, I only do this on Friday's.  Master Starcraft 2: Tricking your opponent TvT #StarCraft2 #SC2 #RTS",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-tricking-your-opponent-tvt/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-tricking-your-opponent-tvt/",
+      "originalUrl": "https://youtube.com/watch?v=SaSKMpxam2A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SaSKMpxam2A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-10T18:37:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SaSKMpxam2A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -52,37 +114,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pRdYiYcVzX4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2.md",
-      "title": "Terran vs Zerg (tvz) scouting | Master the Early Game! (Starcraft 2)",
-      "excerpt": "Starcraft 2: Terran vs Zerg (tvz) Scouting | Master the Early Game!  Are you a terran having trouble with Terran vs Zerg(TvZ)? In this guide we cover the 3 periods of early game Terran vs Zerg (TvZ) scouting in Starcraft 2. If you follow these tips you should have a great idea of your opponents intentions",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-zerg-tvz-scouting-master-the-early-game-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=PY8q4IGyz3s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PY8q4IGyz3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-27T16:32:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PY8q4IGyz3s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -613,39 +644,6 @@
         "StarCraft 2",
         "Terran",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss.md",
-      "title": "Learn Starcraft - Beginner Timing Attacks & All-Ins (Terran, Zerg & Protoss)",
-      "excerpt": "A few basic builds that can get you far when done fairly well. Also important is how not to overextend and lose everything.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=8xOuROdh6t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8xOuROdh6t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M11S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg",
-        "Terran",
-        "Protoss"
       ]
     },
     {

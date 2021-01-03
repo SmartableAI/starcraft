@@ -4,31 +4,23 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army.md",
-      "title": "StarCraft 2: Zerg Tutorial - Drones before Army!",
-      "excerpt": "StarCraft 2: Legacy of the Void tutorial for Zerg players in 1 vs 1. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  Figuring out how many Drones you can get away with is extremely important. If you're trying to improve with Zerg, it is arguably speaking",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-zerg-tutorial-drones-before-army/",
-      "originalUrl": "https://youtube.com/watch?v=bbkrPspJP4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bbkrPspJP4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M22S",
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - Beginner Timing Attacks & All-Ins (Terran, Zerg & Protoss)",
+      "excerpt": "A few basic builds that can get you far when done fairly well. Also important is how not to overextend and lose everything.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=8xOuROdh6t0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8xOuROdh6t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M11S",
       "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2016-07-27T01:55:06-07:00",
+      "publishedDateTime": "2018-09-21T15:07:57-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/bbkrPspJP4g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +31,9 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Zerg",
+        "Terran",
+        "Protoss"
       ]
     },
     {
@@ -75,23 +69,23 @@
       ]
     },
     {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
-      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
-      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
-      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M11S",
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
       "provider": {
-        "name": "davidangel64",
+        "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2015-11-27T18:30:10-08:00",
-      "heat": 50,
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -102,7 +96,9 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Zerg",
+        "Terran",
+        "Protoss"
       ]
     },
     {
@@ -324,6 +320,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-playing-zurg-this-week.md",
+      "title": "Playing Zurg This Week~",
+      "excerpt": "Starcraft 2 Zerg Gameplay #zerg #starcraft2 #ZergVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-playing-zurg-this-week/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-playing-zurg-this-week/",
+      "originalUrl": "https://youtube.com/watch?v=NeC7arRLIqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NeC7arRLIqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M18S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-07T15:31:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NeC7arRLIqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-standard-zvz-opening-part-2.md",
       "title": "Standard ZvZ Opening - Part 2",
       "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
@@ -479,23 +506,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks.md",
-      "title": "Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks",
-      "excerpt": "In today's Starcraft 2 guide we're looking at the zerg vs zerg matchup. Lets' learn how to play confidently against mutalisk as the roach player!  Starcraft 2: Zerg vs Zerg Guide | Defending Mutalisks with Roaches #StarCraft2 #sc2 #ZergVSZerg   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-vs-zerg-guide-defending-mutalisks/",
-      "originalUrl": "https://youtube.com/watch?v=MUtRoqvzO-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MUtRoqvzO-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M46S",
+      "path": "_learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2.md",
+      "title": "Zerg Analysis | Diamond student has difficulty CLOSING out the MATCH [Starcraft 2]",
+      "excerpt": "Today's lesson we are going to look at a ZvT at the diamond level focusing on the Zerg Analysis. The zerg manages to get into a very strong position but has difficulty closing it out. Let's learn how we can approach this scenario better!  Zerg Analysis | Diamond student has difficulty CLOSING out the",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-analysis-diamond-student-has-difficulty-closing-out-the-match-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=NAzXv812sg0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NAzXv812sg0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M30S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-25T21:11:36-07:00",
+      "publishedDateTime": "2020-09-11T13:02:33-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MUtRoqvzO-k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NAzXv812sg0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -541,54 +568,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players.md",
-      "title": "Zerg vs Protoss | How is this unit not NERFED? - protoss players",
-      "excerpt": "In today's Starcraft 2 lesson we take a look at a Zerg vs Protoss game against youtube celebrity \"casually explained\". We use one of the most protoss hated units: the swarmhost. I can personally guarantee this strategy to be an exceptional salt mine.  Zerg vs Protoss | Protoss players LOVE this strategy,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-how-is-this-unit-not-nerfed-protoss-players/",
-      "originalUrl": "https://youtube.com/watch?v=mGt9wwBs65I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mGt9wwBs65I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M27S",
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-terran-example-game-with-standard-build-order.md",
+      "title": "Zerg vs Terran | Example Game with Standard Build Order",
+      "excerpt": "Zerg vs Terran | Example Game with Standard Build Order In this guide we learn how to defend early Terran attacks.  Coaching -------------------------------------------------------------------------- Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-terran-example-game-with-standard-build-order/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-terran-example-game-with-standard-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=4c9OoM-OoGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4c9OoM-OoGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-08-02T17:56:34-07:00",
+      "publishedDateTime": "2020-06-16T12:42:57-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mGt9wwBs65I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-zerg-defending-12-pool-rush.md",
-      "title": "Zerg vs Zerg | Defending 12 pool rush",
-      "excerpt": "One on one lessons to help you reach your SC2 goals: https://www.hushangcoaching.com ------------------------------------------------------------------------------------------------------- In this guide we take a look at how to defend one of the most infamous \"zerg rushes\" in sc2: the 12 pool. This rush",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-zerg-defending-12-pool-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-zerg-defending-12-pool-rush/",
-      "originalUrl": "https://youtube.com/watch?v=HiVKp7Q1aow",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HiVKp7Q1aow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M28S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-01T15:27:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HiVKp7Q1aow/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4c9OoM-OoGE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

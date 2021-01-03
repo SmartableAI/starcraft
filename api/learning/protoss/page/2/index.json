@@ -4,6 +4,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018.md",
+      "title": "Learn Starcraft - Protoss v Zerg Build Order! (Updated 2018)",
+      "excerpt": "A basic build to hold off and then defeat the disgusting Zerg! Meant for lower level players who have little direction, not for high level players looking for the dankest meta :) -- Watch live at https://www.twitch.tv/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/",
+      "originalUrl": "https://youtube.com/watch?v=ZlNdkpjFifA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZlNdkpjFifA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M21S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-20T04:23:53-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZlNdkpjFifA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay.md",
+      "title": "Starcraft 2 Newbie Guide - 009 - Protoss Gameplay",
+      "excerpt": "An overview of Protoss gameplay to help newer, interested players get a good view of all three races, and to help round out the guide.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=YYLph9dGJ-Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYLph9dGJ-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M54S",
+      "provider": {
+        "name": "davidangel64",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2015-12-06T17:00:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YYLph9dGJ-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvt.md",
       "title": "Death Aura LE - Walling Guide PvT",
       "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
@@ -114,37 +211,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wxutLYw5KlE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg.md",
-      "title": "Mastering Starcraft 2 | I kept getting rushed today! (Protoss vs Zerg)",
-      "excerpt": "In today's lesson we look at a few games where I get cheesed by zergs players. Actually, zerg player. Singular. Let's take a look at the mistakes I make and how I know these rushes are coming!  Protoss vs Zerg | I keep getting rushed today! #PvZ #protoss #StarCraft2 #RTS #SC2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=D-GWZZYWqC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D-GWZZYWqC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M40S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-23T15:14:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D-GWZZYWqC4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -300,37 +366,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/D0l-lb0zdGw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in.md",
-      "title": "Starcraft 2: Build Order Tutorial | Zoun's Disruptor into Colossus All In",
-      "excerpt": "Starcraft 2 Build Order Tutorial. Did you see Zoun's insane performance in GSL?! Let's learn the build order he used vs soO: a disruptor colossus all in. Enjoy the Starcraft 2 tutorial!  #Zoun #Build #Order #tutorial #starcraft2 #sc2  0:00 Intro 1:59 Build Order Tutorial Begins 10:02 Like + Subscribe",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-build-order-tutorial-zouns-disruptor-into-colossus-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=KzjT3CaXtHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KzjT3CaXtHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M37S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-17T22:51:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KzjT3CaXtHI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -933,45 +968,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/srZHjTOKSAM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix.md",
-      "title": "StarCraft 2 Strategy: Adept & Phoenix!",
-      "excerpt": "Let's talk about the latest Protoss vs Terran strategy. Subscribe for more videos: http://lowko.tv/youtube Proxy Oracle build: https://goo.gl/CvGoaB  The Protoss versus Terran match-up has been a tough one for Protoss over the last few months. However, recently the match-up has started looking in favour",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-strategy-adept-phoenix/",
-      "originalUrl": "https://youtube.com/watch?v=YsiIVvPAPhY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YsiIVvPAPhY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-24T06:35:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YsiIVvPAPhY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
