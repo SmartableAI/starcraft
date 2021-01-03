@@ -4,6 +4,247 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/collections/beastyqtsc2-speed-running-to-grandmaster.md",
+      "title": "Speed Running to Grandmaster",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-speed-running-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-speed-running-to-grandmaster/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1.md",
+          "title": "StarCraft 2: SPEED RUNNING TO GRANDMASTER! - Episode 1",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1/",
+          "originalUrl": "https://youtube.com/watch?v=sVaXdHrxIIk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sVaXdHrxIIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H4M4S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/sVaXdHrxIIk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-01-13T05:02:11-08:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2.md",
+          "title": "StarCraft 2: NO STOPPING NOW! - SPEED Running to Grandmaster Episode 2",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-no-stopping-now-speed-running-to-grandmaster-episode-2/",
+          "originalUrl": "https://youtube.com/watch?v=7nsu7cGdKOI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7nsu7cGdKOI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H4M56S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7nsu7cGdKOI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-01-14T07:00:19-08:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3.md",
+          "title": "StarCraft 2: THREE HOURS IN! - SPEED Running to Grandmaster Episode 3",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-three-hours-in-speed-running-to-grandmaster-episode-3/",
+          "originalUrl": "https://youtube.com/watch?v=dm1Vzd6l6Co",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dm1Vzd6l6Co\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT58M44S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dm1Vzd6l6Co/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-01-15T07:25:03-08:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-almost-there-speed-running-to-grandmaster-episode-5.md",
+          "title": "StarCraft 2: ALMOST THERE!! - SPEED Running to Grandmaster Episode 5",
+          "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-almost-there-speed-running-to-grandmaster-episode-5/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-almost-there-speed-running-to-grandmaster-episode-5/",
+          "originalUrl": "https://youtube.com/watch?v=-08hrGn8n5w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-08hrGn8n5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H11M55S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Terran"
+          ],
+          "heat": 50,
+          "tags": [
+            "Cheese",
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/-08hrGn8n5w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2018-01-19T06:43:08-08:00"
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sVaXdHrxIIk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-planetary-fortress-rush.md",
+      "title": "StarCraft 2 Cast: PLANETARY FORTRESS Rush!",
+      "excerpt": "Well... That's not what I expected. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  A crazy match of Zerg versus Terran between Gold and Silver level players. The Terran in this match has got enough of the standard Macro games and decides to switch it",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-planetary-fortress-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-planetary-fortress-rush/",
+      "originalUrl": "https://youtube.com/watch?v=6KGmLkFwq6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KGmLkFwq6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6KGmLkFwq6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-09T05:35:29-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure.md",
+      "title": "StarCraft 2: Game of the Year? (PartinG vs Cure)",
+      "excerpt": "A ridiculous game of top-level StarCraft 2 on the new patch between PartinG and Cure. This could very well be the best game of StarCraft 2 this year.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=zZzXmwst1gw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZzXmwst1gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zZzXmwst1gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-30T03:02:34-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap.md",
       "title": "StarCraft 2: INSANE COMEBACK! (TY vs Trap)",
       "excerpt": "Amazing best-of-5 series of Terran versus Protoss in StarCraft 2. This series of top-level TvP shows incredible micro and macro, cheesy build orders and defensive play, but also mistakes and because of that an insane comeback.  New StarCraft 2 ladder maps: https://youtu.be/4I4-5_o7OT4 Get more videos",
@@ -41,6 +282,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-04T04:09:14-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ridiculous-protoss-cheeses.md",
+      "title": "StarCraft 2: RIDICULOUS PROTOSS CHEESES!",
+      "excerpt": "A very interesting \"best-of-3\" series between Elazer and Goblin. Subscribe for more videos: http://lowko.tv/youtube More fun Zerg vs Protoss: https://goo.gl/kFUSLt  This match is not quite like the others. In this round of Zerg vs Protoss, the Protoss player decides to play extremely aggressive. A super",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculous-protoss-cheeses/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ridiculous-protoss-cheeses/",
+      "originalUrl": "https://youtube.com/watch?v=nzOpoHANWro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nzOpoHANWro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M17S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nzOpoHANWro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-12-18T05:00:54-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-wild-micro-battles-zest-vs-dream.md",
@@ -118,43 +397,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-200-iq-decision-making.md",
-      "title": "StarCraft 2: 200 IQ DECISION MAKING!",
-      "excerpt": "Best-of-7 series between TY and Zest in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Insane professional StarCraft 2 match: https://goo.gl/WjcW1B  Protoss vs Terran has been developing rapidly. In this series of professional StarCraft 2 I give commentary to games played at the highest",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-200-iq-decision-making/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-200-iq-decision-making/",
-      "originalUrl": "https://youtube.com/watch?v=AKwimEP0WtQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AKwimEP0WtQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M54S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AKwimEP0WtQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-02-11T03:42:22-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-disgusting-protoss-cheese.md",
@@ -384,14 +626,14 @@
       "publishedDateTime": "2020-01-24T14:28:17-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cheese-vs-cheese-into-cheese.md",
-      "title": "StarCraft 2: CHEESE vs CHEESE into CHEESE!",
-      "excerpt": "I don't think I've ever seen so much cheese in a series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More professional cheese: https://goo.gl/GoJKmX  Scarlett vs Shadown in an epic series of professional StarCraft 2. While I wasn't too familiar with Shadown before this series, I",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheese-vs-cheese-into-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheese-vs-cheese-into-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=HNzyf7HCD4w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HNzyf7HCD4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M30S",
+      "path": "_games/lowkotv-starcraft-2-bunker-rush.md",
+      "title": "StarCraft 2: BUNKER RUSH?!",
+      "excerpt": "A hyper aggressive match of Terran versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Zest vs Solar: https://www.youtube.com/watch?v=Bj6749fN7ag  Rather than commiting to an all-in, Jjakji goes for calculated aggression instead. Starting with a Bunker Rush, transitioning towards Hellions",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-bunker-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-bunker-rush/",
+      "originalUrl": "https://youtube.com/watch?v=PT1lG9hDBDA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PT1lG9hDBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M41S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -405,12 +647,13 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HNzyf7HCD4w/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PT1lG9hDBDA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -418,7 +661,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-09-19T10:42:26-07:00"
+      "publishedDateTime": "2017-11-20T08:23:55-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-crazy-game-overlord-all-in-bly-vs-dream.md",
@@ -572,51 +815,14 @@
       "publishedDateTime": "2020-05-29T00:58:39-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-quadruple-thor-drop.md",
-      "title": "StarCraft 2: QUADRUPLE THOR DROP!",
-      "excerpt": "Aggressive Terran Mech vs the Swarmy Zerg style. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Gumiho has his own way of playing Terran mech. In this video I cast a game between him and Reynor that was recently played as part of the BTSL Cross Finals.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-quadruple-thor-drop/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-quadruple-thor-drop/",
-      "originalUrl": "https://youtube.com/watch?v=bdiSn0MeczA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bdiSn0MeczA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bdiSn0MeczA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-19T04:39:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-ridiculous-protoss-cheeses.md",
-      "title": "StarCraft 2: RIDICULOUS PROTOSS CHEESES!",
-      "excerpt": "A very interesting \"best-of-3\" series between Elazer and Goblin. Subscribe for more videos: http://lowko.tv/youtube More fun Zerg vs Protoss: https://goo.gl/kFUSLt  This match is not quite like the others. In this round of Zerg vs Protoss, the Protoss player decides to play extremely aggressive. A super",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculous-protoss-cheeses/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ridiculous-protoss-cheeses/",
-      "originalUrl": "https://youtube.com/watch?v=nzOpoHANWro",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nzOpoHANWro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M17S",
+      "path": "_games/lowkotv-starcraft-2-playing-terran-like-a-zerg.md",
+      "title": "StarCraft 2: PLAYING TERRAN LIKE A ZERG?!",
+      "excerpt": "Serral vs TaeJa in a pro match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran build order: https://goo.gl/DKGTSS  TaeJa recently got back to StarCraft 2 after being forced to take a break for several years. Turns out the man is still incredibly good at playing",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-playing-terran-like-a-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-playing-terran-like-a-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=_fV71_z9dsQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_fV71_z9dsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M20S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -631,12 +837,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran",
+        "Zerg"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nzOpoHANWro/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_fV71_z9dsQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -644,7 +851,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-12-18T05:00:54-08:00"
+      "publishedDateTime": "2018-11-28T01:00:19-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-stim-to-win-heromarine-vs-clem.md",
@@ -723,14 +930,53 @@
       "publishedDateTime": "2020-08-15T02:06:48-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-swarming-as-terran.md",
-      "title": "StarCraft 2: SWARMING AS TERRAN?!",
-      "excerpt": "A ridiculous game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional 2v2: https://www.youtube.com/watch?v=QJM7wa9N7-4  In this match between uThermal and Solar, Terran has his mind set on swarming the Zerg, trading inefficiently and expanding all over the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarming-as-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarming-as-terran/",
-      "originalUrl": "https://youtube.com/watch?v=_pAQFBJmBXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pAQFBJmBXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M13S",
+      "path": "_games/lowkotv-starcraft-2-terran-vs-protoss-cringe.md",
+      "title": "StarCraft 2: Terran vs Protoss CRINGE!",
+      "excerpt": "Why macro when you can control the two units you do have? Subscribe for more videos: http://lowko.tv/youtube More viewer games: https://goo.gl/TSZ62L  In this Silver League match of Terran versus Protoss, both players decide to go for some odd build strategies. The Protoss decides to go for a Cannon",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-protoss-cringe/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-vs-protoss-cringe/",
+      "originalUrl": "https://youtube.com/watch?v=6805Mmlg_E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6805Mmlg_E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6805Mmlg_E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-04-09T04:26:51-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-terran-vs-terran-insanity.md",
+      "title": "StarCraft 2: Terran vs Terran Insanity!",
+      "excerpt": "An amazing game of Terran versus Terran between FanTaSy and Cure. I think this is my favourite game of TvT I've seen this year. It's really good. This match was played as part of the WardiTV Summer Championships and displays everything from Cheese to Battlecruisers.  Get more videos & support my work:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-vs-terran-insanity/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-vs-terran-insanity/",
+      "originalUrl": "https://youtube.com/watch?v=AH194cvrl0M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AH194cvrl0M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M59S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -750,7 +996,7 @@
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_pAQFBJmBXQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AH194cvrl0M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -758,7 +1004,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-01-15T05:01:59-08:00"
+      "publishedDateTime": "2019-08-15T07:44:55-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-best-pro-match-of-2019.md",
@@ -796,44 +1042,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-31T04:36:57-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-best-terran-players.md",
-      "title": "StarCraft 2: THE BEST TERRAN PLAYERS!",
-      "excerpt": "Maru vs TY in a best-of-5 series of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://goo.gl/bpDV8i  An awesome world-class series of StarCraft 2. In this video I commentate a professional best-of-5 series between Maru and TY, two of the very best Terran",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-best-terran-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-best-terran-players/",
-      "originalUrl": "https://youtube.com/watch?v=gUE1eInkbVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gUE1eInkbVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gUE1eInkbVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-07T11:42:11-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-mid-game-bunker-rush-parting-vs-cure.md",
@@ -950,14 +1158,14 @@
       "publishedDateTime": "2020-01-07T02:49:25-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-then-suddenly-battlecruisers.md",
-      "title": "StarCraft 2: THEN SUDDENLY... BATTLECRUISERS!",
-      "excerpt": "An awesome match of Terran vs Terran in Master League. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  Not quite your regular game of StarCraft 2. While this match starts off relatively normal, one of the players have got a trick up their sleeve. All of a sudden...",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-then-suddenly-battlecruisers/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-then-suddenly-battlecruisers/",
-      "originalUrl": "https://youtube.com/watch?v=SXOQ8AP_KuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SXOQ8AP_KuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M47S",
+      "path": "_games/lowkotv-starcraft-2-the-smartest-dumbest-strategy.md",
+      "title": "StarCraft 2: The SMARTEST & DUMBEST Strategy!",
+      "excerpt": "I've still not decided if this was extremely smart or extremely dumb... Subscribe for more videos: http://lowko.tv/youtube Planetary Fortress Cringe: https://goo.gl/4FBLqd  What if you succesfully manage to distract and confuse your opponent for such a long time that you can mine out the Gold base?",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-smartest-dumbest-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-smartest-dumbest-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=-bY30YSUm2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-bY30YSUm2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -971,13 +1179,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Terran"
+        "StarCraft 2"
       ],
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SXOQ8AP_KuU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-bY30YSUm2o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -985,7 +1192,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-06-01T01:38:27-07:00"
+      "publishedDateTime": "2018-11-16T03:51:46-08:00"
     },
     {
       "path": "_games/sc2hl-battlecruiser-operational-maru-vs-ty-starcraft-2.md",
@@ -1057,77 +1264,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-01T03:18:56-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 56,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-24T05:02:15-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation.md",
-      "title": "StarCraft 2: AMAZING Bio vs Mech! (Cure vs INnoVation)",
-      "excerpt": "Amazing game of top-level StarCraft 2 between Cure and INnoVation. In this professional match Cure decides to take the approach of Marines, Marauders and Medivacs whereas INnoVation decides to focus his unit composition on primarily Siege Tanks and Hellions.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-amazing-bio-vs-mech-cure-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=Hg6no_2xbPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hg6no_2xbPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Hg6no_2xbPs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-18T04:58:57-08:00"
     }
   ],
   "nextPage": 6

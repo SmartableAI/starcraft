@@ -4,83 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-zerg-cheese-vs-terran.md",
-      "title": "StarCraft 2: ZERG CHEESE vs Terran!",
-      "excerpt": "uThermal vs TLO in a best of three of Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Psionic Storm value: https://goo.gl/KOhZfy  An epic series of professional StarCraft 2. In the first game, TLO decides to focus on an aggressive opener with a macro follow-up. Game number two is the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-cheese-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-cheese-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=DegG96FhA1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DegG96FhA1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M7S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DegG96FhA1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-03-23T07:24:24-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zerg-trickery.md",
-      "title": "StarCraft 2: Zerg TRICKERY!",
-      "excerpt": "A solid best-of-3 series between herO and Rogue. Subscribe for more videos: http://lowko.tv/youtube Thor Drop Shenanigans: https://goo.gl/bWRZ3c  A top level match professional StarCraft 2. herO is one of the best Protoss players in StarCraft and Rogue is of course the current World Champion in the game.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-trickery/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-trickery/",
-      "originalUrl": "https://youtube.com/watch?v=mNzQa1arwTQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mNzQa1arwTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mNzQa1arwTQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-04-07T02:15:04-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
       "title": "StarCraft 2: Zergling MASSACRE!",
       "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
@@ -1056,6 +979,83 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-03-22T01:13:11-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-epic-zerg-vs-zerg.md",
+      "title": "StarCraft 2 Cast: EPIC Zerg vs Zerg!",
+      "excerpt": "An epic Zerg versus Zerg between Nerchio and Snute. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/LsmBuQ  In this video I cast a long match of Zerg versus Zerg. Usually the match-up can be over within minutes. However, on Abyssal Reef you can reasonably easily",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-epic-zerg-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-epic-zerg-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=dY2eor8VMsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dY2eor8VMsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M47S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dY2eor8VMsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-02-25T05:20:57-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark.md",
+      "title": "StarCraft 2 Cast: HIGHEST LEVEL Zerg vs Terran - ByuN vs Dark!",
+      "excerpt": "The highest level of Zerg versus Terran that StarCraft 2 has to offer. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  It has been far too long since I casted games of StarCraft 2: Legacy of the Void. What better way to get back into it than to cast a",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-highest-level-zerg-vs-terran-byun-vs-dark/",
+      "originalUrl": "https://youtube.com/watch?v=lN-SxSmnmyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lN-SxSmnmyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lN-SxSmnmyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2016-11-16T08:34:04-08:00"
     }
   ],
   "nextPage": 7
