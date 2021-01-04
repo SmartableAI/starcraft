@@ -2,6 +2,7 @@
 title: "StarCraft 2: The RISKIEST Recall Ever? (Florencio)"
 excerpt: "Very fun match of Terran versus Protoss in StarCraft 2 featuring Florencio as BEASTMODE and his opponent called Reach.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:"
 originalUrl: https://youtube.com/watch?v=aWvZn-oNiRE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-riskiest-recall-ever-florencio/
 type: video
 length: PT24M11S
 publishedDateTime: 2021-01-04T11:38:03Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Mxld/qmI3hworq9Wn7IVj1deRqq+DPcJdxe1o+Ky6Z4hFg5WIoiBkVflPQexnZGzRPcnKn0Tnca1UZkVlkebp5mnrDn99OrdsFxVYJ4dZTTJ554DsX2FiK54qnR8OXtSHKx9hbMWGsCnx9ojli24i4GEk2+Dek7MbBI/Cj7ZoBXsUBnqT9ZoMa/Z6gr2LGhJ6oLxXU2m0nF+CL1kU5FzvKx9SykZ6JvFHUxTvVCAGfuNn31fFYt4kTpd9BlWTBzfXqOHVCbPbs/SEMuSx9P1d5AQEaogyz2SqLsU+9zb1NplgxbdfcX4ZE+D822GWu/n1kzCh6bO8GOKCN0013L5GyeqXBK4VlLUTGqdt29OEOcPmepS9FUmoKgafYv404nq/zxexzz2BJjToGDgiyAGbQ==;zFAqOdbcCGe7u9Ou88uIWw=="
+secured: "gNLOMMXYYJx+dPrAgw5BFp+SOICEg1lo/NXPj7GnargpXwsGUngB6f5UeGSN1on/GTRBimQ83WNGWq7E8YyJFFBIB22uUjq43+SKElyaXu5orC1T+Q+HxobG00B6BYK2Jgc7LZi7XN6S9n9h5Rq5FJN8OQ8we8xBi74yGCDhp7lMa+pnUKj2MPNcLIekofKSqpXZ252PUPDuf/zUYaGEM/KbPnoLR9wOKi6LvZHXgy4YoKlG95BU4/t2hffPu6PU0nJ6rzMzzDOP4BzCDup05dyMJ5ay2fP0dA/t0gJed/BorA/uAwgyrf+mtYn/AR76sED5Hk4v8vHr7WjO2L6GwFYPGzkBqgFbmwWUIVOaIHkb4OhN0uXmAAcctuI5wwlMAid9nxiSx733dCzLg8izdA==;E6bi9ArDxSgcbAbQpewyLA=="
 ---
 
