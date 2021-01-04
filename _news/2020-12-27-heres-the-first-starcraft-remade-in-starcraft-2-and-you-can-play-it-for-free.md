@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
+    excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
+    publishedDateTime: 2021-01-04T12:19:00Z
+    webUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 56
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/kyqgu21bfd5om3w5_1609431978.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
+        isCached: true
   - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
     excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
     publishedDateTime: 2020-12-28T22:06:00Z

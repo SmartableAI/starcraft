@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
+    excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
+    publishedDateTime: 2021-01-04T12:19:00Z
+    webUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 56
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/kyqgu21bfd5om3w5_1609431978.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
+        isCached: true
   - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
     excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
     publishedDateTime: 2020-12-26T17:35:00Z

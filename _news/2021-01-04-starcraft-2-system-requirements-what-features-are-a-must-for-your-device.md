@@ -1,26 +1,28 @@
 ---
 category: news
-title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
-publishedDateTime: 2020-12-29T12:00:00Z
-originalUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
-webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
+title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
+excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
+publishedDateTime: 2021-01-04T12:19:00Z
+originalUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+webUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
 type: article
-quality: 37
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/kyqgu21bfd5om3w5_1609431978.jpeg?tr=f-jpeg"
+    width: 1242
+    height: 708
     isCached: true
 
 related:
@@ -39,22 +41,6 @@ related:
       - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
         width: 1024
         height: 574
-        isCached: true
-  - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
-    excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
-    publishedDateTime: 2021-01-04T12:19:00Z
-    webUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 56
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/kyqgu21bfd5om3w5_1609431978.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
         isCached: true
   - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
     excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
@@ -182,6 +168,20 @@ related:
         width: 672
         height: 372
         isCached: true
+  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
+    excerpt: "Long running Mass Recall mod has hit 8.0, and now completley covers StarCraft and Broodwar, and is free to play in StarCraft II."
+    publishedDateTime: 2020-12-29T12:00:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 37
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "2018 Starcraft Comet 16KS"
     excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-31T07:06:00Z
@@ -219,6 +219,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "OLSkWEUalE5LuDARMLalHZtj7evaUBBgTnAKMwOr5TMRjqGevHQX4ZV5p66gjt6BQRPE9YbVafCLLBcZvxfrO8Fkmak2uwQYUDWyvd0g6UzPhFPMkHTLAJnfihkMcuFiwuxvBvnGk8GxD/RYpsXN/Qwhib4vSDxLUUh+82wYp/4GGEDszCbfrFclJZFzD6GYu9/TXJ3J1/oU06KBNxQ8y4U/w8kLWGqW8yI6my5UdRZx/iybeaiuI69sajD+KsS/zdbA6EvxI/WwggKIfQEZljSX5VG3N5oe9FCcezfWmmyLqfwhwulUN+15xxE+iXR2zVlwDOa7I3N6UOoMoWLf08cVjO5e6L5d/r0+dbSmZFAAtiRg+hoVxT/ZuB4gswiYUbIubRehxUKwK40TvA1M8/i2E5uOQ5vggDHrzIJZBEcE/eFX1lDu9iUAidE7OfGkQgFecQ2RZWoZh+ImXB0hpchZmFlNakSXVoYcisz71NF+Hatj1vUIYCdWrc+33hph2oQc1LrTgPyJJDo5/BRtCw==;9MooWZz+53IE4pOnEHDLVg=="
+secured: "wpDYVBU+AjK3npf5mXnnbuBXm/P4c+wziY9Cz0e5LBDBk9Kdaej6XRHcaKTRwoA3hqmbG8QXB79fA2i3g0dxRPXJs28Z7dF6Z8rfBrMSsAmDlbmLRy435WBy3kccoluAb3TaFNMwudRqEgy2k/m5d6YO5GVWVIv8QFG4AY91GdPikxzreOCTOoxchyiPdScG502y58eSAAmUYs0QjxfooEGu3/TdIUW9fFRoFZKtrNCcNLwUusklCsRNvxYKbzZ1rNBqO+wv+a1H2r9cvo4XtBhmBNJqAVuriGEMn8lHfX8VfZ/UceLvD5oxuEFLcancrmOecNPvkOR99tTPypC6k03g6yOTWWt3g8g7Z5lR3eg=;K1PX+lsnv9dsP6NMzSUsQA=="
 ---
 
