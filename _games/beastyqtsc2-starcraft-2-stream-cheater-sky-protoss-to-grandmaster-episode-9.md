@@ -3,7 +3,7 @@ title: "StarCraft 2: STREAM CHEATER! - Sky Protoss to Grandmaster Episode 9"
 excerpt: "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn"
 originalUrl: https://youtube.com/watch?v=TyA8RzHvIxA
 type: video
-length: PT1H1M27S
+length: PT1H1M26S
 publishedDateTime: 2017-09-24T19:15:42Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aS/wlBthMtKH3+wInCtJYPmQz24csQXnCXOQbF8Da1Mzr8aCfq/7+9q1NMtZsB46HKGVYBuaFLwI4crOYFWDnl2m+KyTMwr73iHJKspjbYj59/HVXpLtBX0NRBcgK8K8havHo2jUMDrG66t02RPjtplB3S1ydqfkQnA85OM2B8G7CTOHCfnY4qfYW5HT5uK28u9gm5uqLZ2Iwu4q/9wwtftj4R3uBxswSI3mNDbUEbuXmhLzW08qeBa92ljUPOpyU9tbKaJRjMDK897Np1EagKzTkg/x0mDUGunLWURUMqPpoA3NCnhtSzOTjLUSJFC6HdQdG2Av+67+SXD1CInDP3MiTwB8MlOqXvzbSTrV6c2/I/FnPzz6k9zF4YDf3bbPIxgFon87nBAIApF3lacv51EIQ56KJVQUA7jZPRRAqLY=;As37dNKWrLgA5ayMv4UI6g=="
+secured: "YAnf6vQJgeoW+r545jAW0GZYR/hHUbBCqnVeW6CjjDFPK35DuTdnFE2W/r7piqc6X/agsDPYsj5EeUjXQk0p6/7w53E55J2TjrOKwQTUw3lRK8c7lFJ3YU9AusdRZQHZ1qs2/RfvCByOlP57qxy4u0WXJmbV5hYJ7PNuqeF062rQuq74DM9PsGHyDsaKohi+2JPMg5cQhsLy/qbcJwMgGeps11B+XEr5DsxgvON1LUlgMreLpltQyunD/CfK1yn39vBYx8ihcXXnqOIuWzECSwHR6+Kb3/JXtcsyHYitxd2a3GDIA4xNIBShl4BImNq/9SkcQWGchzDkarmB2Nk04wUApA7xfqvuMH/cO0n3psBVkbuu+Ldj3Q22oZaJVQfu4gSnjlZsHOWmvocifOHAhA5r1Y9T+ZE6B9UE1lU1A+8=;WoRhPmzHJZsOJml0/RS2Bw=="
 ---
 

@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ZX1dmv6aTAE
 type: video
 length: PT14M32S
 publishedDateTime: 2017-07-24T10:19:50Z
-heat: 59
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZX1dmv6aTAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1iNqUcocezj96dwd1TMVi+JpPH3zrMNrfb3tKH5tmqeX5cfgcWcCjWxs4OJAkwBzbjdMfv1iccbLa1EzFpjKsfDdLx7TASOFR2+0tEY4I1Oeo75g0btB/TcC2s8WX/6r2VDwLuulVasi9oVXFZUzaL4C4ZYVk6fEoTYIi50iGD5f587WXSjDeK74eGviHlN7D5FQt0OsaIzFkwQDkBzqEPHoqv4/wEKWfChcIwO2/z4sDGk/mdV/DwmihIpsXR6oGXqStVIlSBueQjyhtJ6x5tEhOxrjvFqn6jTDkWPVHQUZ9c9PSC91Wi3zSoQWb6zjsfzLLkPfiFhUFVKox+uHhWJbQHxj5NQGM9LVGlw/AsA7YV9qB9uUxZ048p7XGIpBgwqA8Hz99aPZSCq40V0oHABRWpZsOZgZbNaTiKf8YepvRSnkIqLBM3dyliGQ4+46;2/+1rxx6+zCKEGRZ3LYzkQ=="
+secured: "5Jag+SMWGNRgxK8p5JqMf8+w1P+trN26GQooQ2fjCO4Ev7uczbVWS7hT5cntiK18a0v/1TpqXgauoLZBGri2tRWLLKI58c9KVFTUJ2A0YDkffTqEnCsUjb4mhQB6p+kq5fkjAcyWEAHUwD+Z1o6wKgkFAbpmNti/yc0AecpLkucGZ9I3NcGoKnp2KhmlRK45plMUzpPj/ybXBMdWxG0dgRcwxnidhYznrncOVS0Pt7wR49Jo+eZWMlgi2C3K51/yR2wtn6T5DMFTqo+u9zArAbVdnmJdleuZHvTfYhI4bLZjxPaMNhG3TWD00nROMB0wTRGbf61VZJOdnuW2GWRBbMXsnK+VqIce7YiYhWlNFCYORK0yoflSa74MXPUIjAsKeSCw2TKh6+9Rw/dWIKgiqGPx6NQX1gWxerd81ap6g7g6lOJCpaZ5uVHWv8PfPmRm;kJolMSJAkbq5Ez0gwHyO1w=="
 ---
 
