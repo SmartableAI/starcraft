@@ -3,7 +3,7 @@ title: "StarCraft 2: BEASTY MAD BEASTY SMASH!"
 excerpt: "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2   Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content."
 originalUrl: https://youtube.com/watch?v=UvqQxRwAup4
 type: video
-length: PT39M55S
+length: PT39M54S
 publishedDateTime: 2020-04-07T13:19:17Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4wxj6AhL+djj3p/+zDM3V0hiaz4iT9b83nRphTFt3rPA9zpOQ9q60wz6f6xPX/0aHztO212O1fia4pSUhNGNJybIM0jSBujVG7rjfKB5T+vtQlcFOgZT34ZXQpp+6I4CFNnSrJoCKSV/XUokp+ZgdsXng/UxHtNItjvKZkMBI6n8eV08FeIRjHnilz2rDUjujFTLiB/nHIxvR/3l3OSGQTywlb5JTx/0dr4n6zLN4vVULJ6KcttRh/qVlYxwkEvifU0PIL9pZ2Gqqatw5zerVFYVB7mgIJDUGdOXNWVXi8JoqVkhheuEJYBmNQvyEsMtRp84so1Hv3PynbvGNKa4xcc4CEICUdIlZc1oM4ziOQeYefrPDD3bBTxODLuSQTM+f6F502tkr+5Bn7ijIn3tlqzKX10nl00gM6BkAuQngSc=;ZiHSv6dHSdbR3jHpba0I4A=="
+secured: "+Dvw+dJJs2nr3WqV0IZPKk9nVbYL5/P6tRNY+G4y7SIF8aDZKPzRwJd7w1n9rfUq+zyS4QZ2IM/9jnIlsedGfbs9rz9Bm6FCp9zLAyVlk1mK5zBT0+jy1bzOib6A86JEJBf+OBysfSofLJa2z4S71wFTOdLeFj6oDNSxUF/WNVOydLtheGhzWWi5Q4WOpmqF39E9e8AARkNt/zE0K4iXl16hqwUo5kn/RVR6xzSu9ydILosSEO/d2jk9qoALo7NmRJ4BqHxX48cBQxg3obQ6TPSb1J0hvAmS78IlFVoE0vEw4aClf2arg4AickmsBFKdaQPDj7fUp4OLHGZaJuz9bh5bwqV6Q3fM+J1bDcQNbvMCiWEqsILM3ZwBtwx6xrw6MzbeqLhtY0IqG4zyhRql8J4afwGImDHAOKqYHSfq25U=;bJkhfw15dTIp6XZXzME1Sg=="
 ---
 
