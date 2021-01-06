@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran.md",
+      "title": "Mastering Starcraft 2: Defensive Protoss vs Terran",
+      "excerpt": "In today's Starcraft 2 tutorial we look at a high-grandmaster match between myself and Lord Timorus. I'm using a very defensive protoss style with colossus and blink vs a mine drop into 3 rax. Let's master Starcraft 2 together!  #Starcraft #protoss #colossus #sc2 #guide #RTS #realtimestrategy #StarCraft2",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-defensive-protoss-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=YnueSrwKGAc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YnueSrwKGAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M21S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-14T17:16:10-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YnueSrwKGAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-guide-optimising-settings-for-competitive-play.md",
       "title": "StarCraft 2 Guide: Optimising Settings For Competitive Play!",
       "excerpt": "An essential video for those looking to improve in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control groups guide: https://goo.gl/VQQQQ7  In this video I go over all of the settings that you should run in StarCraft 2: Legacy of the Void if you are looking to play competitively.",
@@ -567,23 +598,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2.md",
-      "title": "Starcraft 2: Protoss vs Protoss Macro Game [SC2]",
-      "excerpt": "Protoss vs Protoss. In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Starcraft 2: Protoss vs Protoss Macro Game #ProtossVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=gj0bdIiDF70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj0bdIiDF70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M36S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session.md",
+      "title": "Starcraft 2: Live Terran vs Protoss Practice Session",
+      "excerpt": "In today's video I recorded a terran vs protoss practice session. This week I'm working a lot on the Terran vs Protoss matchup. Let's try and figure out this frustrating matchup :)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-live-terran-vs-protoss-practice-session/",
+      "originalUrl": "https://youtube.com/watch?v=N1rZW8yd_7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N1rZW8yd_7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M2S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-10-26T18:53:02-07:00",
+      "publishedDateTime": "2020-11-26T16:44:32-08:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gj0bdIiDF70/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N1rZW8yd_7M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -594,7 +625,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ]
     },
     {
@@ -974,37 +1005,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2.md",
-      "title": "Another ZERG PROGAMER... Can I survive their all in? [Starcraft 2]",
-      "excerpt": "Today we are looking at a game I played on ladder vs CHAM, one of the stronger players in Latin America. I'm trying this new void ray style vs zerg and it's REALLY strong. Imba?  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-another-zerg-progamer-can-i-survive-their-all-in-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=S0aStr5dYqY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S0aStr5dYqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M4S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-11-29T17:36:18-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S0aStr5dYqY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],
