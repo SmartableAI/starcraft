@@ -2,6 +2,7 @@
 title: "StarCraft 2: The Zerg Gambler... (Cure vs DRG)"
 excerpt: "Best-of-3 series between Cure and DRG in StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley/  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch"
 originalUrl: https://youtube.com/watch?v=4EkG4cuQ5L0
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-zerg-gambler-cure-vs-drg/
 type: video
 length: PT46M15S
 publishedDateTime: 2021-01-06T13:02:19Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ytlpQcwogEs6R4H2i8NrnvL17BTtsp9yVSC2Szaj/UF8Xk/isVadLw/ZaqMbsgl7qJM4I/lta3mTInyk408gk8nhV3OYvUwj9sFwIr/yQOXVPSxFmdEiDMLS+GHPk8tD9PTs4WPNQ2+7Vdj8DdjxYV/s7dgCB6OWFPo1kex77Qquk9Gg6DBiyG1fTAQUs5nxN5mD6tz15EHYEZoTCogCEa3nxyYh+TIWZxlOjoQtBlzEbeSfuqg58aegMmI8E7KRdhpTKl9OOcoMLv7fJcjIANuN8ZCykQ6XzpPjRcsVC7q/JvAE0msvxPHFpzGN7P2I1JWbvK9KKBXWM6z+Qa15ObfVU6DXlcWtJkorQM2i6t+KXSMUWMXm3bIdGuZPTxYZwqfCyTA1Cp+Lub3x1O+N3w==;qxtbkO/jfmwiTFRmhpwgPg=="
+secured: "dOEU+PLfXDikMm7zTRArL3vsB0uC53O+mSQ5wf4GxPURhDhVvHwBF3cvhQ8z1xl+CzOzRcgN+3bqjcQuowZbzkYg8Tg3tpBdEk5HZlRZYhmegCgJIi5Dw3etq/GIJtplP9RmXvhDW7/tZQKMYYOWlZB1t9GFDQkupaQHIJg7Jq+30AMfGeYHnNKW7YGaRVT/RbS0NxmfrYTqHTXHo8LfykY8kEsqIC5xX0aTwsJhT53ewFZlOIwtZaHFv75zgDZII7H647UxWFes5liOJ4yb3elk45clfk3nQZTxiKB0HtoL0Je0cDD5i5jwXJrs0eFWbFYUchwwApA1dYLdOEXStWRZjxC1QBW9709bTVmWFQP76Uq5bGWY/wlS/C5iKzRDVCPdGq/caKgU/HnvM4xQQg==;RoP61ib7mCBz2PF/cm8ooA=="
 ---
 
