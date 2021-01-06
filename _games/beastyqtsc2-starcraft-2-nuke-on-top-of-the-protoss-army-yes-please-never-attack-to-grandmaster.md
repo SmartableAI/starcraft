@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=phBrmmOp-DY
 type: video
 length: PT41M55S
 publishedDateTime: 2020-05-21T15:05:26Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phBrmmOp-DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xz+k8UyQxo93HM7eumht/iI566R/n/uH0CqA7DCiODiPg4aoRouUy/8oCqlbgcKPEHOG+J3PNs0gptZzw+/lqHd6CHgBRZE0bK2djeRB2OqXcAC0Z9HBUIWbkxuk9rP9fAl3Q3zqFmBqAW4krSwmHqNgEm89tzPpu1VutKVE8MKoNkgsDF0qA1phvfRl9yMOZ0RVn/cg2sQnNTXyjWgBlCKb1Med5lFZezfC3QaFR0w3WVeLirgdwUjGcLC5FJltDR7Hkk56dJI9CH6a2fTe+3tSO+QNXhjHyfAwB7ZFyAUyWCmoeYY3Rdu6wvEkrKwi7iqHZGL/Ew07PrkagGvbyg6F711zzOHXHLnsn5vulNugEK2ySvYsnIHGCWseuUWncHBLKKXQg5u5+ERK099kC8Z3KN158WfrVDCunxXp1yY=;spUk9/vJ9IydKL+gPL12WA=="
+secured: "awei+v/F+EZKfjw1cKS73BSn2xJflaFpKHtLr5NTO5NgzsCrFAQ0dVOj6eL+IeFTXKziDbFP+ohn1NogRUimSjVEtzaxSSjmjn+eoYPvppk/MLOWm3I88f9hv0JFWFO6zOGF29zRQ1L+amYqwtu4hs6XCM7CxEPauEkzRWlKYFbf1ptq3y02WW0ddQ4U1WZ7ZKFHDYtuQIIQAG8YBBIwmKn2Q0V6pF5FLTQWi4iiWOaqUnKriSZ+KHKH9t/6l+Ij7Z86AsGU4F+JC07ZNbgV8+OSkwARYXBeuA58DT9VWU0C1/zDMvqFFn+kdlu4qNi3y71RWmcTJChQlzyC6Sia69RNydF25hVSdj3qjPdhYHhX485HXO1hQznZ47GLK2dsxik/NxL/99wQ7THox5xwcSuGkvKnnMAa9woEvu6ovD0=;lrQI0r6F1gXAIBQn72rbFA=="
 ---
 
