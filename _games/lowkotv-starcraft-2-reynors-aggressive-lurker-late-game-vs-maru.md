@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=ZpYkXmbinKU
 type: video
 length: PT28M9S
 publishedDateTime: 2020-12-07T18:09:57Z
-heat: 68
+heat: 67
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpYkXmbinKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bFFdI89rSnjdOxHJtyCeX+/4/mh2nZ8Rd+UEyDkemzV3jnvGn+qisXQsnTmEDjIf7cg3bWzabDR4NHomr3k4GmZ2TiNNGB9GhU+O/FhzewEdrtphOgfWoLAeYYc0iCBajHANtKhZhP50w1lWvJUTAzD/0GaOeiLeluBHPD+oc90eYuj5pLhGBYnUBtv+KN7hTw1RkdOBdDzoahM5smLApujYU1yEaqxsZtEUKrwpMM5OJFZa200smJdBBTNgrhnIXBD6cwS5CRi7F7NdgzbeifNhZBEBOY4lPd9FrwYTdMAr/eunV2EvuIYj+oRQA25I5QDGfg/e+pDEKU+62BqUyJNuFWhJry6HS4fxQ4E9d6qWxdrtVp4LB21djO8/ntit99kdmCkCxNce4WeKgNjdUtAEVFrraIf1tmnKo2joh4s=;oflqyJ+xNzJzTusZTHs1uQ=="
+secured: "pHackDbf/Ys3DjIXdOmRU2AaUbzdvtd6HHsVnltSbxGlxrNSxqZpFGw+LyrCGHLd4sRwnWBUy9COPhEWul7cDgJXqdyeijGciIktYXnY0Kigytat17pj0Rnpz4D/aC7vZ11yqsEE3WiVFL4/ggHC/3LWnHHo1xOzB2GTDFqXbny7hrawcupzemD7kClQNf+KHp1oGAkbZW0RWQIo6QqeVM4DkIi5x+DTWf/YrKI4Yan59XQzs7BkEpR3IwwB5dnUgMKEDoU+RL9q9QcA0VqFnBMO7PCkBOOmE1ZR3AXxXFFOCIbFyincrFn5OxQqLfMfxR6IcndGu8Wk+xO8qGRK7rfsaA0B83Tk60lEh6LDXOW40RL4qQa0SdcgM73x7IygD1olpC8zxOxlsRsemX5J6amyPfVTQbqLZ/P8yUefpN8=;QO3Y8omIijNmaTV0tqQ3gw=="
 ---
 
