@@ -222,6 +222,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "2006 Starcraft Homestead 242RKS"
+    excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-07T08:01:00Z
+    webUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    ampWebUrl: "https://www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "k6HQD9go75+Fe5MGZr9YAJL1ZliaLYF2HagSyUORrqYZNuVGZYStqV8QIe/gMfvDw5ULyx/jGVGe+MNncmlL6fe2pDnmeCDrDJ2nPCeiaRWVRlBW4JKW9V5QTyuyWw+T2vrIlfUNYHC2axrGn5E0ZDriDY+DmO0K9OoaSqxjDeZJoYvZtjIRmUPiKEd4P/K2dHW4duLPCQvheqxYd0mWkrTwl5T5qypZCd4aMNh+H6yQe5cKvcVd6J2Eu/otS2B2pqC/eMZLmH/qOEGhXuPgfhLrJbmWEOg0V9I0srMBysenQ6T9uxgQufz/C86YAbwCnzB6vi29bMCJG5wSa7rVNWzFT7wMmh2jKHWe+wKgbsY=;6o1s9yIi1gpffWa49xqYXA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -213,6 +213,17 @@ related:
     webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
     ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
     cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+  - title: "2006 Starcraft Homestead 242RKS"
+    excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-07T08:01:00Z
+    webUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    ampWebUrl: "https://www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
     type: article
     provider:
       name: RVUSA.com

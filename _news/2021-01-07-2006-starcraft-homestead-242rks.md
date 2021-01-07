@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2018 Starcraft Autumn Ridge 265BHS"
-excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2020-12-27T07:05:00Z
-originalUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+title: "2006 Starcraft Homestead 242RKS"
+excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-01-07T08:01:00Z
+originalUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+webUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+ampWebUrl: "https://www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
 type: article
 quality: 37
 heat: -1
@@ -139,6 +139,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2018 Starcraft Autumn Ridge 265BHS"
+    excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2020-12-27T07:05:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-26T22:51:00Z
@@ -217,18 +228,7 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "2006 Starcraft Homestead 242RKS"
-    excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-01-07T08:01:00Z
-    webUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
-    ampWebUrl: "https://www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
-secured: "FCEf+QMOqJh4qTgX1fPsGvNNY/ncPB2G+HbD4h2FkEos5J8yxSUmVVuLx0c6J2iYmH/VYGtyweWSh27AXLG4g4AwiNZCTMmu/5c2hT18tDtPpZKI3HSVtrh7YGYYgJFozCGp1wFYxeQcH7FIaNWkDUHOSoZq/q6NBNycJze03xsX+vucbo+/D1uibSFXAbMv3anywOKfqjuqfqKQzqxvUlkgWoGmi3CsEdrIGqiLmFQyjirJFgWC5RqnlW0O5QsuozAtzHtSaKm/mArtOk75aKxoGbxEjtHS7cmRhg7NUadneEf7gMCsVSg+QkgO+NMU861sAO2xfj59Um7m6e1pb6xLv343ZBdoW2AbpTeaAr4=;rdGylp16UL52NdIFlcU9CQ=="
+secured: "XmCGsWz7DQvnVjAYgb5vWqHv+erpVF1RjVj8z5Ch3JnQ6WqTJ7WuRfEC8WSU7FBq8dT3SYEmp3sll71V1h05cET4HBTNIG0o1GF/iprx6Qr43pBq/uBGkA7S5dfRcvB0vzbZBabGIfqbso25E2OWUZequJpEe15uGe2T8/7mXZFgn7xg/mrakSDXNGmbgVdS8MKF4w/4ra2y0I2NwZx//r8r+pOe93no1xq6LlrOU3e8m0RXYIdIJDzXC3GEHHT+Zv/h1iNIhRdNwjnZVE8coB52Q3jcalGC36V/Cj/6QTH8AHK+2v1oDw6bhjnHuWlSlVeGE/bWxuVGyQAwU6SrMEEC0sKIZWZn+DaBzu24d90=;7qRh7dHENr69OUCYsY2K8A=="
 ---
 
