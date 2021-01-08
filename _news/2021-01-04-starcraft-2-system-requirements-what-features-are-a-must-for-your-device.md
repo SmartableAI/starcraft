@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "Starcraft: Mass Recall Mod Brings the Original Game to Starcraft 2"
+    excerpt: "The Mass Recall mod for StarCraft II lets fans relive the original game's campaign and gameplay with a much more modern coat of paint."
+    publishedDateTime: 2021-01-07T22:21:00Z
+    webUrl: "https://www.cbr.com/starcraft-mass-recall-mod/"
+    ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
+    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
+    type: article
+    provider:
+      name: CBR
+      domain: cbr.com
+    quality: 57
+    images:
+      - url: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/StarCraft-Mass-Recall-Feature.jpg"
+        width: 1400
+        height: 700
+        isCached: true
   - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
     excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
     publishedDateTime: 2020-12-28T22:06:00Z

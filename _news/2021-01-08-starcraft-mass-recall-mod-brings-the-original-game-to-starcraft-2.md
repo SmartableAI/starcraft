@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
-excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
-publishedDateTime: 2020-12-30T16:06:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
-webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+title: "Starcraft: Mass Recall Mod Brings the Original Game to Starcraft 2"
+excerpt: "The Mass Recall mod for StarCraft II lets fans relive the original game's campaign and gameplay with a much more modern coat of paint."
+publishedDateTime: 2021-01-07T22:21:00Z
+originalUrl: "https://www.cbr.com/starcraft-mass-recall-mod/"
+webUrl: "https://www.cbr.com/starcraft-mass-recall-mod/"
+ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
+cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GosuGamers
-  domain: gosugamers.net
+  name: CBR
+  domain: cbr.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/StarCraft-Mass-Recall-Feature.jpg"
+    width: 1400
+    height: 700
     isCached: true
 
 related:
@@ -39,22 +41,6 @@ related:
       - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
         width: 1024
         height: 574
-        isCached: true
-  - title: "Starcraft: Mass Recall Mod Brings the Original Game to Starcraft 2"
-    excerpt: "The Mass Recall mod for StarCraft II lets fans relive the original game's campaign and gameplay with a much more modern coat of paint."
-    publishedDateTime: 2021-01-07T22:21:00Z
-    webUrl: "https://www.cbr.com/starcraft-mass-recall-mod/"
-    ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
-    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
-    type: article
-    provider:
-      name: CBR
-      domain: cbr.com
-    quality: 57
-    images:
-      - url: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/StarCraft-Mass-Recall-Feature.jpg"
-        width: 1400
-        height: 700
         isCached: true
   - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
     excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
@@ -223,6 +209,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
+    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
+    publishedDateTime: 2020-12-30T16:06:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2018 Jayco Starcraft 26BH"
     excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-01T07:06:00Z
@@ -246,6 +246,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "GdjmncTPhY0TWB2ngmm7gzgzdGdWDEfTSFTSWyLOWEcL1JAJsXUyhSq228CusED0XVxJPjtlRcSxwE+TzYG6vztMu1mxfZmUXFgAf4TbMQo4TMOIsq7gM8ooDdHoes4hbL28GCgX9jF2w+/HTfkNrmNzSinvoRZI4oVK515NI/CU1Sm19QzEL4az3LYkc+EDV98ungOTcX1TrWEn35ub1HS2gQwKwgZsTx6ZrZdfeZUTU4/dU9dg+6Ec1rqYJMdEdt5IXml5/o04AGZ/u5EXTTWBbeui5MnrEIya7UH2reM3FDspHjuylgXzDr73ODs1Jq7qIGLBbJQtQJ+03KqwdUL+uZr1pSJpG4BWR+ZwO3A=;k8cjQZrNlJOjrxoGNtvYGQ=="
+secured: "wDp0ACHAMolpIJ15oo2zepDErICehXxjr8ZcOnMJrYrdQKpGowq7sOWM+w3gG2mjWlv87hIiSZXf8fGyaJUfhBacm2woQNhJgIu+63PAZvglihBVDKo6qOvWPGuLHfhWRXfimdPsafoMAvFMfSNmGRj0VmgvodVY8l3yewvVfmLGH6IvYvDb2fPGFb/cRxbJX+/GP8WVT+VFm32A+yK6JyiRE76DDcJR8r+wCdgG5D5COiDED5CJWlqPo25e8SZ0FjNxPkt/Xtw0uRWnvSxkVCJaO86KYkfO8MVP6J47O2YKbL9v5B5pLlphtNFz1s7OQ/dKGB2+RaLqcWgsH829evt0IARwbe07n3crWAgW5vE=;RCcuxouwKYWLxptEQlIFFA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Starcraft: Mass Recall Mod Brings the Original Game to Starcraft 2"
+    excerpt: "The Mass Recall mod for StarCraft II lets fans relive the original game's campaign and gameplay with a much more modern coat of paint."
+    publishedDateTime: 2021-01-07T22:21:00Z
+    webUrl: "https://www.cbr.com/starcraft-mass-recall-mod/"
+    ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
+    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
+    type: article
+    provider:
+      name: CBR
+      domain: cbr.com
+    quality: 57
+    images:
+      - url: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/StarCraft-Mass-Recall-Feature.jpg"
+        width: 1400
+        height: 700
+        isCached: true
   - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
     excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
     publishedDateTime: 2021-01-04T12:19:00Z
