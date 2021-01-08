@@ -2,6 +2,7 @@
 title: "StarCraft 2: Epic Game - SERRAL vs DARK!"
 excerpt: "Amazing game of the highest level in StarCraft 2. In this Zerg versus Zerg between Serral and Dark we see both players taking a distinctly different approach in the ZvZ matchup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel:"
 originalUrl: https://youtube.com/watch?v=vD6JmIVTOXo
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-game-serral-vs-dark/
 type: video
 length: PT26M43S
 publishedDateTime: 2021-01-08T12:18:07Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2macpt40yPvWQoAD/mk3sWwClqgf/ANKA0fY+Vcuot44a+d7FLnea1QDbpg7VpN1dYAFoeV2fywurBVmsnKb5nDC28OQaMk04YZ8tOU1sWXy36I8sVJyMEaRRvggzHWyUVXdatHkVAw57ZqNF9ARU5W0h6TvDCF/pkwygwFtMF+c2uo5wIwsXRB62Bs9Lh5ueZNmwNcpldojqBeDbtkj0h1iJ2iwE1Eq4C101ut1GGaGYtI3xlogu23blOH3XaFznj1an1E/y3/AdmmMVL+AbGsE/agV6VZu5caP5dU/iWfIha2CHJkqzL1T+vyIwMHwieg1m/2FxwH1On6T0kFYaaRbFmIDIsuLuxVwRg8MdXYbSASYzstmVWW0tY3/QMoVfqha8ZjQ8DlresR4YAP6eA==;f2NLFvIan6w1DxDywC29uA=="
+secured: "TVRkpmuGrOyx5VgYBeNFKT8oxCkpR0L5JNGVbw7s6J7WYaIGmLj9BhrEcjYc9CAJKRzED8eSEEHpgW5LruwZPch25zWHny2YZPMMGcTTTDImLiOP0t63ui3iXt9g+oXFYcX6hBN8lazi32dvs561GZM/GO1mGNwdJhOWOk5r+wWdo5WL5nGAKGIzSIuj0L1zlZJrshc8mlbf2uDhIACXv7W93hM980z/rzUoqWPJKZAio3UlJJTcUdq1Uo960xJU3Q47LRhNmU4QTaottiisL4iFVIpRB8UG7yOfHMUMQXsONbEEvzWtxnHKzUqKKhC3nuLLirqMYwfLeFSZP+Pkp9z6akxMYyHEpGw92qLQivFPEVCNg8LwMuAHtZIzC4XavmFP4Ub3HY6Kx/Sl+/pSkw==;HmYM6OCklOhaVgueA6StLw=="
 ---
 
