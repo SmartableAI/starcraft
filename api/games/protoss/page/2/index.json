@@ -4,6 +4,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/collections/beastyqtsc2-mass-phoenix-zealots.md",
+      "title": "MASS Phoenix & Zealots!",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/collections/beastyqtsc2-mass-phoenix-zealots/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/collections/beastyqtsc2-mass-phoenix-zealots/",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "topItems": [
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix.md",
+          "title": "StarCraft 2: *NEW* Series! MASS Zealots & Phoenix!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-new-series-mass-zealots-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=HjX_DXPgf_k",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HjX_DXPgf_k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT32M",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 51,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/HjX_DXPgf_k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-20T04:37:09-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix.md",
+          "title": "StarCraft 2: This Terran Gamer is....ANGRY! - MASS Zealots & Phoenix",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-this-terran-gamer-isangry-mass-zealots-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=1Mt9_TWRkaM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Mt9_TWRkaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M6S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/1Mt9_TWRkaM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-20T04:47:41-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix.md",
+          "title": "StarCraft 2: Taking a Cheeky Gold Base With MASS Zealot & Phoenix!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-taking-a-cheeky-gold-base-with-mass-zealot-phoenix/",
+          "originalUrl": "https://youtube.com/watch?v=ScGddJ0LA_w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScGddJ0LA_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT26M38S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ScGddJ0LA_w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-21T06:21:39-07:00"
+        },
+        {
+          "path": "_games/beastyqtsc2-starcraft-2-random-slow-zealot-timing.md",
+          "title": "StarCraft 2: Random SLOW Zealot Timing!",
+          "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+          "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-random-slow-zealot-timing/index.json",
+          "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-random-slow-zealot-timing/",
+          "originalUrl": "https://youtube.com/watch?v=D9DCekKqP7w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D9DCekKqP7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M35S",
+          "provider": {
+            "name": "BeastyqtSC2",
+            "domain": "youtube.com"
+          },
+          "topics": [
+            "StarCraft 2",
+            "Protoss"
+          ],
+          "heat": 50,
+          "tags": [
+            "Live"
+          ],
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/D9DCekKqP7w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "publishedDateTime": "2020-03-23T01:51:26-07:00"
+        }
+      ],
+      "size": 22,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HjX_DXPgf_k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection"
+    },
+    {
       "path": "_games/collections/beastyqtsc2-sky-protoss-only-to-grandmaster-series.md",
       "title": "Sky Protoss ONLY to Grandmaster Series",
       "excerpt": "",
@@ -165,14 +326,14 @@
       "type": "collection"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-200-iq-probe-rush.md",
-      "title": "StarCraft 2: The 200 IQ Probe Rush!",
-      "excerpt": "This is one of the dumbest games of StarCraft 2 I have ever seen. It's amazing. Amazingly stupid... But fun!  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv.  My second channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-200-iq-probe-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-200-iq-probe-rush/",
-      "originalUrl": "https://youtube.com/watch?v=mEkpvljkcmE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mEkpvljkcmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M31S",
+      "path": "_games/lowkotv-starcraft-2-disgusting-protoss-cheese.md",
+      "title": "StarCraft 2: Disgusting Protoss Cheese!",
+      "excerpt": "Cheese into Cheese into... Proxy expansion? A Platinum League match of Protoss vs Terran in StarCraft 2 with an extremely close ending.  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-disgusting-protoss-cheese/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-disgusting-protoss-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=QSOoquKSCzk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSOoquKSCzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M12S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -192,7 +353,7 @@
       "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mEkpvljkcmE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QSOoquKSCzk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -200,7 +361,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-10-08T03:43:12-07:00"
+      "publishedDateTime": "2019-11-13T01:56:24-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-progamer-free-for-all-maru-innovation-solar-impact-hurricane-patience.md",
@@ -229,7 +390,7 @@
         "Protoss",
         "Zerg"
       ],
-      "heat": 58,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MkN3MJh6ESA/maxresdefault.jpg",
@@ -396,44 +557,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-24T02:00:38-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-disgusting-protoss-cheese.md",
-      "title": "StarCraft 2: Disgusting Protoss Cheese!",
-      "excerpt": "Cheese into Cheese into... Proxy expansion? A Platinum League match of Protoss vs Terran in StarCraft 2 with an extremely close ending.  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit it to replays@lowko.tv.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-disgusting-protoss-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-disgusting-protoss-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=QSOoquKSCzk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSOoquKSCzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M12S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QSOoquKSCzk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:24-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-game-of-the-year-parting-vs-cure.md",
@@ -783,14 +906,14 @@
       "publishedDateTime": "2018-12-13T03:47:05-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny.md",
-      "title": "StarCraft 2: MASSIVE DISRUPTOR HIT! (Trap vs Bunny)",
-      "excerpt": "Very scrappy game of professional StarCraft 2 between Trap (Protoss) and Bunny (Terran). Both players make several of mistakes in the match, which is why it gets extremely hectic. From accidential Colossus rally points, to a massive Disruptor hit. Terran vs Protoss has quickly become one of my favourites,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-massive-disruptor-hit-trap-vs-bunny/",
-      "originalUrl": "https://youtube.com/watch?v=X4hrOu22HaU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X4hrOu22HaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M45S",
+      "path": "_games/lowkotv-starcraft-2-proxy-nexus-cheese.md",
+      "title": "StarCraft 2: Proxy Nexus CHEESE?!",
+      "excerpt": "Florencio comes up with insane strategies, and somehow makes them work on the StarCraft 2 ladder. In this game I cast a match of Protoss versus Terran with a Proxy Nexus inside the main base of the Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  The 2019 balance update: https://youtu.be/N20YNAnyyA0",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-nexus-cheese/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-nexus-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=khgDUwR7Gvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khgDUwR7Gvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M19S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -810,15 +933,15 @@
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/X4hrOu22HaU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/khgDUwR7Gvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-01-11T04:09:01-08:00"
+      "publishedDateTime": "2019-11-13T01:54:46-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-the-hero-battlecruiser.md",
@@ -858,45 +981,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-11-30T04:14:52-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-ultralisks-versus-protoss-soo-vs-zest.md",
-      "title": "StarCraft 2: ULTRALISKS VERSUS PROTOSS? (soO vs Zest)",
-      "excerpt": "Ultralisks are uncommon in StarCraft 2 currently. Especially in the Zerg versus Protoss matchup we barely ever see Ultras simply because Protoss has many different counters available to deal with them. In this professional match between Zest and soO, soO gets a solid advantage by focusing on Swarm Hosts",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultralisks-versus-protoss-soo-vs-zest/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ultralisks-versus-protoss-soo-vs-zest/",
-      "originalUrl": "https://youtube.com/watch?v=PvHXn89afLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PvHXn89afLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PvHXn89afLc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-10T04:38:14-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-widow-mine-heroes-clem-vs-showtime.md",
@@ -1275,6 +1359,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-08-04T12:34:48-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy.md",
+      "title": "StarCraft 2: Another IMBALANCED Protoss Strategy!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-another-imbalanced-protoss-strategy/",
+      "originalUrl": "https://youtube.com/watch?v=fG5sjcAyeow",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fG5sjcAyeow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M6S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 53,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fG5sjcAyeow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-01T03:18:56-08:00"
     }
   ],
   "nextPage": 3

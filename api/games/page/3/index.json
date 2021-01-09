@@ -4,45 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
-      "title": "StarCraft 2: MECH TERRAN, BEST TERRAN? (Scarlett vs INnoVation)",
-      "excerpt": "Terran Mech has been on the rise again in StarCraft 2 at the professional level. After the new patch recently went live, it's obvious that with the changes to the Nydus Worm, Brood Lord, Infestor and Thor the maxed out Terran Mech army is once against a threat. In this game of pro level StarCraft 2 I",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=DpjOeN65AxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DpjOeN65AxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DpjOeN65AxY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-13T04:56:59-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-bronze-league-heroes.md",
       "title": "StarCraft 2: Bronze League Heroes!",
       "excerpt": "An actual Bronze League game of StarCraft 2! In this video I commentate a game between RewaS and Papak. It's time for Bronze League Heroes.  Get exclusive content & support my work: http://www.patreon.com/lowkotv  If you have an awesome replay of StarCraft 2 that you think is worth casting, you can send",
@@ -78,43 +39,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-08-30T00:30:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cheeky-stargate-strategy.md",
-      "title": "StarCraft 2: CHEEKY STARGATE STRATEGY!",
-      "excerpt": "Florencio is back with another crazy game of StarCraft 2. In this Protoss versus Zerg he goes by the name of Old Greg as he goes up against a Diamond League Zerg player. As expected, this game also gets crazy really quickly as it starts with a Cannon Rush and then transitions towards cheeky Stargate",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheeky-stargate-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheeky-stargate-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=Y18Ff-M83-0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y18Ff-M83-0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y18Ff-M83-0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-29T04:56:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base.md",
@@ -267,6 +191,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-11T02:29:06-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
+      "title": "StarCraft 2: MECH TERRAN, BEST TERRAN? (Scarlett vs INnoVation)",
+      "excerpt": "Terran Mech has been on the rise again in StarCraft 2 at the professional level. After the new patch recently went live, it's obvious that with the changes to the Nydus Worm, Brood Lord, Infestor and Thor the maxed out Terran Mech army is once against a threat. In this game of pro level StarCraft 2 I",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=DpjOeN65AxY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DpjOeN65AxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DpjOeN65AxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-13T04:56:59-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-photon-o-phobia.md",
@@ -456,6 +419,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-12T03:32:50-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back.md",
+      "title": "StarCraft 2: Very Unusual Zerg Cheese... (Florencio is back!)",
+      "excerpt": "Florencio is back with a ridiculous Zerg strategy. In this game of StarCraft 2 he decides to Drone, Spine Crawler, Hatchery and Creep Tumor rush. All at once.  Get more videos & support my work: http://www.patreon.com/lowkotv Previous Florencio cheese: https://youtu.be/khgDUwR7Gvo  If you have an awesome",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/",
+      "originalUrl": "https://youtube.com/watch?v=2lPVk-WGeMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lPVk-WGeMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2lPVk-WGeMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-02T03:25:02-08:00"
     },
     {
       "path": "_games/beastyqtsc2-best-nukes-of-never-attack-to-grandmaster-series.md",
@@ -761,81 +762,6 @@
       "publishedDateTime": "2020-04-23T02:35:20-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back.md",
-      "title": "StarCraft 2: Very Unusual Zerg Cheese... (Florencio is back!)",
-      "excerpt": "Florencio is back with a ridiculous Zerg strategy. In this game of StarCraft 2 he decides to Drone, Spine Crawler, Hatchery and Creep Tumor rush. All at once.  Get more videos & support my work: http://www.patreon.com/lowkotv Previous Florencio cheese: https://youtu.be/khgDUwR7Gvo  If you have an awesome",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-very-unusual-zerg-cheese-florencio-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=2lPVk-WGeMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lPVk-WGeMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M2S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2lPVk-WGeMQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-02T03:25:02-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-alphastar-artificial-intelligence-vs-grand-master-league.md",
-      "title": "StarCraft 2: AlphaStar (Artificial Intelligence) vs Grand Master League!",
-      "excerpt": "AlphaStar has been playing on the StarCraft 2 ladder over the last few months. Recently the Google DeepMind team that has been developing this artificial intelligence released a blog post, a research paper and a replay pack about the AI.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-alphastar-artificial-intelligence-vs-grand-master-league/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-alphastar-artificial-intelligence-vs-grand-master-league/",
-      "originalUrl": "https://youtube.com/watch?v=VsJpWZj9jl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VsJpWZj9jl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VsJpWZj9jl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:54:35-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax.md",
       "title": "StarCraft 2: Cheesiest Series EVER?! (ShoWTimE vs MaxPax)",
       "excerpt": "Extremely cheesy series of Protoss versus Protoss in StarCraft 2 between ShoWTimE and MaxPax.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -949,6 +875,43 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-03T03:51:47-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-silver-league-cheese.md",
+      "title": "StarCraft 2: Silver League Cheese!",
+      "excerpt": "A very chaotic match of Terran vs Protoss in Silver League in StarCraft 2. What happens when you're getting cheesed while you're cheesing yourself?  Get more videos & support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 you would like me to cast, you can submit",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-silver-league-cheese/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-silver-league-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=sjPaRmSolNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sjPaRmSolNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sjPaRmSolNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:57:08-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-skytoss-vs-maxed-out-zerg-scarlett-vs-creator.md",
@@ -1628,6 +1591,43 @@
       ],
       "content": "\r\n",
       "type": "collection"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-evolving-strategies-bo7.md",
+      "title": "StarCraft 2: EVOLVING STRATEGIES! (Bo7)",
+      "excerpt": "Best of 7 series of StarCraft 2 between Gumiho and Serral. Subscribe for more videos: http://lowko.tv/youtube Mass Oracle in a Pro game: https://goo.gl/W65Hvg  This is something new and something I have not uploaded to YouTube before. This is a full best of 7 series in Professional StarCraft 2 between",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-evolving-strategies-bo7/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-evolving-strategies-bo7/",
+      "originalUrl": "https://youtube.com/watch?v=88Myy5JvgNY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88Myy5JvgNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/88Myy5JvgNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-10-03T06:23:43-07:00"
     }
   ],
   "nextPage": 4

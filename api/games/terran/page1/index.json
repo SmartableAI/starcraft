@@ -76,6 +76,44 @@
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
+      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
+      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 155,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-05T03:15:53-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-amazing-widow-mine-connections-cure-vs-rogue.md",
       "title": "StarCraft 2: AMAZING Widow Mine Connections! (Cure vs Rogue)",
       "excerpt": "Best-of-5 series of professional StarCraft 2 between Cure and Rogue. This series starts off with normal build orders, but quickly evolves to something much greater as both players test a variety of strategies.  Match is from the OlimoLeague December finals. Support OlimoLeague on Patreon here: https://www.patreon.com/olimoley",
@@ -113,45 +151,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-30T10:56:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
-      "title": "StarCraft 2: RETURN OF THE KING! (ByuN vs Solar)",
-      "excerpt": "ByuN is one of the most succesful StarCraft 2 pro gamers. He recently returned to the game and in this series he's going up against one of the strongest Zerg players in the world Solar.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar/",
-      "originalUrl": "https://youtube.com/watch?v=xycP_8Ert2I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xycP_8Ert2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M43S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xycP_8Ert2I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-15T03:05:15-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
@@ -461,44 +460,6 @@
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
-      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
-      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 95,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-05T03:15:53-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
       "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
       "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -612,6 +573,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-15T03:46:23-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
+      "title": "StarCraft 2: RETURN OF THE KING! (ByuN vs Solar)",
+      "excerpt": "ByuN is one of the most succesful StarCraft 2 pro gamers. He recently returned to the game and in this series he's going up against one of the strongest Zerg players in the world Solar.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=xycP_8Ert2I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xycP_8Ert2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xycP_8Ert2I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-15T03:05:15-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byuns-mass-sky-terran.md",
@@ -1039,45 +1039,6 @@
       "publishedDateTime": "2017-02-09T05:35:29-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
-      "title": "StarCraft 2: MECH TERRAN, BEST TERRAN? (Scarlett vs INnoVation)",
-      "excerpt": "Terran Mech has been on the rise again in StarCraft 2 at the professional level. After the new patch recently went live, it's obvious that with the changes to the Nydus Worm, Brood Lord, Infestor and Thor the maxed out Terran Mech army is once against a threat. In this game of pro level StarCraft 2 I",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=DpjOeN65AxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DpjOeN65AxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M15S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DpjOeN65AxY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-13T04:56:59-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base.md",
       "title": "StarCraft 2: Clem DOOM DROPS Maru's Main Base!",
       "excerpt": "Clem versus Maru in an awesome match of Terran versus Terran in StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -1114,6 +1075,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-07T10:42:45-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
+      "title": "StarCraft 2: MECH TERRAN, BEST TERRAN? (Scarlett vs INnoVation)",
+      "excerpt": "Terran Mech has been on the rise again in StarCraft 2 at the professional level. After the new patch recently went live, it's obvious that with the changes to the Nydus Worm, Brood Lord, Infestor and Thor the maxed out Terran Mech army is once against a threat. In this game of pro level StarCraft 2 I",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=DpjOeN65AxY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DpjOeN65AxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DpjOeN65AxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-13T04:56:59-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-top-level-protoss-vs-terran-trap-vs-ty.md",
