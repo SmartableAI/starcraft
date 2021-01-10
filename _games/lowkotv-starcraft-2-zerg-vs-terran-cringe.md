@@ -3,7 +3,7 @@ title: "StarCraft 2: Zerg vs Terran CRINGE!"
 excerpt: "Silver League Zerg versus Terran cringe. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  While the game seems over early on into the match, the Terran does not quite scout where his opponent's final base is located fast enough.  If you have an awesome"
 originalUrl: https://youtube.com/watch?v=r7laPMA3jKQ
 type: video
-length: PT18M14S
+length: PT18M13S
 publishedDateTime: 2017-07-07T08:03:19Z
 heat: 52
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "e6bWjKtsE5ZW7EVNy4HDoQ9LsbqZslr1QYw/LUUHPfdGf5mci5/JjzzE3eCR6dSP8UI+nXcly1sppITzIbCqL5zVjKXHWzTH962rkOUuCWYGthp80v+SoimC14a+sSBQVVOa8qeK++wbSLqHqCyPiSv64tFAm9hms2q/0wTzCtyb6qzF/0F1OLNS4d3mqfSrgnfMbqv8y97cd1Pd+nhRnT5d0fmUdMyZ0mhEHBztKiR5oBlTV8JxeuDeFX2ImbuWXRwJQnfn3azttrpP3dt0bi6XmQrAzfnx3eWpH6NAXgrq26C/HYYubsxHobfXtB26yjr4d4tLWnqlllcQPs8WkUFUURGcsThkbnazXY0buOYfh4//C/SMYmqeq0lRALC7IOm0Sbou0lmwR8YNZuq0QzyhfAzRjzpRIxBg+oDSbTU=;digS4+diLmCHVRliM4JvBg=="
+secured: "gAmAgH2dM0UwhnBnijpdLSWMneUkpT4baihd31kl6Gym9C6VhPuhlqdoaJfxk2LnxAPdto1cfImCme83siK2O8Cj7yvKpxzUkgZV5hqBSYodqoG0FIggzsAh3zu99mg+NFocXKoD4p6kBlauoP5iQPF8ohtzUMX7DGB0uMDdLQV+F2GTi+vV3sY+wM1EG3blE2zE+Mg59CtaRvp4NxKXyvV1paWBa7oKC8ibiwe9l3MnjPG1+fMZ+Ab6TOWrJRRDBPSWdD6YevRfdxfoLEq800bNzCD9Ke8Jju3hB3PCDT2GrXTuctHZyCV0wPXjh5opvsXfmQhY6KYX1CyVDPzf60rGIQpArHWjPwYakMir9qdDce+p20vad29ExnNftls7xdeMnH0H/WXWr+AaidNGZttfiVVKkZUsqN2JdUfl8aE=;SITMMCZUcEhyTidZoAgg1g=="
 ---
 
