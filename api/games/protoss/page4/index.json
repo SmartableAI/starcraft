@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-old-school-strategies-parting-vs-ty.md",
-      "title": "StarCraft 2: OLD SCHOOL STRATEGIES! (PartinG vs TY)",
-      "excerpt": "Very fun best-of-3 series of top level StarCraft 2. In this series we see a variety of strategies from especially the Terran player. Protoss is forced to respond to cheeky Barracks placements, Thor drops and other aggressive Terran build orders.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-old-school-strategies-parting-vs-ty/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-old-school-strategies-parting-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=-SR9_kKJado",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-SR9_kKJado\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M14S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-SR9_kKJado/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-06T01:45:38-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-phenomenal-terran-vs-protoss.md",
       "title": "StarCraft 2: PHENOMENAL Terran vs Protoss!",
       "excerpt": "A really sick match between MaNa and SpeCial. Subscribe for more videos: http://lowko.tv/youtube MMA vs aLive: https://goo.gl/GW9L7H  In this match of professional Protoss vs Terran we have an intense back-and-forth between both progamers.  Support me on Patreon: http://www.patreon.com/lowkotv Join the",
@@ -197,45 +158,6 @@
       "publishedDateTime": "2018-07-24T03:45:26-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor.md",
-      "title": "StarCraft 2: REYNOR PLAYING PROTOSS?! (Bly vs Reynor)",
-      "excerpt": "Since there are not a lot of big offline tournaments on the horizon, a few SC2 pro gamers have decided to rank up their offraces over the last week or two in StarCraft 2. In the case of Reynor, one of the best Zerg players in the world, he has been playing a significant amount of Protoss and also Terran.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=WnOibyHGg00",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WnOibyHGg00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WnOibyHGg00/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-03T03:13:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-storm-drops-mana-vs-special.md",
       "title": "StarCraft 2: STORM DROPS! (MaNa vs SpeCial)",
       "excerpt": "Amazing game of professional Terran versus Protoss in StarCraft 2. This game is a constant back-and-forth between some of the best players outside of South Korea. One of the highlights are multiple storm drops that the Protoss player executes with a Warp Prism and several High Templar with Psionic Storm.",
@@ -273,6 +195,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-27T10:07:42-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear.md",
+      "title": "StarCraft 2: TACTICAL NUKES! (Cure vs Dear)",
+      "excerpt": "We don't see a lot of Tactical Nukes in Terran versus Protoss at the professional level of StarCraft 2. This is a very fun pro match of SC2 between Cure and Dear. Dear decides to open up with very quick Blink Stalkers and High Templar with Psionic Storm. As a response the Terran player decides to go",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tactical-nukes-cure-vs-dear/",
+      "originalUrl": "https://youtube.com/watch?v=1ZYgZ_qoMcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1ZYgZ_qoMcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1ZYgZ_qoMcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-19T03:14:36-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-terran-vs-protoss-cringe.md",
@@ -429,6 +390,45 @@
       "publishedDateTime": "2020-07-16T03:35:27-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats.md",
+      "title": "StarCraft 2: THE NEW NORMAL! (Reynor vs Stats)",
+      "excerpt": "Amazingly close game of professional StarCraft 2 between Reynor and Stats. This game starts off awkwardly as Reynor is forced right away to take his third base as his first expansion. Stats follows it up with a lethal Adept push but also a very late third base. The game very quickly turns into a chaotic",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=4vvY5jmWU58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vvY5jmWU58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vvY5jmWU58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-20T03:54:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-protoss-book-of-cheese.md",
       "title": "StarCraft 2: The Protoss Book of CHEESE!",
       "excerpt": "Pretty much every trick from the Protoss book of Cheese... Subscribe for more videos: http://lowko.tv/youtube Expanding in your opponents Natural: https://goo.gl/wtejwN  Some games are a little bit cheesy. Some games are more aggressive. This game is one of the most cheesy playstyles you can play as",
@@ -581,45 +581,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-15T02:41:47-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo.md",
-      "title": "StarCraft 2: WARP PRISMS & NYDUS WORMS! (Zest vs soO)",
-      "excerpt": "An awesome match of professional StarCraft 2 between Zest and soO. In this game soO decides to try to contain his opponent on just a few bases, using wave after wave after wave of Zerg units to keep the Protoss player from expanding. soO decides to focus on Nydus Worms to keep the Protoss player up the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=oRPBIb_vIm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRPBIb_vIm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oRPBIb_vIm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-30T05:01:40-07:00"
     },
     {
       "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
@@ -1032,6 +993,72 @@
       "publishedDateTime": "2020-03-25T04:09:52-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: Protoss Doctor Calls me......SICK! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-protoss-doctor-calls-mesick-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=aX-PxxUoyIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aX-PxxUoyIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M27S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aX-PxxUoyIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-29T03:12:20-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-protoss-proxy-tempest-rushes-me-wrong-choice-mate.md",
+      "title": "StarCraft 2: Protoss Proxy Tempest Rushes me. .WRONG CHOICE MATE!",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-protoss-proxy-tempest-rushes-me-wrong-choice-mate/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-protoss-proxy-tempest-rushes-me-wrong-choice-mate/",
+      "originalUrl": "https://youtube.com/watch?v=u2QmHNW8lFA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2QmHNW8lFA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M46S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u2QmHNW8lFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-03T04:22:38-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-proxy-nexus-warp-in-cannon-rushing-to-grandmaster-episode-3.md",
       "title": "StarCraft 2: Proxy Nexus Warp-in! - Cannon Rushing to Grandmaster - Episode 3",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 5 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
@@ -1064,39 +1091,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-29T05:14:09-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-trying-out-double-maxpax-proxy-gate-build-vs-terran.md",
-      "title": "StarCraft 2: Trying Out DOUBLE MaxPax Proxy Gate Build vs Terran!",
-      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-trying-out-double-maxpax-proxy-gate-build-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-trying-out-double-maxpax-proxy-gate-build-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=HC2KRB7VvCs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HC2KRB7VvCs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M47S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 51,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HC2KRB7VvCs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-23T05:05:12-07:00"
     }
   ],
   "nextPage": 5

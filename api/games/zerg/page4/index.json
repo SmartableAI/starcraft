@@ -4,6 +4,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up.md",
+      "title": "StarCraft 2: Terrans and Protosses RISE UP!",
+      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will begin to make videos featuring strategies,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/",
+      "originalUrl": "https://youtube.com/watch?v=QY1TLfKax58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QY1TLfKax58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58M53S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QY1TLfKax58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-16T05:28:38-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-battlecruisers-vs-mutalisks-reynor-vs-innovation.md",
       "title": "StarCraft 2: BATTLECRUISERS vs MUTALISKS! (Reynor vs INnoVation)",
       "excerpt": "Top-level game of professional StarCraft 2 between INnoVation and Reynor. In this game INnoVation starts off with a double Proxy Barracks Terran cheese, however he is forced to transition towards something more defensive after it gets scouted by the Zerg player. He decides to go straight into Battlecruiserrs",
@@ -41,46 +74,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-05T04:43:09-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty.md",
-      "title": "StarCraft 2: BLINK DARK TEMPLAR! (Zest vs TY)",
-      "excerpt": "Blink Dark Templar are becoming a more common strategy in StarCraft 2 at the professional level of Protoss versus Terran. In this game between Zest and TY the Protoss player decides to open up with a proxy Dark Shrine and goes for the Shadow Stride ability later on in this pro game.  PartinG vs Reynor:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty/",
-      "originalUrl": "https://youtube.com/watch?v=jYO4aLc05LQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYO4aLc05LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jYO4aLc05LQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-15T01:37:48-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett.md",
@@ -122,6 +115,45 @@
       "publishedDateTime": "2017-01-23T13:28:21-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats.md",
+      "title": "StarCraft 2: CRAZY NEW MAP - Purity and Industry! (Dark vs Stats)",
+      "excerpt": "Amazing game of Zerg versus Protoss at the highest level of StarCraft 2. Stats is also known as the Shield of Aiur and is one of the most succesful Protoss players of all time. Dark is the current World Champion of StarCraft 2 and as such is obviously amazing at playing Zerg. In this game they face off",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-crazy-new-map-purity-and-industry-dark-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=cKIouVThGPE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cKIouVThGPE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M32S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cKIouVThGPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-23T04:40:11-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-exceptional-zerg-vs-terran.md",
       "title": "StarCraft 2: EXCEPTIONAL Zerg vs Terran!",
       "excerpt": "The skill level of these games is becoming absolutely exceptional. Subscribe for more videos: http://lowko.tv/youtube How-to Nydus Rush: https://goo.gl/MEV5Vn  An awesome match of Zerg versus Terran. The game starts up very normally but quickly becomes an intense match that's essentially a battle between",
@@ -159,6 +191,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-09T01:45:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar.md",
+      "title": "StarCraft 2: FIGHTING FIRE WITH FIRE! (Cure vs Solar)",
+      "excerpt": "Fun best-of-3 series between Solar and Cure at the professional level of StarCraft 2. In this series we see Terran cheese, Terran Mech and Terran Bio out of the Terran player. The Zerg is forced to come up with a response to all these actions and plays differently in all the games. One such approach",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-fighting-fire-with-fire-cure-vs-solar/",
+      "originalUrl": "https://youtube.com/watch?v=-uN3Ik0vJCM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-uN3Ik0vJCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M13S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-uN3Ik0vJCM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-06T03:54:01-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-hero-dark-templar-ragnarok-vs-trap.md",
@@ -432,45 +502,6 @@
       "publishedDateTime": "2018-07-08T13:00:23-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor.md",
-      "title": "StarCraft 2: REYNOR PLAYING PROTOSS?! (Bly vs Reynor)",
-      "excerpt": "Since there are not a lot of big offline tournaments on the horizon, a few SC2 pro gamers have decided to rank up their offraces over the last week or two in StarCraft 2. In the case of Reynor, one of the best Zerg players in the world, he has been playing a significant amount of Protoss and also Terran.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-playing-protoss-bly-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=WnOibyHGg00",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WnOibyHGg00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WnOibyHGg00/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-03T03:13:26-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynor-vs-clem.md",
       "title": "StarCraft 2: REYNOR vs CLEM!",
       "excerpt": "Awesome game of Zerg versus Terran between Clem and Reynor. In this ZvT Reynor decides to go Mutalisks versus a Bio Terran player.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
@@ -586,6 +617,45 @@
       "publishedDateTime": "2018-07-30T02:52:40-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats.md",
+      "title": "StarCraft 2: THE NEW NORMAL! (Reynor vs Stats)",
+      "excerpt": "Amazingly close game of professional StarCraft 2 between Reynor and Stats. This game starts off awkwardly as Reynor is forced right away to take his third base as his first expansion. Stats follows it up with a lethal Adept push but also a very late third base. The game very quickly turns into a chaotic",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-normal-reynor-vs-stats/",
+      "originalUrl": "https://youtube.com/watch?v=4vvY5jmWU58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vvY5jmWU58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vvY5jmWU58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-20T03:54:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream.md",
       "title": "StarCraft 2: THE QUEEN PUSH! (Reynor vs Dream)",
       "excerpt": "Fun best-of-3 series of professional StarCraft 2. In this series of games between Reynor and Dream, we see both players going for a variety of build orders. Dream decides to focus his attention on Hellbat pushes and Battlecruisers, Reynor goes for Roaches, Ravagers and the Queen march.  Get more videos",
@@ -661,45 +731,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-02-14T04:56:07-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo.md",
-      "title": "StarCraft 2: WARP PRISMS & NYDUS WORMS! (Zest vs soO)",
-      "excerpt": "An awesome match of professional StarCraft 2 between Zest and soO. In this game soO decides to try to contain his opponent on just a few bases, using wave after wave after wave of Zerg units to keep the Protoss player from expanding. soO decides to focus on Nydus Worms to keep the Protoss player up the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-warp-prisms-nydus-worms-zest-vs-soo/",
-      "originalUrl": "https://youtube.com/watch?v=oRPBIb_vIm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oRPBIb_vIm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M23S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oRPBIb_vIm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-30T05:01:40-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-zerg-memes-dark-vs-solar.md",
@@ -973,6 +1004,39 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Ghost Splits vs Banelings! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=4CcnQeKLWs0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4CcnQeKLWs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4CcnQeKLWs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-06T05:35:25-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-to-grandmaster.md",
       "title": "StarCraft 2: MASS Infestors to Grandmaster!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will soon begin to make videos featuring",
@@ -1070,82 +1134,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-10-08T15:07:23-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul.md",
-      "title": "StarCraft 2: BANELING BUST BRUTALITY! (Lambo vs souL)",
-      "excerpt": "Baneling Busts are popular especially on the lower end of the ladder as one of the first build orders and strategies that Zerg players in StarCraft 2 learn. However that does not mean it's a strategy that is not viable at the professional level of SC2. In this Zerg versus Terran between Lambo and souL",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-baneling-bust-brutality-lambo-vs-soul/",
-      "originalUrl": "https://youtube.com/watch?v=i5ssM0-S5zQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i5ssM0-S5zQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i5ssM0-S5zQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-06T04:06:02-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match.md",
-      "title": "StarCraft 2: BLINK DARK TEMPLAR In A Pro Match?!",
-      "excerpt": "Shadow Stride, also known as the Dark Templar Blink upgrade, is one of the most underused upgrades in StarCraft 2. In this professional match that was played during the World Championship Series, Classic decides to give it a try versus one of the best Zergs in the world.  Get more videos & support my",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match/",
-      "originalUrl": "https://youtube.com/watch?v=vOJ9awZGegQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOJ9awZGegQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vOJ9awZGegQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-26T00:40:29-08:00"
     }
   ],
   "nextPage": 5
