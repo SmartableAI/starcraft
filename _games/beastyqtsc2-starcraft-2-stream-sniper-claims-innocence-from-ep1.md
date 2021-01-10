@@ -3,7 +3,7 @@ title: "StarCraft 2: Stream Sniper Claims Innocence (From Ep1)"
 excerpt: "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  In this episode we have a long discussion about"
 originalUrl: https://youtube.com/watch?v=efhBjjVEVr4
 type: video
-length: PT31M53S
+length: PT31M52S
 publishedDateTime: 2019-08-19T10:31:08Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rnNTAo6S1o1y9JSXWmFpJf1kaeU6nA+lRDP2fN3J0t75R36a5aX0O7hjorb3k/OLjEnbjVky97TjDYjOkeQW0pw+uPFSVpzLy+R4o0YfUnKqVbVWSetu1MpokFSb1gEFI+lL7JATZLuSNLhhD12BRXwJjRESmziFOdXtin60PwB6gihtj1PuWhIhoaTFiNv2ch/nD1zLDwCvycvfpMlh3f7RV12LR3lHceZyRFdMjEoI/nO5kKHZdEB+kiSq9Y9ql0Xd6YIF9OJzRhoaJeadQmMlMO+2ncjEyxAyPBVUFaYeNuWDeAdpuzYvbQ+KBdwKO4uLDxHCfZ3er+03v2ZSk1n1wYnLNsDV1OGIVbjCsZd2gG3aU6yrOjNO+dRuVQOdhIntpoGazq14ri0iNHNL5Vg4QFwUp62UljPs2j+Ve80=;n+DDAEvLEiV/Wb4he8Iw+A=="
+secured: "w9k6lVxO+gaoqTRgoxxhkmkTuQjUxe8qXKGxrgj3o8QDu+nAnat6Gj19/fWmiuIGmRqNNT+1PfsO0quMudkiykkGk8Df9uz3o2s7MNyRRXAtZpXHg1f0giT75Iseqx3cVghDqsYgq8djE92RejUu02fPnQLMirdG4xG3/RDKa0UtjUq+Jb7axVQqzkw2kMrUF31FF6M6jLvYDpxYlJC2SxC9JDoANTYQQ5CL3oYnfEkKLhQzC0BrCNQkIaCoX10KXo88nYaN55bTnHylrFG13Lhz6HcRJbTmDnzrOTEfYGWZNWyDTHw5yN1m4XnztjAWZClAyyMrw/arjwshrgIvh/H1S0sz+jmYDIugNoM8I355fKrNo9OyJt89USMdMlpJZZEteFrG7B8J5YRxVwwViiwjM3wEL68haOr0/fYoUgA=;oVJZzHvAXhjuW0Hs1b3yQw=="
 ---
 
