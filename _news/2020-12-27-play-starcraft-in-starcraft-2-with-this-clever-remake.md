@@ -2,9 +2,9 @@
 category: news
 title: "Play StarCraft in StarCraft 2 With This Clever Remake"
 excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
-publishedDateTime: 2020-12-26T22:51:00Z
-originalUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
-webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
+publishedDateTime: 2020-12-27T11:00:00Z
+originalUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
+webUrl: "https://uk.pcmag.com/games/130699/play-starcraft-in-starcraft-2-with-this-clever-remake"
 type: article
 quality: 37
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -264,6 +264,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "k6HQD9go75+Fe5MGZr9YAJL1ZliaLYF2HagSyUORrqYZNuVGZYStqV8QIe/gMfvDw5ULyx/jGVGe+MNncmlL6fe2pDnmeCDrDJ2nPCeiaRWVRlBW4JKW9V5QTyuyWw+T2vrIlfUNYHC2axrGn5E0ZDriDY+DmO0K9OoaSqxjDeZJoYvZtjIRmUPiKEd4P/K2dHW4duLPCQvheqxYd0mWkrTwl5T5qypZCd4aMNh+H6yQe5cKvcVd6J2Eu/otS2B2pqC/eMZLmH/qOEGhXuPgfhLrJbmWEOg0V9I0srMBysenQ6T9uxgQufz/C86YAbwCnzB6vi29bMCJG5wSa7rVNWzFT7wMmh2jKHWe+wKgbsY=;6o1s9yIi1gpffWa49xqYXA=="
+secured: "3nx6On49tRTHOLSI1yWizJ2to7U5R8RiZ5E8f0miRZZ9dkShCPsF2n/gL/Ms+47MDL3wLQqfJzwJ3YvwkCUo17JcUC1nrBR95/KsBVqJPTI1IgJ1mBmSQcSQ37OzXNcnRmL/GHEqITgn8HKFPxyL6HTnXW32qN80GjpOvPPNjA0i9RHzm0wZ8jA9fs7euagBhIXBsQWjNObCOvlhiWwuer06UqxtKIJSvFyQMrnZFwvABOQvp1KbbWhtuYuuWy8R1vEd4KRXQxb7FGFWfkLyRXc1i+7yEOfFc7JsQAuxKFMeECuc+1l0VEzFceMZr4Z9yjgku6GeqGfa6J3D09D6nRHuFUuHx3ghdl2ov/GIbAE=;SVTOEwhO0CwhZ41snQVSaw=="
 ---
 
