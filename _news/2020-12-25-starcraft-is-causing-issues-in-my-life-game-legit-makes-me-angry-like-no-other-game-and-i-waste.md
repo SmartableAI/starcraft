@@ -249,6 +249,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
+    publishedDateTime: 2020-12-31T23:29:00Z
+    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 37
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2006 Starcraft Homestead 242RKS"
     excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-07T08:01:00Z

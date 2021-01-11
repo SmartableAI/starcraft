@@ -1,23 +1,31 @@
 ---
 category: news
-title: "2018 Jayco Starcraft 26BH"
-excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-01-01T07:06:00Z
-originalUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
+publishedDateTime: 2020-12-31T23:29:00Z
+originalUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
+webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
@@ -247,20 +255,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
-    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
-    publishedDateTime: 2020-12-31T23:29:00Z
-    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
+  - title: "2018 Jayco Starcraft 26BH"
+    excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-01T07:06:00Z
+    webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: RVUSA.com
+      domain: rvusa.com
     quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "2006 Starcraft Homestead 242RKS"
     excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-07T08:01:00Z
@@ -273,6 +278,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "53J4EJGJ5V6Y1DcXJAQl9FAMhzbZ2+XzTGZrAPtKfwIjOFgtYDlWmpFbE0TY4hAEJ0phHjWHY7aJChqIf80r5p/Wal9aTv1VNCaZNQMODazM1lGEhdEFSt5paZC+UgrVHpwNspoJCAeOITKDrtWpq4YO94Ag//NZuUimmtZp1stonsGZC8S559JZ11XZf8fl76d5a/IBzNyvf3j2bwoHYipmGryzZ6gOjx9sfeJGqwsx4AtnYOBwe6Px8R7/hPOoOFuM383hGylFMzwxxrCIr/f7M8F5xrsUfrj7JrBf2kJv7idsdN5Rk+9ijBeB9T2IRzYAtnNItmNRJYQ/l7XLUPFmYGfc+HgOrMSE643oeiE=;aPcjG11BPrIm4ekLM8qTiA=="
+secured: "YnlU7RGKy7wd6+LRC5a8g1p+bFPY9edTazJ3ttPLWypoVPMD6t29d4w4GZeF7oY5RKDDHE98s5RJm3zXhkyFlkZj5rJCtwwv7hFy9Ua0tkFuT9lSZA3H6Q5ZunEk3AoCYq9WPJV0yt94UxgbJBaMo9lSSOLcTqnAXZGaoHal8/zz7hY7pwE7UmJ0E6fZwcJEdCyRimSMjv4BsMEGur7EgUbZfuQfypUNLnRedTEongHPtGlm/lxV57/X20g+SBQoC4CK57nopX7yA4V7ogcwEjrOfTZP3Kdmh3c+D9gWUJPa+RmMMzlObPJstiGn9DsGmTHxKCvTuktfT7ucHUdMQd/pCOslPvfDPFHdDpcJe5k=;pkrzp8vxH9cB7FhI8PUcug=="
 ---
 
