@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT49M44S
 publishedDateTime: 2020-09-19T08:08:03Z
-heat: 52
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uLw-YVtBtn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4+RGjRomyZhJQ67TFMd9H2VuSa3cMecfGIopKkSQc8scHW291RQKP1x9XaNldeUSABxZUjN5r0JVE338rwUkXEIsTWl7rEozU73JDKafTypuGi8FDeJh1wZX525nblnDf0FB/gkRBdTiJL+db0toBYZb5BdV2XMdc6VEn6OCNgqIYqS+NNqVC5AyD7YX/bXMDsqbJKWHW39kQAQ46OHNEOLv8coAupbFZRhBhXBPbkVX2hJZcbhfhK7pU6cSE1C2ztfVBjnQpktk0qc6HSpnCFVPuTfwp4JOQmSQgnxyFQHGG/LKMlG2YiEibo3hKjx+sXWsrloUlEFFRVA0jh1pquZDsxfeYbSwupIVPQumbOyS8R4mf1B4I+Jno5YAMQvB8P/Dnx51pQhiCbUP4g7j/3crymzwkFM5d6RMWlwy6LA=;N67A1of2dLC6wL1Aj/NU9Q=="
+secured: "moe+JIfuyu+YwDzch1exvgv6pkS0h8tL8+0OzlkPJ56Q2fvQDDl4t1Th4KfoxfMsW1rsYnlVxyT0OKaUzY+gOeAz8FSELwdK5RVj/yVdT0X+lGp2Ij0hHZKVEEa5z9NEGjNFAxFruaPns/3O6mI2y7cTqxY/XCoAul23dGkpoT1Rv4D1Heh2u6oDQKiZ4yTn27kqF4NMZYawy/Pv5/GB941yoL219LLAB8Ues16VTp12XtcC03tOC4+UNK7R5SIPfZm0zAehSAuAs2fbeKhVqkRHZfn3dagDPa/ZspL1VYRaVTwIybNEdKEgoctrVXsGYHt6UFmTrugAXbjVmd08ourJnvTlH1Dvv+VvSIyA4aYs4UFA6AIVNDladtGJZsXqCy/Lj/BDwGgen10R9lV3JzjVY/LCNda4wxryU/AvTxY=;nFnhrH3ihZjbPYVEU00pJA=="
 ---
 
