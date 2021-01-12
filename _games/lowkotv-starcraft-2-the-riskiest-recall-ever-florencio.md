@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-riskie
 type: video
 length: PT24M11S
 publishedDateTime: 2021-01-04T11:38:03Z
-heat: 173
+heat: 153
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aWvZn-oNiRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7LcHDX7IT7/UvwrvhXC0HDrUzuNIB36//s+922mua2IY+zYqvlykLcFRaFP0edisdebbHBYPXKFohyGdjPB6BjIY8EjYKgsN/5HVQbMyjhJrJMmdy1LIRYF4uLWZ9yVEKZnzrlb1SEtvGuZxXhDd0aYkqOFXwTqdjX7cNETPkjzw8pRZjMSoVXgAV9sc74ifVXF4SqTYsYz0dIz6Jo3yShKyyTVsuFazuVR9JZgcF/KqMz2v1luzI/YU+Tv3AfvwMVBtXquOVeCMu+eI4OGZYdSVpJgoUBIRke/9N1Wn5XXugSgYqThLC1KYulrwEgCk2bkPGKJZ+V8NbMMNke9WH4VFKKASWviXm87D0ph2xwNgIsyQgcmJosVdQ+69FVzQMKTPxu6tGX27Jys3JjL/B0nAomkXsi729qhTlCBeTig=;ZlEwr8ltVI53ERJ3G3YsPg=="
+secured: "x3XrFcwDLN4/jz1BEyiCwOCQrWpAWJTBXw7xtY19VAW/qtDnyAQHdGnx5OfhYM36EupXETX3M4UD0Vx7SPzH6mXx0IeGybOKIygif/gSXAQwGUncqDfCD7KztIYlrXDhsrqOSzADumlgxZNpVWDs+DCkJDUa67Q7LIIZaiZhopHv3i9t83R0b6HN/j4XkufbnI2he27B6js1kDifP2rVHwnycSJiO66E0BQFpGYmud8mYBI/ebk4ccVV46xFxDrVABHH9//3i+KOoCeESGRbvCxP6Bqomj96j8x14uftUuYgd7khUCPl5asR0Ol5W42JLFZaf8VrNZQ93FhS68BPKBxproyH2TmwvEraYLXo3MJeka+pyACJOgHhHODDc8Bv6vvxf7E3VWcK2e9RNOUlG+w//d+q/bHuTZ/kHA/naNc=;GKBuR9my2ecfV3nEVcIx4A=="
 ---
 

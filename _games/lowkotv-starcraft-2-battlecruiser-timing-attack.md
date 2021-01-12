@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=RcscPUq63YY
 type: video
 length: PT14M6S
 publishedDateTime: 2018-11-20T12:07:29Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RcscPUq63YY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pKSkymh8cd7TYH7KZAf0fOBhHFDYR1X6+6em8rEofydPc2enqN131U2txv8kXfN8PPzvT2E6kVHhaEU4KyEfQ1pmc8/rgweX4EPwlyWWGGL4bOkrr4+diEluD8i3sz/SbJivI9XJeLRKu7zqcP06kUFCpC7zH9k/PNRFUug6HMuqGsHwDT8afgm5jzaZP5weEKj3ThJr8rnYKl6RVPJa8j0ugxWWGz8+9Vr5KKiw5ThUoSD969Q6qDvQibW7eYA2i6/mkIsFg5Ow4OthgVmxOjxTlWRtyVuHeouL1BlbPY2FWWil6E9N7Ylt2uuk76pF6xzg2R6p5zmh2hfjNdheDTVmf3slKoJZdEPLQlyh/tIq+7JBkA/JstTw3OQvkR3eYr8gEpJzqAmT+Ua/iDK/Qxp8OgVzxsJEfMdPr3WQiAc=;SdQQSB+4PEOhd1tmmx/Bmw=="
+secured: "hzTls6VqjzmzDkof0imojY7bIrSbOg+AfeRSUwNu2RZ9cTtkPiCA1dn15UKeoYFUd8NMi4LG/a00Vz9zTDp+dvBpAcLJMEb96Z22tEZBTfGq4L67qWqA+AQOXlFYRtAprfizncwqS1ZpWk3FleMhinCyAEiutls+VuNR2yCyVtZYuvQHv7rnzprYhbcqCMZZZ9LMC9xleI5VIWA7PMNGCA/nQ2j4ht7jctm57g6UhhSrEmvFYwsP+7jY6ODQfKZ0pRhHjVpTdJ21AULs2BELHK1OmNkL7SmllukYR2+HnkOzoBOoP+99jt7PCnu/IUJq+h2NiB/zcRRn6n6U3k5qdZMnzNfrR6AR7rpVgk5tQgcZDREDB3fGIVScEtxUk5k37yFQB+eOTCtmi5RCZacF9UUCQtlvFp1Ic+AVjfU0BwA=;Hrjmy3Vy9YLqd5Q6ivI3rQ=="
 ---
 
