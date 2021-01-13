@@ -141,20 +141,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "ESL Pro Tour for StarCraft II and Warcraft III Returns for 2021 Season"
-    excerpt: "ESL Gaming has announced a full 2021/2022 tournament calendar for its ESL Pro Tour StarCraft II and Warcraft III. Both circuits will kick off in May at their own DreamHack events. The StarCraft II competition will conclude at IEM Katowice in ..."
-    publishedDateTime: 2020-12-24T17:37:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53295-esl-pro-tour-for-starcraft-ii-and-warcraft-iii-returns-for-2021-season"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-27T11:00:00Z
