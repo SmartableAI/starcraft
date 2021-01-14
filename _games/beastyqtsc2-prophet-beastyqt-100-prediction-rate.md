@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-1
 type: video
 length: PT35M15S
 publishedDateTime: 2020-10-13T11:50:46Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jM8Dxo+c0PfzXw9Zm4ORWXuVURlOlIoykCwWe4e4v9YQR2pYMmqixvaSR151dzZqLcbA6h9tnCMTHhIHBgfMSDQFDgFzXzJ6R7M2q1GtDh5fxIRP2LXK9dv4/m8SKip289XiXE15++jQCqjcTwBYKm6+R0jlasQVeWsHw6G39ZxB/U1g3OydXZ1uF/J19idBV8cXK7MC9iGd3GGeitRLf7DVaC8xltNGPBqrfqirqnLMFTcxmkXFeiPglG6HfqHESATrMH+bqxNQhw3SORSy6UpgWkpzq1spvlb4+Qnraxo36dYMwGAtm3ueDbMqNmaOPY8+GFZmbyoW9lcEfL14VvBwkwPLlG3P7NQ5JBQC9HxkDge1lUTtieYv34Gmc4QxMluRMeC7tX7CAjMlb8sZbcqoZkL34q18yJVUg0kx+3M=;wZ3TQPyZpfq15eeDPbLTvg=="
+secured: "aTWOQGrfp0JWfVpJYxryBx2oEW9y36hU2hxODGXqI1dNxces+IxAMtBGenpt+aGbYNjd2ecvwz2OAXY/yMObe3U7slJ0KC6I2TDh5VgoFUbilDgZ6AXwNTZa67O+wqJLEsgI+uFEgPBwKp+yqpWbVjRtOLDF1v8D2yuvNSoncP1C5nbfaFAbvIHKklR/f7aEMf6wtDkf9tM9/9XJlQRLzkDrWjUfL9El+v85L6kscNdJAVtywGe2bt9Oy+gWW1uPzfnstTQLGo9BtUG3sqOpme5KWpsmqPyyHfWnuRy2rifTcORu25UUULUnSyHIsMMzpXNvnEV1e/pD7tdRo5towAfY78bjheobO96QAFwGzspV56EDZ2xLeGpaUT3/yqqdXlwerJ7zzPbE21FzZhLKva9EI24H9Sa1mlQPlaKRgDo=;6a9SfIbkRlncQQ8Fx6nwhg=="
 ---
 
