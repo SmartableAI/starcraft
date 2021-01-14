@@ -124,20 +124,6 @@ related:
         width: 2560
         height: 1442
         isCached: true
-  - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
-    excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
-    publishedDateTime: 2020-12-25T10:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 41
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "2018 Starcraft Autumn Ridge 265BHS"
     excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-27T07:05:00Z

@@ -116,20 +116,6 @@ related:
         width: 2560
         height: 1442
         isCached: true
-  - title: "Starcraft is causing issues in my life. Game legit makes me angry like no other game and I waste"
-    excerpt: "So, long of the short, I am realizing I am starting to have a problem with this game. First, I really enjoy the game. It brings me a lot of entertainment no other way it seems other games can right now. Mainly due to the complexity of the game, where as it ..."
-    publishedDateTime: 2020-12-25T10:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53334-starcraft-is-causing-issues-in-my-life-game-legit-makes-me-angry-like-no-other-game-and-i-waste"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 41
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-27T11:00:00Z
