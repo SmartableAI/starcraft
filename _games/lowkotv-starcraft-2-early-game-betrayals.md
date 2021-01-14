@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-early-game
 type: video
 length: PT27M22S
 publishedDateTime: 2020-11-16T11:07:14Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h3E8siepLCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CNIq05VtefNMGB3iZKk6NQlqfGtZEFEimkZUdafPGv7/SYz9+tPF59HXUX5nyQsL5MDrxjLRA9pNkSVXkLKL8G8BYMqZU3iBruhtlRhhRDG3ZifAmm77V+rS7L2aIpvMuwRbQVwN/ZTGurcjy7gTS+XL3j2peU6x3xbkwRmkffYYvcD38lZHi7ofkaeRGIpuS08QSazyHJS/eQkW36fEK2rl5qUh1B4FkxL1amCMQ7KE7eqi6MBGGp+TWXxbLWb+IzCsNWtlEFfZhNkoyF3K0E/jyDIWY7ddKcYDbvStwEhHHckXHdQur9NVSrTEKn9TVWtOm5HfL7AK5Syt3HTXGKiFakZht7UO6elUbB7+R7CKIQZzvSRTjLbSoh6ZEngXw9FDc38eHcf97XqYj9n9civ52alVG/9zP24Muv5fBCY=;rF6yRkHfPdeV8sDGax+nuw=="
+secured: "KF+v8UT69oPXuohhL7QCvgXtWxPjl2UXs6bm5A6Fr758TjecJfac6E+JKhwgYhzwJ7aa4naJ2l8dmhTJpqRr4irWZah7kjfMxJlQxyoQgNTrxceSuwZpkEPbiUUA3viYcsoM9VUqL+q/7NM1a0YCaldPP+AQij8pUlF6ltV0saJmDmYsdIcvkl1r2cTtoRqA/yfjcJ7QEjKNDJhE+PYjOHW88UNiZXRw/oxJfziINSgBSzY3W+gprJ4mpJbk1D23EVW1D7CDfrjACDVRGzDv2X1WbrY2xQCx67w1/sBoKEcroHaX9MeMio3RIw/oh3iTZ9Gl118B59phYA9kFD5TIwByjKX9OWWBGOCQgD01jhxJb1IucFlCFZfcEHTJBPcOHXjBy9Da7AKEq0Bj5a6k9E1t+U5nqc1jmLxEpTKYJLQ=;I1pePaY2hQ+vOMbh9HcDxQ=="
 ---
 

@@ -3,7 +3,7 @@ title: "StarCraft 2: Combat Shield CLUTCH SNIPE!"
 excerpt: "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have"
 originalUrl: https://youtube.com/watch?v=pJRyZIOUuMY
 type: video
-length: PT35M46S
+length: PT35M45S
 publishedDateTime: 2019-12-24T11:32:28Z
 heat: 50
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uzhwp4dNUI64iJzFOnB9nCu7Iuk+DVLWUjAAvy4wluAi9LX2NDKsY82b6YNlOz7GKXiRHpIdLWwc7BULtnajdfJVcfSIrao4WjvOYpMvAZRBvOft1Vii5YKaNBOpAKB842KWfFVcyz7UUpZUhiVdRf+wd92LNbq7gl7rsF5fCSZbQw+RnO7obwo6ixlnbSo9NrWSOzndG91XIQO3Nyxwrf9bQmPXklNbk6G8sPBipH343W0XNMfE/rb7nCsKqIcyXxJOPllBi/IRB3TvO2YLgHYXGLnQmw0jeHLmiMseBDJORZ2KZZTCQOWqBzaJJFnj9M1PGw4xODfWLVjr3iBQvKs3KB1e07DGxhczYJB4sb3zabk044TYsYkFmr3bbnL0Iot2yX6NW1teHNRZ/ZaruIWe70IR6/GWMpMQDV+w4qE=;/JKjbEb720p5Pt3mtNIbCg=="
+secured: "WWwIGLu0mVTJ8Z95rAiSZoBnOWurJknflE9AbluKkuvnn8uFlqfQM5mGrgjlOF8XiHg88FuCv1tLrhqSnOE5ybYhO1UAJoDPBrkICcxarpr83ER+w4dEQ+9q5tMJNsBBg9uiz1ldolrCZzb1NM7bTZljlqN0S9MTcDgDKsZ1NESsgVziaQ0IOlchAx5IlF+nrvls6/Q7WVFQ7Hpt1r+1vxAxaWT1jUGmPEmq5lRDbqXB0QGwtohDGATg5HL+40kwDxMjVYU2ZU8burkbJPhgosir1f+xI1onFzzquTAnUPv/04rg9eZisun7IuqaQvrJu4FgOjwdyKpVajhJicPGnhz1FfAOEuuhgOOhHACVFCWJiyr5m8xFxhNzz3hUNrhlOaADWC4i0QhEQsLZ+ZRJtJcmRKzAzGhJSuy2Vl00gtA=;mibZ8xtLZ9QUsbQNTKI+gg=="
 ---
 
