@@ -159,37 +159,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop.md",
-      "title": "Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop",
-      "excerpt": "In today's Starcraft 2 guide/tutorial/gameplay we are looking at a protoss vs zerg match against pig. I utilize one of my favourite builds: the dark templar drop and it works like a charm. Check it out :)  Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop #starcraft2 #gameplay #ProtossVsZerg #guide",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/",
-      "originalUrl": "https://youtube.com/watch?v=HwefKkRqpaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HwefKkRqpaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M25S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-04T18:15:18-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HwefKkRqpaY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-protoss-safe-opening-stalker-sentry.md",
       "title": "Protoss vs Protoss - Safe Opening (stalker-sentry)",
       "excerpt": "Let's take a dive into some pvp tutorials this week. To get us into the midgame safely, let's make sure to start off with a safe opening!  Build Order: ---------------------------- 14 pylon 16 gate 17 gas 18 gas 19 gate 21 cyber 22 pylon @100% cyber    stalker + sentry    warp gate #stalker-stalker Nexus",
@@ -937,6 +906,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/W3AERGMCp4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop.md",
+      "title": "Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop",
+      "excerpt": "In today's Starcraft 2 guide/tutorial/gameplay we are looking at a protoss vs zerg match against pig. I utilize one of my favourite builds: the dark templar drop and it works like a charm. Check it out :)  Starcraft 2 Gameplay | Protoss vs Zerg Dark Templar Drop #starcraft2 #gameplay #ProtossVsZerg #guide",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-gameplay-protoss-vs-zerg-dark-templar-drop/",
+      "originalUrl": "https://youtube.com/watch?v=HwefKkRqpaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HwefKkRqpaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-04T18:15:18-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HwefKkRqpaY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
