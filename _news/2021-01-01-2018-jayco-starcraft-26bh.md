@@ -130,17 +130,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2021 Starcraft Autumn Ridge 26BH"
-    excerpt: "Starcraft Autumn Ridge 26BH Travel Trailer #07767 for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-12-25T07:05:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26bh-travel-trailer-2923901"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26bh-travel-trailer-2923901"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26bh-travel-trailer-2923901"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2018 Starcraft Autumn Ridge 265BHS"
     excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-27T07:05:00Z
