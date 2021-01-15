@@ -90,22 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
-    excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
-    publishedDateTime: 2020-12-26T17:35:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 53
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "2018 Starcraft Autumn Ridge 265BHS"
     excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-27T07:05:00Z

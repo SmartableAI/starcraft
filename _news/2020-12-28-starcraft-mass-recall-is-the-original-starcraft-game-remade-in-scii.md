@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starc
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
 type: article
 quality: 57
-heat: 357
+heat: 337
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Here’s the first StarCraft remade in StarCraft 2, and you can play it for free"
-    excerpt: "In an incredible piece of StarCraft-ception, some dedicated fans of the space game have remade the first in its own sequel. StarCraft: Mass Recall is a fully playable recreation of StarCraft and StarCraft: Brood War,"
-    publishedDateTime: 2020-12-26T17:35:00Z
-    webUrl: "https://www.pcgamesn.com/starcraft-remake-free"
-    ampWebUrl: "https://www.pcgamesn.com/starcraft-remake-free?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-remake-free?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 53
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/12/StarCraft2_MassRecall-1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
     excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
