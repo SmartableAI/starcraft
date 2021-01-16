@@ -2,6 +2,7 @@
 title: "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]"
 excerpt: "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay"
 originalUrl: https://youtube.com/watch?v=YS3zcgrN5IE
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/
 type: video
 price: Free
 length: PT19M56S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Fwqe+VpNNnZ/mFPCFQ3lWhm5mxBzJeEkLinJa3OouF5yUZjK3luprkul+Ben5u6Qe9l7VnlkWvcObgGQ2BrulJQNRl1L0LGdetzlaQDISj4qAM0dHhikLTLi8KGrdZA6HX+itA8vXvye8vTrTlYjHAbs2KhIdSBKwak3OM2Giz7WlMR5kq0MrE+ai2YCBmqjMqLUynhwlb3VTk1ijVksuS1fKfyUkl1AcqGdhJ+fyn3fjWM6SBBzePixOwZ2IzDSXon96qnbHSBGfIhPQyWTXRuFGXBZUHhPu45ZIrVFkEUV+ZXEvdbK6CcTHIy+mp3bfD4q68B6VcEv+NVZHJB/Rc691+sjMGOKdePQ3Jx1dIsXjB0E2NbxtEw6qe9DNv/HlSZLh1VjVwiPWIkLoSRSNQ==;5clvLndBBqXadfjU11guKA=="
+secured: "QZhIYRkpX4BoBUD7xEJp9+ZvkoFIVDkvoURXBtk2tvSv8QjktJuZrP02osJNh1kjXfzjBKSWpITFKltzYK0J4+rl2BBVUliKaYNbX8Th8dPY5aa+mej4fm2cFsFkW5B0VheCk159Kw0kGWztMGPAsF77FAZtzNyJzg8UTxZdPeV+85k2SUqPf5rBBGy+Q1jQFeyMOwEYReIacQ2c9PW6quwy5ZxpwwRY4xLtC02379L8rTr0jsSyagueZW6ElyTew2FAFw06nwPdIQyJAADD5IghUHCr5Anrnxfn+PBktP2y8HlPEWNX43VZlbXBfABccvlCO5cdZtMDC/g60Pw5A7/rILJiUnCPtwQy1R/eBZNd43GwD90NhnffXzu4ru2aWTomO5H/S5bY5vWZVM4fGw==;iGA4v9aLMk/ggu1SNuSZdw=="
 ---
 
