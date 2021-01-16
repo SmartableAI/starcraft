@@ -4,6 +4,121 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - Sticking to the Basics! (Terran Tutorial)",
+      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over how to play a defensive style with the Terran. Sticking to the basics is very important in order to improve long term. Often times it is easy to get caught up and to try and finish the game off immediately, where as in many situations it is much",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-sticking-to-the-basics-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=DKOX-eRmtJY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKOX-eRmtJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-05T09:06:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DKOX-eRmtJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks.md",
+      "title": "StarCraft 2: Legacy of the Void - Timing Attacks!",
+      "excerpt": "Zerg vs Terran build order: https://www.youtube.com/watch?v=SUOhXtYRl0o  Timing attacks are one of the most important subjects when it comes to StarCraft 2: Legacy of the Void. If you're looking to improve, you need to make sure you push out at the correct timing. However, in a lot of scenarios it is",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-timing-attacks/",
+      "originalUrl": "https://youtube.com/watch?v=A8LWvf6Sxl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8LWvf6Sxl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-29T02:34:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A8LWvf6Sxl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-trying-out-new-strategies.md",
+      "title": "StarCraft 2: Legacy of the Void - Trying Out New Strategies!",
+      "excerpt": "In this StarCraft 2: Legacy of the Void Protoss live game I play a game of Protoss versus Zerg where I play a less common strategy. I want to try out something new, to broaden my view of the game and to see if something as random as an eight gateway all-in could work out.  Support me on Patreon: http://patreon.com/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-trying-out-new-strategies/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-trying-out-new-strategies/",
+      "originalUrl": "https://youtube.com/watch?v=ai2yUq5aG4o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ai2yUq5aG4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M22S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-26T03:56:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ai2yUq5aG4o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-zerg-build-order-guide.md",
       "title": "StarCraft 2: Legacy of the Void - Zerg Build Order! (Guide)",
       "excerpt": "StarCraft 2: Legacy of the Void is currently in beta. That means that there are things that will be changing to the game that may mean that you will have to adjust the build order to the new situation. On top of that, there is likely still room for optimization with this build order as well. Use it,",
@@ -995,99 +1110,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/29YNS1BFWzM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-zerg-v-protoss-build-order-updated-2018.md",
-      "title": "Learn Starcraft - Zerg v Protoss Build Order! (Updated 2018)",
-      "excerpt": "A basic build to scout and react to a Protoss, and then overwhelm them with the swarm! Meant for lower level players looking for direction, not higher level looking for the dankest meta. -- Watch live at https://www.twitch.tv/wintergaming",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-zerg-v-protoss-build-order-updated-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-zerg-v-protoss-build-order-updated-2018/",
-      "originalUrl": "https://youtube.com/watch?v=rct_NjAc8Wk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rct_NjAc8Wk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M41S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-20T04:21:36-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rct_NjAc8Wk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2.md",
-      "title": "Learn to play Starcraft - Basic Guide for ALL RACES (updated 2017) #2",
-      "excerpt": "Starcraft 2: Legacy of the Void -  Send replays: winterreplays@gmail.com ( -- Watch live at https://www.twitch.tv/wintergaming",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017-2/",
-      "originalUrl": "https://youtube.com/watch?v=GUeqi7vEDvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GUeqi7vEDvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H28M37S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:08:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GUeqi7vEDvI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017.md",
-      "title": "Learn to play Starcraft - Basic Guide for ALL RACES (updated 2017)",
-      "excerpt": "A live guide to Starcraft 2: Legacy of the Void - Covering the basics and build orders for all of the races, and covering the important decisions to be made early in the game.  Not a step by step guide but a demonstration once you have the very basics of the units and races!",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017/",
-      "originalUrl": "https://youtube.com/watch?v=xufRFqlamM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xufRFqlamM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H42M46S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:09:41-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xufRFqlamM4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

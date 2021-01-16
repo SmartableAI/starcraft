@@ -4,6 +4,68 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2.md",
+      "title": "Protoss vs Zerg | Example game vs Grandmaster Neuro [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 lesson I go over a game I played vs a high level grandmaster zerg using the double stargate phoenix build I showed a few days ago.   Protoss vs Zerg | Example game vs Grandmaster Neuro #StarCraft2 #SC2 #RTS #Protoss #PvZ #neuro   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-example-game-vs-grandmaster-neuro-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=D0l-lb0zdGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0l-lb0zdGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M35S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-29T13:18:52-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D0l-lb0zdGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2.md",
+      "title": "Protoss vs Zerg(pvz) | Scouting and Early Game Basics [starcraft 2]",
+      "excerpt": "Starcraft 2: Protoss vs Zerg | Scouting and Early Game Basics In this guide we take a look at how to scout in the protoss vs zerg matchup in starcraft 2. What you need to be looking for at certain times and what they mean! Enjoy~  #starcraft #pvz #scouting #protoss #vs zerg #starcraft 2 #sc2  Interested",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=W3AERGMCp4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W3AERGMCp4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-11T10:56:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W3AERGMCp4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful.md",
       "title": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL",
       "excerpt": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL In this Starcraft 2 guide we take a look at one of the strongest builds in the current meta. We begin with a 12 adept attack which is sometimes also followed up with a dt shrine before teching into the mid-game.  #protoss",
@@ -636,6 +698,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random.md",
+      "title": "Why you should place your PYLON on the HIGHGROUND vs RANDOM",
+      "excerpt": "This random player tried to cheese me after forcing me to place my pylon in an undesirable position. He gets really toxic afterwards, enjoy!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons?",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/",
+      "originalUrl": "https://youtube.com/watch?v=6Aq1oBZWDTc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Aq1oBZWDTc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-03T11:57:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Aq1oBZWDTc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-zest-glaives-vs-a-progamer-i-got-owned-maybe-.md",
       "title": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe ;)",
       "excerpt": "Zest Glaives vs a PROGAMER?! I got OWNED... maybe... In this Starcraft 2 guide we take a look at an example replay of the build we learned yesterday! I had a hard time finding a good opponent to show you guys an example but after dieing to cannon rushes many time, I found one: previous progamer golden.",
@@ -902,126 +995,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to.md",
-      "title": "StarCraft 2: Easy Terran Build Order Versus Protoss (Guide / Tutorial / How-To)",
-      "excerpt": "How to beat Protoss as Terran in StarCraft 2: Heart of the Swarm. StarCraft 2 Build Order guide for Terran.   Reaper Expand 10 Supply Depot 12 Barracks 12 Refinery  @Barracks: Orbital Command + Reaper @Reaper: 2 SCV's off gas + Reactor on the Barracks  17 Command Center 18 Supply Depot  Transition to",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/",
-      "originalUrl": "https://youtube.com/watch?v=GYI4EANKDCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GYI4EANKDCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-11-17T10:22:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GYI4EANKDCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide.md",
-      "title": "StarCraft 2: Legacy of the Void - Cheesy Zerg vs Protoss Build Order! (Zerg Guide)",
-      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a cheesy Zerg versus Protoss build order that works extremely well on Prion Terraces. The basic idea is to hard counter the Protoss strategy of going for a quick expansion, by using the Golden Minerals to your advantage.  Going for a quick double",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-cheesy-zerg-vs-protoss-build-order-zerg-guide/",
-      "originalUrl": "https://youtube.com/watch?v=FbGasjn4VuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FbGasjn4VuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-04-16T08:32:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FbGasjn4VuY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide.md",
-      "title": "StarCraft 2: Legacy of the Void - Easy Protoss vs Terran All-In Build Order! (Protoss Guide)",
-      "excerpt": "In this StarCraft 2: Legacy of the Void video I go over a powerful all-in that is easy to execute for Protoss players. This Protoss versus Terran all-in strategy focuses on getting a mass of Adepts, which usually can be used to overwhelm your opponent. By pushing out right when multiple upgrades finish",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-easy-protoss-vs-terran-all-in-build-order-protoss-guide/",
-      "originalUrl": "https://youtube.com/watch?v=OnBQz4z1qEI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OnBQz4z1qEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M38S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-11T13:42:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OnBQz4z1qEI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Protoss"
       ]
     }
