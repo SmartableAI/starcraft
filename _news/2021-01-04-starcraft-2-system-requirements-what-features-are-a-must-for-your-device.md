@@ -74,33 +74,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Starcraft Mass Recall is a Starcraft Remake in Starcraft 2, Version 8.0 available for download"
-    excerpt: "A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it."
-    publishedDateTime: 2020-12-27T07:32:00Z
-    webUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/"
-    ampWebUrl: "https://www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
-    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/starcraft-mass-recall-starcraft-remake-version-8-0-download/amp/"
-    type: article
-    provider:
-      name: Dark Side Of Gaming
-      domain: dsogaming.com
-    quality: 45
-    images:
-      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-scaled.jpg"
-        width: 2560
-        height: 1442
-        isCached: true
-  - title: "2018 Starcraft Autumn Ridge 265BHS"
-    excerpt: "Starcraft Autumn Ridge 265BHS Fifth Wheel #UCB5133 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-12-27T07:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-265bhs-fifth-wheel-2924455"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-27T11:00:00Z
@@ -114,20 +87,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_421m.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tag Archives: Starcraft Mass Recall"
-    excerpt: "Starcraft fans, here is something special for you today. A team of modders is working on a Starcraft Remake in Starcraft 2, and has released a brand new version of it. Continue reading Starcraft ..."
-    publishedDateTime: 2020-12-27T07:32:00Z
-    webUrl: "https://www.dsogaming.com/tag/starcraft-mass-recall/"
-    type: article
-    provider:
-      name: Dark Side Of Gaming
-      domain: dsogaming.com
-    quality: 37
-    images:
-      - url: "https://www.dsogaming.com/wp-content/uploads/2020/02/StarCraft-logo-672x372.jpg"
-        width: 672
-        height: 372
         isCached: true
   - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
     excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
