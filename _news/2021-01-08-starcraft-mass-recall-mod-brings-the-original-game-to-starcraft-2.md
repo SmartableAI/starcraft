@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
 cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: CBR
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft: Mass Recall is the original StarCraft game remade in SCII"
-    excerpt: "If you’ve been wanting to go back to the original StarCraft story but too put off by the game’s dated graphics, then this fan-made StarCraft: Mass Recall is for you. StarCraft: Mass Recall is a fan-made campaign on StarCraft II Both StarCraft II and the original StarCraft games are both already ancient by today’s standards,"
-    publishedDateTime: 2020-12-28T15:26:00Z
-    webUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/"
-    ampWebUrl: "https://clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
-    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii/amp/"
-    type: article
-    provider:
-      name: ClutchPoints
-      domain: clutchpoints.com
-    quality: 57
-    images:
-      - url: "https://clutchpoints.com/wp-content/uploads/2020/12/starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii-1024x574.jpg"
-        width: 1024
-        height: 574
-        isCached: true
-  - title: "StarCraft 2 System Requirements: What Features Are A Must For Your Device"
-    excerpt: "Check this article to know about starcraft 2 system requirements related to this science fiction real-time strategic video game from Blizzard Entertainment."
-    publishedDateTime: 2021-01-04T12:19:00Z
-    webUrl: "https://www.republicworld.com/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/starcraft-2-system-requirements-what-features-are-a-must-for-your-device.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 56
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/kyqgu21bfd5om3w5_1609431978.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
-        isCached: true
   - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
     excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
     publishedDateTime: 2020-12-28T22:06:00Z
@@ -74,65 +42,12 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-29T11:48:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846312"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 37
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-30T01:42:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 37
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "2018 Starcraft Comet 16KS"
     excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-31T07:06:00Z
     webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
     ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
     cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
-    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
-    publishedDateTime: 2020-12-30T16:06:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "2018 Jayco Starcraft 26BH"
-    excerpt: "Jayco Starcraft 26BH Travel Trailer #12375 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-01-01T07:06:00Z
-    webUrl: "https://www.rvusa.com/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-jayco-starcraft-26bh-travel-trailer-2927163"
     type: article
     provider:
       name: RVUSA.com
@@ -158,6 +73,17 @@ related:
     webUrl: "https://www.rvusa.com/2006-starcraft-homestead-242rks-travel-trailer-2930155"
     ampWebUrl: "https://www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
     cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2006-starcraft-homestead-242rks-travel-trailer-2930155"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+  - title: "2021 Starcraft Autumn Ridge Outfitter 19BH"
+    excerpt: "Starcraft Autumn Ridge Outfitter 19BH Travel Trailer #128829 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-14T08:03:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-outfitter-19bh-travel-trailer-2935505"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-19bh-travel-trailer-2935505"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-19bh-travel-trailer-2935505"
     type: article
     provider:
       name: RVUSA.com

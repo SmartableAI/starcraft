@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-08-starcraft-mass-recall-mod-brings-the-original-game-to-starcraft-2.md",
+      "title": "Starcraft: Mass Recall Mod Brings the Original Game to Starcraft 2",
+      "excerpt": "The Mass Recall mod for StarCraft II lets fans relive the original game's campaign and gameplay with a much more modern coat of paint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/starcraft-mass-recall-mod/",
+      "originalUrl": "https://www.cbr.com/starcraft-mass-recall-mod/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/StarCraft-Mass-Recall-Feature.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/starcraft-mass-recall-mod/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/",
+      "publishedDateTime": "2021-01-07T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-starcraft-mass-recall-is-the-original-starcraft-game-remade-in-scii.md",
       "title": "StarCraft: Mass Recall is the original StarCraft game remade in SCII",
       "excerpt": "If you’ve been wanting to go back to the original StarCraft story but too put off by the game’s dated graphics, then this fan-made StarCraft: Mass Recall is for you. StarCraft: Mass Recall is a fan-made campaign on StarCraft II Both StarCraft II and the original StarCraft games are both already ancient by today’s standards,",
@@ -1102,57 +1144,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-04T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-iii-legacy-of-the-void.md",
-      "title": "Reflections on a Decade: The Best Games of Competitive StarCraft II, Part III: Legacy of the Void",
-      "excerpt": "Ten years of StarCraft II. Ten years of truly unforgettable esports.",
-      "sourceUrl": null,
-      "webUrl": "https://news.blizzard.com/en-us/starcraft2/23485204/reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-iii-legacy-of-the-void",
-      "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23485204/reflections-on-a-decade-the-best-games-of-competitive-starcraft-ii-part-iii-legacy-of-the-void",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ga/GA3HR2WJELL11595530752347.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",
