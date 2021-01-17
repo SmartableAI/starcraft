@@ -4,7 +4,7 @@ excerpt: "A build as each race versus Zerg! These are general build guides, not 
 originalUrl: https://youtube.com/watch?v=yy1fhaHPAPM
 type: video
 price: Free
-length: PT35M21S
+length: PT35M20S
 publishedDateTime: 2018-09-21T22:07:28Z
 heat: 50
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "I8v8w8lgRecgrTbYvcu5H/zDVJjFcTzhqYWBulC1ic0YhmAo3flaesSdNnTvj26OkW7wijRO01lYJixu/VZr6bLsq548XQzCAaa+io/as+CKj7wci0fIWWu28EV2feor0/v1e3cfFu/lh0U20k7BO5AobiKuB+IpYYQV5lG8ndiZqNCtuR3cXH81+s8ETZbTTHkzvKv1Yf1r4ajTMN4NkdN9OKWMeQfo1kNc5NVGoH+s5B9MdBo0qpwb+2kwcsM4XMBxxfRR57BwFfaSpSpUnB7iEFHgUesJbavPgbx8A3WSes+RtH9jle74MZV8vwITJtK1bm2FFzRFn+miDalrQXc8KvtV+81e7jZ4xF8mcRTDVhmZXSvfNqsmxsTckq7dH05E22W1QvTBsF0v1zlq72ku6dEtoO4uCPjVBehjdMI=;V7heuHNw5TQWodJsCxA6qw=="
+secured: "SIGIhjhilRIAmb1TTIj1DdXvQYGpriwg2qP+bfFUN71TH4wf1qL0sStpC+5tKzM2gqr4PW+N27SGkXHaQNb23PwoftGSnA9cPBj4pVMyki9sm3C2BntCQPtVJ3UcMs34wkXjs12ky2EVwB6tST9b3YDDLN5hvU+nd/QbqKfJwRX+TsWb5+R5C853Pw2V+mgJ5DWp77Y4grkeq9KdCi60SB2JwgiNQvzikMme2y1emcC3G8bjl/xZmvfUsXqOXajr5FFO1O3pWcJ3weBcedTkTL/mu2RngOEWTMMRG3Fuvnj8KqB0XyzO6g9gw+15C+ZXpiScyL9GX9fLP7UflepuwnORhECDyZEwRF0Qxg1ejQABnKPaMZJSYVtMl0arPV8b6ZFLGL2QNVNTorHDzLqIFi9aZfBTLH55iFmgS33BeZ8=;Efgnvqdm0DfZ8xdpKHcWGw=="
 ---
 
