@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbr.com/starcraft-mass-recall-mod/amp/"
 cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/starcraft-mass-recall-mod/amp/"
 type: article
 quality: 57
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
-    excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
-    publishedDateTime: 2020-12-28T22:06:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/starcraft-mass-recall-mod-offers-sc1-and-brood-war-campaign-on-ne/z92ab4"
-    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=10932"
-    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=10932"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 55
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "2018 Starcraft Comet 16KS"
     excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2020-12-31T07:06:00Z

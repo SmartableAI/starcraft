@@ -36,22 +36,6 @@ related:
         width: 1400
         height: 700
         isCached: true
-  - title: "StarCraft: Mass Recall Mod Offers SC1 and Brood War Campaign on New Engine"
-    excerpt: "Mass Recall mod, which enables us to complete the story campaigns of the original StarCraft and the Brood War expansion using the free edition of the second installment, has been released."
-    publishedDateTime: 2020-12-28T22:06:00Z
-    webUrl: "https://www.gamepressure.com/newsroom/starcraft-mass-recall-mod-offers-sc1-and-brood-war-campaign-on-ne/z92ab4"
-    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=10932"
-    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=10932"
-    type: article
-    provider:
-      name: XCOM 2 Game Guide
-      domain: gamepressure.com
-    quality: 55
-    images:
-      - url: "https://cdn.gracza.pl/i_gp/h/22/346859807.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-31T23:29:00Z
