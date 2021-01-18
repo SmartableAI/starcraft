@@ -24,19 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "‘StarCraft’ playable for free in ‘StarCraft II’ thanks to fan mod"
-    excerpt: "Dedicated StarCraft fans have remade the campaigns of StarCraft and StarCraft: Broodwar in Starcraft II. StarCraft Mass Recall is a fan made remake that has been made available for free since its ..."
-    publishedDateTime: 2020-12-30T01:42:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/fan-made-mod-starcraft-playable-free-starcraft-ii-2846532"
+  - title: "Awesome LEGO Starcraft Terran Battlecruiser"
+    excerpt: "Ah, seeing this Terran Battlecruiser takes me back to my Zerg-killing days. A true Starcraft fan built this awesome LEGO replica and was kind enough to post some photos. Thanks Jerac!"
+    publishedDateTime: 2020-12-31T00:00:00Z
+    webUrl: "https://www.odditycentral.com/pics/awesome-lego-starcraft-terran-battlecruiser.html"
     type: article
     provider:
-      name: NME
-      domain: nme.com
+      name: Oddity Central
+      domain: odditycentral.com
+    quality: 69
+    images:
+      - url: "https://www.odditycentral.com/wp-content/uploads/2021/01/snakes-750x489.jpg"
+        width: 750
+        height: 489
+        isCached: true
+  - title: "2018 Starcraft Comet 16KS"
+    excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2020-12-31T07:06:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
+    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
+    publishedDateTime: 2020-12-31T23:29:00Z
+    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
     quality: 37
     images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/102020-Starcraft-II-Blizzard-Entertainment.jpg"
-        width: 2000
-        height: 1270
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "GdjmncTPhY0TWB2ngmm7gzgzdGdWDEfTSFTSWyLOWEcL1JAJsXUyhSq228CusED0XVxJPjtlRcSxwE+TzYG6vztMu1mxfZmUXFgAf4TbMQo4TMOIsq7gM8ooDdHoes4hbL28GCgX9jF2w+/HTfkNrmNzSinvoRZI4oVK515NI/CU1Sm19QzEL4az3LYkc+EDV98ungOTcX1TrWEn35ub1HS2gQwKwgZsTx6ZrZdfeZUTU4/dU9dg+6Ec1rqYJMdEdt5IXml5/o04AGZ/u5EXTTWBbeui5MnrEIya7UH2reM3FDspHjuylgXzDr73ODs1Jq7qIGLBbJQtQJ+03KqwdUL+uZr1pSJpG4BWR+ZwO3A=;k8cjQZrNlJOjrxoGNtvYGQ=="
