@@ -2,6 +2,7 @@
 title: "StarCraft 2: THE NUKE DREAM! (Viewer Games)"
 excerpt: "Three viewer submitted games of StarCraft 2 with some of the best/worst Nukes in games I've seen. This video includes a Platinum League match of Protoss versus Protoss, a Gold League match of 2v2 and a Silver League game of Terran versus Terran.  Submit your own games (please only submit your best) to"
 originalUrl: https://youtube.com/watch?v=WgG_32aY-S8
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-nuke-dream-viewer-games/
 type: video
 length: PT37M35S
 publishedDateTime: 2021-01-18T12:06:10Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "g5PNw+qj0e+FFMbEF4NWGhSKqT7THl8ipbe9b3BeC2YUg+J1s1WmXUxzyHQlyj46NMUK8yq7O8WoMncPRF+l+PjWrGb/bMpIwKzKcfHGT7qygT7QF26vYjAMaqMwV4Soj+zs6Qa9U7QSUr7X6HO+w9HP+PpeaMdZhF3LDAJiEpMXRfURo/3v23En1RWyjELYxGaYh4/e6wRXohK9CO+Ylia61H5dUn+dMmrUPs3SXIWMKdiQzv2OXppHI59Rqt/XkKcQ2em9WxP+T5/T5/fzcYRbAdodT43OQRYK0LXwLWG+0xBRKkLKjVnLzwwDCzhLf4jRHxSiH2Hpg1dbIu9tAo5OSmI9k2OkvKMUlIRI3layrIQ0afqVRmZFSjAem95uCJ/VhO7iqQb0YA+os5RUgQ==;RJm9Sr+p7omysA4vli+YMw=="
+secured: "ZPbJWy015T4BI+8Kv45bzbO5DzTiwQ5uiqe1B0qYWkA0c+oV1g6Ak3eL+KX6EmxrxrMyhUYck5yNIe+xG1AfuVobOQzCend3K7ZEFpOQtCFp+guxqXajjpY/Psu5ZfHEyUSzEDn5aF1rlg14dKB9RKbw/re9X2dZQ07tb+fuDPLkkepc8NFCx5Hr6q6mUEWMZ+DbWjZozJorzpOH+p5JLgNswtk7iPZ0egj7KeJJ/DmlYabk/q7SHZonkQUZbosHb2rMu4mI4DE9mm1PDeq1szzjAN+EaWhSUXtzkvj7w9PEHpnik3SNSckmBKsT5VYNaiNKcOoBSB0YVf0Ae+C73hpP9LHObNt/HlcAWXTT2YKY5gFwEFQNV9/OJlZHXBM5SM/8lgrIm/SbpGeO1BWa5g==;KkKSwo5xSpqiOC9YzBIhlA=="
 ---
 
