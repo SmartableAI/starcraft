@@ -7,7 +7,7 @@ originalUrl: "https://www.odditycentral.com/pics/awesome-lego-starcraft-terran-b
 webUrl: "https://www.odditycentral.com/pics/awesome-lego-starcraft-terran-battlecruiser.html"
 type: article
 quality: 69
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
-    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
-    publishedDateTime: 2020-12-30T16:06:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
     excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
     publishedDateTime: 2020-12-31T23:29:00Z

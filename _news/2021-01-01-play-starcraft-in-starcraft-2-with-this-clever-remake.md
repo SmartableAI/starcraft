@@ -53,20 +53,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Original StarCraft Gets Remake (Inside StarCraft 2)"
-    excerpt: "StarCraft: Remastered is a fine way to experience the original StarCraft and Brood War campaigns, but it's got a few marks against it. First, you gotta pay for it, which in these trying times can be a big ask for some people, and second because it's ..."
-    publishedDateTime: 2020-12-30T16:06:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53390-original-starcraft-gets-remake-inside-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YnlU7RGKy7wd6+LRC5a8g1p+bFPY9edTazJ3ttPLWypoVPMD6t29d4w4GZeF7oY5RKDDHE98s5RJm3zXhkyFlkZj5rJCtwwv7hFy9Ua0tkFuT9lSZA3H6Q5ZunEk3AoCYq9WPJV0yt94UxgbJBaMo9lSSOLcTqnAXZGaoHal8/zz7hY7pwE7UmJ0E6fZwcJEdCyRimSMjv4BsMEGur7EgUbZfuQfypUNLnRedTEongHPtGlm/lxV57/X20g+SBQoC4CK57nopX7yA4V7ogcwEjrOfTZP3Kdmh3c+D9gWUJPa+RmMMzlObPJstiGn9DsGmTHxKCvTuktfT7ucHUdMQd/pCOslPvfDPFHdDpcJe5k=;pkrzp8vxH9cB7FhI8PUcug=="
 ---
