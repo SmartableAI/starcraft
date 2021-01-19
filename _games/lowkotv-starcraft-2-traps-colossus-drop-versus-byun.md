@@ -2,6 +2,7 @@
 title: "StarCraft 2: Trap's COLOSSUS DROP Versus ByuN!"
 excerpt: "It doesn't get much higher level than ByuN versus Trap when it comes to the Terran versus Protoss matchup in StarCraft 2. In this best-of-3 series we see a variety of strategies and approaches to the game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=ISPK_eWX3ls
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-traps-colossus-drop-versus-byun/
 type: video
 length: PT36M20S
 publishedDateTime: 2021-01-19T11:58:35Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o1ep5jD3Rg4ONfStlEloN2HgB9L0sGbGPVoVnJiqvbWLP+APs5ejgOSoW4l8MisCzeV+utkPcq0RaxC45eCrZuM7ybVb8eZ55qSmjKgYb6jmXPTKwzsLFB/6HXr1ehgsKttxBvRPlO97k8PurVjeEmobVJlsAYhY5FMLQh5gd1UetQDfhurgTAd6GpTPET7l7RFMuoKJVqmpVgjukV0UIqMtvkbeHEtKI5J/qbLQsTguxeixwXwMA3Lf17WiaVrofwVdcqK9lYjuOIIyyY6eJzWhUOYrb4EGRq/wzcTMyo1JDjuTGaZF3KunCB1hG28SIsMpbov9vy5TwbHx5CPa5XmC+H65Hdl/dZpvXs05IACIGRUQwwjD26BY+3xIVlSFi9MiNiSSpV7vvZgzCOl2uw==;8G+U5wr4HcSTHTORG+kY/w=="
+secured: "WS2PBVsxAxJ3fUNmjf0ycFp47zju9brBY3ZsodFN3Vtxdl06W/E2tO+M0MM6VXh4ZgFjcKDDjDHKThChhlKNVCr9Ehsorc43qp9ZBfQZv2zIEngZbNLBssbPV1pbRmMdlxQGIAx/PtxG3LZCgp2BhBySHSOS9W63CkZknXt7a5iUzc/wC1AuR8xx4cvrmTabD/zjETGdpd7Y5VHURy1fHD+eGzX0S9psbwHKeFI8VrLyduHDUVXQ4CurxSXg1PinrnDkbAOZq8eFu2sXE+okp4WqWBzbzKLEzqsQamY4fUi8Z6NlYtJ3hUtVYYN+WHgyfLmwUV+9mwh9gkRniMYxnhdGoHBbhCBwxdRqJsuNURScToKhKQxdBcqdBrx7Irx+XGKhphdVdxsW2PTc/32j+g==;aui4lzHQvcaFtudHcPXFfA=="
 ---
 
