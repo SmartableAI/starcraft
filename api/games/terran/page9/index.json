@@ -623,6 +623,45 @@
       "publishedDateTime": "2019-03-25T06:03:11-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-parting-vs-gumiho.md",
+      "title": "StarCraft 2: PartinG vs GuMiho!",
+      "excerpt": "A great game of professional StarCraft 2 between PartinG and GuMiho. A clash of playstyles, as PartinG likes being out on the map and being aggressive, where as GuMiho generally speaking plays much more defensively.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-vs-gumiho/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-parting-vs-gumiho/",
+      "originalUrl": "https://youtube.com/watch?v=v3cvwKw4voM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v3cvwKw4voM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M45S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v3cvwKw4voM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-31T01:41:02-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-playing-terran-like-a-zerg.md",
       "title": "StarCraft 2: PLAYING TERRAN LIKE A ZERG?!",
       "excerpt": "Serral vs TaeJa in a pro match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran build order: https://goo.gl/DKGTSS  TaeJa recently got back to StarCraft 2 after being forced to take a break for several years. Turns out the man is still incredibly good at playing",
@@ -1123,44 +1162,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-09-01T06:31:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-swarming-terran-mech.md",
-      "title": "StarCraft 2: SWARMING TERRAN MECH!",
-      "excerpt": "Scarlett vs Bunny in a professional match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube INnoVation vs Solar: https://youtu.be/Cnv7Y5qxk9w  Roach Ravager Zergling into Swarm Hosts is the name of the game. Bunny decides to open up very economically and somehow he manages to hold for",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarming-terran-mech/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarming-terran-mech/",
-      "originalUrl": "https://youtube.com/watch?v=6PHONmcVy6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PHONmcVy6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6PHONmcVy6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-06-23T02:38:29-07:00"
     }
   ],
   "nextPage": 10
