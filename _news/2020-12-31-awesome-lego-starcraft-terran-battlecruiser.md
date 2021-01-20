@@ -3,12 +3,9 @@ category: news
 title: "Awesome LEGO Starcraft Terran Battlecruiser"
 excerpt: "Ah, seeing this Terran Battlecruiser takes me back to my Zerg-killing days. A true Starcraft fan built this awesome LEGO replica and was kind enough to post some photos. Thanks Jerac!"
 publishedDateTime: 2020-12-31T00:00:00Z
-originalUrl: "https://www.odditycentral.com/pics/awesome-lego-starcraft-terran-battlecruiser.html"
-webUrl: "https://www.odditycentral.com/pics/awesome-lego-starcraft-terran-battlecruiser.html"
+originalUrl: "https://www.odditycentral.com/tag/lego-starcraft"
+webUrl: "https://www.odditycentral.com/tag/lego-starcraft"
 type: article
-quality: 69
-heat: 109
-published: true
 
 provider:
   name: Oddity Central
@@ -24,33 +21,6 @@ images:
     height: 489
     isCached: true
 
-related:
-  - title: "2018 Starcraft Comet 16KS"
-    excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-12-31T07:06:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
-    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
-    publishedDateTime: 2020-12-31T23:29:00Z
-    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "05p7qP97YQqQZ/NLmDlvRKNsMTScoRc0pWfg9BtJEWH5O59qeLDI7EtelquKUlOeEBlAhDIalm5qhmiTU4Ya0t8o9+vnK0mwsSmMNl25zpXU/M711K23CwCJtxBJh64dGE6G5uYQO2xUcoGwv7m3vDa8zy9D30peHvzt01mZC9gCM/oDKrpNcBfqirpWxT2g4qas05rR+yegaXVzkmxR8Y98xngDa/JJtY5NtLa7vhvD/g0e04M/5xbqY71RiNABKZyzHeFy+I+GK8ZlksZErVOdLY3lk7OdXlnQZybEQCEBrOaJYXsNlsMlCJ30+UHhB26JgLPbbmU7PNSVexz9kS2rxmTJLOzFQLExVYQn7T8=;EabIkbbcCXxiEFvDUGgJ6A=="
+secured: "LqWgJi5WQ6nqihftwVq3cTK4FsdL4IPNWTcIrXLouN7D+oYNtxMvYhMtr2YXEqazMrbXabzpr29RZWE9M3EqgX1o1k8RuNGd+NHIEAMhAsjt1d2jJ4fDdH+YBGHPAqLVBILnNkqhUCAy1YH+G0qVHzpd0BeNjvLUvsN/6YJ5x5hT8aR0LozzvidrxUGdsbf00xjmhoR6sMj9DIIIoZxQkIqDHJuFy0FPkHD1FWdGdKMWFhhPy4+2qIcrUc3FI6VIjk/uurpjKfn9mSQILsizpXy9u16VpUkqNeYoXzwDUIuiUEeYi5Skw3+rJYRTlAHRSnOQ7x/gfEjF+dIMctYMeU8P+cuSWDCdI5GlcARtCqE=;v5J8K/il4x9zxOcuVssCpg=="
 ---
 

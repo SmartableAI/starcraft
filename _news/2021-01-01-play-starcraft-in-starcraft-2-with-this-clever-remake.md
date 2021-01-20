@@ -44,17 +44,6 @@ related:
         width: 1400
         height: 700
         isCached: true
-  - title: "2018 Starcraft Comet 16KS"
-    excerpt: "Starcraft Comet 16KS Travel Trailer #USD5171 for sale in Jacksonville, Florida 32216. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2020-12-31T07:06:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-comet-16ks-travel-trailer-2926023"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2006 Starcraft Homestead 242RKS"
     excerpt: "Starcraft Homestead 242RKS Travel Trailer #CE2212 for sale in El Mirage, Arizona 85335. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-07T08:01:00Z
