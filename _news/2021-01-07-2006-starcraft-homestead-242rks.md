@@ -36,20 +36,6 @@ related:
         width: 1400
         height: 700
         isCached: true
-  - title: "Play StarCraft in StarCraft 2 With This Clever Remake"
-    excerpt: "StarCraft 2 is an excellent addition to the StarCraft universe. It improves upon the original in several ways, with better graphics, additional gameplay mechanics, and an extended story."
-    publishedDateTime: 2020-12-31T23:29:00Z
-    webUrl: "https://au.pcmag.com/games/84595/play-starcraft-in-starcraft-2-with-this-clever-remake"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 37
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/p/play-starc/play-starcraft-in-starcraft-2-with-this-clever-remake_96tr.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "2021 Starcraft Autumn Ridge Outfitter 19BH"
     excerpt: "Starcraft Autumn Ridge Outfitter 19BH Travel Trailer #128829 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-14T08:03:00Z
