@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-perfec
 type: video
 length: PT48M39S
 publishedDateTime: 2020-12-21T09:38:15Z
-heat: 73
+heat: 74
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W8TAYlijjag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VD67jiJEdSGQzHNy+Qf9YPk+sszwQoutZo4xCVSwnbcV/CJ2kHkLh5p21rqSoFymhDoUxM7jLyY0jJKmDi2MiIuiJOL80gPp30O5sS7cWnABZteNchalJWYgGMgRahxf2Sqn1EEusMC8B6I+tFH5poxzODDIPDXj9WwbTQiZTvHRjBxelAytlNvewPEijlTAMiaxgCLOv/ICK3XdGSbEWUiraEEkxGYKHrpQIVQVtW2iIKMHp+0D3AiKc0Ol/MrKjWM+vzq2rIKwk8VH5D7sjj3fFzq9pAQNC+pvgZZ4cLYF2xzjaJ3vqoO+8fhGPMhTnY/g24F/XOFgp1nK2yM+U/2Xz8o7N5s15k6fPvz1DRmqOQkkJG1BArKejPh5JE1GcibVE1mpbp12Q0GELeNNVh/mzBhLZ4U5qJwbcT+m6dc=;/ME/EAw4mo4HLPU6uTln7A=="
+secured: "7mO0ZL9cjqqN+gMQEsmgSmxZW79WdRaP7I3xiLhWU3dBVmYDxKw+nh9AUM9fvVbeF6AKf8b28D4TJzcPhu8ZSwxA08UltqVOorH6D1ZFjcLz05Fw2WJuzAsV9R93P0MPrbaD5iy/zBjLyxVyxqIgmdTIRrpsg31q8qoMby12vFwUqph3bTOHT5odut4gayURWuXEgizcjR+9S5iA+zHWGIpxO/JJHEe7EetqAV8TnX2hOi1zSltXmtx53UzKTHYZeIYgpFIdeFNS44CSv6ZTlTGSO5IQPW+aLwArYrusV49jZR2PnuOTeKy2Miml69PjshNRIRlrIztLRzrneQ68aGWxlsG5ulbu3Ao2fn5chL4C2YX2NjNufV6SUfDP21TfsLyNBgR/NNfwBc9pdHTQewcLqlVeCgqJlwJ41OWHBlM=;I91Z+TRKJm7TDY+DkuerZw=="
 ---
 
