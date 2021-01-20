@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cu
 type: video
 length: PT1H1M21S
 publishedDateTime: 2021-01-11T12:22:50Z
-heat: 178
+heat: 171
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FsXJJ1Qt2YbzmZQzfkHkM/3xTtdsZdS4UGC9JOkAoaEeQJFJ9rwdxW/6sCD0FbhLzfvKjmfkmzFlln5mo4q4mbI8hdctAVCBDr4pcvBbo+VMc56PicFac9v2OIbU2jqU/B2UVzGVsn7Ujimo/chscyMebQNxtG9B/qz1mBeHdNPQ0QIcs7zm+O/J3t3JxgMCC5HbB/igVsdWesOWT85nunVS06EHyYg8dI54Jb80tJBeJjxky0oI7+XBlkav9LfOYmrkk1wbQ0ONsLj3rIDgxwGdztiA1pXt9PcZsrGWZWj5b5SRdr6FNJYkqWs/4Mg3AEA237vZ2PV8fgI7lhuP496FlyC9W4Y8ByzqrOVxjZ3ZqL///tqdq1jC1vvhpNwbe416pTQVV3XUOibrQauyg9VkcU8WbJPYbv7NRhG79RM=;dEA4hBkFh9skpj1AqwIuuA=="
+secured: "bHcIQKyhHFZCmZCNRi9fn3+1M8Q1LuyFBMBK/2ivMoP6n948MGhWujlFzaCgev5RFekMH75LjbqBCAqbJo/8nIgGSxxmXQAZwpq1c+2pYYSh3844/46ZBtjCBozkPeTi9NW+5+15O6FTyhOGLTapv6xRVYBGyFXvhOTtsXfV5hM9KDO0VUWgtHkd8Rh3XB2BFSVEVcVyyOtvxjTeK0nQCXuMUNCcy3CwLIQvU2MGOgzWKfU9RegVPq1cNjWaUL+IHe/1SFGoHIk5ZRBhI51zATWBjkMn4G0FHOv5IgBB04rxEZBjxXx30+EacbBZ002kEGeMLchczK4dIIp0CZrgEAzastlR4AFCDBRF/Kg7GeBOgeQyXSSa4hn4pYp410cVf5uqybqONVVzGBeQAtn/p/s/PWeaqxKQylHOcbgauZc=;V+Z0vvJmRa3qMFF+BE7Gvg=="
 ---
 
