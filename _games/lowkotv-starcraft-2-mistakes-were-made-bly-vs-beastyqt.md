@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-w
 type: video
 length: PT44M36S
 publishedDateTime: 2020-10-19T10:09:33Z
-heat: 80
+heat: 95
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8o9W47zzbOzAawBxtOmkuIkZMNKtEPPgjxzRCg0FqiJeuzSlOqfYdxRVDs6kiGxJRV8qZxMB+JmEf3S92ruAu2pHfcZlAPxuTSl6qG18ODfOInTVcZNVDIBsKas+4OD9p3GIAW/tnkMqAAIbHjYhiQH7k2sYjHdRQRl7kCU9k6A8ILMXNyYAHK4h5y8iDiPQnox6xWuOi2f8Z+SrQVMDiXyUG0yjKiL/H6803pjtkiex7zossrVF2IGw3i9s953+BMW/JwwH+S5tvxbfBnGW75qYDULTG53g9qn5Y9KEtTzSrcOohqYi3CQAPvXClNDI/GIUq//IJJ72RnBdTACM2UBYEyJx968YycHgCe39r1YYKJWf0qtjzAER2OTOQWEvSy98WNMu6Csi+UN/vxXcTRcXdPLyIJHO95DqI0iJ9Ljlkgp80KEWVKTZC4rkGKW7;h8LmfLeK4iKnV4VaBG880A=="
+secured: "oKleMlsGVmb0kH82Jau7LotvnTsGSHIpBenMEY7lQdvXmc6LrmVRiActMum0JA4Xbi8pxrdefRgHuOSUP84T+UOHja6NBYBG2XUxaZu777+AFmulgQayD20JiKztK0DHQ5C0A697rxLElJDeN1G7CBdzBCL+4dBxQhqNHHd7LFLVarTUKhUOOXmNfp9bvAX1w/4QjxKiJF0NC6jdECPXXdlMR/Ij6AJTcSg8g7YMIj2A8/78XY6PfvPt+GWTj+E3cArrU+k8JL1c+H9OmOVCaMEGa57OC/TTtl8pAFfZMkTtmW/+ex0/GoFIUPCP8QqDhQ+yMSBKjLSjIC+XlKQOpACPTtv4qUNifFoEVn9y+x7zAb48jj0wumsXabIlGa0ZZ6jHCa281IASus1CHrERCdUZQ6Vyeqg8YhQjx/bUfMWAZJt9gewtHguERzBMFmfR;kXu1txRkJSmcMHCkCSmvkQ=="
 ---
 
