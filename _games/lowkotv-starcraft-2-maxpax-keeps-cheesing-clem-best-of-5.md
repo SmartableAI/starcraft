@@ -2,6 +2,7 @@
 title: "StarCraft 2: MaxPax Keeps CHEESING Clem! (Best-of-5)"
 excerpt: "A best-of-5 series of professional StarCraft 2 between Clem and MaxPax. This is the grand finals of the ESL Open Cup Europe #54. A fun match of Terran versus Protoss.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=-XQ8rgIM-gM
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maxpax-keeps-cheesing-clem-best-of-5/
 type: video
 length: PT39M31S
 publishedDateTime: 2021-01-21T12:30:51Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dzHtesZ7i6wVC35BZgMwWRyIy5HNqvKhK2ocNy7vOUpfXVII6Df2D731D2vMhD/UFxk4XSQybomY2QV5gVCOzyRaNJ9TTOzFK/OsFHYtvvtervrnlcca5zIDmW2PLAwtoXmf8Hq+y6MiD3WpMEKPJbHWbGNMFH+XaD3N7hvt7YTdxG9lmg7Tl4KdEekryISIl8KJBmofapA5XqfmB4FCRPdBTVmlPPgGDWl1QMiOtQTF+axPYDM8x1kJfxsUfkgnMfngmoELNJ3n0hBMZo7fj28HrWwTQHZaqEp+WKoH6cepBi42eX/MBggwlgkqTCfPo1TZm9ZssDBtPdaqCrGCqFj25YbHasILSSIL5IQ/F8AXJF+M/IshyTrkFKVh3AEQ5DWi4o1rxJWPjtWlgQbfHg==;V8iMbJ3BuhMX+DCR2NwHlA=="
+secured: "ND+S6MM0ZN+Ys3ZI4tQ4nyYkAMLFNYgwnaf4CQplvGE2WQ/p/KiTxlnm/5VmjAY0h4a3R+1J2YyU/ecvoVLez2vN52X/KlAuV6vP6OyF1W3yNn7Z4F0lVz0EKSc7+wN+SPUUKSTX3NsrPvYJLQV8vCChFEtDehmBVTXy7DYj1Xvdy1qiG8ny5CDJ91feSNoHfLJFWY4SLaBbAxYM2r7QBEKl3FeY/d9COjZsCgS5DGa9Hz59dp8tmL0v2Q6Twl+vHdjo2hzkZ3oHaKST9QvrJRW7d6a55xs8QqpVMWvquesEeZUDsZxJom7nctB7JeTDmScaxxV/y8Z4rMsi6Dazhu2/FmAT4vtVxLBOnD+CQYcGfdf3ccgzfZVZfC120/D3MfI0OevOOrjEO2RZ44aQXg==;PHQj9bu/Jyg8m2TwFNXNLA=="
 ---
 
