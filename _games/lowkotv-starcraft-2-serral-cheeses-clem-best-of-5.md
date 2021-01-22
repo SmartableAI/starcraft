@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-che
 type: video
 length: PT58M35S
 publishedDateTime: 2020-11-20T10:21:58Z
-heat: 171
+heat: 115
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6F0UJmOXW3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ll2aftvoVx4695KDcnswR1HalmX7kh5G0Fps74KKQ95ByNABJd485OI8bYTba3Y/LkVIPRxQ5tzYTQaJWPSZlUkRjC0Rv6ThQ3bNyTyt91giXuZIUBHdR3OFA7ioQlqp3sw2EUBP2l7tI/qKWg0NIoba7/VyBN0fTTYzpPdifmaQpavMGUT0TPx4LlvBkrIuoNbJVCbS+SMFexIX7dsU2IGoa2q0QSM+S8EFSxVO+66MxCxwNHgAF3fvsE/n11DSOumFZ20vvNaS2h2iHbGyOEV/ltO0heqZ7IINs2eiO5wqMW2lE3eUJ0W1TFVGc9rIZRAWMcBRnFONG/DQLP14wuQWq20/pWD+mwPmfzIQT4+kLchhP35WwPU3416yX7vHGs/Vo3NaRiwS9GkbUjLMt6y452kKJY4xHWDyT41y35E=;IS/wcKiXX2iRCnUSlWYgyA=="
+secured: "vdufTWWtbw6cX6Fdi/d836BAkitJ66Tewg6GlqTHhY3kdWYUupIZ50Qo6mZ2TpJMPb7tko/nuJ7UzJVa04aujJq+pq50NQq5PWF8dz1WQnntluA9KlDpfdzMJKz0UKeE98GnOzwW2JFTvS8KtY6sEQhksS3jZVjNddN69ivn3gRJbU4H/SlSYFMHTx8yz2ie0xFcQ09g6alYbxcCnT+2MUFhhtFKDzDH4y2UlEdJbHcI+7N8GKFYzeW8jlueCiRtAuhWLipVc3LKzkoRFAU2Z40Hu4UhAMwKlUO0T8w4LuxNAW/JcjqS6QzHbvWZCJZUDKpGb6Sbng1M9PbEIEIUHyAhQK3B73Sni92STYqkb3W3q/8iF9C4dkwsYdZnHwQEzfCTkJrq9UkxXpsYNzibelVGpk12UnJ2xGxh/4tKc0k=;a9XPCJ1z0p/w7lcYt4qy4w=="
 ---
 
