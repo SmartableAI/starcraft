@@ -2,6 +2,7 @@
 title: "StarCraft 2: Reynor's Crazy APM and Multi Tasking!"
 excerpt: "Awesome match of Zerg versus Terran in StarCraft 2 between Reynor and soul.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=rwkoi2sgjNk
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/
 type: video
 length: PT27M21S
 publishedDateTime: 2021-01-22T13:05:05Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dWT2fetu9cv9ZwP+ZPGeLAbHofv9HDt6hicgQidZ95GLLxJlp6sbJ4W5oJM66SzOuDYVwqNcEMmUczdAokIflxSSXJiSW4kzIkQnvg1O6NsGAZ7U/JEU2FwHVE/+Ux4FahTlx4jLwYziAmKg/5F2u+cYsOgzYH6bbjZaBrgvrrNNYC/TmUVkHnHwt/bQUhZ9cNsStxz0HE6BNYVLka4lcyTLRNSeybjLuDidGipJ6I/3FJCpgT3uHgQiih1oeS5Y2pIm7m5v5ejz6cx2undA4QPwmKnpXgMwLosBgWqRxYT3P4lx+fMqI2PgT/gs6bz5/H412pyjIfrwUwDE20C1itI1bssFCBV+n8ZuAy3BjeKjx4kULxTjNtFN8M+B+i9jHLXM3N5V43hu8u1SOVq/ag==;dy8wPZgcY6rlz6cnGA8U4g=="
+secured: "z+GuoGwXckyDZlq8f2T5fpJjo6H7+1hleErJ8Rn3Xh/J/a/lxmr5klDOyxnRww/D7LR08zCQMmRvNGpVOPxQW1Tv8QnkogjSf1eKO9N7hE1Ycijd/0kJtYKAz6p5ZQsBX3N8mJSycSbMwohBpcAbZLFdyoPPTX8FiyXB10J5CNB3rraP5iMJFK/zD797QRljaYu2wkHyKRU/5HnvsIUNUDsSuV0/bddJZzNddfa3mxoYmjAMEgGFGDXkLzqZ0fLW0yA9TWwgTKh76yx7nD7cQ/Bc1ukHCZU8nElgVTS2mjn3fih/CxmxcOEUQDWnu2pBY6a+i0I3Zxyd0LOCOkyeuKkcszcML8/10lsPqXOglc2s95psl2DXal3krJ3A+qh5nyDzBlxigsO0wbEsMxsYkA==;QGGfQEycM+mGNErb32VBMw=="
 ---
 
