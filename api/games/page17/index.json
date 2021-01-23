@@ -4,59 +4,21 @@
   "page": 17,
   "value": [
     {
-      "path": "_games/sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018.md",
-      "title": "VIPERS ABDUCTING EACHOTHER?! - Solar vs Dark - Starcraft 2 IEM Katowice 2018",
-      "excerpt": "A pretty funny cast of a great game between Solar & Dark, finally figuring out the mystery of what happens when 2 vipers abduct eachother  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018/",
-      "originalUrl": "https://youtube.com/watch?v=hWPn2yqAXrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hWPn2yqAXrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M39S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hWPn2yqAXrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:46-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story.md",
-      "title": "Chad Raying People & a Beautiful StarCraft 2 Life Story",
-      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-chad-raying-people-a-beautiful-starcraft-2-life-story/",
-      "originalUrl": "https://youtube.com/watch?v=sK0ESGwOSYs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sK0ESGwOSYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M",
+      "path": "_games/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people.md",
+      "title": "Explaining Different League Mind Sets.....while BRM BRMing people!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people/",
+      "originalUrl": "https://youtube.com/watch?v=8tdscwKsVkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tdscwKsVkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M51S",
       "provider": {
         "name": "BeastyqtSC2",
         "domain": "youtube.com"
       },
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ],
       "heat": 50,
       "tags": [
@@ -64,7 +26,7 @@
       ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sK0ESGwOSYs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8tdscwKsVkg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -72,7 +34,40 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-12-19T03:51:25-08:00"
+      "publishedDateTime": "2020-09-29T05:14:46-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-ghost-goes-pewpewpew.md",
+      "title": "Ghost Goes....... PEW.......PEW.....PEW",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-ghost-goes-pewpewpew/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-ghost-goes-pewpewpew/",
+      "originalUrl": "https://youtube.com/watch?v=UX45YMlIZx8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UX45YMlIZx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UX45YMlIZx8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-28T04:40:40-07:00"
     },
     {
       "path": "_games/beastyqtsc2-little-weird-timing-push-vs-protoss.md",
@@ -106,72 +101,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-01T04:20:41-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not.md",
-      "title": "My Opponent Wishing Me ALL the Best!.....or Not",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/",
-      "originalUrl": "https://youtube.com/watch?v=j9ofiYvK_Kc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M30S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/j9ofiYvK_Kc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-14T05:47:20-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-prophet-beastyqt-100-prediction-rate.md",
-      "title": "Prophet Beastyqt... 100% Prediction Rate",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-prophet-beastyqt-100-prediction-rate/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-100-prediction-rate/",
-      "originalUrl": "https://youtube.com/watch?v=maFJ2fB4AB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M15S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/maFJ2fB4AB4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-13T04:50:46-07:00"
     },
     {
       "path": "_games/beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran.md",
@@ -1000,6 +929,72 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-12-11T02:48:55-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix.md",
+      "title": "StarCraft 2: Expanding to the Island Base! - MASS Zealots & Phoenix!",
+      "excerpt": "The new series is here! The Protoss units are Zealot and Phoenix - take us to Grandmaster baby!  #ZealotPheonix #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on Twitch if you enjoy my YouTube content.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-expanding-to-the-island-base-mass-zealots-phoenix/",
+      "originalUrl": "https://youtube.com/watch?v=7UwwC9aiEkw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7UwwC9aiEkw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M2S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7UwwC9aiEkw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-27T04:29:39-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-failed-cheese-hurry-up-or-leave.md",
+      "title": "StarCraft 2: FAILED Cheese! HURRY UP OR LEAVE!",
+      "excerpt": "We have waited for months, and now it's finally here! This is the VOID RAYS to GRANDMASTER series! With the new balance changes to speedy Void Rays in the latest patch, we can now begin the series right!  #VoidRaystoGM #VoidRays #ChadRays #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-failed-cheese-hurry-up-or-leave/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-failed-cheese-hurry-up-or-leave/",
+      "originalUrl": "https://youtube.com/watch?v=OOebEZX6ys8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OOebEZX6ys8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M18S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OOebEZX6ys8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-14T15:11:32-08:00"
     }
   ],
   "nextPage": 18

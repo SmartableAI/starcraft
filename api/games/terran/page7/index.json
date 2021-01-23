@@ -4,121 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-terran-hide-and-seek.md",
-      "title": "StarCraft 2: Terran HIDE-AND-SEEK!",
-      "excerpt": "Gold League Terran vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube A tale of Spine Crawlers: https://goo.gl/3b4T1M  When both players move out right around the same time, and the both manage to shut down each others economy, it all comes down to the amount of army that's",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-hide-and-seek/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-hide-and-seek/",
-      "originalUrl": "https://youtube.com/watch?v=BhxdH4VWvLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhxdH4VWvLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BhxdH4VWvLo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-08-11T04:58:45-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm.md",
-      "title": "StarCraft 2: TERRAN MECH vs ZERG SWARM!",
-      "excerpt": "Stephano vs DeMusliM in a really cool macro focused Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Has vs Kelazhur: https://goo.gl/pqA6ws  While Stephano starts this game off thinking that he was going up against a Bio based player, DeMusliM quickly secures 4 bases and starts producing",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-terran-mech-vs-zerg-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=atDlF8G-PD0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atDlF8G-PD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M50S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/atDlF8G-PD0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-07-30T02:52:40-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-battlecruiser-fleet.md",
-      "title": "StarCraft 2: The Battlecruiser Fleet!",
-      "excerpt": "An awesome game of Zerg vs Terran in StarCraft 2 between Reynor and Kelazhur.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv The hardware",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-battlecruiser-fleet/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-battlecruiser-fleet/",
-      "originalUrl": "https://youtube.com/watch?v=wx3AgOTBp-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wx3AgOTBp-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M33S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wx3AgOTBp-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:57:13-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
       "title": "StarCraft 2: The Cringe NUKES!",
       "excerpt": "A very strange Terran vs Terran. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this Gold vs Platinum League Terran vs Terran the player in Blue decides to play a bit of a strange style with Tactical Nukes and bad manner Mules.  Support me on",
@@ -352,6 +237,105 @@
       "publishedDateTime": "2017-07-24T03:20:35-07:00"
     },
     {
+      "path": "_games/beastyqtsc2-a-new-way-of-dealing-with-tempests.md",
+      "title": "A *NEW* Way of Dealing With Tempests!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-a-new-way-of-dealing-with-tempests/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-a-new-way-of-dealing-with-tempests/",
+      "originalUrl": "https://youtube.com/watch?v=fuNtcHTrfeM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fuNtcHTrfeM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M40S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fuNtcHTrfeM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-02T05:25:24-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people.md",
+      "title": "Explaining Different League Mind Sets.....while BRM BRMing people!",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-explaining-different-league-mind-setswhile-brm-brming-people/",
+      "originalUrl": "https://youtube.com/watch?v=8tdscwKsVkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tdscwKsVkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M51S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8tdscwKsVkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-29T05:14:46-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-ghost-goes-pewpewpew.md",
+      "title": "Ghost Goes....... PEW.......PEW.....PEW",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-ghost-goes-pewpewpew/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-ghost-goes-pewpewpew/",
+      "originalUrl": "https://youtube.com/watch?v=UX45YMlIZx8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UX45YMlIZx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M36S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UX45YMlIZx8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-28T04:40:40-07:00"
+    },
+    {
       "path": "_games/beastyqtsc2-little-weird-timing-push-vs-protoss.md",
       "title": "Little Weird Timing Push vs Protoss!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
@@ -383,72 +367,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-01T04:20:41-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not.md",
-      "title": "My Opponent Wishing Me ALL the Best!.....or Not",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-my-opponent-wishing-me-all-the-bestor-not/",
-      "originalUrl": "https://youtube.com/watch?v=j9ofiYvK_Kc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M30S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/j9ofiYvK_Kc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-14T05:47:20-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-prophet-beastyqt-100-prediction-rate.md",
-      "title": "Prophet Beastyqt... 100% Prediction Rate",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-prophet-beastyqt-100-prediction-rate/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-100-prediction-rate/",
-      "originalUrl": "https://youtube.com/watch?v=maFJ2fB4AB4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M15S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/maFJ2fB4AB4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-13T04:50:46-07:00"
     },
     {
       "path": "_games/beastyqtsc2-proxy-factory-inside-enemy-base-in-terran-vs-terran.md",
@@ -1045,6 +963,72 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-07T03:35:08-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2.md",
+      "title": "StarCraft 2: NUKES COUNTER CARRIERS?! - N U K E S - Episode 2",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-nukes-counter-carriers-n-u-k-e-s-episode-2/",
+      "originalUrl": "https://youtube.com/watch?v=ENe2iT3FrYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENe2iT3FrYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M28S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ENe2iT3FrYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-12-28T10:33:35-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-oh-my-n-u-k-e-s-episode-8.md",
+      "title": "StarCraft 2: OH MY... - N U K E S - Episode 8",
+      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-oh-my-n-u-k-e-s-episode-8/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-oh-my-n-u-k-e-s-episode-8/",
+      "originalUrl": "https://youtube.com/watch?v=o65XbPyGaeI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o65XbPyGaeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M47S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o65XbPyGaeI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-03-11T05:05:20-07:00"
     }
   ],
   "nextPage": 8

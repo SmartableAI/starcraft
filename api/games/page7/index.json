@@ -4,45 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-solar-best-of-3.md",
-      "title": "StarCraft 2: BYUN vs SOLAR! (Best-of-3)",
-      "excerpt": "ByuN has been steadily climbing through the ranks again in StarCraft 2. In this today's video he's facing off against Solar in a best-of-3 series.  Clem's 9 Barracks Reaper: https://youtu.be/bbJWnH_ooAI  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-solar-best-of-3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-solar-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=eLWJxqsr7gs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLWJxqsr7gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M46S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eLWJxqsr7gs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-07T03:35:45-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-team-game-2v2.md",
       "title": "StarCraft 2: EPIC TEAM GAME! (2v2)",
       "excerpt": "An epic match of Protoss & Zerg vs Terran & Terran. Subscribe for more videos: http://lowko.tv/youtube Proxy vs Proxy: https://goo.gl/iHc1jT  I haven't casted many team games in StarCraft 2 at all. While I'm very comfortable commentating and analysis professional matches of 1 versus 1, casting a 2 versus",
@@ -1139,6 +1100,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-01-31T03:32:30-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mass-thor-vs-liberators-maru-vs-cure.md",
+      "title": "StarCraft 2: MASS THOR VS LIBERATORS! (Maru vs Cure)",
+      "excerpt": "Maru versus Cure in a top level match of Terran versus Terran in StarCraft 2. Maru is the number one Terran in the world, Cure is currently the number one. In this game we see both pro gamers going for a different playstyle. Maru focuses on Mech, Cure focuses on Bio.  Maru starts this game off with a",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-thor-vs-liberators-maru-vs-cure/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-thor-vs-liberators-maru-vs-cure/",
+      "originalUrl": "https://youtube.com/watch?v=Z6v00nM7W1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z6v00nM7W1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z6v00nM7W1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-30T05:08:21-08:00"
     }
   ],
   "nextPage": 8
