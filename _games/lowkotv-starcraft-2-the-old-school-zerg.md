@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=WIVPQlTxXVQ
 type: video
 length: PT20M1S
 publishedDateTime: 2018-04-24T10:18:20Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WIVPQlTxXVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "malWQsyamS973vHFlG3Qi9n834daWnwTo9RodiYz7tuJrJfj5z0lYEYI2wsVJFzMJ1LHm7HHCGiuTYkzDICT/r35kYVErxpEk3WFMv2a5tHd6p0hSjRi3FSneIiKFyS8JSDJMM/HADp+pTQNdZ/zqbAmgp1tP2wtiZ++p9J42Oue0QSuDVyZf+3G6zNbuas80SQujgM6kdlt7SLnLjpC6uuNOfCtkD83BkCdSLhuKGGbge7SIkVeI51ghyTfaIjYmuE+Gp6zYf0c36ZFfJM8lS1rb37iU/hTXV4RS5zCvN6TVuPNLgfHtuPwnWCdBf2qYPy9EIHlp5rhse8VcldM5+aHkVUVErjbIWq5DLxB0fMkoPG3D98ILcPe183/71SNY/ZBAraNwksWLKbvBG+Kj1RTNOg+nCpjYS7oMz7pC3o=;ekvXnwwZ2Cf9je8Yj/LAXA=="
+secured: "KeOD7DTeAyp1Mtzf18i9EUNoqVdh6WzehPZxeqURCiEpS0IcWUYoDvxHaogsSzF9vtVIPUbm7LuW8LowO2dnuuJVVZUmod122+oriGxEOJ9kZe/7cWsoX0Rn1c3aPVTgnUstl3eciz/gvS6H+1/t2MjDYrW1nEDqeHoNjd9xNE4FL5DnTWrjiJR6e2r0IbZmQ/nhalNfetId8hd/RNyKoMc1GGcqj9knR1fZIkA3zem5PiMoTVA9Dt81r5Vepg1nLTsVyH0VRE+zc42DZg/s8bYVBpG5ZgVNYD9w2hzSS8/1W8N/apTKSGdyjGUMHDPtdoarj7ZDqNpcoHNpbeA8YxWHoF16H34KwpqKq0ig96lCb61IEqiPSuxgOB8ROynCPy3xG1clF1s220j9fT1NWsjOwMvIe9af8PeXLTCcE5M=;Q9UownVLA/Bl4WvYuUspOw=="
 ---
 
