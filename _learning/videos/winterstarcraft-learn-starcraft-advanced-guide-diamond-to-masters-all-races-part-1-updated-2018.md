@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3H7M
 publishedDateTime: 2018-09-21T22:07:42Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5Mf+ajRjfc9bf1VLLxuGAYzknhMOlfkK0c4XP6KOc8v9blizaUAUCte7e/mavNew1poq7GYKP6wnJyXjj5+5J2JWqjyxuPL5LfxJKI+63O6kZxyTe1BKB0w5YNWhe+lrU05m5pFOujvdpxofO4HNpiSBaF5aU6rLf8rMLjTYdDYYlTRNf1Y7WNtm94NpKnpxYCDFR9/wwrMjugKlL2tPXzKak+Yb+qDgqXRxjZkdXj7wFUZti80LWzJg6yuqCXiVbVJMb1/3DRvE0Pn816D5RNb4ti5BLBUImHFmZv6NxQy/8SRQ0jBl9ZQ/Gr4UcaIZgI9BPW9tlsbLpoTuzZIPAbWtRTvD597vCyqjFGp2O5xBUvuwhcMAF96LlV3QR+ZC3zbyJ8GQeOL9XyqB/t3jJm/iPfg988GIPTBd8JNyaQeGvvbseMgjmdEDR5g+UYBC;gmMf3Yq6zMDZoiI/pyne+w=="
+secured: "TYDIyAbOUHi+8QXfcu70XMLAoIeRZAkAr0aHxDOpYfrZn/hiBr5iqv7fhaP6UKRLtL02hnCJ1cv/2QO2iwAyHCHbDIbiCDK7ujfQX7+qLOqLRft3IHHFk3pU3OFtwe3Be5U3SPfEiSxZbCkVWjfovcnm+8EZS51KOvsO1YjJfQDfhZnZMOzbcvghhls+ytlwP6wwA4igCg5yfwOMsr6Nazgaekv8r7+YK6eses3Pa2b4KYt2E+6HD4AZ3wMbYE9zvaazc041qOPWyarIeeIsbvk9xvFnk8j8ywfZOnjV5vVwv7SO6CwmDQBI6UZe0NRTym54wFY442VGicrbSjgj4Kayx2FEq/yduxpsN6UUCL9YZQhFgFu3kwtJAFzBnM2tSh9KhOJvhBaJSNJdQkCrMNItHRxIsDdK1gEwY+k/0KJu/BsAbUgeADlPLsXOFKGA;wB0CKppQvR2SzBi2/4rVVA=="
 ---
 
