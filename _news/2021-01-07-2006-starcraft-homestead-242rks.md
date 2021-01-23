@@ -36,6 +36,22 @@ related:
         width: 1400
         height: 700
         isCached: true
+  - title: "Vicarious Visions move to Blizzard means remastered Diablo, Starcraft, Warcraft"
+    excerpt: "The folks at Vicarious Visions will soon need to switch up their digital business cards. Back in the year 2005, the developer brand and its developers were acquired by the folks at Activision. In"
+    publishedDateTime: 2021-01-22T23:00:00Z
+    webUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/"
+    ampWebUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/blizzard23.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "2021 Starcraft Autumn Ridge Outfitter 19BH"
     excerpt: "Starcraft Autumn Ridge Outfitter 19BH Travel Trailer #128829 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-01-14T08:03:00Z
