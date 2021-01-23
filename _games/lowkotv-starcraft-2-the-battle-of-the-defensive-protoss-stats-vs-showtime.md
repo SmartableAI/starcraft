@@ -2,6 +2,7 @@
 title: "StarCraft 2: The Battle of the DEFENSIVE PROTOSS! (Stats vs ShoWTimE)"
 excerpt: "Awesome game of professional StarCraft 2 between The Shield of Auir and Die Mauer. In this Protoss versus Protoss we see both players trying to outmacro the other, but it turns out they're pretty much doing the exact same thing.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube"
 originalUrl: https://youtube.com/watch?v=36ZaYu68mi0
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-battle-of-the-defensive-protoss-stats-vs-showtime/
 type: video
 length: PT27M30S
 publishedDateTime: 2021-01-23T11:58:27Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ft83A7g5UikuVRaO7P/pfA+KxZuW+DBlqR+0XDUumLWq8C4Lej37acZTdpybl+0QRZV3dk93FHuouY52zTK0Glz5vcU7wNGyBWXwTak6ytx4Vcv7fUC+c1Am4EUUip97Ly6+9Ep7ss6nb5SyrUu4YIAGPT7YKHmlQggSb8T207mp5/fdYln+u3UMS2vf3eNxLi+1nQF9wgbVSO3QI1oqYuN6owucTuU29Lb+uH5oMvE8JvQIjYesBesnikLHeG7n8KFNDCtRp4r5aGuH9QmBqrnlgYGf/M1C1K8awKzwot1SWja0KjGOUOqGv7c4uALH2UbgUu+jJiyXzX494GNX06azdBjUkxWx63xvhv/dCct5gEY5VLrnqr8RFH2Xc3PRmUwS8KIT/WBKSAfSYmzKKQ==;sCrWzYJLxBIAdLk/wbDx8A=="
+secured: "hc235vNFovWFAuICPlFHCjTqRqjfnkZxn15l27JMtAQXn6fysxnmNJ1f2o9vFtOeNMXFdKnquob0mqWeInHu7TAM7Oa85FqNVxhXRM89uAHgej0u3Syhx1C/6/rBc1Xr1yfiQQEFM6L4rHUXDr2wTHsFBNUUp826EjXCRqHsWkyYhgMoh+yIo7pThNy1bcn2kMk2GMCQARrH0Ia6344BSTT7phuniSLUNpBHO2tVomV4by/U7r6s6yDTD0j3AvT1DFSi7zwjzbbLS+H3j4g7V2T+7TlhDv+DXTMtkdYgjs/ePJ2kclRsUb+WRNUlTAsaCJ0fYvv+eiO8JDzZE8vfg29tvbtU0t+b8mMlLpLvAdxQa7Uh1yMGX+9CopfyYO2Vj0IrZtwBBRJv/WLFPq6fqQ==;NHkMNGqkNLU/I9A9NX0Q1g=="
 ---
 
