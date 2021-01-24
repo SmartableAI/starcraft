@@ -4,14 +4,14 @@
   "page": 26,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-new-map-the-golden-wall-uthermal-vs-reynor.md",
-      "title": "StarCraft 2: NEW MAP - THE GOLDEN WALL! (uThermal vs Reynor)",
-      "excerpt": "A new ladder season has arrived in StarCraft 2 and with that a new ladder season. One of the new maps is called 'Golden Wall LE' and it is definitely a crazy map. As Mineral fields run out, new paths open up. In this professional match of Zerg versus Terran between uThermal and Reynor we immediately",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-map-the-golden-wall-uthermal-vs-reynor/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-new-map-the-golden-wall-uthermal-vs-reynor/",
-      "originalUrl": "https://youtube.com/watch?v=3rlNKYAnKfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3rlNKYAnKfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M39S",
+      "path": "_games/lowkotv-starcraft-2-neural-parasite-surprise.md",
+      "title": "StarCraft 2: Neural Parasite Surprise!",
+      "excerpt": "Neural Parasite is always an exciting spell in StarCraft 2. In this best-of-3 series of professional StarCraft 2 between Stephano and uThermal it comes into play multiple times.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-neural-parasite-surprise/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neural-parasite-surprise/",
+      "originalUrl": "https://youtube.com/watch?v=LM4snJL3V3k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LM4snJL3V3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M42S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -31,7 +31,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3rlNKYAnKfE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LM4snJL3V3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +39,84 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-03-19T02:08:27-07:00"
+      "publishedDateTime": "2019-09-23T02:02:36-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers.md",
+      "title": "StarCraft 2: Neural Parasite vs Battlecruisers!",
+      "excerpt": "The skill level of StarCraft 2 is rising continously. In this professional match of Zerg versus Terran we see two top-level players fight it out with unorthodox strategies, including Battlecruisers, Nydus Worms and Swarm Hosts.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neural-parasite-vs-battlecruisers/",
+      "originalUrl": "https://youtube.com/watch?v=fcEejfqTYVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fcEejfqTYVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M29S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fcEejfqTYVc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-13T02:18:18-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor.md",
+      "title": "StarCraft 2: NEW MACRO MAP - Ever Dream LE! (Clem vs Reynor)",
+      "excerpt": "Reynor versus Clem in a professional match of Zerg versus Terran in StarCraft 2. This game takes place on the final of the new 1v1 ladder maps called 'Ever Dream LE'. This is a very nice macro map that's smaller than maps that we have had on the ladder in the past. It forces a different playstyle out",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=BaOXpq8m9_I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BaOXpq8m9_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BaOXpq8m9_I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-24T05:40:15-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-new-top-ranked-zerg-bo5.md",
@@ -342,14 +419,14 @@
       "publishedDateTime": "2019-08-14T03:17:38-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-overlord-drops-bo5.md",
-      "title": "StarCraft 2: OVERLORD DROPS! (Bo5)",
-      "excerpt": "An awesome best-of-5 series of professional Zerg vs Protoss. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  In this series between PtitDrogo and Reynor we see a variety of strategies. While Drogo mostly goes for similar unit compositions, it is Reynor",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-overlord-drops-bo5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-overlord-drops-bo5/",
-      "originalUrl": "https://youtube.com/watch?v=K4TyE0jcLac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K4TyE0jcLac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M15S",
+      "path": "_games/lowkotv-starcraft-2-overlord-drop-all-in-tlo-vs-has.md",
+      "title": "StarCraft 2: OVERLORD DROP ALL-IN! (TLO vs Has)",
+      "excerpt": "Baneling busts, triple Stargate, Adept cheese, Overlord drops and more in this best-of-3 series of professional StarCraft 2 between Has and TLO. Both of these progamers are very well known to play unorthodox strategies. An awesome clash of playstyles.  PartinG vs Dark: https://youtu.be/B7NF-52Gdho Get",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-overlord-drop-all-in-tlo-vs-has/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-overlord-drop-all-in-tlo-vs-has/",
+      "originalUrl": "https://youtube.com/watch?v=9zw-xPAqDXg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9zw-xPAqDXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M21S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -368,7 +445,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K4TyE0jcLac/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9zw-xPAqDXg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -376,7 +453,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-10-03T04:22:02-07:00"
+      "publishedDateTime": "2020-03-07T03:21:50-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-overwhelming-the-opponent.md",
@@ -605,14 +682,14 @@
       "publishedDateTime": "2017-07-18T13:30:31-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-pro-gamer-drama.md",
-      "title": "StarCraft 2: PRO GAMER DRAMA?",
-      "excerpt": "Best-of-3 series between INnoVation and Trap. Subscribe for more videos: http://lowko.tv/youtube Massive Neural Parasite: https://goo.gl/yX3tHx  Interesting games. Very cool series of games, however both players are typing constantly in the in-game chat. This is not something that we usually see at this",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-gamer-drama/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-pro-gamer-drama/",
-      "originalUrl": "https://youtube.com/watch?v=_FsSfNG0ICs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_FsSfNG0ICs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M56S",
+      "path": "_games/lowkotv-starcraft-2-pro-terran-vs-zerg.md",
+      "title": "StarCraft 2: PRO Terran vs Zerg!",
+      "excerpt": "A macro game of Terran vs Zerg between Reynor and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/RXG4YYnO5Qw  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord: http://lowko.tv/discord",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-terran-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-pro-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Yu5vfEIEnsA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yu5vfEIEnsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M57S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -626,12 +703,14 @@
         ]
       },
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_FsSfNG0ICs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Yu5vfEIEnsA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -639,44 +718,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2018-10-26T09:27:58-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-professional-cheese.md",
-      "title": "StarCraft 2: PROFESSIONAL CHEESE!",
-      "excerpt": "Stephano versus PartinG in a really cool game of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Solar vs INnoVation: https://goo.gl/gVzpyJ  Super quick decision making is the name of the game. Stephano notices the cheese early and responds immediately. However, he does lose two bases",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-professional-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-professional-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=l7EsakLakQE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l7EsakLakQE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l7EsakLakQE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-07-08T12:58:22-07:00"
+      "publishedDateTime": "2019-04-28T08:09:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-professional-korean-protoss-vs-terran.md",
@@ -757,44 +799,6 @@
       "publishedDateTime": "2017-09-07T06:00:30-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun.md",
-      "title": "StarCraft 2: PROTOSS MIND GAMES! (Zest vs Zoun)",
-      "excerpt": "Professional best-of-3 series of professional StarCraft 2. In this Protoss vs Protoss we see both players trying to outsmart each other constantly. I think pretty much everyone watching this is familiar with the Protoss player Zest. However Zoun is someone I've only just recently heard of for the first",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-protoss-mind-games-zest-vs-zoun/",
-      "originalUrl": "https://youtube.com/watch?v=e2Eu_vvy_pA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e2Eu_vvy_pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M36S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e2Eu_vvy_pA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-01-22T02:09:16-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-protoss-vs-terran-macro-creator-vs-ryung-new-patch.md",
       "title": "StarCraft 2: Protoss vs Terran Macro - Creator vs Ryung! (NEW PATCH)",
       "excerpt": "Creator vs Ryung in the new multiplayer patch for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  Some of the highest level Protoss vs Terran we have yet to see in StarCraft 2 now that patch 3.8 is out. In this game we see a macro focused",
@@ -870,43 +874,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-18T04:34:51-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-proxy-thor.md",
-      "title": "StarCraft 2: PROXY THOR?!",
-      "excerpt": "I am here, click me!  Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  An awesome match of Terran vs Terran on Ascension to Aiur, one of the new maps that arrived with the second season in StarCraft 2 of 2017.   In this match one of the players decides",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-proxy-thor/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-proxy-thor/",
-      "originalUrl": "https://youtube.com/watch?v=t00JfJqNzXM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t00JfJqNzXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t00JfJqNzXM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-05-05T03:58:05-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-vs-proxy-terran-cheese.md",
@@ -1023,43 +990,6 @@
       "publishedDateTime": "2017-03-21T06:30:54-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-real-time-strategy.md",
-      "title": "StarCraft 2: Real-Time Strategy!",
-      "excerpt": "Both players in this professional match of StarCraft 2 are constantly trying to out-smart each other. Cure opens up with a Proxy Barracks and starts the game off aggressively, then Solar transitions towards Mutalisks in the mid-game.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-real-time-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-real-time-strategy/",
-      "originalUrl": "https://youtube.com/watch?v=InMAQRxsqZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/InMAQRxsqZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M42S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/InMAQRxsqZo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-26T08:41:09-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reaper-shenanigans.md",
       "title": "StarCraft 2: REAPER SHENANIGANS!",
       "excerpt": "Best of three series in StarCraft 2 between ByuN and GuMiho. Subscribe for more videos: http://lowko.tv/youtube Mass Oracle in a Pro game: https://goo.gl/W65Hvg  In this series of professional level Terran vs Terran we get both macro as well as cheese. Terran versus Terran is one of the hardest match-ups",
@@ -1096,6 +1026,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-09-21T03:39:57-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-reynor-vs-clem.md",
+      "title": "StarCraft 2: REYNOR vs CLEM!",
+      "excerpt": "Awesome game of Zerg versus Terran between Clem and Reynor. In this ZvT Reynor decides to go Mutalisks versus a Bio Terran player.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynor-vs-clem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynor-vs-clem/",
+      "originalUrl": "https://youtube.com/watch?v=-V8RoSPjn7E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V8RoSPjn7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M52S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-V8RoSPjn7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-25T03:27:30-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-ridiculous-micro-match-special-vs-mana.md",
@@ -1135,6 +1103,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-07-16T02:37:48-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-ridiculous-zerg-skills.md",
+      "title": "StarCraft 2: RIDICULOUS ZERG SKILLS!",
+      "excerpt": "Insane game of Zerg vs Zerg between Solar and Dark. Subscribe for more videos: http://lowko.tv/youtube Nukes & Nydus worms: https://www.youtu.be/5qsgLgBABp0  The skill level is getting a little ridiculous in professional StarCraft 2. In this game both players are not just micro one or two fights at once,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ridiculous-zerg-skills/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ridiculous-zerg-skills/",
+      "originalUrl": "https://youtube.com/watch?v=G_AJuRRMgPk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_AJuRRMgPk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M46S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G_AJuRRMgPk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-18T04:14:28-07:00"
     }
   ],
   "nextPage": 27
