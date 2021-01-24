@@ -4,23 +4,23 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them.md",
-      "title": "Starcraft 2: Showing you common protoss builds and how to identify them",
-      "excerpt": "In today's video we are going to be playing protoss, but teaching zerg! You might pick up on a few things if you're protoss as well but the goal is to teach zerg players what to look for when they're playing and how to identify certain protoss builds  Starcraft 2: Showing you common protoss builds and",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them/",
-      "originalUrl": "https://youtube.com/watch?v=-3cHdfjR164",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3cHdfjR164\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M15S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful.md",
+      "title": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL",
+      "excerpt": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL In this Starcraft 2 guide we take a look at one of the strongest builds in the current meta. We begin with a 12 adept attack which is sometimes also followed up with a dt shrine before teching into the mid-game.  #protoss",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful/",
+      "originalUrl": "https://youtube.com/watch?v=GMsV9rl4354",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GMsV9rl4354\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M26S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-15T14:30:17-08:00",
+      "publishedDateTime": "2020-06-05T16:44:30-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-3cHdfjR164/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GMsV9rl4354/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +31,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Protoss"
       ]
     },
     {
@@ -145,6 +145,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hp5Ap6rdxfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran.md",
+      "title": "This is how to STRIKE at the right time in Terran vs Terran",
+      "excerpt": "In today's video we are taking a look at a terran vs terran game I played that showcases some patience and how I like to calculate when it's the correct time to attack!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-this-is-how-to-strike-at-the-right-time-in-terran-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=1DAhj_ExS-c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1DAhj_ExS-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M38S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-11-29T19:09:32-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1DAhj_ExS-c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -943,37 +974,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vKfhpDEDO5o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz.md",
-      "title": "Death Aura LE - Walling Guide PvZ",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=gntIHZ8kSqY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gntIHZ8kSqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M17S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-28T09:53:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gntIHZ8kSqY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
