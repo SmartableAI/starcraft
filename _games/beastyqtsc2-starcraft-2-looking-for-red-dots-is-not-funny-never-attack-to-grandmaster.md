@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=zvt4Do9n0vw
 type: video
 length: PT33M16S
 publishedDateTime: 2020-05-21T15:03:54Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zvt4Do9n0vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cJvOhBCAiLbOLPMPmhZ8A7vMutiX3S2S0VhC2YmuhkRws2zo0738W8JqIWos7Cz7aRiH2qf8iriSYcRRVufrcFpxiMBZ4R9WG8SOmnVj1drwGJJ/U6EyVsHuIJyal9gqmBu9GW7QAUiii0AHjB7mVR5/Jn/WRx94fEeH0w6Z7cuKHgVlKl2fzpneAsU7Cxyx2/tZyWzv6bTaCfION7IfUqyjbUdOzute9B8nTeYdokuW7O1tiAuZBwuPG9yGRsU0TPcvQX7u87rTURPpsr2ymRPRusFddtXFMyMV8MyAVawT1xEvRTWiSO4e5VfmaBEEGDFwclyGEJZj0hkGyRhE7OZ3GYRSKt+FOUwpUT+SKmaKbphyC3kDqTE6PfjEJwd1D5wDqzdq0d1rHWVaUkDy10g+FcNKf30sJDRXLUH0wtg=;/FhpqytNhnHAQCUU+ryleg=="
+secured: "BkbWk3CT+Vho+PzlHddT3h0sBvednFeBvrd/oafd+/MNhdRRqZLxu71624NgZoPNAf8z6kRaCjqKZNLXbqshXThHO2tMfrlpIIhJ6vFwSpY2OxI/bf2cPgSROudJxwvuy4lo9/DwrsoMhQUBqBhsRQpILuEUnC8WcE7OMHsxn1amY1PygWjYxEuhVnKNYnrNoW3TZwg6WD2Tr4uJ+oVx+pzB/7GO+U4YeiHWK9YfP0SyuA4hXIUmFKyh5yqK/QISmYPyscTeJstpCjlC0zJTpfuRXopnseN8E3rtPAKCOnE6XdmRp0aWxO1jCd1T3Dd9vQ0hiC6TEn5MElnzqktgNxL+47HVSMhCalLPdM3Sa0nAOV0vkX+aJj7ZyO3wsLdPTN+hEJnrsAyJhPm/hrqEXSV94jF0ZQSBmNKJZZmtjhg=;i3OddJwsiJxhwxk6NYOw3g=="
 ---
 
