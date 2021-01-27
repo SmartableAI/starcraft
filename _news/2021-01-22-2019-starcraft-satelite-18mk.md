@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-traile
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-trailer-2942856"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,35 @@ provider:
 
 topics:
   - StarCraft 2
+
+related:
+  - title: "Vicarious Visions move to Blizzard means remastered Diablo, Starcraft, Warcraft"
+    excerpt: "The folks at Vicarious Visions will soon need to switch up their digital business cards. Back in the year 2005, the developer brand and its developers were acquired by the folks at Activision. In"
+    publishedDateTime: 2021-01-22T23:00:00Z
+    webUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/"
+    ampWebUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/blizzard23.jpg"
+        width: 1280
+        height: 800
+        isCached: true
+  - title: "Modders Make StarCraft MMO Using StarCraft Level Editor, Activison-Blizzard Invokes Copyright Infringement"
+    excerpt: "Yesterday, the gents over at Rock, Paper, Shotgun covered a StarCraft II mod which turned the game into an MMO, obviously named World of StarCraft. The mod was in very early stages, but a video ..."
+    publishedDateTime: 2021-01-19T00:00:00Z
+    webUrl: "https://www.themarysue.com/starcraft-mmo-mod/"
+    ampWebUrl: "https://www.themarysue.com/starcraft-mmo-mod/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-mmo-mod/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 19
 
 secured: "WGKtgUJEKFIEJD7c1BnMNcWdTI6EbJ24eJ0mmxvUk+t/p0gZtCythDtuARGlPhqBNQfCq7o6AJoPBrGnI4/bNzDzxGzHnbdYQ90tbhvfzKWJzgmix3JSAW6ZVfCw9gDUHiEgOOE2/hGYdmruDLXfoHce2pqEr7DoH5+mGFt3UUk77tbNEhJNvKWH1yEgUMNpqQvyD0u9Fkym10rZJwCv/LyDB02ekTXVLJ1A34RxFOFPPl7zBg9RN5jelduwGAgzd3qWav3BJluGQ3+pv0pGHrqOHp+AroYBaYG0NneYmm4qww7AUlimFR7Zwd+L7B6zw82DSJAWT8IbcpxbAKly1DjDrmfdQzvrVZ2ytDSoJmuCn5+gWLDNtX5AumaZrlslR078lyo/0Wxe6WhG5gOpQsuhuSAjriAZ7bBhMa4vZM37KaRx/EvTww4QZpP956TTDnAKmsAfRdk+v6PFrGVyk15wba+AJVFy8sx7Uf7LVXV7oXTO4WLbjDy+/FrQxpvx7Su6gP7zir50/Exr1K/1NQ==;z+y4J2cco5lfKF9RcS0pVQ=="
 ---
