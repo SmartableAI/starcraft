@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-game-
 type: video
 length: PT26M43S
 publishedDateTime: 2021-01-08T12:18:07Z
-heat: 80
+heat: 79
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vD6JmIVTOXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lHxied3dGk0YZaUOxodwjlZziIDQLeIHi4ROl4E+SR9uXXOA6aM+ton9xFg9m5mr2g7cCYFsh0hfKha0Mi/WNmGbOPlOT17Xo4g4RECUxd2OscJYOZneT8e7hlr+29sy2HyhvSXnoaup8dzCIunKMwikW7KOAH1wsT0TptyWc6Hdhn7FsObeAgp2s5wY2twOaO76oQ+e6oGUkIwFZhDDhKA3nVSfU8vrbTrMs41PDJITHC1OSBJ19RLmQUUy7lu45wdaEY9dtCp4vGMVquDv9DdSXOtCSNjW1FKSdu+WoZYZvXoHi3jEMj97NiFi+nQP1WskJy19ZfFoEqmE7YcOhirH4b2D7lPJBBOuK/O/K+S8hRAb72rd+LVXVqjWmIZ4P4g12oz2R4lqduU9fvsCDi3m5jXr60N/9gGyuiOe7Ik=;4PHCcxnBE/Lqq49Ny/NppA=="
+secured: "4G32+uYQBKQMsED/sMxnnon18qZGzq06iOlLi/CjTop5hlKWAUmu/30G8f5N98qSFkcvfJJ+hXcHsDwm+ovmiEQl3qLweZU9Um32aCMjkiUEin4wHWMnuCNdJ9SQfMQq91jxIK0T9aAfVinGvavii0wJ6kM7o8ImuLOMNiWRrxFqo+aKpi2/keNjUiSahJp6zboQvOvpHlbvQdy82+S2L49b/Xa2xzNkwidUJ1cNsxGmqicSngk6hMzdWo5PpEoaq7yg4t1i0YhszgoKqY6XRxN9XPmunoCTU+UnbqZtyafWd9nFlV+bhVm81321RK7MtKSivj0IkNTX1yXCOHRR0eWRxcG+uv/JVYD1gkpUtsOJMfH8Wwn3KibdlluKT5nygdvTzIbkmd7bHrKDoZn93+l19hDdyRe1Hxw+8UxDsFw=;wKmjLNwixc+e0uDcPCzzJw=="
 ---
 
