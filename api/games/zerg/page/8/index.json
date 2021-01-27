@@ -4,6 +4,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-roach-wars.md",
+      "title": "StarCraft 2: ROACH WARS!",
+      "excerpt": "Serral vs Elazer in a professional match of Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Roach vs Roach battles are not uncommon. However, when good players execute this strategy they will fight at many different areas at the same",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-roach-wars/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-roach-wars/",
+      "originalUrl": "https://youtube.com/watch?v=HDCJm6CZa3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HDCJm6CZa3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HDCJm6CZa3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-09T01:26:59-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-special.md",
       "title": "StarCraft 2: SERRAL vs SPECIAL!",
       "excerpt": "Mass Battlecruisers vs Mass Infestor in an epic match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/XGRElTXTFsQ  Serral vs Special in a really cool match. One of the strongest macro games recently. Special decides to focus on lots of Battlecruisers,",
@@ -1108,44 +1146,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-05T03:44:00-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zergling-base-race.md",
-      "title": "StarCraft 2: ZERGLING Base Race!",
-      "excerpt": "This game of StarCraft 2 is a little crazy! It starts off with a Zergling rush but quickly transitions into both players trying to finish each other off as quickly as possible. This is game of Platinum and Diamond League Zerg versus Zerg in StarCraft 2 with commentary.  Get exclusive content & support",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-base-race/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zergling-base-race/",
-      "originalUrl": "https://youtube.com/watch?v=hyeVQ5JdEDI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyeVQ5JdEDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hyeVQ5JdEDI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-08T01:53:48-07:00"
     }
   ],
   "nextPage": 9
