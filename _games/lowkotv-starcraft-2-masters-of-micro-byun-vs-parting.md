@@ -2,6 +2,7 @@
 title: "StarCraft 2: MASTERS OF MICRO! (ByuN vs PartinG)"
 excerpt: "Best-of-3 series of top level StarCraft 2 between ByuN and PartinG. Both of these players well known for their incredible unit control and micro, and in this match they face off against each other.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=hfXPJ22QwSQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-masters-of-micro-byun-vs-parting/
 type: video
 length: PT34M50S
 publishedDateTime: 2021-01-28T12:58:20Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iNADE2emJQ6R4Ib8NuXXgw6gpO5RsUBa12EzvefcWCAOjaXeLcLozplLiGJWvsVlLPFNcGv3s4HsC2Bkv6/CuEg65J2+UHSvF2MJAWvWvXQT9FAhHrR4IOsfKMDkqKlwyVLmBhRgO9EUD6j7QMiQCI6ORdrsFoKtDcXY7uF6IxdNtkFhUFhpobz2qlD+ei6L+dcXUGNbeKNQcBb9JL5HH5PN2LtdTHI+SV+AGaVYN/DgH979ifCaNU83y+tMIMGSeC1N5FWtgqe5wFQnQ4xowZRMwv1GD0yd2SlQusxeXmguJdj5BNSBs+5vmVLq2S+p4EyVBOho6gK3xOo7YgpL9iiSQOqWaSj/XD+9v+U82nWLwPToXhkJAEgzpYHOJeR570nl0BgvBEnMIOCZhVV0Xg==;JwOU0uVKSkCT5LdGlVgAbA=="
+secured: "hB80FKdnEc+OR7hoOJ36rAHmJOE1CvbRawiVWCxwh0fSgsfZBrPElNodAoILI/7+Yg7VJrVFba1sAotgqwRxfu/QQJfxDGRlj9zd1msEoZKCGAawR7kinnRlpJx+mGJgZyG/JBNBR2zOg/k2mGhQlEpfD8RU2a3ioE7O7MzD9a6TnWfBuzMt2Ym1YQ0TIlpqAAR9Z90ttksZKKjK54mSLFvG0nJXgI+Td1Cc+tKgrOGm4f8RgAFxpZimDM0x6UF4pSgXPfhaC/7w/U/d+mdGg00Z+fr0wnHn6JwSy/9EsyGt8mlVo0N2w40mfWZRGTjS8sdGh3oa2CGuF1KQg+DdZfICwIxHPnKPEF8FClKpyi4hJPWLUwALqUQezbmSx/vkJtiA2DpAAEbe+ooGBlRgrQ==;fAt/PBpSBjCOV5e54ncxwA=="
 ---
 
