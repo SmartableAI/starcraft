@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Starcraft 2’s ‘minegate’ shows that RTS fans still care about the little things"
-excerpt: "Starcraft 2's 'minegate' shows that RTS fans still care about the little things Where were you during the Starcraft 2 minegate? With no"
-publishedDateTime: 2021-01-27T17:50:00Z
-originalUrl: "https://www.compsmag.com/news/gaming/starcraft-2s-minegate-shows-that-rts-fans-still-care-about-the-little-things/"
-webUrl: "https://www.compsmag.com/news/gaming/starcraft-2s-minegate-shows-that-rts-fans-still-care-about-the-little-things/"
-ampWebUrl: "https://www.compsmag.com/news/gaming/starcraft-2s-minegate-shows-that-rts-fans-still-care-about-the-little-things/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/starcraft-2s-minegate-shows-that-rts-fans-still-care-about-the-little-things/amp/"
+excerpt: "Where were you during Starcraft 2’s minegate? With no new paid-for content coming to Starcraft 2, fans of the popular RTS game must concern themselves with the truly important issues, like if the damage template of a widow mine is a square,"
+publishedDateTime: 2021-01-27T17:29:00Z
+originalUrl: "https://www.pcgamesn.com/starcraft-2/minegate"
+webUrl: "https://www.pcgamesn.com/starcraft-2/minegate"
+ampWebUrl: "https://www.pcgamesn.com/starcraft-2/minegate?amp"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/minegate?amp"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - StarCraft 2
 
-secured: "xuFCfljxC/xOYW3qGOCw667XOVAVAzR4lIuuW/qTWpf5pX+0R7suPw1gmw4FB0ddOu4ZpPXQhJNhKa8h7YfAVytx6nLTHsyLpiKpRAgIE6u9IUSTGbrV9+dHWVedHgBge8kJW09PDor6nrl9j2B4QGsBiqpGKN/CoKPVRmFlR9qe/JHCBmYKx7akeNXtaxzL5HDf/mK0CV7Jv8VDAKLwlLtpKAwLFvUqm727QhueQAddnmSasrFeMHjUNLNoN3PATjunsWKD9m4KRUvFHc+HDXCHP9UlWGCyKoSMZIHVsSon698nif0YXP/occbFq9GZ2U0ZPCkpAXHP+iPmKqdmTGlOzWISMRwGwjec5AFpjTK3yEDvmH987AGUbAgVXBlLqs/a57/HPkQsSVlGLwIdQMhEA8SrouRyaCrqu6X61pmh90s/YG0sj/Nq71TY1PrQ33vgU3Aej6GiI0UUy1IfRBf1oREWEzVICwbZyBoXeU3Ga7YiC94Tbdvadod4YaQ9EvlODJnpTuSgUbSafBI/SQ==;GXb+IUjXh+4sncm4H0hZKw=="
+images:
+  - url: "https://www.pcgamesn.com/wp-content/uploads/2020/08/starcraft-2-tychus-1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "kqD/Bi2h7+jD4w1MPIJWuTICV8M8ljBIJ99PSgrpmTFvGSM6wt8jSptWBFDU8i/jIBdjOCYWLOD37/kHOX8QcSvRDFu4ZEVl5kt3Mbq+GgcSwqmR3c+LD3c9lIi6jJn5TG6RRoIVujRdHn2WICQ5dzG7/dBn54ui2CiGztLcXbMmOb5LYQDnIgxBlsq+jOUR/3fJRmRBt0BKVQ2PDQpYCziHPvstTErJGY/iE5A+CcJcNhdVNHFauQvU30CqsYYsg/sUiuQWO382VHp8cWACxF0n+L4kBEVpUfzTiOjlW8Obdv4fYRCH9WqYSGfoib5eEC66IDpR/kDUuVPAdwQ6zazxkaYsTouWh7cSwhs2JAw=;MmFKBjqXqz4VUvwUYHMlZg=="
 ---
 
