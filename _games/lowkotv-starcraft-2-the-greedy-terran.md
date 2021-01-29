@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=OjtpUauGITs
 type: video
 length: PT42M24S
 publishedDateTime: 2019-06-26T18:09:40Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OjtpUauGITs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zg9ADO2MQkX8jhkvnpAZdJtaF1xosxS/KwPPOgl/YLtAXmJpXy2TD3LPc6o89RyTcRmZ4qfE5Y214Y1MJXyq/pnMwhxUbRrEVrTqIGJfQuaakmmCxHijg6zxHN/zguUlqfwFiUSa+E3pPCFoerJKBHfGgwRAlJXsVWTjzLfxG1e08YTsx7oQgBPfLN9T1xgHbDzE65soASTNUnEKY7skZ6zCubTz7mXye9UlgmAaMJrUq+AZ1J7iBZwSqU67cCyTEt++CWUQSSP3aLMxLYIFZgqDm/zVtrdjNRjsL+/Lim96yStZmhLUmdDrtpcrqQgrTaA3Ql29ytkyBil3YrzXTbIUf1KcKmQIrM9CV4bZvOzwb+twbr0U6LDaPQTdOYNsxxN50yodNTXNrgukiUWV0eg65X8ulemVGYeEdDXPj8o=;6SE5lvm1O5M8Yb+xXVh14w=="
+secured: "DJI+Ahj8vmUEC3K3rYWmfalmLhwToIyyAAmRhxlQ0q3pumD8aLF3rftXyBJC1p7/a9UtUBoEWrhhdXSEnQcuZf3wXfo0P7MWysJTR54QEhGLwyxh8aUL7LGQAF6A12t/E7RUEAKDK+KO0cTAVbCzne/prw7NQUBwpBruqozjK8jzuQVaxhoucx0QOXczNrukqVKFj65os6NnG+cJjGCNxP8dDPj9RV7UD9273HzySFRd2Yx0cRYIGTqzGuqMDh9w843Bzm61ky/RxUbjg0yLVpu1QcnMst1iYQ/R3U+/ZPY/bN+lBj1IZKtx3XZnxKEpXDZKNO+2OcEvX7f9Q6m0p+mJezAVUo+j1cWTyEKyHHRBxM25CzrUv6D+abvy0zwMgYWDs9sPr8iYnorh2PJmRwnSgce2SxcMc+iSuZiRXF0=;T2YyXFMdCjb2mXiMPdkFCQ=="
 ---
 
