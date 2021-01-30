@@ -2,6 +2,7 @@
 title: "StarCraft 2: The Machine's INnoVation vs Reynor!"
 excerpt: "Best-of-3 series of professional StarCraft 2 between INnoVation and Reynor.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=8JQPqVOKmW8
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-machines-innovation-vs-reynor/
 type: video
 length: PT52M15S
 publishedDateTime: 2021-01-30T12:55:14Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4YqVkuVESVAzaCfcNsNLptVc2PYM4MPPgmta7NYQUL2gn8r4CsLJNski6MQAMrvuJ50YMoDGBtPyfXuwwjs2QvXSjGhD16EY2GSPOy3ClSkPibdo/3Ubhb8WuWcS9dDPwMAvX04hTZXNRPJgUHGB2brvomJzmwcU8NjHTEoRYh0vTRt865nSJOHarhzUDqZ+NY8cF3O0DETyc6LNrZ0bx5JDouk79ESFRl/ZTJsjTOnrl4iPz9SclLpt6d0Y3oZfqu2A5UCLFdwELP8uvuGqYPFuvBGpyEVd7b5R9lChbH6iBfnrx1WNcLff3J4wXSA1XnGbiP7VTp46umBVlchiVYVJFTPYofGbkxoXZLUUpszSpeY/othJVNocYcLj3+bZTU6+5HBiPQO8gN5r8uQv/w==;80NkNVLmWMBPUtYRD/InYA=="
+secured: "g0TNelN5NPyWiiKQNlIhVAsauiT/Vn82w7H76F0N86c9J1aMZneOFW8jnCE2BwkbQ4s2HxGhrMBt/Dv5nnYpFLU2KYSkX1haorbgZLQXkUygG1FtIrZkcYfWp6jNkrc+fu4IlGfJKoyVXehNAgLsF+QKqOQtZQYxwDNlLV0MLzF3WsD5CpapQ/Yqs1eLMj8kfxdYJgscGChwHAhAW8JGH+FRMEPOVaBKTqVRR6lgv/LYbopsopGqiNRsTP5pa1h4ax4/Z6CudVA3HXSKrREoU37JN0TsWN2K0I8xELigvfixFyKuIFyqYjekxKgplA9xLD7IryyNHS+hwAXkOaUhl5EQctSu4sCv0mwawiibsaPHuqE9FMxOk7LXmStpfPVP6aff1mUIMzgscw/rDLjbqA==;HlPOmVZlojFaGOZGQV2w5A=="
 ---
 
