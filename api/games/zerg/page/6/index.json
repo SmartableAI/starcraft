@@ -4,45 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s.md",
-      "title": "DARK SHRINE VS DARK SHRINE - sOs vs herO - GSL Code S",
-      "excerpt": "A crazy Best of 3 between sOs vs herO, Both going for Dark shrine rushes in the first game! Some great Cheddar cheese from both players  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-dark-shrine-vs-dark-shrine-sos-vs-hero-gsl-code-s/",
-      "originalUrl": "https://youtube.com/watch?v=4stL2OicyNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4stL2OicyNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4stL2OicyNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-03-03T15:41:54-08:00"
-    },
-    {
       "path": "_games/sc2hl-vipers-abducting-eachother-solar-vs-dark-starcraft-2-iem-katowice-2018.md",
       "title": "VIPERS ABDUCTING EACHOTHER?! - Solar vs Dark - Starcraft 2 IEM Katowice 2018",
       "excerpt": "A pretty funny cast of a great game between Solar & Dark, finally figuring out the mystery of what happens when 2 vipers abduct eachother  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
@@ -343,6 +304,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-08T16:44:32-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster.md",
+      "title": "StarCraft 2: MASS Ghost Splits vs Banelings! - Never Attack to Grandmaster",
+      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-mass-ghost-splits-vs-banelings-never-attack-to-grandmaster/",
+      "originalUrl": "https://youtube.com/watch?v=4CcnQeKLWs0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4CcnQeKLWs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M50S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4CcnQeKLWs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-06T05:35:25-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-mass-infestors-in-zvz-ishard.md",

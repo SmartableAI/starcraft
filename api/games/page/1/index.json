@@ -43,44 +43,6 @@
       "publishedDateTime": "2021-01-28T04:58:20-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-florencios-roach-whack-a-mole.md",
-      "title": "StarCraft 2: Florencio's ROACH WHACK-A-MOLE!",
-      "excerpt": "Very fun game of Zerg versus Protoss on the StarCraft 2 ladder. In this game Florencio decides to cheese his opponent with multiple proxy Hatcheries, burrowed Roaches and Nydus Worms.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-roach-whack-a-mole/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-roach-whack-a-mole/",
-      "originalUrl": "https://youtube.com/watch?v=ru_HglKItig",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M26S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 323,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ru_HglKItig/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-27T02:21:07-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
       "title": "StarCraft 2: FULL ECONOMY \"CHEESE\"! (Serral vs TY)",
       "excerpt": "Best-of-5 series of top level professional StarCraft 2 between Serral and TY.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -120,6 +82,44 @@
       "publishedDateTime": "2021-01-25T10:45:48-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-florencios-roach-whack-a-mole.md",
+      "title": "StarCraft 2: Florencio's ROACH WHACK-A-MOLE!",
+      "excerpt": "Very fun game of Zerg versus Protoss on the StarCraft 2 ladder. In this game Florencio decides to cheese his opponent with multiple proxy Hatcheries, burrowed Roaches and Nydus Worms.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-roach-whack-a-mole/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-roach-whack-a-mole/",
+      "originalUrl": "https://youtube.com/watch?v=ru_HglKItig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 247,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ru_HglKItig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-27T02:21:07-08:00"
+    },
+    {
       "path": "_games/beastyqtsc2-imintrouble-beastyqt-vs-stephano.md",
       "title": "ImInTrouble.... Beastyqt vs Stephano!",
       "excerpt": "Feel free to let me know if you have any suggestions for future videos. Enjoy this one and have a great day :)  If you are enjoying my YouTube content, check out my live stream on Twitch! Streaming pretty much every day, starting time is at 3 PM CET. Link to my stream is down below.  ►Twitch:   https://www.twitch.tv/beastyqt",
@@ -153,14 +153,14 @@
       "publishedDateTime": "2020-10-19T06:11:52-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
-      "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
-      "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/",
-      "originalUrl": "https://youtube.com/watch?v=S4QD2UMm9nY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S4QD2UMm9nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M25S",
+      "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
+      "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
+      "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=ZGBQn1UbR5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M48S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -175,12 +175,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Protoss",
+        "Zerg"
       ],
-      "heat": 174,
+      "heat": 154,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/S4QD2UMm9nY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZGBQn1UbR5g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -188,7 +189,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-11-23T04:53:20-08:00"
+      "publishedDateTime": "2020-11-02T03:15:03-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
@@ -459,6 +460,44 @@
       "publishedDateTime": "2021-01-14T04:25:38-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-blys-improved-zerg-rush.md",
+      "title": "StarCraft 2: Bly's IMPROVED Zerg Rush!",
+      "excerpt": "Best-of-3 series of Zerg versus Protoss between Bly and MaNa.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-improved-zerg-rush/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-improved-zerg-rush/",
+      "originalUrl": "https://youtube.com/watch?v=mBP8soYss38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mBP8soYss38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M59S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mBP8soYss38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-04T03:48:36-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down.md",
       "title": "StarCraft 2: ByuN's Cheese Gets SHUT DOWN!",
       "excerpt": "Awesome match of Terran versus Zerg in StarCraft 2 between ByuN and Dark.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
@@ -497,14 +536,14 @@
       "publishedDateTime": "2021-01-15T06:24:18-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base.md",
-      "title": "StarCraft 2: Clem DOOM DROPS Maru's Main Base!",
-      "excerpt": "Clem versus Maru in an awesome match of Terran versus Terran in StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clem-doom-drops-marus-main-base/",
-      "originalUrl": "https://youtube.com/watch?v=Q_PCIMhBn4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q_PCIMhBn4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M24S",
+      "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies.md",
+      "title": "StarCraft 2: Florencio's DISGUSTING Terran Strategies!",
+      "excerpt": "Florencio is back! This time with fresh Terran strategies in StarCraft 2.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-disgusting-terran-strategies/",
+      "originalUrl": "https://youtube.com/watch?v=S4QD2UMm9nY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S4QD2UMm9nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M25S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -524,7 +563,7 @@
       "heat": 114,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Q_PCIMhBn4Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/S4QD2UMm9nY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -532,7 +571,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-07T10:42:45-08:00"
+      "publishedDateTime": "2020-11-23T04:53:20-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-cheeses-clem-best-of-5.md",
@@ -988,45 +1027,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-11T04:22:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
-      "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
-      "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/",
-      "originalUrl": "https://youtube.com/watch?v=ZGBQn1UbR5g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZGBQn1UbR5g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-02T03:15:03-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-innovation.md",

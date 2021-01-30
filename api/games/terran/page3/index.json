@@ -4,44 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-swarming-as-terran.md",
-      "title": "StarCraft 2: SWARMING AS TERRAN?!",
-      "excerpt": "A ridiculous game of Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professional 2v2: https://www.youtube.com/watch?v=QJM7wa9N7-4  In this match between uThermal and Solar, Terran has his mind set on swarming the Zerg, trading inefficiently and expanding all over the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-swarming-as-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-swarming-as-terran/",
-      "originalUrl": "https://youtube.com/watch?v=_pAQFBJmBXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pAQFBJmBXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_pAQFBJmBXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-15T05:01:59-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-terran-doom-drops-innovation-vs-cure.md",
       "title": "StarCraft 2: TERRAN DOOM DROPS! (INnoVation vs Cure)",
       "excerpt": "Best-of-5 series of Terran versus Terran at the professional level of StarCraft 2. In this series of games we watch two top level South-Korean pro gamers try to obtain the victory in SC2. While most of the games start off as much pro games do, with Marines, Reapers, Hellions, Cyclones and Ravens, the",
@@ -770,6 +732,44 @@
       "publishedDateTime": "2017-11-20T08:23:55-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base.md",
+      "title": "StarCraft 2: Clem DOOM DROPS Maru's Main Base!",
+      "excerpt": "Clem versus Maru in an awesome match of Terran versus Terran in StarCraft 2.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-doom-drops-marus-main-base/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clem-doom-drops-marus-main-base/",
+      "originalUrl": "https://youtube.com/watch?v=Q_PCIMhBn4Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q_PCIMhBn4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q_PCIMhBn4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-07T10:42:45-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-reynor.md",
       "title": "StarCraft 2: MARU vs REYNOR!",
       "excerpt": "An amazing game of professional StarCraft 2 between Maru and Reynor. Epic moments and mistakes by both players. This is certainly one of the highest level games of Zerg versus Terran that has recently been played.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel:",
@@ -922,39 +922,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series.md",
-      "title": "StarCraft 2: Never Attack to Grandmaster.....With Nukes! - NEW SERIES!",
-      "excerpt": "Welcome to the new Terran ladder series! This time, it's \"Never Attack to Grandmaster!\" In this challenge, I play as Terran on the EU ladder, and in every game I'm not allowed to attack with any units except for using Ghosts. I'm allowed to make any army units for defending, as long as I don't attack",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-never-attack-to-grandmasterwith-nukes-new-series/",
-      "originalUrl": "https://youtube.com/watch?v=dxFmLI_uM9s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxFmLI_uM9s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M8S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 53,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dxFmLI_uM9s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-24T05:02:15-07:00"
     },
     {
       "path": "_games/beastyqtsc2-starcraft-2-new-series-mass-widow-mines-ravens-to-grandmaster.md",
@@ -1142,6 +1109,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-06-15T04:58:56-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty.md",
+      "title": "StarCraft 2: MUTAS VS MECH?! (soO vs TY)",
+      "excerpt": "Zerg versus Terran Mech match of professional StarCraft 2 between soO and TY. In this game we see why Terran Mech is losing popularity as soO is going for a unit composition that on paper makes very little sense, until you realise he can mine significantly more than the Terran player and can constantly",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mutas-vs-mech-soo-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=n5h5VKHnsKg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5h5VKHnsKg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n5h5VKHnsKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-08T04:49:16-07:00"
     }
   ],
   "nextPage": 4
