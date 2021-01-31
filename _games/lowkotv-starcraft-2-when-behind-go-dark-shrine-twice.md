@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-when-behin
 type: video
 length: PT32M27S
 publishedDateTime: 2020-11-19T10:13:18Z
-heat: 56
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aYHhB+sXE14KT26xb25T0fLf+T78q2arL88538xU0Ha3gxV802z8hnFOcYMJHf/aWUAYXkKSx6UMwHfiiD33Y2dpmKcZP6nacHVWC3zFyIwMFavM6l4deEUpv7OCxVKp6BAQit5w46yhxTLNfXwgBKv3hcHp1f73TJW1NZhN6Ix8VFjNqAEfhhiVe9OKwAii+/rpY4nEqNjpsuTCGhQLWiuDvX2Ym52qxwAo+JtORnRTy3Hsyb9v5NuOU7pp5aC48HbMvco2tgh2Yg6iyH80UbPG8FLT61Q/5Kip1mXMB2/Bufz2Iaw3CKY2HP5EKasQ2sVZfeWBUUYhmxyENRUow0h2igtjjNk3oPip5fcs/4Q6QfJNhNMfRxyj/PG5PzVCqNDR8PFxSpj0LWK4yi//0VqfInS4UU/YWFG/eCIflj8=;C3GeKyt5J4PteOAf8AT1yw=="
+secured: "CtvZkZKmYaPGWIXjHvcQwvbaZtdTmjT36/DaY9Rk5Mf9H6Y3rujFwCcv3j67wYVdq+1ieYZ9UKFeNbYAFpRT7u/8T60tCLne9XooPcSdEaTBXC7oz4QDBx7JexHJUVc4Shi6weo2rEUM3fR+dqwBb6WtStb+fZBnSCi2etIQ8pSbcYE78gWc6jaui6YQ8ZDgD41kmR9Ry29H5quP89gk56AvAYpOER4uqzZEgV8pNIH0cXMscQLeAzLiv2hjjQM0bBmQ7c85RbpdUHFZyhwH8kepTZuLVUm2w7/e9w5Rf4/KT9/1hcgdmqOfRfpXSkRnYw3BDBXLE2c713m6ygjjJZr3MxCI3Miv2pkRdMME+53uYXIVk9x9/AnynFy09Bi8YQDuNFDsgywGwc7y4877EKBlf5QTWV8hr/vMoLVoU0U=;2JwEDHz9BfA+HQY+hl1klA=="
 ---
 
