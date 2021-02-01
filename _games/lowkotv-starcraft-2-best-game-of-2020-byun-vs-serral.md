@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-best-game-
 type: video
 length: PT42M58S
 publishedDateTime: 2020-12-01T10:38:35Z
-heat: 83
+heat: 82
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SOE8kvAc1KekDNvePJZv3sYO94dG4IbmFKEHMutzPVhDfLXrrM1It8JbHwvDhPPHEriuveIaPinkegnU/SM80CkEoX25GS20DWsR4jpsgGhTjkQRjawxj5e3JwKJj2HTni7XGfSxWPVq1/hT5q6Ba6f3nmlb2nu+ZbN3r31SvSJsOb928q+20OdtCGvtuRc4sV3/pAHFZA+NBsQm8Yetn2NEKi8S0hlZI96tbIXaTqlwcEW9b+aOvxxn9B9qclaX4eVm7rz7xEAGw+V5r0/4WYz44/t48g6EyWKtw8V26qxEr91damKtLE8krlFZKB7THJozPude2bQceq2pBfnCSQrByM3/NMX9qfTQ1foe0rPZ5Aa4CZkF0V/OYFUIeW2P1GmjdDfcJvMaeLkkJqFeE06Nobat2zrZKY2gFsYYNHI=;10v32yokkFvvne4RbgxHdw=="
+secured: "FNCV3H+grv5DEmVogbSX68kct9qZ+iwt0qNAxdxPP7mZMrSjAIPePyKVkDDG3MbunnOmvABhmdPQ1kFB3OMhEE3XCFdxXmOPwEyQBiMkFoqsDFrqZo8Yo4Hf4nDlvdRwlgw6CzkIlUrxpeZqQaGqR92df/Q0PlNw+CZzuXhEAPE1vHRps2RGrRiYSTGvtWdyNLT6jtmW+pvD7APKZ82EmlojMKrGycDxoJmgPyG46rpEgg8qmvL2rYtS86LvwkghzpOWB7ZrJj85m+/iFEAUEPIVXVAxzzkhs0oIgvIb/5haNzVqE3Mn00lYTgs6bS7jcG1eKWWEa24i0fG88+E8tWkWodpgi+38x3r6HGJcFbCFKOHuVryabGoRfFajMNB6oZNDw8Rws277wPv+tK2z1lt6ip7zP2w46grfsYWBL3I007lgEeoomkL6/Qim0G3K;6WRohctfEiSukf0HWZXksQ=="
 ---
 
