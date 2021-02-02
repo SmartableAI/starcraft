@@ -36,6 +36,17 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge Outfitter 27RLI"
+    excerpt: "Starcraft Autumn Ridge Outfitter 27RLI Travel Trailer #128854 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-16T06:29:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-outfitter-27rli-travel-trailer-2937700"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-27rli-travel-trailer-2937700"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-27rli-travel-trailer-2937700"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "2019 Starcraft Satelite 18MK"
     excerpt: "Holiday Rambler RV back then was top-notch and expensive. Check out this awesome vintage RV on this week’s #throwbackthursday feature. The 1992 Holiday Rambler Aluma-Lite TT 32FK is in immaculate condition for being 25 years old."
     publishedDateTime: 2021-01-22T06:19:00Z
