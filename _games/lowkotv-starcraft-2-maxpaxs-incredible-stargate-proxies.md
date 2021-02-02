@@ -2,6 +2,7 @@
 title: "StarCraft 2: MaxPax's Incredible Stargate PROXIES!"
 excerpt: "Best-of-5 series of professional StarCraft 2 between MaxPax and soul. MaxPax has been playing some awesome SC2 with a variety of build orders and strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=TT64gcEXKZA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maxpaxs-incredible-stargate-proxies/
 type: video
 length: PT56M28S
 publishedDateTime: 2021-02-02T12:37:11Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Fs9T4DGWc+QiiQhEWfzRzOKfX9203/1Ti2KkH2g43xoSB74nF60kfnjTXrYThaYghusZZphqJ5tHcQM1CEgoImyGYrN+VTLyYO3+CjHPFL+LtA9BFJOSOcerWUQZZrpffnXgyJDLnS+KEWMaubQbaLupEOGI+bqZFyPK+6aUc0ObI+MmdxYi0zTRpiFvQEKycjaTKt1KusCKnhlcQk14Tg2yjqC7bcIEqPJiYW743EcfGttPsMuu/0/F9Ts47SnAfaQCgFAftbYI0wuhZMTqoKIHQYYf/WtBmfgpInWKEZXG0KqmlKXeNp/O6crFN/DbaiuI70SsmDxWpk+nMVfyyX6VPyxjKQAU9yN2FstZOXFzbc48ylP5uZfQhJHruCIofb5OzNbm8axgl2+HkJm+nA==;oZ+7qmYF1S8m72FCn/hlNQ=="
+secured: "NfHbsCGx3ItkNWk3OTHsbp46i5/A8FlEGTRAyqudBcmflfHbsMZOJka5HfeqPIfmCp69YYn/Qmws/xPVWeZ4aGrR1KkWb3ixLpVHROcuGgK8vy++W8xcZyzfqwnUbUWdTk03/yvdCKCyDfr4Spk4JN3V3Y7+ukdacnO5aRNZ8opPUxUoo6e44ulJV58igHdto0cjt5MPXy/c/cwH3X6/xC/1PeG/5JgskWuIiHLhA+s2ibD4g95SySp7fjaljPIZJV2ATiXJJdDlBumEAnptggMLCd+MyHTV8sRfKV6ZgnhpWdjw0A4VYKFZMuzlRH8QFNC8B5vaT6gyG7JWb/dYdjCLbZd2xOLM7YbeHOXBj0zLlCMxJxHwQD4AYTYowLHfEK728AKqDOW4zulujagjQw==;M7i7Z8nXxg63LNm0UEm/pg=="
 ---
 
