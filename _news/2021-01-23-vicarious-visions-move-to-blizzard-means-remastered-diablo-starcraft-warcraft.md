@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-r
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
 type: article
 quality: 53
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "Manners in Starcraft: a study of GLHF rate by race in D2 NA"
+    excerpt: "Recently, u/strattele1 took a new account from B3 to M1 for all three races. He posted a data set on manners in SC2 from his run through the ladder. This data set looked at a few different things"
+    publishedDateTime: 2021-01-25T15:34:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-starcraft-a-study-of-glhf-rate-by-race-in-d2-na"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Modders Make StarCraft MMO Using StarCraft Level Editor, Activison-Blizzard Invokes Copyright Infringement"
     excerpt: "Yesterday, the gents over at Rock, Paper, Shotgun covered a StarCraft II mod which turned the game into an MMO, obviously named World of StarCraft. The mod was in very early stages, but a video ..."
     publishedDateTime: 2021-01-19T00:00:00Z

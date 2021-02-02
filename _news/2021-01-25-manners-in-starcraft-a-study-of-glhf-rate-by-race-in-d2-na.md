@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Modders Make StarCraft MMO Using StarCraft Level Editor, Activison-Blizzard Invokes Copyright Infringement"
-excerpt: "Yesterday, the gents over at Rock, Paper, Shotgun covered a StarCraft II mod which turned the game into an MMO, obviously named World of StarCraft. The mod was in very early stages, but a video ..."
-publishedDateTime: 2021-01-19T00:00:00Z
-originalUrl: "https://www.themarysue.com/starcraft-mmo-mod/"
-webUrl: "https://www.themarysue.com/starcraft-mmo-mod/"
-ampWebUrl: "https://www.themarysue.com/starcraft-mmo-mod/amp/"
-cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-mmo-mod/amp/"
+title: "Manners in Starcraft: a study of GLHF rate by race in D2 NA"
+excerpt: "Recently, u/strattele1 took a new account from B3 to M1 for all three races. He posted a data set on manners in SC2 from his run through the ladder. This data set looked at a few different things"
+publishedDateTime: 2021-01-25T15:34:00Z
+originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-starcraft-a-study-of-glhf-rate-by-race-in-d2-na"
+webUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-starcraft-a-study-of-glhf-rate-by-race-in-d2-na"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Mary Sue
-  domain: themarysue.com
+  name: GosuGamers
+  domain: gosugamers.net
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Vicarious Visions move to Blizzard means remastered Diablo, Starcraft, Warcraft"
@@ -58,21 +62,18 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Manners in Starcraft: a study of GLHF rate by race in D2 NA"
-    excerpt: "Recently, u/strattele1 took a new account from B3 to M1 for all three races. He posted a data set on manners in SC2 from his run through the ladder. This data set looked at a few different things"
-    publishedDateTime: 2021-01-25T15:34:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-starcraft-a-study-of-glhf-rate-by-race-in-d2-na"
+  - title: "Modders Make StarCraft MMO Using StarCraft Level Editor, Activison-Blizzard Invokes Copyright Infringement"
+    excerpt: "Yesterday, the gents over at Rock, Paper, Shotgun covered a StarCraft II mod which turned the game into an MMO, obviously named World of StarCraft. The mod was in very early stages, but a video ..."
+    publishedDateTime: 2021-01-19T00:00:00Z
+    webUrl: "https://www.themarysue.com/starcraft-mmo-mod/"
+    ampWebUrl: "https://www.themarysue.com/starcraft-mmo-mod/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-mmo-mod/amp/"
     type: article
     provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 19
 
-secured: "PMtFyiEi0LBqNVeJL8d/YII4u4xC8LLZNaoBLaFxRY3+Uevw6LYp3fyqsuGOcy9Br6WWsO9cOt8ILEWUCls7oliKPj0SVE3xzaO1QUxCLckRQs9Qxl/0Hw56pae1IJDSbn9iLsPRk9YEU2d6DTRpBGdJEcCYkUVH3XDdgsVbEiVWrXCOYvzAIK9+MNYakJYGt0BiaiMqj4ZWrC9x/HotgLKbCbHWyvnTD61z85Ha/TmcykiVZF0Jzpyh6BVmZgPDbvVLj8mwJpygBPZDNu/A7S5MasJlPQvsjmQhhx9cZCGkdQv1wr2f/Ev4ZbewpNYKR5c4vuczUhITp6Vi5sjWhFuxS2v2wGz/mIc76V76nK8=;/fnn+jEMRYjPCyTVkhY57g=="
+secured: "H/soCBUAASLZpNUE6B7rskdqo4wjyr/Hm44lzMTmuOR1RvulS08qU2XAA82S98WXp728EEFgw4K43c5kTWohV1zkIeCqqeqlacaw8z4MqdXjHrpDdnU1XwNYPk14HnfgzFtTj54cihUqqO9ZSqogETFgGjtpVuSrkQqhj90Krmnyx9q/z7PZw/kLlR+Vee621OQseE8iXMWmz2bHUkD0DDx9N1nLaMVzpx5M33LtlXCzMI2TKJBjB/KSsffVQVBzptE0dcJZZiwjzrlWQOzKmLtweQNshB1nMi0pdp/JDyBWM9WqwpeneB59kdg9TmNu8ZhI6ql2FGw0Mzn+Tx3LFbMIbDnzUiloTHIN5iu4isU=;pMudRH7CQ432APMWthpt3Q=="
 ---
 
