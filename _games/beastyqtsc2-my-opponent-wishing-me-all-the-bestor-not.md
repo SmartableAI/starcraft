@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-my-opponent-wishin
 type: video
 length: PT30M30S
 publishedDateTime: 2020-10-14T12:47:20Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9ofiYvK_Kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DdnwJ4uJKo8aapGa0dzLatOQNApxqY3Kt9j8mV0ym+/3hop01XMI+IQIG8vexo7BmZfN4EeyoZWSRUtBhAxO5COCpnKe3r8zP6yHHMkziHSs295eCTiWsW5+IfwAXg8MLJe9oCXW3G1R6c7WZUeGypXBTTe+c0YM25EfhaUYxGbVO00BEPlt7y3+HvT37Qw0XxHAbUTFDRyHlLYb3axvMqN/Sdc0K5G8USi6HkuRa/J7MQMXDG6+ctVeyaE1nc7mACXvvv6cLwVcytcDReWUE9dO2tPdReGPpDVm+rwA/LvV4SWjz1mntcHUB1zU+z9rSIFtwT3UyW3cdI6FXiQu1nj+BLGiYGSqTNUp4B1V4878hNNvAfmrDT/HGCpLyNPqko+MvHn1KIFzGyfySbqVVnkQCpRn85SQEER3MAiUlo0=;6FdLe9vkJsObuN5U0hN68w=="
+secured: "BdwYdTFryYpQNYh3uvucl0BHdZMhbvynDHiouwiBgIXmbC1YxAM2YKLfSTt1Efx++qM3g5rv6TGj95w07qzXVKpCb8dsO3FlOzQJquxKz4b7AMUKSfTcgwZs8NtNPHg3EI1RGkoMFsxkLmsfd9h+4nA1DXp/t459Xjv6b1ahbppwtDJaZRIkGhiryBTdMeAFdeoZrqHvV97nKJocskOdiIiHri+RQ69n/oKaK5g8/Ll/rj1Szr36ajQkqQCbM9cMnGgjS8/4WhxbUwSLVRAoQHBKflCW8S8ydyL0dzlk5YRwTAdmMYHq+BHHcMdAEcNBLkl2rNGwrmpVE9iV0Swk8ksvSOiQ27lQ85tkYdIdNzOqMb7I7KETAua56gqrIkLrLbw1BQYW+Fo590HNBr34WKb+9tMpsEhm3pkrpKRtJpA=;5MngFB6APjxeFsg03gZERA=="
 ---
 
