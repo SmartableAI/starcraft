@@ -2,6 +2,7 @@
 title: "StarCraft 2: Florencio's BURROW FIRST Strategy!"
 excerpt: "Not a regular build order in StarCraft 2... Florencio has been playing Zerg recently and decided in this game to go \"Burrow\" as his first upgrade.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=RrMLjBrJmV4
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-burrow-first-strategy/
 type: video
 length: PT24M30S
 publishedDateTime: 2021-02-03T12:37:08Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "L01/ON+UsLZsIg+gzGb0JUZzF5X2JxCpJuzF9Qw0b5Uwid/zIxToh7E5bmzQ8fwGCTVjgPqJmDdnuLlTohvTe6yvaRxRe5I3NGIM8xemMAXqkyhpAlvU0GB12r95PrB9psNfWzFhp4jVHk6yRZejJUe43O2QSk8PUvrAYpNxiv8EJ5hShACyRU1ItgIMYQl0UOp7r0+UpZrfeB23Ws5esmL0ZQ7PdAfKX/2Ac17MQKHEbtXn3Jaw8TjeEyMfDEwjIqBmYx2seyXdNCTttR5J578S8vBYz5FFNxOn88MUuOS78bZSMtdRBule8q3e/Zp1TvUQitKRZ9LwFHB0mBwKylyj1sLW81P2QGYUScmZ8Y3IqEUt3RttmsoFRXTA3670qATNfg2XvMHgwOfa0LNH3g==;WTgR7Ptm3kdgUWsv5jHYyg=="
+secured: "d243XA2y2Yu2lWDytdSBdo5D9rrXSg2q7AWYV7U8xr0F64/Tbe59MXXv1wdOh09/3pHKdZsP6lEnMLDmf1Ihf//5jqMp9Q2/Vd9pELVO849rP0Xw2llRcaOc36jDXD7jl5Iy5FXNp8fBKJakj33YiXS0WrM+gFI6EJ2Kv6oj42x6hW3kHO3KWypxbPkHjE7d4HO2eM+hL2D1RwD11r12CJf4TBmhj/47JZ9RkN6Nrd/2FTs2KnfrvoGaq050Ii+V71RkOg1gbZgrtaWubIcPfj2HKi9e/2Wf5zqla+uUvcaKPitPiqugNg28RV5oCr7957emr6MXJwKKw0YIlMSPzdrKeOyro+fOXCtGGiyXt1paKjKCTi3Rtlrz4n2LA9h62iziwSQYccehD0R4whayFQ==;0ZwRhSUpyYeuYRsDAAWEDg=="
 ---
 
