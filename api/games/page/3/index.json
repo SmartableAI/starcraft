@@ -4,6 +4,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt.md",
+      "title": "StarCraft 2: MISTAKES WERE MADE... (Bly vs BeastyQT)",
+      "excerpt": "Fun game of StarCraft 2 between Bly and BeastyQT. Mistakes are made on both sides and because of that the game goes on until the map is almost entirely mined out.  Bly's YouTube channel: https://youtube.com/blyonfire Beasty's YouTube channel: https://youtube.com/beastyqtsc2   Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-were-made-bly-vs-beastyqt/",
+      "originalUrl": "https://youtube.com/watch?v=gaBWTfu0Glc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M36S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gaBWTfu0Glc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-10-19T03:09:33-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-very-best-of-the-worst-bronze-league-heroes.md",
       "title": "StarCraft 2: The Very BEST Of The WORST! (Bronze League Heroes)",
       "excerpt": "A crazy game of Terran versus Protoss between Bronze League players in StarCraft 2. In this match we see some crazy strategies coming into play.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
@@ -763,44 +800,6 @@
       "publishedDateTime": "2020-01-29T04:56:23-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-maru-steals-clems-tech-lab.md",
-      "title": "StarCraft 2: Maru STEALS Clem's Tech Lab!",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between Clem (Terran) and Maru (Terran).  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-maru-steals-clems-tech-lab/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-steals-clems-tech-lab/",
-      "originalUrl": "https://youtube.com/watch?v=BZZosGja3cg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZZosGja3cg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M34S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BZZosGja3cg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-17T03:05:58-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-maru-vs-parting.md",
       "title": "StarCraft 2: MARU vs PARTING!",
       "excerpt": "One of the best games of StarCraft 2 I've seen recently. Fantastic match of top level Terran versus Protoss between Maru and PartinG.  Maru vs INnoVation: https://youtu.be/MfPoT1p5Z-o  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -838,43 +837,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-10T02:09:38-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-clem-kills-100-mutalisks.md",
-      "title": "StarCraft 2: Clem Kills 100 MUTALISKS!",
-      "excerpt": "Zerg versus Terran in a professional game of StarCraft 2 between Clem and Elazer.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-clem-kills-100-mutalisks/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-clem-kills-100-mutalisks/",
-      "originalUrl": "https://youtube.com/watch?v=7JmYu75kjkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JmYu75kjkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M3S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7JmYu75kjkQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-30T02:23:15-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-mech-terran-best-terran-scarlett-vs-innovation.md",
@@ -1393,6 +1355,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-23T11:20:07-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap.md",
+      "title": "StarCraft 2: INSANE COMEBACK! (TY vs Trap)",
+      "excerpt": "Amazing best-of-5 series of Terran versus Protoss in StarCraft 2. This series of top-level TvP shows incredible micro and macro, cheesy build orders and defensive play, but also mistakes and because of that an insane comeback.  New StarCraft 2 ladder maps: https://youtu.be/4I4-5_o7OT4 Get more videos",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-comeback-ty-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=FKsRySiTytE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FKsRySiTytE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FKsRySiTytE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-04T04:09:14-07:00"
     }
   ],
   "nextPage": 4
