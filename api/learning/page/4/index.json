@@ -35,6 +35,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them.md",
+      "title": "Starcraft 2: Showing you common protoss builds and how to identify them",
+      "excerpt": "In today's video we are going to be playing protoss, but teaching zerg! You might pick up on a few things if you're protoss as well but the goal is to teach zerg players what to look for when they're playing and how to identify certain protoss builds  Starcraft 2: Showing you common protoss builds and",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-showing-you-common-protoss-builds-and-how-to-identify-them/",
+      "originalUrl": "https://youtube.com/watch?v=-3cHdfjR164",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3cHdfjR164\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-15T14:30:17-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-3cHdfjR164/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
       "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
       "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
@@ -944,37 +975,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg.md",
-      "title": "Mastering Starcraft 2 | I kept getting rushed today! (Protoss vs Zerg)",
-      "excerpt": "In today's lesson we look at a few games where I get cheesed by zergs players. Actually, zerg player. Singular. Let's take a look at the mistakes I make and how I know these rushes are coming!  Protoss vs Zerg | I keep getting rushed today! #PvZ #protoss #StarCraft2 #RTS #SC2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-i-kept-getting-rushed-today-protoss-vs-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=D-GWZZYWqC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D-GWZZYWqC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M40S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-23T15:14:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D-GWZZYWqC4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],
