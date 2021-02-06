@@ -2,6 +2,7 @@
 title: "StarCraft 2: The LOWEST HIGH Level Match! (DRG vs Bunny)"
 excerpt: "Lots of mistakes in this professional match of StarCraft 2 between Bunny and DRG. This must be very frustrating to play.... Which is exactly what makes it so fun to watch.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=EEJE9smYROk
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-lowest-high-level-match-drg-vs-bunny/
 type: video
 length: PT24M20S
 publishedDateTime: 2021-02-06T12:32:15Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "M7eC5s3b0C8MwzopqAH8Kjk+X/tmVyf0l+xm9OEvfI5f1UhHObDkkUUg0gRI9MrGp8opuiFLs9WNTOQxSiffKJUS5sveWyohShnNJhCDzTlsJrBC1aKoBEP+CDHVSOElDawO6ItvfiZnEymEFly1V2sjVzUkJsqqgvAsdFucmCwFgzuUfDqy2EALa2H70W2i70Klh+AMKQMDmt3Cd8w6LMqo+j+W6NqZ4Lsz+ZrAUC4VlM/ZwITyVWuQfFbqS7EiZYftzHnwZdi7HzJqaoomhkCPJMn1/Pzqw8Jzyyj6otXEVEmIgGfXq74563i8pBB6/H8mV+eiwJHKz0Z4+h54vO9pGXgjIfef1NZ8UsnD3of1agiA4ZMKExIE4JnoB/YOr90owzXdIdeQZmChAJgw6Q==;q0tkLe4BuPPDfOzSC9XYIw=="
+secured: "kAah7wBUuiLezusdkPWGl32jDrUeKnKel7V5sgvq1L09leFWuYknvNYqOmY5T6dqOTXKek5G0xR0D69vT2utC5FccRZ05idf23mOBhUl6/zuc3LB0TZVhF+zAgWDx7jlUb310sNlcamdoVlJds+6YJ7slxIJmpUwkmr+8IV1lD4hNeZuI5jvi7Evc9sNOf41fxBieUyTtRT0WzCK3h174b7nneE/fpYvy/nMglRplH8eTcGNl26FxCFgtpSKbWUwO14RIKqZFWR24dY4Dg4LPL3sXEn60tVx+M2PnRarRcLjxmGptym4/EThguX5hEBlYJf7uoPrO5qQ8Wd8GeM0onRU9aEBnL5Tf0T2Givfpx/SYBN2fqANBXLGWkuWVnoEjol4nYLLDtSFt1/CMwudZQ==;1LbMyWQX1oIdnuP3ES0wlA=="
 ---
 
