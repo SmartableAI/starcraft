@@ -51,17 +51,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "Modders Make StarCraft MMO Using StarCraft Level Editor, Activison-Blizzard Invokes Copyright Infringement"
-    excerpt: "Yesterday, the gents over at Rock, Paper, Shotgun covered a StarCraft II mod which turned the game into an MMO, obviously named World of StarCraft. The mod was in very early stages, but a video ..."
-    publishedDateTime: 2021-01-19T00:00:00Z
-    webUrl: "https://www.themarysue.com/starcraft-mmo-mod/"
-    ampWebUrl: "https://www.themarysue.com/starcraft-mmo-mod/amp/"
-    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/starcraft-mmo-mod/amp/"
-    type: article
-    provider:
-      name: The Mary Sue
-      domain: themarysue.com
-    quality: 19
 
 secured: "H/soCBUAASLZpNUE6B7rskdqo4wjyr/Hm44lzMTmuOR1RvulS08qU2XAA82S98WXp728EEFgw4K43c5kTWohV1zkIeCqqeqlacaw8z4MqdXjHrpDdnU1XwNYPk14HnfgzFtTj54cihUqqO9ZSqogETFgGjtpVuSrkQqhj90Krmnyx9q/z7PZw/kLlR+Vee621OQseE8iXMWmz2bHUkD0DDx9N1nLaMVzpx5M33LtlXCzMI2TKJBjB/KSsffVQVBzptE0dcJZZiwjzrlWQOzKmLtweQNshB1nMi0pdp/JDyBWM9WqwpeneB59kdg9TmNu8ZhI6ql2FGw0Mzn+Tx3LFbMIbDnzUiloTHIN5iu4isU=;pMudRH7CQ432APMWthpt3Q=="
 ---
