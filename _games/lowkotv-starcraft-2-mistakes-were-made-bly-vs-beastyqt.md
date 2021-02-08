@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mistakes-w
 type: video
 length: PT44M36S
 publishedDateTime: 2020-10-19T10:09:33Z
-heat: 69
+heat: 77
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gaBWTfu0Glc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pVH0QDe7fL+uQ37d+2Blmoc2/k/kKXzqa0B9B43CIZcKEbxzgkXqKfSifaY4CLIFqo+VewxOyScNs9eh+MDe6Y1spQgmL+n38sOZWDZvyfFluJuGYm2gNf8mLbHP80mzOsFKExzOfggGvd0ULioa6PLb2nwjB4Qo936sAcj3Fasgsj0mqGlbOsOZsrt5H+j8MQoHbe7bD/rCfma+ucT9bhR/Iz2iAWK853yxW02BY86UkNpncXOz1ctaYrd+TJ9mZUw7V9oanprn1pmkCVPR/2j2R89x65Ev/V9QcEtEQxsjGod9b+19ACLe2QG6eziI+cqu1BPbAPaE4fJuHpOfw5khI3py/puHydJOxn7QlKfgszavqub5O6+iDZFnXJcCJ1Cqzhf7U03iZ7vJG9JGKuXlCvGd8AYXT6fW/HVxYSw=;+2DZoMkpZmtVxKbNATCA2w=="
+secured: "APsa5BuDO+PgKJxq7Bp31i80QOVE0aT4meLnH22CLC/bX1O+usxeJWNDot+sUi4YGcToULSVVQryWIajxlse9boWLWd18JtW2ibnrXZPFol8zlQetkcf1Z5ARuKAsH8h4T/R08ESk/gUelt1rddklTvIVIJDO256tZxjhqOtkSS1K+L5lUNeNU5xAagFihffWRBxNyL1g6qRD1m4edTCQn0qojRF22bqGGbDHU6SB1oD2m7zn+vIGsxnpE9Pj8vRXUX7wjc79u7kPhdkrCrhv0cP3FsXxWba8f+6Y/9aKuZkoINGAf/gsFMeLIu6Gko2ZpTusbhH31ABYgh5PR5EPBNom32wRYYbNRutamt28PLu03QwuS0Sxj7jKjlplJLt/L0M9ENdIdDMXsrz9PbEhAgYBD71XzUhmyM6aEpGJ8Y=;rCBLijPxIoAEXjFcFi+Mqw=="
 ---
 
