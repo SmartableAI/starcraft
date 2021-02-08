@@ -191,14 +191,14 @@
       "publishedDateTime": "2021-01-25T10:45:48-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
-      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
-      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
+      "path": "_games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3.md",
+      "title": "StarCraft 2: ByuN's Strategic Variety! (Best-of-3)",
+      "excerpt": "Best-of-3 series between ByuN and Ragnarok in professional StarCraft 2.  Tournament game is from OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=cg-juG9IGPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cg-juG9IGPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M10S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -218,7 +218,7 @@
       "heat": 138,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cg-juG9IGPo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -226,7 +226,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-05T03:15:53-08:00"
+      "publishedDateTime": "2020-12-17T03:43:14-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-masters-of-micro-byun-vs-parting.md",
@@ -923,14 +923,14 @@
       "publishedDateTime": "2021-01-18T04:06:10-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3.md",
-      "title": "StarCraft 2: ByuN's Strategic Variety! (Best-of-3)",
-      "excerpt": "Best-of-3 series between ByuN and Ragnarok in professional StarCraft 2.  Tournament game is from OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=cg-juG9IGPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cg-juG9IGPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M10S",
+      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
+      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
+      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -950,7 +950,7 @@
       "heat": 78,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cg-juG9IGPo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -958,7 +958,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-17T03:43:14-08:00"
+      "publishedDateTime": "2020-12-05T03:15:53-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-relentless-aggression-byun-vs-trap.md",
