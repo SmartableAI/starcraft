@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1M42S
 publishedDateTime: 2017-10-24T21:18:42Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iFl_pEE9WVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wdounGhvOY0/A0Mwx/Sd/FQH9P8FJ09uXwVTiPxj0iMCDFKB1SsoCI9Oxj3fCSXkaJrDPVLe0VfSyJAQXMMv6AZEo6hUFu0dVAGybfvaX1op6fP7OMEU3uQa7IHq61vJUK3+R0Ke73C1HG/tkgSzL7yqjLEpYd/vzzpZoF20fhC7LUnzz0UCgY07q8WTUA6PmpyYS2QmNvrb2vGdfoN6nko5OSJ2Z1T5dCcxQBVPnJGyMH62teiHU7292k8sfMHbWddBPxT/6Y4OgP8/zfSi1CHpwjmhZWs9Y0AJv/f5Ktf4LAODuXyHUdTUyy02OKkNWghNAR80hxq/3QdmkYOuqcl88J5YgpgYsrTmf1tQbX8vSFt331QqNcp50R4h4SVgkDX1Lsaln9qJbyPyVoCFtemFSJT+5EGtEnNe+tHmz0w=;y17bHRy4Q+I+PSodPq98gw=="
+secured: "Angau7DhJRS560CaHLua56B6H9woaG04Zrupte6UgqLewW7GeWoUUP4SSEw7V+/0mQbkAycbD8MSPlKW6EqSnZQZR8qC03iJYHTCZvRs7G9oLSRdmt1gjWvfzkuIoE2u6V5duFA1kAYaBD+HGDikiJhcewBXbtTSjwDUrLx5Q44EKRGyrZDV9dtIpy55UAcJy1ZtCQS1hveCqz6Fb2pswraN0y5dhRYH62jIQJDisJFR7bOrfFDGVRwDO+GVnYR6OzM8xeXa2OFMK8H1LThPxmKG+j3xD0oVMLt8vyVM/tdq1ChIU2Lw3PO5NtgCPFeVdteK63edeJ+1muTn5zpdwuicRrVpRTrMDoXVbwd02AcW7eDrOPBv27rbvDMe3YHwl5D7vsKnpsaqdKJAkFbxzEZoxkqEbP0qiR3vAqGz5XU=;9Tk1dKlG6y1I5Lo9PTybjQ=="
 ---
 
