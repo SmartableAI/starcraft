@@ -2,6 +2,7 @@
 title: "StarCraft 2: TOP-TIER Micro & Macro! (Clem vs ShoWTimE)"
 excerpt: "Awesome game of top level Terran versus Protoss between Clem and ShoWTimE in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community"
 originalUrl: https://youtube.com/watch?v=pV8vs2V7dVI
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-top-tier-micro-macro-clem-vs-showtime/
 type: video
 length: PT22M26S
 publishedDateTime: 2021-02-09T11:10:50Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zZ8i6BXa8VqH6YJeK1IWP5/Z75jkAev5QraRMg/mQulmQ5nQ1htrR+0XiCL9naZK4e4EbBQxnxSYIhsYuecclRS8Gs3KWSUW6SppaFS8H647j3Tiag4vZDfamM9P4W961KwBkFADmqQ4jYozztZUuPs1k4nLNKe4r3htqkWAbizJPhv83IyzENyAIXM9Qb01ukqRZ8OtXO09iO1I9RjBxLzgFGPLe+OXBI55N5HoGg/6tizwhMYOQWHvwUJyigDhzPbUCSg4lNUzLct7glXjaQpu2jqNr21ugLkY0JLrcPB1RcbroyAx7A1JTYoU5poVKyMg6GZiFUdA3h4+n9Dh6MF+Z5kASUwwdnvfWpjY72d9gcySvQFsi3YUJwmFz8BoZwilnLKHPMl4Lc1vRtLIhw==;goTawNBsDnPAYkS/j/KUSw=="
+secured: "eaoIUMlyqxs/RWzN41x2dlJr3FA7KmMo2B/o/Qr55rkIt5oHhO/XwofJ9oTzhUpA/h++tSRWAqHu5Y9/RZbQ5+axLkH10nsvCaBaSVl8ATbGmk5fpEBJUZfrcrekGifoZCgCYnSkMZekOzM1uYU6qfgnIu+R90cZ6VE+MN2dinVPclZ4G7uqrWBR4JaH204Ne+4Ypjsg+HKfXHq2qKxzpJKt4AcTeJkT7KsLIKNOmCQ+vn7cXv+udWR5s5aHVhWOTg1SYVQfsLkdcG2GuOvuRYDsKTkJFCSi8l1wDu6w2mchg3FV00GtAegKmoOD2rEuTOo6jTJVadLqDuWy3+fXfSTZhja9CnORdxWFPv7UlWorse6X6ql1NqRF8XGkMnnGRBaYTFPoD812daFRjHbbPg==;Y8Hr3DM9hLN4CWxquaNgWA=="
 ---
 
