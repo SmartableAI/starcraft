@@ -225,6 +225,83 @@
       "publishedDateTime": "2021-02-02T04:37:11-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byun-vs-cure-best-of-5.md",
+      "title": "StarCraft 2: BYUN vs CURE! (Best-of-5)",
+      "excerpt": "Epic best-of-5 series of professional StarCraft 2 between ByuN and Cure.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-cure-best-of-5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=tTX4nFOYqOA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 172,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTX4nFOYqOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-11T04:22:50-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
+      "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
+      "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/",
+      "originalUrl": "https://youtube.com/watch?v=VZeBQi3WXlk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M58S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 168,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VZeBQi3WXlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-01T02:38:35-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-machines-innovation-vs-reynor.md",
       "title": "StarCraft 2: The Machine's INnoVation vs Reynor!",
       "excerpt": "Best-of-3 series of professional StarCraft 2 between INnoVation and Reynor.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -415,44 +492,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-14T04:25:38-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese.md",
-      "title": "StarCraft 2: ByuN's ZESTY Marauder Cheese!",
-      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN and Zest. This series of games was played during the ESL Open Cup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/",
-      "originalUrl": "https://youtube.com/watch?v=ZOM2W5H8QrQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M8S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZOM2W5H8QrQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-15T03:46:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
@@ -952,44 +991,6 @@
       "publishedDateTime": "2021-01-19T03:58:35-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax.md",
-      "title": "StarCraft 2: Cheesiest Series EVER?! (ShoWTimE vs MaxPax)",
-      "excerpt": "Extremely cheesy series of Protoss versus Protoss in StarCraft 2 between ShoWTimE and MaxPax.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cheesiest-series-ever-showtime-vs-maxpax/",
-      "originalUrl": "https://youtube.com/watch?v=UVEpX2i5668",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVEpX2i5668\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UVEpX2i5668/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-12T02:43:08-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-cure-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs CURE! (Best-of-5)",
       "excerpt": "A best-of-5 series of top level StarCraft 2 between Serral and Cure, the current number 1 and 2 on Aligulac. While Serral is clearly the more accomplished of the two, Cure does a great job playing both Terran Mech and Terran Bio. Serral focuses primarily on Zerglings, Banelings and Hydralisks, but mixes",
@@ -1028,44 +1029,6 @@
       "publishedDateTime": "2020-01-31T00:50:43-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-cure-best-of-5.md",
-      "title": "StarCraft 2: BYUN vs CURE! (Best-of-5)",
-      "excerpt": "Epic best-of-5 series of professional StarCraft 2 between ByuN and Cure.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-cure-best-of-5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=tTX4nFOYqOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tTX4nFOYqOA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-11T04:22:50-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking.md",
       "title": "StarCraft 2: Reynor's Crazy APM and Multi Tasking!",
       "excerpt": "Awesome match of Zerg versus Terran in StarCraft 2 between Reynor and soul.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
@@ -1102,45 +1065,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-22T05:05:05-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral.md",
-      "title": "StarCraft 2: BEST Game Of 2020?! (ByuN vs Serral)",
-      "excerpt": "One of the best games of the year in StarCraft 2. An epic match of Zerg versus Terran between Serral and ByuN. Two previous world champions of the game.   Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-best-game-of-2020-byun-vs-serral/",
-      "originalUrl": "https://youtube.com/watch?v=VZeBQi3WXlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M58S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VZeBQi3WXlk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-01T02:38:35-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-8-grandmaster-free-for-all.md",
@@ -1291,6 +1215,84 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-23T03:28:25-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator.md",
+      "title": "StarCraft 2: LATE GAME INSANITY! (Dark vs Creator)",
+      "excerpt": "Excellent game of professional Zerg versus Protoss in StarCraft 2. In this game between Dark and Creator we dive into the late game of this matchup and take a glimpse at certain unexplored strategies.   OlimoLeague on Patreon: https://www.patreon.com/olimoley   Become a YouTube member: https://lowko.tv/join",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-insanity-dark-vs-creator/",
+      "originalUrl": "https://youtube.com/watch?v=ZGBQn1UbR5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZGBQn1UbR5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-02T03:15:03-08:00"
+    },
+    {
+      "path": "_games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty.md",
+      "title": "EPIC STARCRAFT 2 GAME - 1 HOUR LONG Protoss vs Terran - Creator vs TY",
+      "excerpt": "One of the most epic starcraft games of the year, between Classic and TY During the RO16 of GSL Super Tournament. A crazy Protoss vs Terran.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-epic-starcraft-2-game-1-hour-long-protoss-vs-terran-creator-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=iHS8M4VUwrI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iHS8M4VUwrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M15S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iHS8M4VUwrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-16T07:21:19-07:00"
     }
   ],
   "nextPage": 2
