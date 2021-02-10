@@ -2,6 +2,7 @@
 title: "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay"
 excerpt: "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and"
 originalUrl: https://youtube.com/watch?v=tccZgx9HqXo
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/
 type: video
 price: Free
 length: PT18M17S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "EUDUU5IGXyVwlldcyI/u6oyhsg/bgjdqwOq/N5GuL9XX4S1q9793p8ouFSUhmI987aOU6JWW/mBGhY2q9kzgsGkif0v4uVCnC+AeoW9dCK/gQHwZ/PRKOG2QrEpFAQ5RVpceDtjqWLqijHibKd1MZhoQfwhU+J2OnZ2SS5GzeU2UrukDfKW0zKnHdR+neKvbDKu686MVNZ13Di7JtMk6e3wyLISsvGp6IfYSwwMmzbBMNABzig/crx244HcqBwkYMhLtO0R/LS0k7+P3/13KT4jBeWCWdEJjMVJevRbA1W641aOt+V1lT5Khyc+ml/DwbVcvli9tai6l6znt8GRXHUXGYQY07H/v9UtINnT+D6Dqiap4Tz9OJDMIdmi41MROKorR7GsORyTY7F45nwmhfw==;Fyp1L3GT/sIuOwu+Fq6RdQ=="
+secured: "5FMcbrwhSA9zqqLOmIeqnYohgd/uox8+Ys69ervaq5nfXYfyfowyIKfRIXuq3LG3UxrHHQ5WSg+pqBA3/DjbIXi6/i8TgfPpnANFYa1xlW65sHvldFRMNliXnYdyf31xN+AEGJhlh0L7APcaHRje/8YPPpY5oP/JBk8ehLLcnd/zntBSxvW/zDzDq/yDc0p0nXDC3xryilsANAFqcHNXNRcJJ0uFQp8wvxt5SccuOZA0CFODOTNq2fj2k/gMhBb717l8rb7RS/w0H/tf2GfbtniHUl/RCyGzHbN8E0eauohEz3WIlnFC8euaLWlVs30KyUppWVc2GCXiMfaBIC1nPvwF/0SWDs/+pe+kt4wf2pPiP4P+kgjJM7RwAISNwg2sQ/EEm8oteBXqceyPGCzjcg==;ZB9tsw0zxaCgOWi5GcTmVw=="
 ---
 
