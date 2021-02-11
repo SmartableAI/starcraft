@@ -7,7 +7,7 @@ originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-star
 webUrl: "https://www.gosugamers.net/starcraft2/reddit/53534-manners-in-starcraft-a-study-of-glhf-rate-by-race-in-d2-na"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Vicarious Visions move to Blizzard means remastered Diablo, Starcraft, Warcraft"
-    excerpt: "The folks at Vicarious Visions will soon need to switch up their digital business cards. Back in the year 2005, the developer brand and its developers were acquired by the folks at Activision. In"
-    publishedDateTime: 2021-01-22T23:00:00Z
-    webUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/"
-    ampWebUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
+  - title: "2016 Starcraft Launch 21FBS"
+    excerpt: "Starcraft Launch 21FBS Travel Trailer # TR5086 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-01-31T07:56:00Z
+    webUrl: "https://www.rvusa.com/2016-starcraft-launch-21fbs-travel-trailer-2950450"
+    ampWebUrl: "https://www.rvusa.com/amp/2016-starcraft-launch-21fbs-travel-trailer-2950450"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2016-starcraft-launch-21fbs-travel-trailer-2950450"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/blizzard23.jpg"
-        width: 1280
-        height: 800
-        isCached: true
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "H/soCBUAASLZpNUE6B7rskdqo4wjyr/Hm44lzMTmuOR1RvulS08qU2XAA82S98WXp728EEFgw4K43c5kTWohV1zkIeCqqeqlacaw8z4MqdXjHrpDdnU1XwNYPk14HnfgzFtTj54cihUqqO9ZSqogETFgGjtpVuSrkQqhj90Krmnyx9q/z7PZw/kLlR+Vee621OQseE8iXMWmz2bHUkD0DDx9N1nLaMVzpx5M33LtlXCzMI2TKJBjB/KSsffVQVBzptE0dcJZZiwjzrlWQOzKmLtweQNshB1nMi0pdp/JDyBWM9WqwpeneB59kdg9TmNu8ZhI6ql2FGw0Mzn+Tx3LFbMIbDnzUiloTHIN5iu4isU=;pMudRH7CQ432APMWthpt3Q=="
 ---
