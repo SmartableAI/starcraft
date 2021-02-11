@@ -40,17 +40,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "2019 Starcraft Satelite 18MK"
-    excerpt: "Holiday Rambler RV back then was top-notch and expensive. Check out this awesome vintage RV on this week’s #throwbackthursday feature. The 1992 Holiday Rambler Aluma-Lite TT 32FK is in immaculate condition for being 25 years old."
-    publishedDateTime: 2021-01-22T06:19:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
 secured: "H/soCBUAASLZpNUE6B7rskdqo4wjyr/Hm44lzMTmuOR1RvulS08qU2XAA82S98WXp728EEFgw4K43c5kTWohV1zkIeCqqeqlacaw8z4MqdXjHrpDdnU1XwNYPk14HnfgzFtTj54cihUqqO9ZSqogETFgGjtpVuSrkQqhj90Krmnyx9q/z7PZw/kLlR+Vee621OQseE8iXMWmz2bHUkD0DDx9N1nLaMVzpx5M33LtlXCzMI2TKJBjB/KSsffVQVBzptE0dcJZZiwjzrlWQOzKmLtweQNshB1nMi0pdp/JDyBWM9WqwpeneB59kdg9TmNu8ZhI6ql2FGw0Mzn+Tx3LFbMIbDnzUiloTHIN5iu4isU=;pMudRH7CQ432APMWthpt3Q=="
 ---

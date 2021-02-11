@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/vicarious-visions-move-to-blizzard-means-r
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vicarious-visions-move-to-blizzard-means-remastered-diablo-starcraft-warcraft-22656410/amp/"
 type: article
 quality: 53
-heat: 93
+heat: 73
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "2019 Starcraft Satelite 18MK"
-    excerpt: "Holiday Rambler RV back then was top-notch and expensive. Check out this awesome vintage RV on this week’s #throwbackthursday feature. The 1992 Holiday Rambler Aluma-Lite TT 32FK is in immaculate condition for being 25 years old."
-    publishedDateTime: 2021-01-22T06:19:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-satelite-18mk-travel-trailer-2942856"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "Manners in Starcraft: a study of GLHF rate by race in D2 NA"
     excerpt: "Recently, u/strattele1 took a new account from B3 to M1 for all three races. He posted a data set on manners in SC2 from his run through the ladder. This data set looked at a few different things"
     publishedDateTime: 2021-01-25T15:34:00Z
