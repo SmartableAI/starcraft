@@ -4,6 +4,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor.md",
+      "title": "StarCraft 2: NEW MACRO MAP - Ever Dream LE! (Clem vs Reynor)",
+      "excerpt": "Reynor versus Clem in a professional match of Zerg versus Terran in StarCraft 2. This game takes place on the final of the new 1v1 ladder maps called 'Ever Dream LE'. This is a very nice macro map that's smaller than maps that we have had on the ladder in the past. It forces a different playstyle out",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-new-macro-map-ever-dream-le-clem-vs-reynor/",
+      "originalUrl": "https://youtube.com/watch?v=BaOXpq8m9_I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BaOXpq8m9_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M37S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BaOXpq8m9_I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-24T05:40:15-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-new-top-ranked-zerg-bo5.md",
       "title": "StarCraft 2: NEW Top Ranked Zerg! (Bo5)",
       "excerpt": "Serral is the top ranked Zerg on Aligulac right now. Subscribe for more videos: http://lowko.tv/youtube Stats vs INnoVation: https://goo.gl/nzunjC  This is a best of 5 series of Zerg vs Zerg between Serral and Elazer. Both players play extremely well and while some of the games are cheezy, they are well",
@@ -503,6 +541,45 @@
       "publishedDateTime": "2017-12-22T13:12:25-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb.md",
+      "title": "StarCraft 2: STRANGE BUILD ORDERS! (Serral vs Neeb)",
+      "excerpt": "Serral versus Neeb in a best-of-3 series of professional StarCraft 2. These games are a little bit different than what we normally see in StarCraft 2. Serral, who is well known to be the best player in StarCraft 2, decides to mix it up in these games and tech up towards  a Lair significantly quicker",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-strange-build-orders-serral-vs-neeb/",
+      "originalUrl": "https://youtube.com/watch?v=J11BdN1O3Ds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J11BdN1O3Ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J11BdN1O3Ds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-13T03:25:30-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-swarm-hosts-nydus-worms.md",
       "title": "StarCraft 2: SWARM HOSTS & NYDUS WORMS!",
       "excerpt": "A crazy game of StarCraft 2 between Lambo and PtitDrogo. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Three base Nydus Network and Swarm Host play is not a very common strategy. However, after PtitDrogo showed he was going to commit to too much",
@@ -1000,44 +1077,6 @@
       "publishedDateTime": "2017-12-23T04:45:26-08:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream.md",
-      "title": "StarCraft 2: THE QUEEN PUSH! (Reynor vs Dream)",
-      "excerpt": "Fun best-of-3 series of professional StarCraft 2. In this series of games between Reynor and Dream, we see both players going for a variety of build orders. Dream decides to focus his attention on Hellbat pushes and Battlecruisers, Reynor goes for Roaches, Ravagers and the Queen march.  Get more videos",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-queen-push-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=jfbz4Aa7RIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jfbz4Aa7RIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M56S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jfbz4Aa7RIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-12T04:03:29-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-swarm-host-counter-attack.md",
       "title": "StarCraft 2: THE SWARM HOST COUNTER-ATTACK!",
       "excerpt": "Zerg vs Terran between in Soul and Reynor in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Bly vs Soul with Battle Mech: https://goo.gl/bpDV8i  An awesome game of Zerg vs Terran where Soul once again plays his Terran Battle Mech army. Reynor decides to get hyper aggressive and throws",
@@ -1112,44 +1151,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-31T00:23:15-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani.md",
-      "title": "StarCraft 2: THE ZERG SURPRISE! (Impact vs Armani)",
-      "excerpt": "Awesome game of professional StarCraft 2 between Impact and Armani. Impact's game plan is to make sure his opponent nevers secures a fourth base while getting one himself. This forces Armani to make some very risky moves, starting with a surprise Nydus Worm.  Get more videos & support my work: http://www.patreon.com/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-zerg-surprise-impact-vs-armani/",
-      "originalUrl": "https://youtube.com/watch?v=LwX1zVOvEaw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LwX1zVOvEaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M25S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LwX1zVOvEaw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-03-12T05:02:41-07:00"
     }
   ],
   "nextPage": 9

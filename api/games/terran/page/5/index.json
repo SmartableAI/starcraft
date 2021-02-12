@@ -760,6 +760,46 @@
       "publishedDateTime": "2020-02-24T04:52:26-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty.md",
+      "title": "StarCraft 2: BLINK DARK TEMPLAR! (Zest vs TY)",
+      "excerpt": "Blink Dark Templar are becoming a more common strategy in StarCraft 2 at the professional level of Protoss versus Terran. In this game between Zest and TY the Protoss player decides to open up with a proxy Dark Shrine and goes for the Shadow Stride ability later on in this pro game.  PartinG vs Reynor:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blink-dark-templar-zest-vs-ty/",
+      "originalUrl": "https://youtube.com/watch?v=jYO4aLc05LQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYO4aLc05LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jYO4aLc05LQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-15T01:37:48-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett.md",
       "title": "StarCraft 2 Cast: INCREDIBLE Zerg vs Terran! (ByuN vs Scarlett)",
       "excerpt": "An incredible match of Zerg vs Terran between Scarlett and ByuN. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  One of the best matches of StarCraft 2 I've seen in a while. This Zerg versus Terran is back and forth between two incredibly skilled players.",
@@ -873,6 +913,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-06-12T04:17:02-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-epic-micro-wars-maru-vs-innovation.md",
+      "title": "StarCraft 2: EPIC MICRO WARS! (Maru vs INnoVation)",
+      "excerpt": "Best-of-3 series of top level StarCraft 2 between Maru and INnoVation. Both of these pro gamers play at the highest level of SC2 and yet they have very different approaches to the game. Maru in general likes playing the faster paced style that's a lot more in your face and a lot more flexible. INnoVation",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-micro-wars-maru-vs-innovation/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-micro-wars-maru-vs-innovation/",
+      "originalUrl": "https://youtube.com/watch?v=9gKdd0jJVV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9gKdd0jJVV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT39M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9gKdd0jJVV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-16T06:06:05-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-extreme-late-game-terran-vs-protoss.md",
@@ -989,84 +1067,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-07-05T01:38:19-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation.md",
-      "title": "StarCraft 2: INSANE SKILLS! (Serral vs INnoVation)",
-      "excerpt": "Serral versus INnoVation in a top-level game of StarCraft 2. In this match between two of the very best in the game we see INnoVation going for a very slow and mechanical army that is based around Siege Tanks, Hellions, Thors and Liberators. Serral on the other hand plays the new style that has become",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-skills-serral-vs-innovation/",
-      "originalUrl": "https://youtube.com/watch?v=c8wagxrGgj0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c8wagxrGgj0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c8wagxrGgj0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-10T05:12:22-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran.md",
-      "title": "StarCraft 2: Intense Multi-Tasking - Korean Zerg vs Terran!",
-      "excerpt": "Solar versus Bunny in a great match of Zerg vs Terran in StarCraft 2. Bunny fighting and dropping relentlessly, dropping and multi-tasking incredibly well.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=QKTrflhYPIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QKTrflhYPIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M31S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QKTrflhYPIc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-13T01:56:01-08:00"
     }
   ],
   "nextPage": 6

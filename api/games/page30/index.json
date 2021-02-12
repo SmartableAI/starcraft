@@ -4,43 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-up-and-coming-pro.md",
-      "title": "StarCraft 2: THE UP-AND-COMING PRO!",
-      "excerpt": "Snute versus Clem in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Professionals cheesing: https://goo.gl/APqMmJ  Snute is a seasoned veteran in StarCraft 2. However, Clem is a young up-and-coming Terran player from France who is definitely worth keeping an eye out on. In this Professional",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-up-and-coming-pro/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-up-and-coming-pro/",
-      "originalUrl": "https://youtube.com/watch?v=jjoXkRvGgC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jjoXkRvGgC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M11S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jjoXkRvGgC4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-04-14T01:32:42-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-youngest-pro-gamers.md",
       "title": "StarCraft 2: THE YOUNGEST PRO GAMERS!",
       "excerpt": "Clem vs Reynor in an epic Zerg vs Terran. Subscribe for more videos: http://lowko.tv/youtube Lurkers vs Terran: https://goo.gl/NQhSHd  A really fun match of Zerg versus Terran between the 15 year old Zerg player from Italy and the 16 year old Terran from France.  Support me on Patreon: http://www.patreon.com/lowkotv",
@@ -677,6 +640,44 @@
       "publishedDateTime": "2017-12-29T06:12:50-08:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan.md",
+      "title": "StarCraft 2: VOID RAYS ARE... GOOD?! (DRG vs Cyan)",
+      "excerpt": "Void Rays are making a comeback in professional StarCraft 2. In this match of Protoss versus Zerg I focus a lot on what Cyan is playing. He decides to go for Void Rays very early on, and does so in a very clever way. I also discuss the potential responses that the Zerg can go for, and why certain moves",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-void-rays-are-good-drg-vs-cyan/",
+      "originalUrl": "https://youtube.com/watch?v=z17BbK_jhSs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z17BbK_jhSs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M53S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z17BbK_jhSs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-15T02:41:47-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-welcome-to-aiur.md",
       "title": "StarCraft 2: WELCOME TO AIUR!",
       "excerpt": "Pretty sure he's recreating the Legacy of the Void trailer. Subscribe for more videos: http://lowko.tv/youtube Void Ray memes: https://goo.gl/uAxRqD  A spectacular match of silver league gameplay in StarCraft 2. Why make any production facilities while building your economy if you can first take 6 bases",
@@ -1055,6 +1056,44 @@
       "publishedDateTime": "2016-06-06T07:29:26-07:00"
     },
     {
+      "path": "_games/sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa.md",
+      "title": "BATTLECRUISER FLANK?! - STARCRAFT 2: 8 Player FFA",
+      "excerpt": "Accidentally deleted the upload like an idiot, yes this is a reupload.  A crazy Starcraft 2: FFA between 8 european/Asian streamers. Featuring players such as Lowko, Rotterdam, BeastyQT. A big game with Battlecruisers, Carriers  ► Enjoy the content? Buy me a coffee! https://www.buymeacoffee.com/SC2HL",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-battlecruiser-flank-starcraft-2-8-player-ffa/",
+      "originalUrl": "https://youtube.com/watch?v=tP8JwSpafbw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tP8JwSpafbw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M5S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tP8JwSpafbw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+    },
+    {
       "path": "_games/sc2hl-big-banks-soo-vs-rogue-wcs-global-finals.md",
       "title": "BIG BANKS - soO vs Rogue - WCS Global Finals",
       "excerpt": "The highlights from the craziest game at the WCS Global Finals - soO vs Rogue in a Zerg vs Zerg.  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as trailers &",
@@ -1091,44 +1130,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-10-16T07:22:02-07:00"
-    },
-    {
-      "path": "_games/sc2hl-crazy-pvp-basetrade-showtime-vs-neeb-iem-shanghai.md",
-      "title": "CRAZY PvP Basetrade - ShoWTimE vs Neeb - IEM Shanghai",
-      "excerpt": "SUBSCRIBE for more Starcraft! - http://bit.ly/SC2HLsubscribe  ► http://bit.ly/Divisionzero  -  Division Zero has the BEST gaming gear! Support SC2HL & Check them out!  ► http://bit.ly/Chairs4gaming  -  Get $20 discount and at Chairs4Gaming using code \"SC2HL\"  An Crazy Protoss vs Protoss between Showtime",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-crazy-pvp-basetrade-showtime-vs-neeb-iem-shanghai/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-crazy-pvp-basetrade-showtime-vs-neeb-iem-shanghai/",
-      "originalUrl": "https://youtube.com/watch?v=A_tLEadXJ4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A_tLEadXJ4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M7S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A_tLEadXJ4g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-24T03:20:17-07:00"
     }
   ],
   "nextPage": 31
