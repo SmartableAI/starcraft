@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-zerg-vs-terran-cringe.md",
-      "title": "StarCraft 2: Zerg vs Terran CRINGE!",
-      "excerpt": "Silver League Zerg versus Terran cringe. Subscribe for more videos: http://lowko.tv/youtube Intense micro battles: https://goo.gl/8ofWqN  While the game seems over early on into the match, the Terran does not quite scout where his opponent's final base is located fast enough.  If you have an awesome",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-vs-terran-cringe/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-vs-terran-cringe/",
-      "originalUrl": "https://youtube.com/watch?v=r7laPMA3jKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r7laPMA3jKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M13S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r7laPMA3jKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-07-07T01:03:19-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
       "title": "StarCraft 2: Zergling MASSACRE!",
       "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
@@ -1144,6 +1105,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-01-28T04:07:12-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett.md",
+      "title": "StarCraft 2 Cast: INCREDIBLE Zerg vs Terran! (ByuN vs Scarlett)",
+      "excerpt": "An incredible match of Zerg vs Terran between Scarlett and ByuN. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  One of the best matches of StarCraft 2 I've seen in a while. This Zerg versus Terran is back and forth between two incredibly skilled players.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-incredible-zerg-vs-terran-byun-vs-scarlett/",
+      "originalUrl": "https://youtube.com/watch?v=Yjj7QFV62p0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yjj7QFV62p0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yjj7QFV62p0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-01-23T13:28:21-08:00"
     }
   ],
   "nextPage": 5
