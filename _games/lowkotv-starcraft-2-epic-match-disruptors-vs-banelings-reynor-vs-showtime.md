@@ -2,6 +2,7 @@
 title: "StarCraft 2: EPIC MATCH - Disruptors vs Banelings! (Reynor vs ShoWTimE)"
 excerpt: "Great game of top level professional StarCraft 2 between Reynor and ShoWTimE.  Bly vs Harstem: https://youtu.be/60wtU8hP_mQ  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch"
 originalUrl: https://youtube.com/watch?v=n2aZas1y8v8
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-match-disruptors-vs-banelings-reynor-vs-showtime/
 type: video
 length: PT23M46S
 publishedDateTime: 2021-02-13T11:48:01Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ivd9MGz+m9r1C5akbznfTpJT74AaTKR+DUB4woac7V5qBV9J8Sa7zNOx3xmfQTatQ5CAuHhFEGXvreOohnnS+V4e5bA2pWCHd4ZmQuTH4lUpqagl4Pd8q9u054g+kBxXoNfrG/xAyn6e9F8n6zYYu9/fbproX1+0zYKOOo2j08CcsMJVWGABuHxllgbeHRSIa/CWrCeMp1RgkiD7p0ERsGDddxA+C8SiYgYNNTF1wsXCC/MADD6ieww+cbcUHYnzpzUiRuide2n7/L4wLMv6fQLAlDK06cyIZlGfKM1QSxMnx1D5MFfakMpiZeJADOvDnwVNtbb/z2LMxn4FCQM+6t1TnAWBE7lEkHCsr6Rnv5gY/OvN/yAazgQa4Nu+qV8wo3ijZSz3MTNj4kyOgaNbBg==;pnHARK6EmU2BeJWOwXwYng=="
+secured: "Z58ZvzrW/V9QkXO+TsxMnX6yPDxfkPotCVrzhPqeo9uc/0nS3bM0URkSwHlOtcAYakfgsp8ke57yTp7/YTEehGdK49VIr/Bsaq5l9Ayx5MUcbPZnpNy2vJ5wSuXPmGu+osYY0KGHWsjHtJZtBnmQ+uc5FVCdwDF9/gwU3023Q772TiOZrbN389+lbHWNwJMMXmHbygUHFAj2N+y8owe8Yf3gFjlUuQ38lLVreweEmaidGH36TgSJ3rHGTYI8cTCVd3eLVT0wz0Pa5Wnm3ekrMWryKipnixohSNM9/VGDKH5MFl6s5gjRx1CtUYp8vipvC3aTg8+zKwx5Cb0nwdGMR4wnss7fnXs0+rk3rtKbg/e9M7EalYlmgOn/n3aefzp79Y54nZS8JAe1JGx6uLptXA==;HBVU7mdvHYnyNZ4TiYWvzw=="
 ---
 
