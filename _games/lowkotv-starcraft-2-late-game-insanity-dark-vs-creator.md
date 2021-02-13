@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-
 type: video
 length: PT54M48S
 publishedDateTime: 2020-11-02T11:15:03Z
-heat: 109
+heat: 103
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "We4azlxJbhKi5VLFviYskHL2VGwxESu91Kh27k10F0FKPPhbIH2saGpgr20wyZyX/BWl3ZGmz8l5ildu31W7dXKMRELPxdd4Jx9KLvf60AhtSvANq94xnnART0IyTp1IRtob8DX62h4PaRqbIFl1iM2Zo2RpAJRwP+LCvFNeERFhQPI/Dw/rKPSdVRoeyNme1R021T/EotXj6KhGayoIDPUHkY0W7rAKb2eo3bpWZ4NE4FMEUXfTWDPGnwYqxoL+3H4csso5iq+9foGGAt38XNKiR6e0cfmeoAKIpiW84znHRCHNTiXTURfe2QGIDIppG1CEmFl2pyH6XxVe43CIX1ve3L9A1T7Xri7VFygYgRb618mNzda34+0g0W4yl/8SzGP1LVxVvSOaonQrZ1+AuThuUFezdKXUe40SzYNW26g=;SiCMIyefjV31bZ92YafFaw=="
+secured: "dhuL2Tz4Lk1ldFfqA5tjHTaPBYICIuV6kbw7NHhe/PV5sOqxHGGoTZLhGJcoPm2Tj3mhrEWpa4psXwbPxCiy43K6sdSSPnAeboRCAOUIAnjHqawGTztCigT3vZadcKsbP3JuSyxJ+sLYHaHz0jYhgpAMk6hc92lCrvIHcDUH0UE9k0ryG4udy4tp31ZSkA8RB+vGq4DWEGTayvHizk57AsO7xY3NjygoQj5eNbrKioGgKJbCP6g1xXbrJAJKjXeOL28XroQpDiJBGMgCrxJ1WLQ6SQb2hMQTWJAhzAfdDrpkR7XGYa8WXhVuGmSX3y9HqO5Deli/QzNY2bagDIwO7FhEkf4ZvzYbevWZtTNtCZkdWdoyTBf3Iy8vzf5a5e8btv/ahlWkS3qXWEuG7SRvO4f46KYj3tkV4vWLoXUsU1qEViI0NrrzeiQPbzZEk3VL;qTMnl3qJ4g77J42KLlnmGQ=="
 ---
 
