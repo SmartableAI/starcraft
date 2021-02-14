@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-masters-of
 type: video
 length: PT34M50S
 publishedDateTime: 2021-01-28T12:58:20Z
-heat: 92
+heat: 95
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hfXPJ22QwSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QAXi+gv8Cct+TFIRjCxmdyGLbLPeY6Qs2bgIPZHZTZ5TUAbuwmvci0Pea2+76YK3HqglQYiTGRlAoiShXUaIyDPfTMS9itqT6VLiK6rjBBjZ2yEzfYqu7yoAWAh0uwga4mzzbDOxjZtnhi0jGfVcSVXOyE86DQcmQ4x3z5eP+kvLu4g59dEPC1MORKNZDNMQDtq7dQajNcvlhtP475k84grvCGIEiQ3mG6z9UAZMLVtzyF9w1XPUA6ka73gAL7FysGsUjsgCQc+9oAmqd2yEyiTnTjwo/jedj/DHqGSpgmH9cdNxe6IfgIZ04AF5Opa+qAO3gMh8uGiPpOuZ74xZaoNNMWns3dBwLkDyWawuOa6P1EdNNCL5y5mVIvZMMLmwu5nSMGxA5JoIrcMdBHLGNul+kbkzYsU4XawT2kVXSpc=;u1i9hHRLWhXwSQvJsJTVaA=="
+secured: "ud/vwWkpar6my5zmPHYSdE9wqqBf2nApKmPcaohgbq73OPBuPgaPVyImnsbNKeKTTXUNeAXiVzmNX/VzHFXb/6lD+ff/ej4c5OVTHlIEqkElVKWH4u1Fc816zoNB7g8NmTykIywmsAywXPOFgwMT9xSJD0VsP95EwDo9a5N9qi9FM+PiPzYkRbhFlNugjOrCBhj7hTyBf9eO1Yo7IWiHo1lysgZWzbbU/5vY/xezdPDrMhbc9O2/gYZWtZtprqOqTaRdKGrHBHn6ZAXneou+I+fT3LqcfJAd10aWvsNdVRKhR40fvTo7FPxHCqxc/Qpq1xvZ2o9vqkDkj5dHFrxmVTTtZaF+Usy93pCAgO9kUdRVsasy9E7pNWCdfFbnWWhiT/unNUVXX8FfYqj7EqYJMETUX7klc1yCmvfqfRl32eI=;VvPpHNaTJy6gQRqhzut39w=="
 ---
 
