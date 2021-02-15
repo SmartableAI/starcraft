@@ -2,6 +2,7 @@
 title: "Lambo released a 12 pool guide. I've got the counter play."
 excerpt: "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------"
 originalUrl: https://youtube.com/watch?v=lUWSahGFjJE
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-lambo-released-a-12-pool-guide-ive-got-the-counter-play/
 type: video
 price: Free
 length: PT31M50S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rOYaS6tE1590RPWWVpzVsmHSxN6+1QK9CPzhqxBFFb3umeok3SuxUDwiv2Dj6Q48vFfSvXU5vcxO0z89/Bb1LjFkZntNRE2q7HW+KQOEBqQTADRY/ATp934hIQn84SKQswMSSpDSXVuEssD/NBD1SxrrfC8v9sDIXPOiWJ7UjdsflgcW7+bjbJZ2292z7MCKt6VTyPy03+Ct1Qv/fDLx60M/Q9SPJnVWLs78IrFA2Oj+27rmOk2oOOBtUOzsHq3AvI+kGDv9ZYw+AyMit6vdQSUAbSRCdt9V3NR1DyvAU5HZum9rQY8o5VxXUoFwXCd+VQ7JGgpcHVJJPAtCsb1QUX44kLtTTe6u+1BmLUoJWLokxro3UHPiXn7/JPBVYSLIea5HUOZay63KeFlHGkpLqg==;samLEvjtZB+mUxHMgBlAPA=="
+secured: "tH2v8x/exhrSxxmawszNCQf0ePyIEHbnkJUQCveDhz1TXadJgiDOL9mNKM26dc2h5INGl1QvN+cipanU1LQTn9y/TSvyTdWiOUk2lRyMbyRQrEvXqO97xWltWiSWeN6nFc4V8jYWcXv0vyP9TJKnO2QF2/kkfb9ZT3MidhG+PeEim37z265CXkib6GS8F4MNx9oEzO+BoJ+ZVZlZP0cKUVI0qJZZz9CD/3CUxDGzTE6A4rD7FdEmrl/N94b4ZiOhbxPbd3G809h6SCGdmkQXZcPgZBys8JzQmtKRgyZjSyHXtJLfs4YjFdePfuN4RpdPz1Gqg59DkHlSeyyrM3GKmJJyWIf9YBJZRcqKAn0VVTX4wgB6YEjyMJ3p646hhEg1f3g8G85Odq227wmNOFCkUw==;YBv5nAkqU51N3quUiUQ+xA=="
 ---
 
