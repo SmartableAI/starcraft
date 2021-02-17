@@ -2,6 +2,7 @@
 title: "StarCraft 2: NEEB vs REYNOR! (Best-of-5)"
 excerpt: "Best of 5 series of high level StarCraft 2 between Reynor and Neeb with some fun strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community"
 originalUrl: https://youtube.com/watch?v=-W21W1MlUgA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neeb-vs-reynor-best-of-5/
 type: video
 length: PT1H6M46S
 publishedDateTime: 2021-02-17T12:39:22Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DQ145MKq1UBOVN5ZQUXyezpqldZx2qV7ySJnp0Q37sRka7n1UqRo2SLpjzTxN69Ahi9ofAZ1178KE4oWvsMERz+JXEeStJpihD7uMACfSM3xAoo6SlO5TBaPe2Hf6ques0+Jbo43zrsFLkL9CyQIESnJRQ4+Uo2nCbivuDn2nft8MO+7ajyi1glAPTCjH4zJZXfEMoFo5t7ZVVgeAZ8GGKgzGu3gPXjvEF6V1VI1W2uZw+yvzuB7S4X8k5DvVbz40mycrReWK7qvYo25Cp8RLtVG5GClKGjbZb5kvnxF6luNDa/ULKS9z5qHhBOVOq2r9cqZd5tL9e8uYY7Br5Sz1tuGu9g1WvvuYRAdEdhy6+2Uz9oLkk3zd/KFHisHI2jhqE7l3GFDhnQ521oMMSAqfg==;2Llnrp9SPx5uhOB2pQ393g=="
+secured: "PuqhjRUE3WChAOYSaIxO0Dk4bWfyNgkFdmLZQvWh5XUOp1wKq8+CDRm4vJYbdALp0b+4FeL3QcRjQEbsdQnsFWaejuhaVwsbKImY/QndRgY4+lHHufha+P3QoCtq6oJqu/4k3wZ1eMq04lU4FUE7OiJi7CPWvPHU7BmS95/r7TXVyVMpZ1ao2YiQa0DS/p5+vmleygXAo6vVzrI2siqe7Z5DwgdW/BVBHOh2CmWC15npBWSgCXgQnEw+wviJlIFRo4fA3AV4Vr82U/k1x8e4rJVNoSSf82YTeswMtnDbSymrOtFdqfa6FVr59dLc6aE8gMRcYlXu5cO0jpYb7lUbMUkz1zPfoYd/0Av9F0oKAy+g8QAqrgXsLojKsV9vQYRZIfTsgFTxF4FHVDt+MyVQfw==;ax+JuiTP2No4MpJ6+YI7IQ=="
 ---
 
