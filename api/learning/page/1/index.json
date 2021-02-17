@@ -35,37 +35,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
-      "title": "WHY scientists WON'T settle for any other BUILD",
-      "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 179,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021.md",
       "title": "Protoss Guide | Includes scouting, reacting, examples & more [Starcraft 2 2021]",
       "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
@@ -79,7 +48,7 @@
         "domain": "hushangcoaching.com"
       },
       "publishedDateTime": "2021-02-14T21:49:06-08:00",
-      "heat": 162,
+      "heat": 151,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
@@ -128,23 +97,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random.md",
-      "title": "Why you should place your PYLON on the HIGHGROUND vs RANDOM",
-      "excerpt": "This random player tried to cheese me after forcing me to place my pylon in an undesirable position. He gets really toxic afterwards, enjoy!  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons?",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-why-you-should-place-your-pylon-on-the-highground-vs-random/",
-      "originalUrl": "https://youtube.com/watch?v=6Aq1oBZWDTc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Aq1oBZWDTc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M44S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide.md",
+      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Build Order Guide]",
+      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-03T11:57:12-08:00",
-      "heat": 131,
+      "publishedDateTime": "2021-01-13T13:57:23-08:00",
+      "heat": 140,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6Aq1oBZWDTc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -156,6 +125,68 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020.md",
+      "title": "Starcraft 2: Zerg Build Order | The German Taxi [Zerg vs Protoss] [2020]",
+      "excerpt": "In today's Starcraft 2 guide/tutorial we are investigating a brand new build that popped up recently called the germany taxi! It's a zerg vs protoss build order that's been destroying many protoss players as a response to the double stargate voidray meta. Let's take a look!  Starcraft 2: Zerg Build Order",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020/",
+      "originalUrl": "https://youtube.com/watch?v=igVyxwnfDMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igVyxwnfDMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-20T14:08:56-08:00",
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/igVyxwnfDMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
+      "title": "WHY scientists WON'T settle for any other BUILD",
+      "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build/",
+      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
@@ -1099,37 +1130,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XvRoGf3SXRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide.md",
-      "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2020 Build Order Guide]",
-      "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2020-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=yfRfWt7eUlg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yfRfWt7eUlg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-13T13:57:23-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
