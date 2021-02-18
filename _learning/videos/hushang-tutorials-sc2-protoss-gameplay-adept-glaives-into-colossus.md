@@ -2,6 +2,7 @@
 title: "SC2 Protoss Gameplay | Adept Glaives into Colossus"
 excerpt: "In today's gameplay video I use adept glaives vs a 5500GM zerg. I transition into colossus afterwards and go for a heavy push.  SC2 Protoss Gameplay | Adept Glaives into Colossus #sc2 #protoss #gameplay   Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com"
 originalUrl: https://youtube.com/watch?v=lP-AxjhloVM
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus/
 type: video
 price: Free
 length: PT13M17S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KDgcHghapAMw9GgAjz4M/7rZS/u4X1KDE8FBecn3VjnKPCzrkTw5c3CqxkkA/AbLU5VTKv8m/4he7lVGizemqtkNeajDihk9SxWOON50g7YpaCzy8MbfyeZCRwoQ4xKBasIEIe24DPa0x7mvVFIaeRf2BGv9KEGUTvb0o5zLkK8eLiI6b9nm/nnF0/NS6LkKFVXy3kRGk9cxQdw4JokM5xMKtn3QkSEKjmjXM8q4Y95Ck/AVykvrT6XD3PMabWAz4rurhrm+tWQ52pn3cjflw75gThHBBq2AeRKJVI+Odhf1SB56nred4dJm6h2gHdd40iZSu6SLZUCZUExKMR8/Rs67bekrIIpohVKpm2OCZjUKfCNqRrrh+cFvAjM5IIKwrfJHHnG1S4CLoYpsuJr8BQ==;0ZT55gfCPt2IVdDZQt7dHQ=="
+secured: "DSwImuQp1bHYxe4sE5Eg30sXhwzf+QWfL/SgyLg0uY3WbPtwrUFcpWNIz1nHKMDZa2n3Kt4uoEHRzA+Ey35I7YctlgbZG06rChi5/9QqltQHfPBZl/Xa2naDcbBg2FAMhGSczHv8tPhhf1apJHKrlLPT8mYa7rzABiUGx5uqV30NUlZUQSgKdCTS7A0iG+YvDK5TCZsrXGMwyYA8nH8sTno1S4KrxQoZtW7Q1pKsbwN0SvIXtCE/4NhCfYRpySBfaXWruEHbhjLI+eSYTrCspsMvxPbAKIOni/h0Indqh9V0IWlithx59aOnWge0UOfhFoGAeZPGp6YIBnwwz79J85ILGs0FiO2cgJPBp/ctd1nVL02UGiEQmPw0ppFKP9fIysBMaQ287+Ufl0U/ScwH0w==;Bzb7tda+O8NDe3yvuEgEPg=="
 ---
 
