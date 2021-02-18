@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/beastyqtsc2-prophet-beastyqt-1
 type: video
 length: PT35M15S
 publishedDateTime: 2020-10-13T11:50:46Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/maFJ2fB4AB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jnYhdXNvh0yQIU1aG7gmmIsDXaozDAE7xMMeqzCJ2ed9EBFfDB3p8n0F2dn2Xj7ca2yHNkiM/U4vfXLtn1o9PrO/XlOZrz7QdDBUSLPlfoO629buIDR7ViK2Ymansj0LcSp7ZgB2fatG6fGixWYT/NgXTlwyThgzYeiYO2VnyCw9CB33AsKCkgIAn6tzhk3Bhga+oWE8JTLB6q5AXU4cno/FD2WMLPxWS3cPCOpNg14/wvNQoTvTplOGEf5ytwVNmpVQMytGYYih8jBzNeEB+zt13t1z5VU1PjaDsqDk93HSLNRe3FEiHXttXf3SE3BU8jIkTRMjqTMLzCehTisk9rm/LihjV+L+wqZgx40lbsW+MjMApVD7nuAn3t+HO+z0aMuKItPuork+sISGgJtf1y0x9R3KJ/+SoD/G7HAUqW4=;4lVqs1+Z9dsbOv15TsG8WQ=="
+secured: "21G3nBviPGVxcRkX/umf/cktU6hg7tcIWJlDOJcNtwl/3kTeWG8CPX9GjQP3V3JBCxZQzuCIxK5idUxthu54potfZBtAbYETuF36Izayh0sjtpGwdF30DolBsd0fj7r3MlYZA0Wntp+CLXxHe7fOuW2Cf1yE2ZOl5OVZSeJiin8BKueK1R9Cs9Ll8Ki345LRbjxIC2rgsCYpC7iADrH/BmaGXP8GhQmY8lxED7dXM/JVnh9vXlV8kKfMPRMYZNoMX6z3JYGDfWh+j4FwZWEjFCJuF4tx26B5lPzNtbhE/Emf7izQodcCnbPJxsEIKsnK5qTvlmMwymhKvkHwWfeKxT5JeXMXA6TCFwHSkiezRHWFoBc8EqdrLU4CvbBjF/ooWoULZOr4ZDUMlCFXDGzH1b86NoRxKn3rbFlIqk3I4RA=;4cadaoBoU2xHMXU9/sw/mA=="
 ---
 
