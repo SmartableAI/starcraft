@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran.md",
+      "title": "StarCraft 2: Intense Multi-Tasking - Korean Zerg vs Terran!",
+      "excerpt": "Solar versus Bunny in a great match of Zerg vs Terran in StarCraft 2. Bunny fighting and dropping relentlessly, dropping and multi-tasking incredibly well.  Get more videos & support my work: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-intense-multi-tasking-korean-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=QKTrflhYPIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QKTrflhYPIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M31S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QKTrflhYPIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T01:56:01-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-late-game-sky-terran.md",
       "title": "StarCraft 2: LATE GAME SKY TERRAN?!",
       "excerpt": "Battlecruisers, Ravens, Vikings and Liberators. Sky Terran! Subscribe for more videos: http://lowko.tv/youtube Gumiho vs Solar: https://www.youtube.com/watch?v=3Xs5rH-meHo  This game between TY and Dark starts out very explosively. Both players try to outsmart each other and after early game cheese we",
@@ -196,45 +235,6 @@
       "publishedDateTime": "2020-08-06T01:45:38-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-playing-terran-like-a-zerg.md",
-      "title": "StarCraft 2: PLAYING TERRAN LIKE A ZERG?!",
-      "excerpt": "Serral vs TaeJa in a pro match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran build order: https://goo.gl/DKGTSS  TaeJa recently got back to StarCraft 2 after being forced to take a break for several years. Turns out the man is still incredibly good at playing",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-playing-terran-like-a-zerg/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-playing-terran-like-a-zerg/",
-      "originalUrl": "https://youtube.com/watch?v=_fV71_z9dsQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_fV71_z9dsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M20S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_fV71_z9dsQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-11-28T01:00:19-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-pro-terran-vs-zerg.md",
       "title": "StarCraft 2: PRO Terran vs Zerg!",
       "excerpt": "A macro game of Terran vs Zerg between Reynor and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/RXG4YYnO5Qw  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord: http://lowko.tv/discord",
@@ -350,44 +350,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-08T03:14:44-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-tactical-nuke-vs-mass-tempest.md",
-      "title": "StarCraft 2: TACTICAL NUKE vs MASS TEMPEST!",
-      "excerpt": "A  long macro game between TY and PartinG in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://www.youtube.com/watch?v=gUE1eInkbVk  Such an awesome game of Protoss vs Terran. In this match, PartinG decides to base his unit composition around the Tempest with the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-tactical-nuke-vs-mass-tempest/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-tactical-nuke-vs-mass-tempest/",
-      "originalUrl": "https://youtube.com/watch?v=X93qKtLObZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X93qKtLObZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M4S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X93qKtLObZQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-01-12T05:04:47-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-tactical-nukes-against-protoss.md",
@@ -1089,6 +1051,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-04T03:42:59-07:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series.md",
+      "title": "StarCraft 2: The Best Game of the Widow Mine & Raven Series!",
+      "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series/",
+      "originalUrl": "https://youtube.com/watch?v=apACVYICxYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/apACVYICxYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M58S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/apACVYICxYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-03T02:07:36-08:00"
     }
   ],
   "nextPage": 6

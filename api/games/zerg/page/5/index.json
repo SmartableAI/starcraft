@@ -4,44 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match.md",
-      "title": "StarCraft 2: BLINK DARK TEMPLAR In A Pro Match?!",
-      "excerpt": "Shadow Stride, also known as the Dark Templar Blink upgrade, is one of the most underused upgrades in StarCraft 2. In this professional match that was played during the World Championship Series, Classic decides to give it a try versus one of the best Zergs in the world.  Get more videos & support my",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blink-dark-templar-in-a-pro-match/",
-      "originalUrl": "https://youtube.com/watch?v=vOJ9awZGegQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOJ9awZGegQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vOJ9awZGegQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-26T00:40:29-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-brood-lords-ultralisks.md",
       "title": "StarCraft 2 Cast: BROOD LORDS & ULTRALISKS!",
       "excerpt": "Nerchio vs uThermal in a professional Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  A macro focused game of StarCraft 2. While Nerchio opens up very aggressively with Ravagers and Roaches, the defense of uThermal is near",
@@ -464,6 +426,44 @@
       "publishedDateTime": "2020-10-01T03:56:43-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-massive-neural-parasite.md",
+      "title": "StarCraft 2: MASSIVE NEURAL PARASITE!",
+      "excerpt": "An epic match of professional StarCraft 2 between Cham and puCK. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  This match is very back-and-forth where both the Protoss and Zerg get ahead at different moments with an extremely juicy Neural Parasite",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-massive-neural-parasite/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-massive-neural-parasite/",
+      "originalUrl": "https://youtube.com/watch?v=8oG3iorBE6c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8oG3iorBE6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M23S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8oG3iorBE6c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-15T03:00:41-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-mothership-timing-attack-stats-vs-serral.md",
       "title": "StarCraft 2: MOTHERSHIP Timing Attack! (Stats vs Serral)",
       "excerpt": "Serral has shown that he is ridiculous good at late game Zerg in StarCraft 2, especially versus Terran. What about the current stats of Zerg versus Protoss timing attack? In this game Stats goes for a very unorthodox timing attack with a Mothership, as a follow up wave of Archon Immortal Zealot Storm.",
@@ -616,6 +616,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-24T05:40:15-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-playing-terran-like-a-zerg.md",
+      "title": "StarCraft 2: PLAYING TERRAN LIKE A ZERG?!",
+      "excerpt": "Serral vs TaeJa in a pro match of StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran build order: https://goo.gl/DKGTSS  TaeJa recently got back to StarCraft 2 after being forced to take a break for several years. Turns out the man is still incredibly good at playing",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-playing-terran-like-a-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-playing-terran-like-a-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=_fV71_z9dsQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_fV71_z9dsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M20S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_fV71_z9dsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-11-28T01:00:19-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-neeb.md",
@@ -1117,44 +1156,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-03-18T04:51:46-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-zergling-massacre.md",
-      "title": "StarCraft 2: Zergling MASSACRE!",
-      "excerpt": "A Zergling massacre in Zerg versus Zerg. Subscribe for more videos: http://lowko.tv/youtube Hotkeys and control groups explained: https://goo.gl/E21s9v  In this Zerg versus Zerg match we have two players, one in Silver League and one in Gold League. Both decide to open up reasonably standard, however",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zergling-massacre/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zergling-massacre/",
-      "originalUrl": "https://youtube.com/watch?v=-WHixigCoIM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-WHixigCoIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M40S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-WHixigCoIM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-15T03:31:46-08:00"
     }
   ],
   "nextPage": 6
