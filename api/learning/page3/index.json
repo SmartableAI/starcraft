@@ -4,6 +4,68 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2.md",
+      "title": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)",
+      "excerpt": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)  In this Starcraft 2 guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if your macro slips than other compositions.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-08T12:45:54-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order.md",
+      "title": "Zerg vs Terran | Beginner Build Order",
+      "excerpt": "Zerg vs Terran | Beginner Build Order In this guide I show you a safe & balanced build order to allow you to get into the mid-game on equal footing.  Community discord: https://discord.gg/pPhaEk9  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-terran-beginner-build-order/",
+      "originalUrl": "https://youtube.com/watch?v=GV6ojIOaF0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GV6ojIOaF0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M4S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-12T21:23:23-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GV6ojIOaF0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
       "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
       "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
@@ -906,68 +968,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wxutLYw5KlE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2.md",
-      "title": "Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2",
-      "excerpt": "In part 2 of my mini series on hyper aggressive TvZ we take a look at some example replays to help you guys out with various scenarios. Hopefully you learn a lot and enjoy the daily!  Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2 #StarCraft2 #Terran #SC2 #guide #starcraft #tvz  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=4Z2G5h0vUrM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z2G5h0vUrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-18T21:09:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz.md",
-      "title": "Pillars of Gold - Walling Guide PvZ",
-      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-pillars-of-gold-walling-guide-pvz/",
-      "originalUrl": "https://youtube.com/watch?v=I3Sp4sc5Ylc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I3Sp4sc5Ylc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M41S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-28T13:56:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I3Sp4sc5Ylc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
