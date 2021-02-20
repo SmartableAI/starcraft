@@ -4,14 +4,14 @@
   "page": 13,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-ultralisks-vs-skytoss.md",
-      "title": "StarCraft 2: ULTRALISKS vs SKYTOSS?!",
-      "excerpt": "Ultralisks vs units that fly from Protoss? What? Subscribe for more videos: http://lowko.tv/youtube Mass Battlecruiser switch: https://goo.gl/ibLRG4  Dark vs herO in a professional match of Zerg vs Protoss. Even though Dark knows his opponent is going for the late game Skytoss army, he doesn't care and",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultralisks-vs-skytoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ultralisks-vs-skytoss/",
-      "originalUrl": "https://youtube.com/watch?v=fH6Zcp5spvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fH6Zcp5spvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M12S",
+      "path": "_games/lowkotv-starcraft-2-ultralisks-ghosts.md",
+      "title": "StarCraft 2: Ultralisks & Ghosts!",
+      "excerpt": "A strong macro game of professional StarCraft 2 between Rogue and Cure, two South-Korean professional gamers.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/  This game",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-ultralisks-ghosts/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ultralisks-ghosts/",
+      "originalUrl": "https://youtube.com/watch?v=KQLG2HBQBE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KQLG2HBQBE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M43S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -30,7 +30,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fH6Zcp5spvE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KQLG2HBQBE4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,7 +38,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-02-15T02:22:55-08:00"
+      "publishedDateTime": "2019-07-31T04:59:09-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-world-champion-vs-protoss-cheese-dark-vs-has.md",
