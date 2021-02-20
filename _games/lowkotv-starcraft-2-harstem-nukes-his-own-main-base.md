@@ -2,6 +2,7 @@
 title: "StarCraft 2: Harstem NUKES His Own Main Base?!"
 excerpt: "Fun game of high level StarCraft 2 with loads of Tactical Nukes and Nydus Networks.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on"
 originalUrl: https://youtube.com/watch?v=VmM4wPKyXKo
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-harstem-nukes-his-own-main-base/
 type: video
 length: PT31M53S
 publishedDateTime: 2021-02-20T11:20:21Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/FhZe+p/wMbqN5WkQ0rvsfAslUXrjT0ptBVlU60EeYArAJaEgLeOF/AolQC5J5pdaSI/PcvXmBUcQB/by3Ik9e3LESHaK3ytdppilc6N33VwLiSqDxVZjnJUdSIGC/4N3GvKYqIz0CS++SkO4ORzpVYlpsG+OThkd6UP3wJDCY6cA9pNRLYJ4qYLoWD5hJUAA3H7+6idLwbmfI2Lx3z+Ah8DsD8xBN2cYssMr8LTdk+oL1Vk6ab5XUbblA1YdDqXGKIAo2qpkEa2sG7zDJJ4SoGbhJXdLEActC122Lx2SavbhLhgsQYV7TFiNvqGEjz03v/biY8SJUbuIJCK04ufiUOaMaCjMRmvt7tu86qaI6+G/D2fYOnGB/G2qid/Mvh68zmyU/AMn/rWLRLq+Bq+NA==;o0vuD4sBzFKSytEOIURGGA=="
+secured: "mdKxwnT+XNQqfuNEODvcqYtciz80dwCOV8sfwcsMvSm/QG40Vx2GKSlAn+Oa2EUYHWq34DncFG7hE7Vh/IpK91L+Pt+aPg+wIXKtwBePw/0qIyccfToh9gQxsqQm8i99SVGpjcSPlc3v9BBBA+Vs4vozOAEeisUietFBZZX3FURr/zDlM0qVLJpVrwT6l1maIqGsAWOR7REPmBRH9l2/sTBjhIk3Zjnta+92K4ZTxGG9V1xwaEC2+b6ez8HS/0vC1eXhtbdbDVGdtLYyxHcZP06won1sSb3tyBcVPJmJXLZ94HLl0EfnK0GHi8WK5+FcSOfizNKePbUwTFTzRUNggG92XS0KVU5R57nMaZDfgWFLNG+EupiEz4eiJykqFnYTZ9H19P36XmdzOvt5/Rm4BQ==;GUPn44NudWmmjVopPUfWww=="
 ---
 
