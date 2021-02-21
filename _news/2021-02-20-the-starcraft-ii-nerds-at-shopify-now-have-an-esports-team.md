@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/shopify-esports-team-rebellion-starcraf
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/shopify-esports-team-rebellion-starcraft-ii-200229373.html"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 600
     height: 350
     isCached: true
+
+related:
+  - title: "StarCraft: Shopify Enters Esports With Shopify Rebellion"
+    excerpt: "The ecommerce giant enters esports with their own Starcraft 2 roster. Canadian ecommerce giant Shopify announced their interest in"
+    publishedDateTime: 2021-02-20T13:51:00Z
+    webUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/"
+    ampWebUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
+    cdnAmpWebUrl: "https://estnn-com.cdn.ampproject.org/c/s/estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
+    type: article
+    provider:
+      name: ESTNN Esports
+      domain: estnn.com
+    quality: 57
+    images:
+      - url: "https://estnn.com/wp-content/uploads/2021/02/shopifyft.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "N6Lz5RQF7MM75dAsfuW9b0I7OyMCd2BkvLq6Fara6JFNK1gite3B/AQIXNqx8JBFBBYbnlLXPEc74Yd3fbSKQinGHzOOuJj1/LDV73Gf5QULRUymkxmG4A13rK1q8wz64vMgAjHqPzxdZeK/lvFc3z2D2rE8NEG60Iw+tlSgNLWhEgHlNGWxeveVxzUBkH7RAGRSh4YJ7zCGVqX3hX7ELuXwiSTZEVRNepiRYBfyxX1HWzcvWezo/VTM39oloUQIRQYTx9M1TEilRh8jSW1dGnCysDsutdlMKjKS3wo4pCmP/7LTZlfBLSHVHlJHDLgahtCE/Q9AjBZBPh2yE9tLzTest+D8Fmp9D/v9D+wsKfM=;GtsqdduyvtifplSYTyCOoA=="
 ---
