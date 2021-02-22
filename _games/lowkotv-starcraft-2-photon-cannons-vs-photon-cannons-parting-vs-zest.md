@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-photon-can
 type: video
 length: PT17M26S
 publishedDateTime: 2020-12-28T11:41:25Z
-heat: 52
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/42GvDc4uvHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7H+u33tf9Bo6QJIBW0+jmd2DXWLcDlMYM9aYgGiF2Rr8R6oaKCvwK7IIhInzU7rWj70GFMzBRpJ4ZbCzS1LHjukwQ0s0OR52+ERoqjJAuCSTxQTQulY3ZV1m01fGGpsn7Fl/UwilMvZwX3prwJP0fN3WlMO9+Y4fjV/qKD4/PyHshqVMP7fOOkEt8Lp+yLu8ulRDi0rZ1FEn4TiSJjbPeLD3QYsZHbe1alqgk0HJvz4Ht3vlOM04qP1nuGqKyb8ITi2gpwrdvqZDFz9qC3GmZiV6l7cXsv0nxj/SPdC/N0/ldNTcTgFeYLYnBlZFtRSNyDJM88sF8f7+6fYcjkX5Ntsm8o3YdqekmyX0NnHlWiY6miLSGAappCGoIVMIOYbkeMASnEdynYd7CqSYocxa6QZpjPDdw2sdEEKDd2XlOJ8=;hWpCXK5i3nz1TdFPbcWGDA=="
+secured: "cQje8F0lVFRIIPclx0tO/UdGVEFlOJbdq5s+vlTfn29Vt4loY1PKAIjVapPY+ZqLHQmNK2a55xjrWwSs3aNmqtr6C35vPREkMvfZfOhWwAF9BC/NbIMeTpoSpagvtbloK7SG0GUHNYLHObwNSdoNOiU23rlBRCm/z5iS56u/IxFg2Cmmejrrh7CgUgi5VgvngpOlo93LY52vnPF4NnHXdknsRTj8OYpqCMGdTfLtQLRu/AkRInXqJT94HIxB9VShDWTm+o6MbEx3BG0vfyU5liH7kdPQexXH6aCYC2cdn6z/54oMC1AVidboblNJB6Q+qHw6eVmBByfmvKsG9stAwRfGkCrp7eD+z9D+jQ4pUh1QWJ2e5HMS0Za8hvudyDa/pTPC5MzSdZ2++6nWE9+3Uzi/d4PeUuTk5eWFJ5OKFMk=;KBKjUhLgD6U+yXwCvhQNLw=="
 ---
 

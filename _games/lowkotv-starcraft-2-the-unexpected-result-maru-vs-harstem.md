@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpe
 type: video
 length: PT29M24S
 publishedDateTime: 2020-12-05T11:15:53Z
-heat: 73
+heat: 78
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "p87ZSZi3NxrrMcKPjHjNLLjlbkKSPt4jJuTQmnhYMYboTA5cx1uQET+CWYkcvlv0j+e5/ycY5fRRYt8x+f0qxsuQgHtrsDRIvUFdQxM5b0bwNxkEbCaiZBk0DZoMpXSqobexGOPsc3dwAXS6oHGJE2SFi0D7afwIpZkA0t+N1kEx7D1tEVCzIhAx4LmUS0UAEO4kxvKOTgGf5uIlAwLDyturNjEV8yIs+6ozlXHubkNn7zbpY2rYw82S14Yw0NSskrQ8/KrUWV4PzOKv5u3GQJ7ELiePRJcShLqe/zYlxS9NqIqGio0KapjISLMmZosi+FFSM22C/eyZ0zVdB7dCxBjEF1t6EW69VMZb2pSytxXxr+HfOlRSfDi4LDlXDPL2XiDImWfICF3lrit6P/pIGr+MV8ShjP8aGA1fKRiIea7RWsNC7Zr4ZwHMMvgAfXhw;N60M1MYe64VyiY8gUtJjXA=="
+secured: "iDpuaumw4ea5cSTWPV7CN64KMuqHKSTwRsJzhjtQcF5j1n37IhylCrLGejc+oVw2rWMKDZCQA3o/juDeBIcRvitrkVrTb6bfP54jduWO96EcYFgqJnA+RZZqYoFqvqYr5iQMNhjAsgb1dxPs2TXwQn59Wr5Nr5QUV0+3ZpWR+9a6YzpuJxXqDfNp8s0ztLdcM0MFnNw+raMbPqsh8/0M2YHVVg2B77cL85N0Z//2JR2XmF/lOZgWFyfl8qMfiPB1gFyiQE+uApW1u0WPJBLeZatX0ahbAl3uRytL23qn+igALPPWDK+DTEzWmkb0la2ewcf19CgXhqRjPJKVyKDvsrFffrnqu7+3Ut1MV3/m1IbnGnJ1zUa8916tpZ9GDn5+4emYshBRFifr26h9TVkA5uourVkdPSXyBmnSbwuVzm5AtcZJUjYLlOaDOIq8Hbcp;wy+5HDz2fHE3t23Ifv1iGQ=="
 ---
 
