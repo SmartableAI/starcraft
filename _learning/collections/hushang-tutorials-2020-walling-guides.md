@@ -2,7 +2,7 @@
 title: "2020 Walling Guides"
 excerpt: ""
 type: collection
-heat: 62
+heat: 60
 
 provider:
   name: HuShang Tutorials
