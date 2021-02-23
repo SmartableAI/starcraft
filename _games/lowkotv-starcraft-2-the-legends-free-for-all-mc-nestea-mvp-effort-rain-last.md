@@ -2,6 +2,7 @@
 title: "StarCraft 2: THE LEGENDS FREE-FOR-ALL! (MC, Nestea, Mvp, Effort, Rain & Last)"
 excerpt: "Very fun free-for-all in StarCraft 2 in Big Game Hunters between Last, Effort, Rain, Mvp, Nestea and MC. All StarCraft 1 and StarCraft 2 legends.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=NOcA0Q-gjBE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-legends-free-for-all-mc-nestea-mvp-effort-rain-last/
 type: video
 length: PT18M13S
 publishedDateTime: 2021-02-23T17:23:49Z
@@ -29,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a1D9TzL8/mGn8i2ScXzD8vzUsvblfWdBzQ9EU6jfMTdE3rS7ktVt0j/+1ECJ391docyDDN/NrKM0qqMEd2efSY7Mw9kV+74KsUozuJfIWEFC4tQbx15afZ5txS/+SJZ8vQMcq6DVBMzBHssmJt4mUApVFa+Y8qlB6M52ja0KuucFkA11s24IB9JOMwg15FlbK6RulSQeRdsS2UkKv+cQ2PjHfzdCGxsQAjL4E2jIEmVmvTxldKQKGVGIDGciLQZ88607FdsnaDobwtmAoeSnJIvQ3XLthi8RuMKnIo1/gMfQYZAI02enjroHWyjr8T2JbbhXuuFDRu/9W2t9JxhRoJo8sMgrCk+dcFF7bjR90H/+Nih6K4ovgCqgjtHIy1ALQ5g8tmwMswxVwSL472ao9w==;7EBETjW717T+QsY+uWdpKg=="
+secured: "joOTsJ5shRZfmj1cieRgZqjLC6ez1eAvCs/pz2xX1oHJj+c6+HSgHmycX4QpOE+Dwh2kdstImZXxhBzjFD0nf+1zEAGGXtue+bZnnkYUhYxBl48AVSJTQAy7yPPvWvVBcFxRrGexPJlQ6wKHSBfkVrEj2u1xU5dVJrvJaLnvOUXiAZ+Zoa1O4tx/VHMWDujAoFaodE+5CuspEuPDdCn4AfPFhudESHfqSrIoVhXUwmxTK8HYNBk45M8NKSSTO5ISXhpRXOe+ayskIjfghMky5O2cB1jSBmM8nd5tGDQPM+tBNUD37qM+WgwSd8KMqJszI0NnSrkZ3EWbi2kcIbzVOsueDanpI9XC+fSfhw8I3ST9hQhAlUcmJnkWHupmEzswHtsgqTxMkGLfiGeC2rQaTg==;50Bd8QmuFvEeimqJ9C/jxw=="
 ---
 
