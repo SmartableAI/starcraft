@@ -9,7 +9,7 @@ ampWebUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebe
 cdnAmpWebUrl: "https://estnn-com.cdn.ampproject.org/c/s/estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fcd8e17c0-72e9-11eb-b65f-249f2e3da978&client=amp-blogside-v2&signature=19e4066736a38825c0e889532e8cd5df3e4eeed1"
         width: 600
         height: 350
+        isCached: true
+  - title: "Shopify enters esports with Starcraft II team Shopify Rebellion"
+    excerpt: "Shopify, an eCommerce brand has officially entered the world of esports with the new organisation and Starcraft II team Shopify Rebellion. The Canadian esports team will be bringing three players to compete in Starcraft tournaments,"
+    publishedDateTime: 2021-02-23T11:41:00Z
+    webUrl: "https://www.gamereactor.eu/esports/957383/Shopify+enters+esports+with+Starcraft+II+team+Shopify+Rebellion/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 37
+    images:
+      - url: "https://www.gamereactor.eu/media/09/shopifyentersesports_3390913.png"
+        width: 494
+        height: 268
         isCached: true
 
 secured: "URQ8rWtOn8UEV9TcbGjbnCP0ptWwmBL8H1q38YZxsFNDs7nMamGv78XPy6cj3mHDPWo7J1oBMC4foySRXMLfvHjb3hUWtCYJwCo9SSwj8RCgOEoNIS/1xhbO+K/qhj0WQ2xu6ALMmczn3SUDI5FKoQUKIAfMSdJkIDQ8kneFIsFi82YX4w3F9Fo96LWaQdsfyBxfDK0AiiNEN4YK6P1qWO9yWkfsB4Nuio0f6hZgQ9Ow1nBscez64cFYJBXPpRRc3bC7go3MWlP4xaSGpQtWyBLR7aYVNUL6LB0fvZznk2aKbhh9Z7Qdw363f6UadocnzsFdZ4qHyZD87nuDu8ZINPZN1jmmDKTOJIl16kt6+goGkmr6c/STGFMCaQ6xoByNchpP47qnpbhOC8yWgQ/fRn0NQ+YH4Jbj9x9WFYh2pyg/SBtWzCeP7BBKKPsSwIPLvNrmVks8qXaFrG61/n3FB/1z5/IzFenK5unlJ3qyN4o2yTYRDzv2DXr82v5ac3DuH8fMgcRhpYqmX7//H8NT+A==;DPWzzwncDEFKaka0ZtjVcA=="

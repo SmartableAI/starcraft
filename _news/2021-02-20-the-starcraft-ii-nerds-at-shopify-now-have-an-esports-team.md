@@ -46,7 +46,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Shopify enters esports with Starcraft II team Shopify Rebellion"
+    excerpt: "Shopify, an eCommerce brand has officially entered the world of esports with the new organisation and Starcraft II team Shopify Rebellion. The Canadian esports team will be bringing three players to compete in Starcraft tournaments,"
+    publishedDateTime: 2021-02-23T11:41:00Z
+    webUrl: "https://www.gamereactor.eu/esports/957383/Shopify+enters+esports+with+Starcraft+II+team+Shopify+Rebellion/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 37
+    images:
+      - url: "https://www.gamereactor.eu/media/09/shopifyentersesports_3390913.png"
+        width: 494
+        height: 268
+        isCached: true
 
-secured: "N6Lz5RQF7MM75dAsfuW9b0I7OyMCd2BkvLq6Fara6JFNK1gite3B/AQIXNqx8JBFBBYbnlLXPEc74Yd3fbSKQinGHzOOuJj1/LDV73Gf5QULRUymkxmG4A13rK1q8wz64vMgAjHqPzxdZeK/lvFc3z2D2rE8NEG60Iw+tlSgNLWhEgHlNGWxeveVxzUBkH7RAGRSh4YJ7zCGVqX3hX7ELuXwiSTZEVRNepiRYBfyxX1HWzcvWezo/VTM39oloUQIRQYTx9M1TEilRh8jSW1dGnCysDsutdlMKjKS3wo4pCmP/7LTZlfBLSHVHlJHDLgahtCE/Q9AjBZBPh2yE9tLzTest+D8Fmp9D/v9D+wsKfM=;GtsqdduyvtifplSYTyCOoA=="
+secured: "1krb5qRFplT2StpHtTtWStOnnEtiVbScyX15hFcPmZU07vdg3/In+ZJZjWhXiLuu8wr5q4ELrM3uh4WH87shm1yMsx417JvSQBP6OLg2bq85aCISPc2v7oz5GBqnDK3NW8m0yT01T6Ttm5FdK7IbPQP6VTg808NukD5jpQI5eoSA3+xr97vjjXUZzycIQEhzfdJpWfUgBEOLj8gdyRoP4veyrGoPYN9dx3+iAYPz9ARlYvNllAuz28fGpudVoqWfe4D4KRqeXZKVblZtAsgMlh9umq68HbzyguKcEumVr7idJ5u1newD13RZl8px2Fvl9YaAVAwo3poj5CIg2wl/XeMROdp+7m/sFhQRm5zO9bQiigC8k4Ex1o6vUA8XDIPeucWzjiqvskVryyG8XmORCCaoUlu5ILJ5yDei9W430/JxisT+OI1EO1SxS6bI/D+4LLniXNtdCvhgJpdnwcr9yQ3HT5W5SsVXjDzUEMqlzAcOun0v0bMJlYQMNlFvn0krgosQqdTErUZSpUJwXGfRJg==;w7u+D5SLacLGo7ykVDxW+w=="
 ---
 
