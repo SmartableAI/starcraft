@@ -2,6 +2,7 @@
 title: "StarCraft 2: EPIC BASE TRADE - The Final Structures! (Nina vs Prince)"
 excerpt: "Epic game of professional StarCraft 2 between Nina and Prince. This Protoss vs Protoss comes down to the absolute final structures.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch"
 originalUrl: https://youtube.com/watch?v=9W_OaJcZkrA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-base-trade-the-final-structures-nina-vs-prince/
 type: video
 length: PT31M44S
 publishedDateTime: 2021-02-24T18:27:48Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3aYN0IMfAg4kJmKBP/PvA2uKbrKjtIyth78f5jxZQL+r4opHeD+cwOYuzVWf9WxgzNfnGkMuwr0hyNhMFlVhhVB/K+V1+mMBb1xW4f9FUxSu002sihseNhmG7XsLRAUpwkkAxeQ2ltj+9QTwAaUdg1eiWkw6v0ZZRRBDyIdV3t2Yne3AH+X6jQPHgZ/VVMVS5uLQViXj2dQ/Dikn9SEkOsBt9r/Wkl0E+Yg368wknwj+m/Edt6e4740ixWbdqivgy8AUPLFVxvs7Ar08gk+Z/F077KC0DlOBLkyq1/srWMD+23JzvvyE+wM/MlSIrBvE0GmJ8R3cyyCuV6jwOvu/o2unOEdEX8Yv4N8lcIgFgwVYIpCmTaKHFZIdWMdDKmKlu3v7IT9ut2X5fq0d/Y9VSw==;gU+/4B8WRn/hbxO97YTeHQ=="
+secured: "WvwkomKVT97hrDZcueI/4CXFVr0/JUDE52dwopIaRxO8EqaRQkrIajELVyu6Y4e/kgpNzby1O+7/b1RHdBMDcWmtpCK4MI5fPl+mHkgvD+NLhx9IGBHs8Wu5yAm7dd0B8QHdVZRk8pMGPGtYgyWvQH5aFF0zMo0wIHQUaehI/fla2LK7/eICg90I34KdgzYqIAHYpSH+YSRmMgX1OQkOXe9FXsKrCO6VZSVieF6t5FPOgeO+RbCtcWdrEu23nfL2Uo7rMKSaLKhgwDcg0QsZB03pZUATup3ZGHwvdDMw6M/3YupTL/ovDkl6DzvZICFHI6SFEZqMCC+3EKrqz9j4HUHIYjrqppAnXW+457ddGVdHYsaoG75phzqJWhEWiUewsT0wrtTsEmmFgCj4hd7rrw==;YYKH2vtbqdYhN0feajM/9A=="
 ---
 
