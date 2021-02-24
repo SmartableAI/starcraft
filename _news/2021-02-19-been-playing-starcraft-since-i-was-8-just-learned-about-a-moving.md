@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ex competitive starcraft brood war player @ IntoTheMadc0w"
+    excerpt: "Hi everyone just wanted to let the community know I am a ex competitive starcraft brood war player from 2001-2003 I quit in 2003 and started playing again in late 2020"
+    publishedDateTime: 2021-02-19T09:59:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53687-ex-competitive-starcraft-brood-war-player-intothemadc0w"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Way5Iw1Jam/qzTZrmB0zwjW/MmEDs2PNfc2f13lJpkcO7idWF503927GZslc984AnsQy/O2RNbrT7gvAmtf86HTs+PxlztTvhv/i4VkYfekjCxypz8FvrMw7YbHUxg2zKL/LZD5tJ0D3Vgn2kwM9ez4kwmftpIk4ujur5Yug514RRrBg4mxCa+ItO+LryLebS+qi7pPpVcc4uk6ChnNU0FpuHpLgYXV8o/Nwtjz/sn49vRY1J+7vEC4eEoxzvonoTb+ljsnIyZxc1o/Ng/BA1WvVxT21ggRzEEb5TGcYk0CL7TomCJ5P2R+hlQjYu/fK8AvcaxP22sm14aQV4OEdb2O26tfFBt/XRby+noA1Hds=;IkL7wgKHUIxbJXm5Gs+ioQ=="
 ---
