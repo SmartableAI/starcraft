@@ -4,23 +4,23 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv.md",
-      "title": "Learn to play Starcraft: Zerg Starter Guide #2 [BUILD ORDER] (Updated 2017 LOTV)",
-      "excerpt": "We go over a very basic Zerg build order designed to get you into the midgame with a good economy and options. These guides are in no particular order, nor are they meant for COMPLETELY NEW (less than 10 games) players, instead are all meant to help improve generally!",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv/",
-      "originalUrl": "https://youtube.com/watch?v=Jb-fmYlR6fI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jb-fmYlR6fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M11S",
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1.md",
+      "title": "Starcraft 2 Newbie Guide - 002 - Training: Stage 1",
+      "excerpt": "In this episode we take our time in Stage 1 of the Training section of Starcraft 2.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-002-training-stage-1/",
+      "originalUrl": "https://youtube.com/watch?v=AicbTSn3gjQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AicbTSn3gjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M11S",
       "provider": {
-        "name": "WinterStarcraft",
+        "name": "davidangel64",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-21T15:08:11-07:00",
-      "heat": 51,
+      "publishedDateTime": "2015-11-27T18:30:10-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Jb-fmYlR6fI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AicbTSn3gjQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -35,25 +35,25 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-starcraft-2-beginner-guides-multiplayer-gameplay-settings-guide-and-recommendations-updated.md",
-      "title": "Starcraft 2: Beginner Guides - Multiplayer Gameplay Settings Guide and Recommendations (Updated)",
-      "excerpt": "Starcraft 2: Legacy of the Void. An updated version of the gameplay/controls and region settings guide for Legacy of the Void, going over the changes and reiterating my recommended settings, as well as the settings I use as a Grandmaster player.  Thanks for watching and hope you enjoy!  I am a Grandmasters",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-starcraft-2-beginner-guides-multiplayer-gameplay-settings-guide-and-recommendations-updated/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-starcraft-2-beginner-guides-multiplayer-gameplay-settings-guide-and-recommendations-updated/",
-      "originalUrl": "https://youtube.com/watch?v=rsznBIWVVW0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rsznBIWVVW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
+      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2.md",
+      "title": "Starcraft 2 Newbie Guide - 003 - Training: Stage 2",
+      "excerpt": "In this episode we pick up the pace and explore more advanced units and upgrades.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list...  Other places to find my stuff: Twitter: http://twitter.com/davidangel64 Twitch: http://twitch.tv/davidangel64 Tumblr: http://davidr64.tumblr.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-003-training-stage-2/",
+      "originalUrl": "https://youtube.com/watch?v=OX8IeLRjOaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OX8IeLRjOaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M47S",
       "provider": {
-        "name": "WinterStarcraft",
+        "name": "davidangel64",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-19T09:06:45-08:00",
-      "heat": 51,
+      "publishedDateTime": "2015-11-29T17:00:09-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rsznBIWVVW0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/OX8IeLRjOaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -61,7 +61,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "StarCraft 2"
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -624,6 +625,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-playing-zurg-this-week.md",
+      "title": "Playing Zurg This Week~",
+      "excerpt": "Starcraft 2 Zerg Gameplay #zerg #starcraft2 #ZergVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-playing-zurg-this-week/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-playing-zurg-this-week/",
+      "originalUrl": "https://youtube.com/watch?v=NeC7arRLIqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NeC7arRLIqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M18S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-07T15:31:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NeC7arRLIqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-chargelot-dt-vs-6000mmr.md",
       "title": "Protoss vs Zerg | Chargelot-DT vs 6000MMR",
       "excerpt": "In today's Starcraft 2 lesson we go through a protoss vs zerg game against a very strong grandmaster \"Ryu\" who is currently about 6000MMR on the north american server. I play a pretty unique 4 gate zealot-dt style which is very close to Zest's 4 gate adept build that is running rampant on the ladder.",
@@ -900,37 +932,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2.md",
-      "title": "Starcraft 2: Protoss vs Protoss Macro Game [SC2]",
-      "excerpt": "Protoss vs Protoss. In today's Starcraft 2 video I talk you through my thoughts as I play a macro protoss vs protoss game vs Vibe's offrace  Starcraft 2: Protoss vs Protoss Macro Game #ProtossVsProtoss  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-macro-game-sc2/",
-      "originalUrl": "https://youtube.com/watch?v=gj0bdIiDF70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj0bdIiDF70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M36S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-10-26T18:53:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gj0bdIiDF70/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     }
   ],
