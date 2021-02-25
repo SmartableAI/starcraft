@@ -2,6 +2,7 @@
 title: "StarCraft 2: ByuN DESTROYS Clem's Main Base!"
 excerpt: "Professional match of StarCraft 2 between Clem and ByuN.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=6Qb51hctEN0
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-destroys-clems-main-base/
 type: video
 length: PT30M18S
 publishedDateTime: 2021-02-25T17:27:54Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "djO87s+zbNq72XKn6I0LXRTnwuhhgVGN5nFIbdvxuzBLR52K7SFdhavAIZjboHEez2B3rPTgtoJao0D4pvnEGxMHup/YQFB2uBC0tE+R4nEPB572m4Vmagmh/E6452PN9aoGpZqJ2OmUFwH9IGuhHibVXvg6jW8nUMLNxCp9CCnxmHfcD9cg0TubGwbhg6hWN8OKarsFVk09FDdf0pYIIeQgVt/IhB8KF1V60Q1KmgqmddZq2sA46ctajRzZ79JwxuLGu31rrMeboUwxnAmiFSvvjBWQIBfDyQLQHQCQQPdGkxkFcuEpYs9Ly416Pwb2dnbjm2vVjI/Q39FOr/WOtirdSR4HxtVerrHBgiecvfdbprrGcKFLFSRKLrRrQG0fHLH3ZzjcxL/SZV6W4jRTBA==;HBEA8F5fq99HfDxpH0fz1w=="
+secured: "Q9QViN2KepvnxzcuGG+J1wPdIOKyYksBtX8rRVAZGSU40PGBhxABQ8w4zc5Gz8IX+y6v0eaKFSEK39eP25PPYLjhVETW2vi3nm7tDW85glQJlGerkUT5Dve/rHnANZkFuqA+CsE+PNH3X16+CJXl76A2CU41hYXeHB82uTLEl9vnAGQJ3SVYfZEemfwbGVRDouzqrIiQi6npldtQz0ymaF7NkXhxSM7SWeWiJlnCJhpGaXzWRuVlzaAtsTkDH0PdylBMtLVxAAB82OGmyiPkwsoDQ0y6tFmkO4ICdsS544FCCLBy85anwf6sP4Tsp9CK/v1+tOlyDTS4sazp3piGWYaFPD34Uv2uAV1y03ajIcvwEZWX5Xi7+QUNujJIvpp1uokhilVWnNOKT9AMktTeTA==;vbW2HQLsm/1g8rwkjKgw9g=="
 ---
 
