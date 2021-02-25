@@ -9,7 +9,7 @@ ampWebUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebe
 cdnAmpWebUrl: "https://estnn-com.cdn.ampproject.org/c/s/estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fcd8e17c0-72e9-11eb-b65f-249f2e3da978&client=amp-blogside-v2&signature=19e4066736a38825c0e889532e8cd5df3e4eeed1"
         width: 600
         height: 350
+        isCached: true
+  - title: "Starcraft 2: Wings Of Liberty"
+    excerpt: "RTSHell it's about time, is the first line uttered by one of the characters in Blizzard's Starcraft 2 and considering the"
+    publishedDateTime: 2021-02-25T11:57:00Z
+    webUrl: "https://entertainment.ie/uncategorized/starcraft-2-wings-of-liberty-278497/"
+    ampWebUrl: "https://entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
+    cdnAmpWebUrl: "https://entertainment-ie.cdn.ampproject.org/c/s/entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
+    type: article
+    provider:
+      name: entertainment.ie
+      domain: entertainment.ie
+    quality: 57
+    images:
+      - url: "https://img.resized.co/entertainment/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJhNzUxMjhiODYzZDBmNDY0ZjU1YjE3Njc1ZmFkNzUzM2I3ODc3MTRmIn0=/starcraft-2-wings-of-liberty.png"
+        width: 647
+        height: 340
         isCached: true
   - title: "Shopify enters esports with Starcraft II team Shopify Rebellion"
     excerpt: "Shopify, an eCommerce brand has officially entered the world of esports with the new organisation and Starcraft II team Shopify Rebellion. The Canadian esports team will be bringing three players to compete in Starcraft tournaments,"
