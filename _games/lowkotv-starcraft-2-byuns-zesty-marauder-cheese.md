@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-zest
 type: video
 length: PT41M8S
 publishedDateTime: 2020-12-15T11:46:23Z
-heat: 65
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bFh/j5c3l8I1uz4dLo5RBeLfHuZqOG4bmXgEXqKfmxSWMZ40AS0tQN2hurB2ncTsukHk86OABtVRTq/F4OLaGSsrtrg6jcOXrfZrnMHQCKKnMMVgqNGNLburC/7h3V5YeutrwlcbOgLQuAJxyxKA/MZ2MyF1PlRwsoI0b2fWbl8JZxnOfLIYCg6GZBuvka8e5KwBmDK1pPgyQ2upkFjXNdX87q0v16gwRjmxj+GAf2+gWRw9ZZhIj8NSNRUikhiI0Wne3ipBzLh3Q86MR2tlSl66+xQvsl2qkM2TRW75cPAFlZnbj7K6z2MPBDrsnT3RX8FYVoIQ0Mbb++XABbctueT/M9yr7QufHrrLrfcCbmvcXghL9eCL1cSnyUFsaLMLEDnK1q61X7hQzRm/uui+LY7peGlOr6p18sZAk2BAV4jQ3c/zaU13eOTg27lMPd/V;bJ+ml7eIMTZuC/Zi+uU6nQ=="
+secured: "cetLyE4afSi4O7OWQDvBmygZxYfjUAV60ZFi5+FNdPT6uusY/D+qmYB3HueuTEmGQVfEHeHRM6KcbOvRWPShhc+tFQk+S4gSxT84a2An5DJgXJOaSz+a2k153qbxPabheuwqn31HJN9jm8xE/FqtA2t8F6vkcOheXIEfthzdw3s7ytycNdFgP5WbMuI6q6ZXyaVwtdMloIGg1hWX3NOjHgeFCPeRR2VE7cESc878R10aV6GAAJuDRJUWoNVoGFjiYz68ulIVK+Iea/nUDqBeArg4a470AJj5vkEkv1jvxG2vCRlKBtnn8gagI847ijtIsZyIbRt1TMAM0ox/f4ygO04f0seulnhEjnwY3QRRMT0ba6Hg3PQ6Fjvg1OIEntBRseblzKedz3jzsh97ED3ssipem3p0QESLjDNCkLgOQObPB/hNZvy059cicgD4Q1ug;pGdiC2mYK6JK/TOvKIJuyw=="
 ---
 
