@@ -2,6 +2,7 @@
 title: "StarCraft: Brood War - 6 Legends Free For All!"
 excerpt: "Free-for-all in StarCraft: Brood War between Last, Mvp, MC, Effort, Rain and Nestea.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on"
 originalUrl: https://youtube.com/watch?v=FQkwt8r0C8k
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-brood-war-6-legends-free-for-all/
 type: video
 length: PT32M28S
 publishedDateTime: 2021-02-26T17:55:00Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Kdw9GT0s5gvDtxE353LSwP8/pDaU91dfFoBo5BkphLprKFPxLHZOe6Xv0jxUKT+MKMvkBPR8MoMXUZfgq2oVLzWPeZ40D2VzoNvXqSAQO2rfnvrgR2sMy5/UfMRBpzPO12xj629oTqNUktunR/6DwVNzX4QDL4f8Pc8V9LMq7hLpdWmsm34z3fKu3XAAXd/Ir6896dmHap6lf4WEwXcTIhbYrRSQgHQC7r+EANdKmYf2Bj0C0VAoMkcDqW2TqAKWitk7yxQwxA4uyA8CvgwZ9bQLaPjSl9UsUAyBJbtyVxeVtdRGm9T7hj3a4uZT2yJRx2f3XzZvXfLrCmYWlfbjawzq0S2BgD53c82CGpYBesy6oATFlqo4FAxsw9Ayznt7oe5RVvLTudeFkZSW2Hcf5w==;gpVy1TRPiaBSXFOxxNbTKw=="
+secured: "Z6RDbNRrwe3KP7ntTL0fXOWvEWewFmFEfDDTl+dyCDRO4u4uxMdTJcVYHrtpHDh+w8ISLQgfaR6H1L32pp+IP+fYXOaETZdjWwOfuuwNl8v6Cz2lV+Gk71p8muJgySE5VKpaxag6itD1ysTlsbJzksiOtrpKs59GJYH8onfZPg9VyFSmb3vPrPyUWi25tgAeY16UffE/lmErVu3HD6yFYOrhK/OnGiMZQ0QIeZUgQa7XUR7kLznfIOCxtzCrakdZP5WfkjT8PJk0ydI/e0fnYmmIZMuw0Vr0H2forcJH2Lkfi22PwEhCUxLLGHb2n+AoutPKPVKGUoIFmhkcHQmofquruRC0RyeiFtP5L3sPFqq5IaGLSYcHPF1LUMWW8m4gFN23wYAFSYcbYGoP2S21mw==;Qg+zfwqkwu7/TuOyABAUmQ=="
 ---
 
