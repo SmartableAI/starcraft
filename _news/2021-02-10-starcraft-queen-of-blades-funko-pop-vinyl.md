@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-queen-of-blades-
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-queen-of-blades-funko-pop-vinyl.html"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "2021 Starcraft Autumn Ridge Outfitter 182RB"
-    excerpt: "Starcraft Autumn Ridge Outfitter 182RB Travel Trailer #129053 for sale in Louisville, Tennessee 37777. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-02-06T07:57:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-outfitter-182rb-travel-trailer-2958611"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-182rb-travel-trailer-2958611"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-outfitter-182rb-travel-trailer-2958611"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
 secured: "h0lLzansUu3roVC11Aab3FqjMK64idF/Jr7BuAiFcIadViZUx8YEYb7bBZPl8CQI/nkcylE071DmSzWuAsIdTIcRQ+zJbuWyHRDdu2UdJCZN5CDzLsegxYF+4gZfjXHkCMoQHm4mS/tz2NX+sW0my6xUQE09LTHV0kdvW8QlQI0AKuVWZdtcJkTdDeSAFK1zV6ZX+klRsc8IoHcDYPnaO8qcRHmUiyMCcOLIsBFJpXoAOv7f0sAu48loBlELiAnad4JQdXAXvNJlqP/m+AOM4PZqAHIojdcaMg7EjCI/KFt6svzNhRy6JnR1Gsb3eIA5q4F7/pYSYndPkS1LihA34Aue4BvYTL1u4jeOS4P3bgc=;N8yd9ImNvBvCMM3ZsN9q4w=="
 ---
