@@ -7,7 +7,7 @@ originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-st
 webUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Starcraft Super Lite 241-BH"
+    excerpt: "Starcraft Super Lite 241-BH Travel Trailer #YD5104 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-02-27T05:48:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/2978117/o/1_39105_2978117_120128335.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Brief history of dominant Starcraft 2 players."
     excerpt: "Being a new player I see names like HUk,idra on some pages and have no idea who they are. Starcraft 2 has had a long and rich history and I would like to learn more about it."
     publishedDateTime: 2021-02-19T09:55:00Z

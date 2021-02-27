@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Starcraft Super Lite 241-BH"
+    excerpt: "Starcraft Super Lite 241-BH Travel Trailer #YD5104 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-02-27T05:48:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/2978117/o/1_39105_2978117_120128335.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Been playing Starcraft since I was 8, just learned about A moving."
     excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
     publishedDateTime: 2021-02-19T08:44:00Z
