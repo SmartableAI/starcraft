@@ -2,6 +2,7 @@
 title: "The StarCraft 2 Ladder Gamble! (Twitch Highlights #60)"
 excerpt: "New highlight video with funny moments from my Twitch livestream. In this video I play StarCraft 2 and a whole lot of the Dyson Sphere Program.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=IjDHRS_hcvo
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-the-starcraft-2-ladder-gamble-twitch-highlights-60/
 type: video
 length: PT21M25S
 publishedDateTime: 2021-02-27T17:00:27Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "U4hOCd5dnaabFD5LZiRYOKCCmqDqyWxA9bvrFELZNPp1sjyMGMRLCdtSDWCITANeMyA4GU8in0IGy+E00lAzWJLeXEYyvfZ4qgR29iI0vqJQNfaoGkJDEdaH58SlX62rkEX3MOteYbMlPBHmU3TEX3RWKyiJQiVon6sdJZXro53EhVSMB63/DhXeTZ7C7HaanZd7cffQ01lopwQ6rRzHwUvCjFbVMGrRQuGarpsky8/FEAkEuLueIRP9t7QeMd3C6lXBR+QqrB6J6a+npHtg8LhbRiMk0RjwAMX1leA0ukE64dNvlNz/SIwAuWgPpMbcj2Rzo06c38a8Zc4u0Vw5lqi5vnXFK6ExbSXMUT+15YwiQafrGGTwxl+oOv499QGrwFI0/W0s+PWJ8CUWbCbQcA==;QU749reCk+OWcw/YXRh95Q=="
+secured: "dGnVVor6DwQz6jDC4Qvnb3qEZKXBoUKOwlLQAferKPAh4mwCvIU/tZ6T3TCDs982UE/2afxpPJSENgbai0XZDjO1iEE0X0ZAFZZWU6zv5NjBLXbaBMY3l2aEj72GEe0fEIlrQ3WZQ7wFYhhFskDu4zzg+skMQgIhq7ZTv+uhaFs/k3nkjnH2N7XbdFNHy9b2w1cRCksARdd9Zc2o2xmNmNfTKOESjsDyNcQQ4tLxlhtBgQTM53qIEaiO/buUwpWGvEfS49VKl8IEGLQMalAlljpybg1XiG4hBOtUUA3A7u+TgY5rN3Bd1IFbIScB9aLEbV2zk2aHStdTex5hyjqwXRcrMu6SNLrEzBX0eE+KqcPGwFZYTt/coBUQXnjeGMrkPTOnkIKrmxPxuEKfpHgc1g==;a8B079qzTZR4vE70yxHLKw=="
 ---
 
