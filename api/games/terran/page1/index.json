@@ -177,7 +177,7 @@
         "StarCraft 2",
         "Terran"
       ],
-      "heat": 201,
+      "heat": 176,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VmM4wPKyXKo/maxresdefault.jpg",
@@ -189,44 +189,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-20T03:20:21-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-cure-best-of-5.md",
-      "title": "StarCraft 2: BYUN vs CURE! (Best-of-5)",
-      "excerpt": "Epic best-of-5 series of professional StarCraft 2 between ByuN and Cure.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-cure-best-of-5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=tTX4nFOYqOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tTX4nFOYqOA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-11T04:22:50-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-serral-vs-maru.md",
@@ -266,6 +228,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-05T03:11:34-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
+      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
+      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
+      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-05T03:15:53-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-byuns-cheese-gets-shut-down.md",
@@ -380,6 +380,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-18T02:53:19-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese.md",
+      "title": "StarCraft 2: ByuN's ZESTY Marauder Cheese!",
+      "excerpt": "Best-of-5 series of top level StarCraft 2 between ByuN and Zest. This series of games was played during the ESL Open Cup.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-zesty-marauder-cheese/",
+      "originalUrl": "https://youtube.com/watch?v=ZOM2W5H8QrQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOM2W5H8QrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M8S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZOM2W5H8QrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-15T03:46:23-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
@@ -808,6 +846,44 @@
       "publishedDateTime": "2019-08-19T04:11:17-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byun-vs-cure-best-of-5.md",
+      "title": "StarCraft 2: BYUN vs CURE! (Best-of-5)",
+      "excerpt": "Epic best-of-5 series of professional StarCraft 2 between ByuN and Cure.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-cure-best-of-5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=tTX4nFOYqOA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M21S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tTX4nFOYqOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-11T04:22:50-08:00"
+    },
+    {
       "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
       "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
       "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
@@ -1040,44 +1116,6 @@
       "publishedDateTime": "2018-10-16T07:21:19-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem.md",
-      "title": "StarCraft 2: The UNEXPECTED Result! (Maru vs Harstem)",
-      "excerpt": "Very fun match of professional StarCraft 2 between Maru and Harstem. While most of the time we see Protoss players forced into Colossus because of Marine Marauder unit compositions, in this game Harstem decides to go for Carriers with Disruptors because of Maru's Mech army.  Become a YouTube member:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-unexpected-result-maru-vs-harstem/",
-      "originalUrl": "https://youtube.com/watch?v=kVLznaW8EmE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVLznaW8EmE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVLznaW8EmE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-05T03:15:53-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-byuns-strategic-variety-best-of-3.md",
       "title": "StarCraft 2: ByuN's Strategic Variety! (Best-of-3)",
       "excerpt": "Best-of-3 series between ByuN and Ragnarok in professional StarCraft 2.  Tournament game is from OlimoLeague: https://www.patreon.com/olimoley  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko",
@@ -1114,44 +1152,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-17T03:43:14-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech.md",
-      "title": "StarCraft 2: Epic Match!  REINVENTING TERRAN MECH?!",
-      "excerpt": "A really good best-of-5 series between Dark and Gumiho. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Easily one of the best best-of-5 series of Zerg vs Terran I've seen in recent times. It looks like Gumhio is reinventing Terran Mech. Super cool",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-match-reinventing-terran-mech/",
-      "originalUrl": "https://youtube.com/watch?v=mf5jx5TOnR4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mf5jx5TOnR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M51S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mf5jx5TOnR4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-10-24T02:02:31-07:00"
     }
   ],
   "nextPage": 2
