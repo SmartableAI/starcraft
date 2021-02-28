@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-brood-war-6-
 type: video
 length: PT32M28S
 publishedDateTime: 2021-02-26T17:55:00Z
-heat: 400
+heat: 310
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FQkwt8r0C8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uZkz0AXi2eR9flZWbcO42u5v6W4ZBTfX3pCPPO/BWqJGxuj1QMVHi7gACg0Tg5KnsNP6W+r1NdOEJYgd1i+0NPYuVXC03SMesJOjuIIh9LiDteEm6pQhB4KbTVGtholo7WuAjPuWlpUaspI2obk9c6br5Tzct6NaW0gwCDWVdJsh/Bd9S67ffIYnX00Vm51sEqueDRzoYOUUFt8e9LycXNuNbWN3CXEVr5oGonFPOf9Fuq0p92uvzD+LuN5i7mLt0bq97Jt9eJ87hnT3m8nvvjkze+71mAoc7uhuyT65ubeoP56z1fx8BiiOhtwShlLu7z2jnpxiJrJxzsTuHS7/XFK+nMtbvogyvfgN2H5kh0dNnVa67kf7tY2KuhDyAEC9CjFSNwo118TohyqQYDqRtxnxntKRA7VP0mCVN0KaM7I=;Udh6lgFoURKcm8YAgVsv6Q=="
+secured: "0Y8JXiaiELuPsNVSAdZNhskdAt37jImkwDjx7R+4UqGIw/6iKTAyLhumFdzCznnvqHsY/35aL/qOGmm7kF+tfMqWdYPycN/ILD85otJtZrowpsfS0Oo3fdrUDw7i8kM2HCxOGlkTXE/XSUcNboy07AIj4FSVcgKw6YOoIMNlKDAXyyYL9rcTAF/NqpShVmddwr3dEEX02KRqVKLQY2G8qKLJYkKMEgWQjRH+IbxydWNzn7Q5XOpWOc4mBj2neZLvAWFjTipePiAv+ZPN+0UGl99auxaUrZPlviwnHllB2m8rWNI3Y7hXEzVDolez+kImgMSDT+rtJ0dc77J2O1Qpu7IWRzTOn4iTjrwFZ+ahmQEp9rwxG8xSlz7ECuNh2YOuUEWu6IofXbBZ+cT9M5Bxvx5KxfPnmtPcLfScpzNv+as=;Njh4J7cp5j0kzY6fe5ySGQ=="
 ---
 
