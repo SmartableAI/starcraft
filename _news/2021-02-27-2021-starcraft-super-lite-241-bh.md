@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-tr
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
 type: article
 quality: 57
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
+    excerpt: "The Katowice 2021 tournament has now concluded and besides seeing some explosive Counter-Strike: Global Offensive action, we now also have the Starcraft II IEM Katowice 2021 champion. Riccardo \"Reynor\" Romiti took home the victory and the $65,"
+    publishedDateTime: 2021-03-01T09:15:00Z
+    webUrl: "https://www.gamereactor.eu/esports/958773/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
+    type: article
+    provider:
+      name: Gamereactor
+      domain: gamereactor.eu
+    quality: 54
+    images:
+      - url: "https://www.gamereactor.eu/media/67/reynorisyour_3396763b.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Been playing Starcraft since I was 8, just learned about A moving."
     excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
     publishedDateTime: 2021-02-19T08:44:00Z
