@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-best-game-
 type: video
 length: PT42M58S
 publishedDateTime: 2020-12-01T10:38:35Z
-heat: 104
+heat: 105
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VZeBQi3WXlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uAdaDcSlGvZns9a4GsazZoYXfPY32KbYKuqQhCPAD5CvY7tVdVUvMkv305MUzGT1+bSejASOuR6Zg9WPnoxZCOUgecbGLl6awUrMcd2X9GSrtgGXLheaLSaBDf5n0ukBsRZkMDLcCPaQAsj0+73cwvRz5LB3nTE4Dgn5C3wBroYPG0YCaY6szDoP2wZyTj7MmMlwQTf/OchJEITROblZUeWFeKn/oxpKuCJE+StP6zTi007QbMmdw+UPeyXXbYVFA+XDI8tYhRPSneSSfyPfTUmP6CGH+cbagg02Im3NuVWh97xmyb0d7F0fLfQLoSs8yKJhEdJ5zX6DbRWn3ik4lBmuqfpeYKOE7/945v83kl/gsMowLSa64sp7XPUDjwmw07Uw81qxB7BwzLHtoRTy6HIce0JYNO9OImNLX4L+pHQHBdDlJywk8K2LpcsWObEw;wf2I7CfWC/qnf+C/IuH27w=="
+secured: "H/uO304hpSNhz2rYfzQtZbIJvDlHzMwJ3xDWNsayh7Y4ZGOLOyr1zxJgwVGuo8I0Qh8RHlTewhcCskZ0Wd9AgAH0JVMG5eJbrm3NvN6RoXC347xdmiV+c6Ig8h97OvLCDJ5sz3qMaSZVrtcRcvAJCbVloXoX0yi9INMhLA86LVliedEEgQ1gv3FgXRFruWhPDuSBYq+W9RbPzUaPdTPnItZvTBwmGDvoEWdlRe5OymuVdekVeix6gCpz+LjEUi0yV7OwpRNkL/PXqNz2FRsaHIrX82XANiN/eIf3E6wDUFuqOV9u5qrIwwdIEVRKq1BdT9zX873N/+yFhCbknw3zqq3MtlLRygPWYrPqcqZ+7O2+IWTw7nEAfzqmR/AE2esYo87vo/XzRFsfxBrOXEwTU/n7GersuzDuoBaptDw0C20=;nEMD/cPI14tZmWuW09+3CA=="
 ---
 
