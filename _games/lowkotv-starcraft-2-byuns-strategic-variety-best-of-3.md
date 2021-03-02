@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-stra
 type: video
 length: PT48M10S
 publishedDateTime: 2020-12-17T11:43:14Z
-heat: 73
+heat: 70
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cg-juG9IGPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XYI46f5jcyL4LpLMrROWdC9Kp+IxzYgTJKIoQNjpqsyJvebZhS94H2VBqLSdL1rVcqPnkDZu1EK75zYfE3teIsATBbqixAb8TgOnJhHTNYeK/SAvzGEjIZjItm4I0LYiv62EjR0Siods8qJ6LGy2wgOkqmjiLEmRP0l/jglRNRu8SHX+yRT9VMN7XJzMT70JWX6o99Bnux541Od8jS+rmmSEspSmiHOGV1uBuJhTyj2V4JdsUP/DvtPUWjBarpsNxE184NU6tZI4pJ3QioOEII4sH1pONRxStaeprHWI1qEg91Koi1OIDlCIQssMHLAJxcx7l15XESPxy0y+Vo+xHUfcIb2P1fdKxFmkZ4akymHkJGdFX4zMMFRoRvIQgg9teN7KovHcF+nFcS35DKJTDEUphIMcW6jU9HguHT19aJ86mOZbPXts5F32U/NOSKb7;59j/9HgYaunHpafFsKbjow=="
+secured: "1GFpPNZuCFxM7sfJpX/m/np3sFs/wgTIJmF7vzbam7H9xpfdg+Z16VDMYV3OFIDoGj8UMH7CrMNOtSOsd0FRv3PWENxfropideg+bZReGTkyYX/oKE4zC38ZgttKfi5Jz8MYkmdtTQHM5oiuSt9iD4GLIpWx32g0YwQXPSi9cxvoR70sqx4PcEbMA5L0//zxifszyhrzo1p1TLzzdQGB23FKFxQl4Lf8OrkfkmTaIRDTaiVLV289piQWBemk7/dwo3ujUU2o6Y10QNrs4Q7B1dnhMQOWHOvXEdMydXiYScpqW2hVUuAaTq6pXPp3lp6mKA51xsgSmF3r4M15JpndXAEnQoEiUs7yaTi4Zy5EJ3O0KiFJaU0BktoSPD3xAU6R+Q5elZXI4cjsYva2Y13LGazNYvk4RKP4lLwOQwAd7OkUfaQDZnUSqu5iYTqneOOP;j+abN8xw0m/M5dtY83oOog=="
 ---
 
