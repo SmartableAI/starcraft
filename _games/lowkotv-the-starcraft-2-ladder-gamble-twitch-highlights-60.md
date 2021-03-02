@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-the-starcraft-2-ladder
 type: video
 length: PT21M25S
 publishedDateTime: 2021-02-27T17:00:27Z
-heat: 290
+heat: 252
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IjDHRS_hcvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RXXhjOSjEMnD16+so3uxXH+8Pc2q/dHQZw0N3LmHKpJLVmARyzKQOXSOKS/cHc0U+GE967ll1TceeHvl6Q2tfaceNrF5z/884v2HZdURE2yM3wt77MgXoW7wneLBRbyVq0rnIkg9KBswhBc9GfqnlakDdw43vfqfcoD2s9+lrbyJMVorWvvmaTg4Y/2Y3bUvaQt7CF6KuQiUEpOV4HH3Evyvd/DPfYREuHu2H5+V2D80Jly5abE2V5QJZVR9V/aIvda8yaFrf9/D+G4GW8toOFX+N1zQQ/7O/E4Q4xcCDpIGWIhSM/eqeG4yDmlte5g5tj374nQWPpemwXFonEnNIsnXCQKAewOZkuGvG4Er4otCTnu8EaQvg/xTqYeanW+dQ5Ukh1Ko/C9V0TrQfaGOwvXg4TJO7apVfyyzzQY2Y2w=;c0ljwzoyAzGCyvJEbxgA7A=="
+secured: "XA6pRfV5suZsATghwpnujsJPTquELQPE9KRf1Hk1m0O3X6TJ2pmc2YP+kEZ3r4idRTtV+Tx/DuH5hqZDnlcE5B159jlz1lP3ujyAzHKCMFR6+ZSi/TVX02PwoWGeeJ2ui3ySpy8V+sHALOeHMDMCDn+ev1OVPXXAFlWk9VXkAn/blyZEzzz5KvtsRu5PX3notrogzTktVKVT4MdFvNPWMg5YwFGmGMCFC8lHi8XbRKuHZEgx3vTFlIfNpG+bVszAWffI5Tt8x4EpBGtDe3hV7lO69u6KMfnznmG79xIJB7wgnZCMQymANiXb76ELTMXTw7fxlPgmoZY0DOBDqPDDBFFnYgqmDosfLEiR6L3RrUibSfp8Q/coeXvcX+By3cdKZOxcRwVlfxT2isa+ZlXnTRZNMARouMdCloeapKBDNLU=;kdAOPI/XLtsycd4uYdI9cg=="
 ---
 
