@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M40S
 publishedDateTime: 2020-07-23T22:14:32Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D-GWZZYWqC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fZbJ9fhtqM+0sPGdvVF5+XwzCzsFkzg+d1VxZpfXVk9jhJwzCPQX7SH8WbrjC9xSV1vR+LqipJGKxK8bpGN0NhdX4b3f68JY6IJJZHfq2gO5ux8oAWdoELVtN5YU5h07pYXZ0NBqHEOYz82movjYoaLeQGx59QsLJZe2reW+LFJeOadEn+w598lfqp+S++J5R/GIoVDMKfwPcIbCBjQs6DsGrApZ/Vg7BlyaB1kHZYlzlDP70C2KzQjLBq+dGBWJLUi/C/x9S8v5phIR8v2RpyT5sCkUt3/VwV1yKVD1Eqddj+J0nAkICqWSaSPUHhudGKV4z+xgma8naHtJmcS9yymaKEAMe9LjaAHK/D1uoKjYmU/27x9KmsT98K2dKhqZyg4Qr+WVz55BE6t5dpDQfnFtpKd0eUZ7et/bihfkgXg=;syILGrhUZPif1BFexYrtmg=="
+secured: "ww4Nudy4+tKyKF2gMvoaeRwejggwDb+Pp65vWAvWehDk/yIUzs+mrhzGqdFACwejrCQIM4n8Wr4ChQYu/AHlkCdJE5MLoRkUxaswQRBg/vJ3aIOmqKSS2RAjZ5BlxxJ5Jk9YW3KRHFUEjm3OGfp9ZBg0L5diiiyNbfWzdWFJcnFATk1mGSlcDSoX0e7Czy+RZw3fJcS87DuYs/CZoiagOkiImR2c5Z/YWPwE3koePV6V4uq7LZsYkGiR+vjelYE+ydYUBFuDNPdtsVFJKTS63tSXdNbPpTW36J5E4yWNVhT3DbkoJYbsZByQE5RO2/2VdK0AdIi5J0TnaFxeP7VpIjAT3e7jwswz0JZEGEwGrX5fxNPLca+1EmL/oUsHqux2FTkBczqTRjjjrNojwYLLY5svrntRO4GuFp3yF43/jpU=;a24liuYX+Cg3q1g4kLkMJA=="
 ---
 
