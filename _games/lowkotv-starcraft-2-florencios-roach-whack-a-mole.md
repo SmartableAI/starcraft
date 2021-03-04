@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios
 type: video
 length: PT13M26S
 publishedDateTime: 2021-01-27T10:21:07Z
-heat: 122
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ru_HglKItig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jcB4C8XDAXJ05SOvhc7IZGJriDsNxEZ83HYmduf8rpH9buGSyKVbdlA9Y6nKHDP9kqlpa6L4PqF20qOj5Jqr0aTIU10Fc9q3F7Vx7aHhs7p3/SsSSzffwxqd6rGhMnRCpdkla6x9+sW5/8J9nKN9AKHDzMKZ4WVitanWcSsrHFG5AdJEQlQzs5MJwIIJRQFhgwrXrG76Y1lMJ345JtZw1zAS3bJQeu3/Tg/8HX2EudhhzO0EGvAhgcOcb4BQmZ8jevBs9cA4nQS6MKjpjnweBmF1e7wZlb1i1wEu+4lCRokzewnxAdOIbU/2U7H7pvMwkt5yz5t8BtIcRS/WxhIM+al+YNysqB/dVs1Ou1DfPsIYQU8jVz1exfyCxZz1Mj9Xfcur8Kiz6/2yZDGEa+rMBOXG8udKHIwO/w1g1ELfUig=;xBG2wfdkhsMhfhxgqZVLcw=="
+secured: "Md4Kv1PbOn+ythfbiHciUPWQEGDwx0MJlmtx0PrMb+XZ36Z3vzA7Wz7NAa0LJM6s7bntnTaUjVfrGpXPxPeeLe2AyGMPF9jzoKdGFFtDcpOnS+lwX/eGXBMCxmmxX0s3kLY7XSHyZfZ+3YRxzML9Fg3aNfEQ4KSj0ZvMeQqIN+ICcyDYJcaJx91TbOXWVEcjMO3tDdSeFCE+iWTM8AjtG134uGcW39okRAKuS9Ts9DBWJWELKJ06HQCnC43o15gKJnf70YGHUVdImQ0+3ElLL66ouS1MkwogrXoTQekgrHhS7euOXSwEmEZdV3fcQsb4rCc7jwgb/H4+nRBt91cwwGH95+ZeFkWe8xyP3GGceyYpDoWJpFuwUJ8Bi4WlPNwskfywAAHXBjXJVmmaQCS3o5hlh384sugLh4lx32CGUWQ=;SbUfOr3MtzFpBFyjlgvnVg=="
 ---
 
