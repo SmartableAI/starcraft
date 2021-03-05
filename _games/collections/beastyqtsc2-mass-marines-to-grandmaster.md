@@ -2,7 +2,7 @@
 title: "MASS Marines to Grandmaster!"
 excerpt: ""
 type: collection
-heat: 68
+heat: 66
 
 provider:
   name: BeastyqtSC2
