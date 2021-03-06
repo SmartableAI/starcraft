@@ -4,46 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm.md",
-      "title": "Zerg Build Order versus Terran - Roach Baneling Timing Push (StarCraft 2 Heart of the Swarm)",
-      "excerpt": "Zerg versus Terran is quite scary from the Zerg point of view. This Zerg build order is by Symbol from team Azubu. Symbol is a great Zerg player, one of the best players in the world. The Zerg build order we are taking a look at will be from a game that Symbol played in the round of 8 from the WCS Korea",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=bgc7tgPN3lg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bgc7tgPN3lg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-05-26T09:40:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bgc7tgPN3lg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-zerg-early-game-mentality-zerg-build-orders.md",
       "title": "Zerg Early Game Mentality & Zerg Build Orders",
       "excerpt": "Let's talk about Zerg early game in StarCraft II: Heart of the Swarm. I know I emphasize build orders a lot, however there are a few reasons why I do. I have always felt they are absolutely essential for any starting StarCraft II player and they help out in every aspect of the game.  ▶ StarCraft II Study",
@@ -367,23 +327,23 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018.md",
-      "title": "Learn Starcraft - Protoss v Zerg Build Order! (Updated 2018)",
-      "excerpt": "A basic build to hold off and then defeat the disgusting Zerg! Meant for lower level players who have little direction, not for high level players looking for the dankest meta :) -- Watch live at https://www.twitch.tv/wintergaming",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-protoss-v-zerg-build-order-updated-2018/",
-      "originalUrl": "https://youtube.com/watch?v=ZlNdkpjFifA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZlNdkpjFifA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
       "provider": {
         "name": "WinterStarcraft",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-11-20T04:23:53-08:00",
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZlNdkpjFifA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -394,8 +354,9 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss",
-        "Zerg"
+        "Zerg",
+        "Terran",
+        "Protoss"
       ]
     },
     {
@@ -584,36 +545,6 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017.md",
-      "title": "Learn to play Starcraft - Basic Guide for ALL RACES (updated 2017)",
-      "excerpt": "A live guide to Starcraft 2: Legacy of the Void - Covering the basics and build orders for all of the races, and covering the important decisions to be made early in the game.  Not a step by step guide but a demonstration once you have the very basics of the units and races!",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-basic-guide-for-all-races-updated-2017/",
-      "originalUrl": "https://youtube.com/watch?v=xufRFqlamM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xufRFqlamM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H42M46S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-11-19T09:09:41-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xufRFqlamM4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-protoss-starter-guide-1-updated-2017.md",
       "title": "Learn to play Starcraft - Protoss Starter Guide #1 - Updated (2017)",
       "excerpt": "This guide is now slightly outdated with Patch 4.0, here is a completely up to date guide! https://www.youtube.com/watch?v=x3ZkSX0tJg4 We go over the basics of understanding Protoss, the SPACE WARRIOR RACE ;)  This guide is meant for those who have a basic understanding of Starcraft but don't really",
@@ -645,6 +576,36 @@
       ]
     },
     {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-supply-block-tips-the-five-second-rule-basic-guide-tutorial.md",
+      "title": "Learn to play Starcraft - Supply Block Tips + The Five Second Rule (Basic Guide & Tutorial)",
+      "excerpt": "Starcraft 2: Legacy of the Void - Please give me feedback on this general video style/commentary, hopefully it helps you guys out!  Can very easily make more on different concepts if it is the right direction!  Sc2ReplayStats - http://www.sc2replaystats.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-supply-block-tips-the-five-second-rule-basic-guide-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-supply-block-tips-the-five-second-rule-basic-guide-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=Qm-6y-CzBZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qm-6y-CzBZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M5S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:08:24-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qm-6y-CzBZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-what-is-a-gameplan-basic-guide-tutorial.md",
       "title": "Learn to play Starcraft - What is a Gameplan? (Basic Guide & Tutorial)",
       "excerpt": "Starcraft 2: Legacy of the Void - I go over the basics of what a gameplan in starcraft 2 is and how to put one together.  Note this is not a guide on WHAT gameplan you should be using as each race!",
@@ -662,6 +623,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RkwtFcw8ztw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-workers-and-economy-basic-guide-tutorial.md",
+      "title": "Learn to play Starcraft - Workers and Economy (Basic Guide & Tutorial)",
+      "excerpt": "Starcraft 2: Legacy of the Void - All races workers work the same (mule notwithstanding!)  Wiki on mining: http://wiki.teamliquid.net/starcraft2/Mining_Minerals",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-to-play-starcraft-workers-and-economy-basic-guide-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-to-play-starcraft-workers-and-economy-basic-guide-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=TxTelFrmfKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TxTelFrmfKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-11-19T09:07:42-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TxTelFrmfKE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -784,6 +775,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9niBzw9Wk6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-standard-zvz-opening-part-2.md",
+      "title": "Standard ZvZ Opening - Part 2",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-standard-zvz-opening-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=eTIxEgIViWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eTIxEgIViWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M35S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-27T14:40:25-07:00",
+      "heat": 49,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eTIxEgIViWg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
