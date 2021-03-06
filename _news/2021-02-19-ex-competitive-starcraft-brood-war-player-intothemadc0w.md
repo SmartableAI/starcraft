@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Televised Starcraft Tournament In Finland Shows Gaming’s Reach"
+    excerpt: "Gaming is now apparently widespread enough that Finnish national television can show a televised Starcraft tournament like it’s nothing. While esports has been growing significantly over the ..."
+    publishedDateTime: 2021-03-03T20:14:00Z
+    webUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/"
+    ampWebUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 57
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2017/03/StarCraft-Remastered-Rumor.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
     excerpt: "The Katowice 2021 tournament has now concluded and besides seeing some explosive Counter-Strike: Global Offensive action, we now also have the Starcraft II IEM Katowice 2021 champion. Riccardo \"Reynor\" Romiti took home the victory and the $65,"
     publishedDateTime: 2021-03-01T09:15:00Z

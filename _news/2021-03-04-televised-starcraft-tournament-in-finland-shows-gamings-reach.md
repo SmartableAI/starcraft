@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Been playing Starcraft since I was 8, just learned about A moving."
-excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
-publishedDateTime: 2021-02-19T08:44:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
-webUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
+title: "Televised Starcraft Tournament In Finland Shows Gaming’s Reach"
+excerpt: "Gaming is now apparently widespread enough that Finnish national television can show a televised Starcraft tournament like it’s nothing. While esports has been growing significantly over the ..."
+publishedDateTime: 2021-03-03T20:14:00Z
+originalUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/"
+webUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/"
+ampWebUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
+cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GosuGamers
-  domain: gosugamers.net
+  name: SegmentNext
+  domain: segmentnext.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.segmentnext.com/wp-content/uploads/2017/03/StarCraft-Remastered-Rumor.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Televised Starcraft Tournament In Finland Shows Gaming’s Reach"
-    excerpt: "Gaming is now apparently widespread enough that Finnish national television can show a televised Starcraft tournament like it’s nothing. While esports has been growing significantly over the ..."
-    publishedDateTime: 2021-03-03T20:14:00Z
-    webUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/"
-    ampWebUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 57
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2017/03/StarCraft-Remastered-Rumor.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
     excerpt: "The Katowice 2021 tournament has now concluded and besides seeing some explosive Counter-Strike: Global Offensive action, we now also have the Starcraft II IEM Katowice 2021 champion. Riccardo \"Reynor\" Romiti took home the victory and the $65,"
     publishedDateTime: 2021-03-01T09:15:00Z
@@ -69,6 +55,20 @@ related:
       - url: "https://www.gamereactor.eu/media/67/reynorisyour_3396763b.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Been playing Starcraft since I was 8, just learned about A moving."
+    excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
+    publishedDateTime: 2021-02-19T08:44:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Brief history of dominant Starcraft 2 players."
     excerpt: "Being a new player I see names like HUk,idra on some pages and have no idea who they are. Starcraft 2 has had a long and rich history and I would like to learn more about it."
@@ -99,6 +99,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Way5Iw1Jam/qzTZrmB0zwjW/MmEDs2PNfc2f13lJpkcO7idWF503927GZslc984AnsQy/O2RNbrT7gvAmtf86HTs+PxlztTvhv/i4VkYfekjCxypz8FvrMw7YbHUxg2zKL/LZD5tJ0D3Vgn2kwM9ez4kwmftpIk4ujur5Yug514RRrBg4mxCa+ItO+LryLebS+qi7pPpVcc4uk6ChnNU0FpuHpLgYXV8o/Nwtjz/sn49vRY1J+7vEC4eEoxzvonoTb+ljsnIyZxc1o/Ng/BA1WvVxT21ggRzEEb5TGcYk0CL7TomCJ5P2R+hlQjYu/fK8AvcaxP22sm14aQV4OEdb2O26tfFBt/XRby+noA1Hds=;IkL7wgKHUIxbJXm5Gs+ioQ=="
+secured: "P21i+nY+9f/etgzQ0DuL2UGxnYeQjRPLRkKn3NDzK18+/usUHsRNDXyj7EgXy3Iw712kwIk37BKv1VJq4VkOE7O1GknUaXK+BPLOgQjrh4rAmzUsyCjDSfHf2AgRpvI1hXacBgkMBdIpfKvJViXxaroe1wVfmagnHeZnlNXKr20KBm1xC/RsMx3A8hi9ochcZUqgz4SCjbUf3C3WwoPxUUNumYQG3MjDnCbGEUD7Ahek15ATAJKZedXBMHByv7e/iPqV8kMtAboVY5AI0j0FZ7xYXL8InnXcNM05OxQ51s1Etm4ITkCtFreEP9cZQpM4zEE0t2miO8y0jXF6yznaT5y6dVxfvOofqOdnSEf07I8=;3QJz59kfUSHK925Y0TK7Jw=="
 ---
 
