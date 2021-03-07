@@ -4,6 +4,46 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to.md",
+      "title": "StarCraft 2: Easy Terran Build Order Versus Protoss (Guide / Tutorial / How-To)",
+      "excerpt": "How to beat Protoss as Terran in StarCraft 2: Heart of the Swarm. StarCraft 2 Build Order guide for Terran.   Reaper Expand 10 Supply Depot 12 Barracks 12 Refinery  @Barracks: Orbital Command + Reaper @Reaper: 2 SCV's off gas + Reactor on the Barracks  17 Command Center 18 Supply Depot  Transition to",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-versus-protoss-guide-tutorial-how-to/",
+      "originalUrl": "https://youtube.com/watch?v=GYI4EANKDCU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GYI4EANKDCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2013-11-17T10:22:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GYI4EANKDCU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-versus-terran-build-order-explained.md",
       "title": "StarCraft 2: EASY Zerg versus Terran Build Order EXPLAINED!",
       "excerpt": "This is a Zerg versus Terran build order for Zerg players in StarCraft 2: Heart of the Swarm.  Instead of focusing on Zergling Baneling Mutalisk, this build focuses more on Roaches in the early and middle part of the game while transitioning into Ultralisks in the late part of the game. All the while",
@@ -787,6 +827,45 @@
       ]
     },
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide.md",
+      "title": "StarCraft 2: NYDUS WORM ALL-IN! (Zerg Build Order Guide)",
+      "excerpt": "Zerg vs Protoss Nydus all-in build order video! Subscribe for more videos: http://lowko.tv/youtube Zerg vs Terran all-in build order: https://goo.gl/kRXijf  In this video I go over how to execute a Nydus Worm all-in in the Zerg vs Protoss matchup. I show a game from a professional gamer called Leenock,",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-nydus-worm-all-in-zerg-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=Mn3Twb13398",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn3Twb13398\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M54S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-08T00:26:03-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-proxy-oracle-protoss-build-order-explained.md",
       "title": "StarCraft 2: Proxy Oracle Protoss Build Order EXPLAINED!",
       "excerpt": "ShoWTimE's Oracle Proxy Protoss versus Terran strategy explained. Subscribe for more videos: http://lowko.tv/youtube Game analysis: https://goo.gl/RUiDRh  In this video I cover ShoWTimE's Protoss versus Terran strategy where he decides to proxy a Stargate, harass with Oracles and a Mothership core and",
@@ -902,6 +981,45 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide.md",
+      "title": "StarCraft 2: The Zerg Priority List! (Guide)",
+      "excerpt": "In StarCraft 2 it is generally known that macro is more important than micro. However, this concept makes sense to those that have been playing a lot but if you haven't played in a while or if you're new to the game this concept is confusing. In this video I talk about the Zerg priority list and how",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/",
+      "originalUrl": "https://youtube.com/watch?v=O3aGlfvQiqo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O3aGlfvQiqo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-02-16T07:09:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O3aGlfvQiqo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
       ]
     },
     {
@@ -1059,124 +1177,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know.md",
-      "title": "StarCraft Remastered: Everything You Need To Know!",
-      "excerpt": "Everything you need to know about StarCraft Remastered. Subscribe for more videos: http://lowko.tv/youtube StarCraft guides: https://goo.gl/lUNauh  Yesterday a huge announcement was made. Mike Morhaime announced StarCraft Remastered, which is a remastered version of StarCraft 1 and StarCraft: Brood War.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-remastered-everything-you-need-to-know/",
-      "originalUrl": "https://youtube.com/watch?v=JRded9XJX-8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JRded9XJX-8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-27T06:10:39-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JRded9XJX-8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm.md",
-      "title": "Zerg Build Order - RorO's Roach Baneling Timing Push Versus Terran (StarCraft 2 Heart of the Swarm)",
-      "excerpt": "This is currently one of the best build orders in StarCraft II: Heart of the Swarm. I would highly suggest all Zerg players to try out this build order at least once versus a Terran that is going for a standard Reaper Expand or CC first. This build order is great versus Terran in the current metagame.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=sq7Yj3kSm5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sq7Yj3kSm5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-06-08T06:46:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sq7Yj3kSm5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm.md",
-      "title": "Zerg Build Order versus Terran - Roach Baneling Timing Push (StarCraft 2 Heart of the Swarm)",
-      "excerpt": "Zerg versus Terran is quite scary from the Zerg point of view. This Zerg build order is by Symbol from team Azubu. Symbol is a great Zerg player, one of the best players in the world. The Zerg build order we are taking a look at will be from a game that Symbol played in the round of 8 from the WCS Korea",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-zerg-build-order-versus-terran-roach-baneling-timing-push-starcraft-2-heart-of-the-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=bgc7tgPN3lg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bgc7tgPN3lg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-05-26T09:40:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bgc7tgPN3lg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
         "Zerg"
       ]
     }
