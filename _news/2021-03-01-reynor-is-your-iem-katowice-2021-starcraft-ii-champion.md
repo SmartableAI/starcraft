@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
-excerpt: "The Katowice 2021 tournament has now concluded and besides seeing some explosive Counter-Strike: Global Offensive action, we now also have the Starcraft II IEM Katowice 2021 champion. Riccardo \"Reynor\" Romiti took home the victory and the $65,"
-publishedDateTime: 2021-03-01T09:15:00Z
-originalUrl: "https://www.gamereactor.eu/esports/958773/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
-webUrl: "https://www.gamereactor.eu/esports/958773/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
+excerpt: "This win has also made Reynor the first ever non-Korean player to win IEM Katowice ever, a feat that will surely be remembered in the history of competitive Starcraft II. Reynor has seen success over the last few months,"
+publishedDateTime: 2021-03-01T15:05:00Z
+originalUrl: "https://www.gamereactor.eu/reynor-is-your-iem-katowice-2021-starcraft-ii-champion/"
+webUrl: "https://www.gamereactor.eu/reynor-is-your-iem-katowice-2021-starcraft-ii-champion/"
 type: article
 quality: 54
 heat: -1
@@ -100,6 +100,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+aaOXAy5FfxKUuxfcZXgP9j1Cuwhjc6ap6yEKro2fr/dMV+jac1tKlSwJD0ilyJmRTGtgFHyIdmVrYw96mVYsG+Dxc9vysx6gxdZn1i0M4ujgyqnv+zrhEnTeEMN6OO4++HkCucEO7nQA3cphbUiwImM/sM0xiVuarOWQa1GEBkswquaFSIEDztJBWgcWyzS5l9+K7nY4n7kjFe0tdeGh99PYtzCMNa0lT1R7N64g4pcK9K1oW+6rcnek8s1aCJZX48wyHhmJYrJZQ4k7962GeFq/DNwd1iwrK1uYeVrdhZVo2fr9Cwxf6ZbOX0C5HeROIR/FsvpmH6V8axJPMUBSEHgKGFgS2W0Fj8RJOuI4snHxThD8HPBe7EV7/dV8wrdSL2xL5437z4UJATimeC1QkGj5y+kcrOCOJtuswuI1PgCdSnXwS/XgJgQVNSUgnLeu2bZZ/o6Rx/wvwKXM560zjJVZ2WY6+88PVS38IlQ0oDRmRl57BDtmFOtOwj6VkA+Dofnn1N9ZhTGMHswVMtW6g==;VSJG1QkxYN7wnrQfpGba8g=="
+secured: "aK3Oc2twJE6TSBGYc4lysAMwACgV9zi2DZS+mkPoFDAK8crrsVNaXq4ssZH3kj4pCY8+e3md4UuttX3B+Tlt5+JmFvNURYF0Qte5683Ar6SQPHgMa8z0q5ZpZymSpQkYK/UavSwh+DxHXftYENxPlTlDTSHETxamGHL5vux8O8Uqx0CobiZSNOfY4F52yLSK4n5AmIZRu0SVI6Y2Jmx+ufA7Gjdxm51ShYKeGzvz3Zo1qjjlgG6eV7AqwA3AecEkxdW0SRVMNf1F4hqpwL0489K4G6LX1NYZASGiiuXNqEyZfBbP0IAjYyY3qTUVmaX9WusfhTdtSbea1HBe4DgzYhfMKL8K30JlUpoh3YVTzvE=;PqX5Gp1+cNZdZPqxJ9khCg=="
 ---
 

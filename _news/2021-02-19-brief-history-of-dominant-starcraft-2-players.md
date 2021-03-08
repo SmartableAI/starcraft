@@ -57,9 +57,9 @@ related:
         height: 349
         isCached: true
   - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
-    excerpt: "The Katowice 2021 tournament has now concluded and besides seeing some explosive Counter-Strike: Global Offensive action, we now also have the Starcraft II IEM Katowice 2021 champion. Riccardo \"Reynor\" Romiti took home the victory and the $65,"
-    publishedDateTime: 2021-03-01T09:15:00Z
-    webUrl: "https://www.gamereactor.eu/esports/958773/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
+    excerpt: "This win has also made Reynor the first ever non-Korean player to win IEM Katowice ever, a feat that will surely be remembered in the history of competitive Starcraft II. Reynor has seen success over the last few months,"
+    publishedDateTime: 2021-03-01T15:05:00Z
+    webUrl: "https://www.gamereactor.eu/reynor-is-your-iem-katowice-2021-starcraft-ii-champion/"
     type: article
     provider:
       name: Gamereactor
