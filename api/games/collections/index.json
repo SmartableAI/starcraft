@@ -550,7 +550,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 63,
+          "heat": 60,
           "tags": [
             "Live"
           ],
@@ -616,7 +616,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 51,
+          "heat": 52,
           "tags": [
             "Live"
           ],
@@ -2156,7 +2156,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 50,
+          "heat": 51,
           "tags": [
             "Cheese",
             "Live"
