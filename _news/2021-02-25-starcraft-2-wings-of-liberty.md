@@ -42,22 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The 'StarCraft II' nerds at Shopify now have an esports team"
-    excerpt: "Announcing Shopify Rebellion esports team. Starting with Starcraft2 because of course we do. 🛒❤️🕹️  The company might expand to other games in the near future, according to esports and gaming consultant Rod Breslau,"
-    publishedDateTime: 2021-02-19T20:03:00Z
-    webUrl: "https://www.engadget.com/shopify-esports-team-rebellion-starcraft-ii-200229373.html"
-    ampWebUrl: "https://www.engadget.com/amp/shopify-esports-team-rebellion-starcraft-ii-200229373.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/shopify-esports-team-rebellion-starcraft-ii-200229373.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fcd8e17c0-72e9-11eb-b65f-249f2e3da978&client=amp-blogside-v2&signature=19e4066736a38825c0e889532e8cd5df3e4eeed1"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Shopify enters esports with Starcraft II team Shopify Rebellion"
     excerpt: "Shopify, an eCommerce brand has officially entered the world of esports with the new organisation and Starcraft II team Shopify Rebellion. The Canadian esports team will be bringing three players to compete in Starcraft tournaments,"
     publishedDateTime: 2021-02-23T11:41:00Z
