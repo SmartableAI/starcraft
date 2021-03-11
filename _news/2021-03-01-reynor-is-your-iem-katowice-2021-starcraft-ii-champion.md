@@ -57,48 +57,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Been playing Starcraft since I was 8, just learned about A moving."
-    excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
-    publishedDateTime: 2021-02-19T08:44:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Brief history of dominant Starcraft 2 players."
-    excerpt: "Being a new player I see names like HUk,idra on some pages and have no idea who they are. Starcraft 2 has had a long and rich history and I would like to learn more about it."
-    publishedDateTime: 2021-02-19T09:55:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53644-brief-history-of-dominant-starcraft-2-players"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ex competitive starcraft brood war player @ IntoTheMadc0w"
-    excerpt: "Hi everyone just wanted to let the community know I am a ex competitive starcraft brood war player from 2001-2003 I quit in 2003 and started playing again in late 2020"
-    publishedDateTime: 2021-02-19T09:59:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53687-ex-competitive-starcraft-brood-war-player-intothemadc0w"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "CEfUoHFVBtWllaGq3FOI1jWIKz7Ppwo1T372UntAA+nLWBf7D/6Nb0rIktpDvmrNWeLTjJkPon/ZTPwvcvYlr4ErRhmHZTbu/7v/BbAaWnvd75ki8zE7nXWBZZXjoL8vV5odYo8BjZPwfKP12pVa/RCUXjV436MuNKjBF8d/lYEtYoB7zlPDzLV4ycRgV/cDDj+Rb4j7N5Gqi8P3qJwoMC74I3pkjWDa69j53Ela3fdpc68yOFG3wtuCihL2beJJGj6rd5lI/M8AagBA4ZwIFEC6Vb8aoz2AQjp2lSvT+HrrTLqqyl3y2nXlsdcmqK8NrvZTdzN38GynT5mI1UTDahgN1Nbu0MAD0ylaFiqNBcFB/ETSEsPGl/h2XqfDw7efXgCLFFzuUdoGU+E3CXzkrqWDww1yAOjWFFsl6ya/fHj/5wERLicTUXyuKC4VazlFQmTVl2SoFLngDKwVnyNycHngwXxtRCsglO80Ox6tgFVQN1SZBrAjJ4Pno2NKsJgOn2Cd8ltHnZQUKGW2pqMPNg==;U4dttTJJ+4/XudShcADzhA=="
 ---

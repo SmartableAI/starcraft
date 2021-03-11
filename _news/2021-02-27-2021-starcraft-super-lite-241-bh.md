@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-tr
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
 type: article
 quality: 57
-heat: 157
+heat: 97
 published: true
 
 provider:
@@ -55,48 +55,6 @@ related:
       - url: "https://www.gamereactor.eu/media/67/reynorisyour_3396763b.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Been playing Starcraft since I was 8, just learned about A moving."
-    excerpt: "So I've been playing Starcraft one and 2 on and off for over a decade, usually in starts and stops. But I started playing Brood War around 8 years old, and as far as I knew to attack stuff you right clicked on an enemy,"
-    publishedDateTime: 2021-02-19T08:44:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53592-been-playing-starcraft-since-i-was-8-just-learned-about-a-moving"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Brief history of dominant Starcraft 2 players."
-    excerpt: "Being a new player I see names like HUk,idra on some pages and have no idea who they are. Starcraft 2 has had a long and rich history and I would like to learn more about it."
-    publishedDateTime: 2021-02-19T09:55:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53644-brief-history-of-dominant-starcraft-2-players"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ex competitive starcraft brood war player @ IntoTheMadc0w"
-    excerpt: "Hi everyone just wanted to let the community know I am a ex competitive starcraft brood war player from 2001-2003 I quit in 2003 and started playing again in late 2020"
-    publishedDateTime: 2021-02-19T09:59:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53687-ex-competitive-starcraft-brood-war-player-intothemadc0w"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "pFPuN/dkygC1HQVYAgCdEIQ0R89EReEkE1fvP91mCPG3zbyDTilgInWVvRs8d8rXbVfSp1KCR4KxlD8iKSzvpfhdKA5kc2YYaLXXiJ323XVI2O5vokkHRvMQMQkcyWHICgrBQNtKi3qO3bMzyvsLcPpI4cn0jmudsQ3pYMON8n1Uyexp88+LhTBlTn6A1dvJkL4VZItjDvuhaJjEj0abJGczgf4cQFIrXEJ647+3IKXydS+iPQxZ1ZhdGRPAJZUGfP2xgY2iST0ggkppKERVIlFK7YcOAMiCmcErqSfNhRZuN9V+nTkE5Edhmwkw2EKjrRHAIAzAOo323/vCpcYfx919ixkuNQVJGra1LFU/UnaYjCf+Q8W5Mrj1a7TEiqAa4T7V2syPcM7fRkaDobEV8E55I1e7+ZblR6vx62Iar+ZUczyZDHbZZ9ujnigGSjZk4FHx2mThLC1K0GO1CGiNMfNqnHrNSgjn5KKDqsEeCOSxtgoo7UkfKaiAvg5h+oX5QFVf+rFGlmX0OBf5n8JQJQ==;QE2hVy67QAJvuJaJWiQ76A=="
