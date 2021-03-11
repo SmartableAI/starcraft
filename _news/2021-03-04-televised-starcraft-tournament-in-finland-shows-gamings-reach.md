@@ -44,15 +44,15 @@ related:
         isCached: true
   - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
     excerpt: "This win has also made Reynor the first ever non-Korean player to win IEM Katowice ever, a feat that will surely be remembered in the history of competitive Starcraft II. Reynor has seen success over the last few months,"
-    publishedDateTime: 2021-03-01T15:05:00Z
-    webUrl: "https://www.gamereactor.eu/reynor-is-your-iem-katowice-2021-starcraft-ii-champion/"
+    publishedDateTime: 2021-03-01T09:15:00Z
+    webUrl: "https://www.gamereactor.dk/esports/938523/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
     type: article
     provider:
-      name: Gamereactor
-      domain: gamereactor.eu
+      name: gamereactor.dk
+      domain: gamereactor.dk
     quality: 54
     images:
-      - url: "https://www.gamereactor.eu/media/67/reynorisyour_3396763b.jpg"
+      - url: "https://www.gamereactor.dk/media/67/reynorisyour_3396763b.jpg"
         width: 1920
         height: 1080
         isCached: true
