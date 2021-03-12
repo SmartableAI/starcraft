@@ -9,8 +9,8 @@ ampWebUrl: "https://entertainment.ie/amp/uncategorized/starcraft-2-wings-of-libe
 cdnAmpWebUrl: "https://entertainment-ie.cdn.ampproject.org/c/s/entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: entertainment.ie
@@ -26,35 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "StarCraft: Shopify Enters Esports With Shopify Rebellion"
-    excerpt: "The ecommerce giant enters esports with their own Starcraft 2 roster. Canadian ecommerce giant Shopify announced their interest in"
-    publishedDateTime: 2021-02-20T13:51:00Z
-    webUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/"
-    ampWebUrl: "https://estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
-    cdnAmpWebUrl: "https://estnn-com.cdn.ampproject.org/c/s/estnn.com/starcraft-shopify-enters-esports-with-shopify-rebellion/amp/"
+  - title: "2021 Starcraft Super Lite 241-BH"
+    excerpt: "Starcraft Super Lite 241-BH Travel Trailer #YD5104 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-02-27T05:48:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
     type: article
     provider:
-      name: ESTNN Esports
-      domain: estnn.com
+      name: RVUSA.com
+      domain: rvusa.com
     quality: 57
     images:
-      - url: "https://estnn.com/wp-content/uploads/2021/02/shopifyft.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/2978117/o/1_39105_2978117_120128335.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Shopify enters esports with Starcraft II team Shopify Rebellion"
-    excerpt: "Shopify, an eCommerce brand has officially entered the world of esports with the new organisation and Starcraft II team Shopify Rebellion. The Canadian esports team will be bringing three players to compete in Starcraft tournaments,"
-    publishedDateTime: 2021-02-23T11:41:00Z
-    webUrl: "https://www.gamereactor.eu/esports/957383/Shopify+enters+esports+with+Starcraft+II+team+Shopify+Rebellion/"
+  - title: "Televised Starcraft Tournament In Finland Shows Gaming’s Reach"
+    excerpt: "Gaming is now apparently widespread enough that Finnish national television can show a televised Starcraft tournament like it’s nothing. While esports has been growing significantly over the ..."
+    publishedDateTime: 2021-03-03T20:14:00Z
+    webUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/"
+    ampWebUrl: "https://segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/03/04/televised-starcraft-tournament-finland-gamings-reach/amp/"
     type: article
     provider:
-      name: Gamereactor
-      domain: gamereactor.eu
-    quality: 37
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 57
     images:
-      - url: "https://www.gamereactor.eu/media/09/shopifyentersesports_3390913.png"
-        width: 494
-        height: 268
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2017/03/StarCraft-Remastered-Rumor.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "c7KulXIqUjdJxWio+Tu1Y/bPM0+TTkJswwsSwyC+68aXMcN+HLQThgnR2QxiALylb/dLw56y54D72KlxkuQAPljExQPDEH1dkRz2Ec3XS4A5ZF1HOCHd+hUAAu7Bsyh4HF9sF0kwgMdq33GvqBagWwyDmh+zq3S+EXYM7ecrY2QPVieSvqJzI39MG6S+EQvMWmiy8X72hnrYHKnN8Hb/yWsM0JQcBQOiCyC4E9be3vhJUgwDhKc2YRyEyt5avlLeqM0DjqEvLWy+7I7aUwRe9KyDmAOBKg2YWpgO4Og9LDkxt641fhmDDgPZRIWYww8pKhlDJpSyx0UPHBwJNwNweO3JXFCZYBepYV+RDGbD2SI=;AkS/sn3IKO0PImCOPeyPIw=="
