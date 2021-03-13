@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-battle
 type: video
 length: PT27M30S
 publishedDateTime: 2021-01-23T11:58:27Z
-heat: 60
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36ZaYu68mi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3bZ06ZAffIIVHmdIVzY2HfLkWOtneVHW9kt8k/5qR4Cx3AT2bLPzif8mvqFjsqfkAldWDH8GbX7ws03YhpbDiJhzoqLPzt7/xGkIOkdSTfhqr/BmCixQYpeQUjFhWnVllrCCZWFYGRetSbgJVl719xWCZrrjV9qgwnoypcjdtFp4aKUMwVp5P9GEX2ZDbH3Y9XN0fO5T5xZil7WvP4wqXHVWG2VNLDjYg3zbQcBtLwl2HKIDBiCa/AJm4vG13QCzCdJ84HfYSlGjBspFBr3tla6Fzce2D+qc5s3PUffOPUDJqnm9/gMf4VqaDDk9xkgsFYmtT/9p6ZLuazZIx+92qA7vZxFDzFhK/KFzTIKj6XUDrbEGLcqjhOvDXMWOLY5ONwHEDnWSdG0+GecsS78fUbbGX7vCShJ+/Ydq7ctqNHw=;QFMj1Be1BVMvHwPVtStkNA=="
+secured: "kJiX0CduGTexK7CVGShxX3M6JO575yCL6NADUUmVcnG/+srzf8grNr6VJCDQzs+cg5lom06IJWY7lTrIAVFitBNe9eafaFAmlzp40pjA1gpFEgYNGPWfqhYqI36OLZDJOx8GiBPK54nvM/bZZ/AqXCj7bescheGG49wiEaKVBrCsQw8/n+yxBOlHuCkScAmTU9SjDru3Omih7IyR0cNI0KV4pCGU0QlzUK4yTB9PJFOQbcXpzVe4Cma56GbMjeKB5W30Q2eI2fi3ra0F55YM3EQH5RDWUliuS8h/Xr/L+6JKwpnL486DHYP2SRNSiYws7E30nmsakVxhV6gApgJ/jL7RkUEYLFnzJkMoT+dXVlORG7KIvoAv1TG9bBZXLWDjt4KK+J1OoXuhmxo43Z87zwYo8qx6Eljg8x18Ghuj/+w=;Q7ubXMJc7AgH3MR5zmLOVA=="
 ---
 
