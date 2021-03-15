@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "2019 Starcraft Autumn Ridge Outfitter Single Axle 182RB"
+    excerpt: "The state of Florida is a favorite among RV travelers, and it isn’t hard to understand why. Snowbirds flock to The Sunshine State in the winter months, and many full-time RVers choose Florida as their domicile state because of the legal perks like no ..."
+    publishedDateTime: 2021-03-15T04:41:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
+    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2008 Jayco Starcraft 2500RKS"
     excerpt: "From 1956 all of the way until 1974 Aristocrat trailers were manufactured in Morgan Hill, California. During that time period, in 1967, Aristocrat manufactured the Lo Liner 15. The 1967 Aristocrat LO LINER weighed in at 1800lbs and had a hitch weight of ..."
     publishedDateTime: 2021-03-13T09:33:00Z
