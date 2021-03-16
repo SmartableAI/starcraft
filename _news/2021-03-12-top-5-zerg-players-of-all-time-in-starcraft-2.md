@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former StarCraft Modders Launch Kickstarter for New Strategy Game"
+    excerpt: "Sunspear Games, a studio formed by former StarCraft modders, has launched a Kickstarter campaign for its own real-time strategy game. Titled Immortal: Gates of Pyre, the campaign has surpassed its ..."
+    publishedDateTime: 2021-03-16T06:31:00Z
+    webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game"
+    ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
+    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 97
+    images:
+      - url: "https://sm.ign.com/t/ign_in/screenshot/default/gamecover-art_nka4.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "2021 Starcraft Super Lite 242-RL"
     excerpt: "Starcraft Super Lite 242-RL Travel Trailer #YT5233 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-14T07:40:00Z
@@ -57,17 +73,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "2008 Jayco Starcraft 2500RKS"
-    excerpt: "From 1956 all of the way until 1974 Aristocrat trailers were manufactured in Morgan Hill, California. During that time period, in 1967, Aristocrat manufactured the Lo Liner 15. The 1967 Aristocrat LO LINER weighed in at 1800lbs and had a hitch weight of ..."
-    publishedDateTime: 2021-03-13T09:33:00Z
-    webUrl: "https://www.rvusa.com/2008-jayco-starcraft-2500rks-travel-trailer-2995358"
-    ampWebUrl: "https://www.rvusa.com/amp/2008-jayco-starcraft-2500rks-travel-trailer-2995358"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2008-jayco-starcraft-2500rks-travel-trailer-2995358"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
     excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
     publishedDateTime: 2021-03-12T10:40:00Z
