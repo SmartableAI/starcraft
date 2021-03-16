@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-tr
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
 type: article
 quality: 57
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Top 5 Zerg players of all-time in Starcraft 2?"
+    excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
+    publishedDateTime: 2021-03-12T11:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 54
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2008 Jayco Starcraft 2500RKS"
     excerpt: "From 1956 all of the way until 1974 Aristocrat trailers were manufactured in Morgan Hill, California. During that time period, in 1967, Aristocrat manufactured the Lo Liner 15. The 1967 Aristocrat LO LINER weighed in at 1800lbs and had a hitch weight of ..."
