@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2.md",
-      "title": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)",
-      "excerpt": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)  In this Starcraft 2 guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if your macro slips than other compositions.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M48S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-08T12:45:54-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth.md",
       "title": "StarCraft 2: EASY Protoss Build Order For New Players! (In Depth!)",
       "excerpt": "In this video I cover a very easy one base build order for the Protoss race in StarCraft 2: Heart of the Swarm. The build order is very easy to execute for new players, and only requires a little bit of practice before you can go on the ladder and beat your oponnents.  9 Pylon 12 Gateway 14 Gas Geyser",
@@ -1017,6 +986,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Kpyndf1PfSI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial.md",
+      "title": "How to twist Protoss [Starcraft 2: Zerg Strategy Tutorial]",
+      "excerpt": "[Starcraft 2: Zerg Strategy Tutorial] #Starcraft2 #Zerg #ZvP  In today's video I show you guys 3 common setups/plans to play aggressive against protoss. All three are pretty strong but it depends a bit on your playstyle and intentions throughout the game. Hope you enjoy the video :)   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=rlYxy7ygaio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rlYxy7ygaio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M24S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-02T21:10:20-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rlYxy7ygaio/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
