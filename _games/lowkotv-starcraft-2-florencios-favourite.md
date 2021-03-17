@@ -2,6 +2,7 @@
 title: "StarCraft 2: Florencio's FAVOURITE!"
 excerpt: "Florencio send over an older game of StarCraft 2 that is one of his personal favourites.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko"
 originalUrl: https://youtube.com/watch?v=qhTomZ3__wU
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-favourite/
 type: video
 length: PT42M8S
 publishedDateTime: 2021-03-17T12:45:07Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "b3B3y3sMc/q6ZHjCXnZDzxZZFh9TcavvayZ6tyMolNho1n4XDxu22nySq335PuVSKdKCBgiesUB7PaTE4iV/Em5J29ofMah1LufhX9SGZAXBQ2NwtopLFN/TdbcxScvZigZwYPohFKN/JPCAc2dVOzvWjTKWYBA+amwJEW6+EKpBjLeRpsb05hlKsOyIRcGtV2R9pkuCBq1Hq2azw6fWucVodhYvsz2Tkem8EoJDbUhQks3abmKa4pn4VLIQ9DijFE8STXmWMBOcLpfDFij6jssv5Hn6K6B2hOCMBuGiH3GMq32LJWyqJukduihM1yWs65a+bBftSOIxU5IXgnwD4mzVkjOSieNVEYdxiALNXHHdOgKFP3a9cvo724N/VGEnjhwxukRmFTbypi6vHE/fYQ==;LsudGR7g1LWPy8kDbQdslg=="
+secured: "cyMi+OOoSC/cUyIijcVMK0FD4HN3iPc/RzpTavZ1NQEDy0q5m/gHlxL4giRJG/uc3NUb5v6ede9HVWLvvAAELmRHjuMfuOrY6OEEDGkqcBpstyRei62RXm8Lx+H3zG4hCkpSMz96xFJIv8rfTM4LkMcdPpZvbjCgXl1ORCYp7TJKi4MhLiMcuMIDqVkJ4fMcUCAI+OmJIXTjaBoA6cWmpECzFXfkGYSgwNukMFzG5DD/x0gINeodXRIy89N3BkNmVbxfh2/bi/oQGz8u+nyF4bAvN0VFIRFNO67qFxC611W797vyZV9CcZMn1aj2RFp/SQEb4S1EBYPacQ/Bbxr6prNn8Q2aAxfuspFB/dU8q59/xO1E9A9gnBNWiPRjDDtDhWyL+7LB4lmO0dV5lVEr+A==;X5xnA1M7of1YiGHXJyyF+A=="
 ---
 
