@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-tr
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-241-bh-travel-trailer-2978117"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: RVUSA.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft 2: Wings Of Liberty"
-    excerpt: "RTSHell it's about time, is the first line uttered by one of the characters in Blizzard's Starcraft 2 and considering the"
-    publishedDateTime: 2021-02-25T11:57:00Z
-    webUrl: "https://entertainment.ie/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    ampWebUrl: "https://entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    cdnAmpWebUrl: "https://entertainment-ie.cdn.ampproject.org/c/s/entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    type: article
-    provider:
-      name: entertainment.ie
-      domain: entertainment.ie
-    quality: 57
-    images:
-      - url: "https://img.resized.co/entertainment/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJhNzUxMjhiODYzZDBmNDY0ZjU1YjE3Njc1ZmFkNzUzM2I3ODc3MTRmIn0=/starcraft-2-wings-of-liberty.png"
-        width: 647
-        height: 340
-        isCached: true
   - title: "Televised Starcraft Tournament In Finland Shows Gaming’s Reach"
     excerpt: "Gaming is now apparently widespread enough that Finnish national television can show a televised Starcraft tournament like it’s nothing. While esports has been growing significantly over the ..."
     publishedDateTime: 2021-03-03T20:14:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://cdn.segmentnext.com/wp-content/uploads/2017/03/StarCraft-Remastered-Rumor.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
+    excerpt: "This win has also made Reynor the first ever non-Korean player to win IEM Katowice ever, a feat that will surely be remembered in the history of competitive Starcraft II. Reynor has seen success over the last few months,"
+    publishedDateTime: 2021-03-01T09:15:00Z
+    webUrl: "https://www.gamereactor.dk/esports/938523/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
+    type: article
+    provider:
+      name: gamereactor.dk
+      domain: gamereactor.dk
+    quality: 54
+    images:
+      - url: "https://www.gamereactor.dk/media/67/reynorisyour_3396763b.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "pFPuN/dkygC1HQVYAgCdEIQ0R89EReEkE1fvP91mCPG3zbyDTilgInWVvRs8d8rXbVfSp1KCR4KxlD8iKSzvpfhdKA5kc2YYaLXXiJ323XVI2O5vokkHRvMQMQkcyWHICgrBQNtKi3qO3bMzyvsLcPpI4cn0jmudsQ3pYMON8n1Uyexp88+LhTBlTn6A1dvJkL4VZItjDvuhaJjEj0abJGczgf4cQFIrXEJ647+3IKXydS+iPQxZ1ZhdGRPAJZUGfP2xgY2iST0ggkppKERVIlFK7YcOAMiCmcErqSfNhRZuN9V+nTkE5Edhmwkw2EKjrRHAIAzAOo323/vCpcYfx919ixkuNQVJGra1LFU/UnaYjCf+Q8W5Mrj1a7TEiqAa4T7V2syPcM7fRkaDobEV8E55I1e7+ZblR6vx62Iar+ZUczyZDHbZZ9ujnigGSjZk4FHx2mThLC1K0GO1CGiNMfNqnHrNSgjn5KKDqsEeCOSxtgoo7UkfKaiAvg5h+oX5QFVf+rFGlmX0OBf5n8JQJQ==;QE2hVy67QAJvuJaJWiQ76A=="

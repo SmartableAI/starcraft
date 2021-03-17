@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starcraft 2: Wings Of Liberty"
-    excerpt: "RTSHell it's about time, is the first line uttered by one of the characters in Blizzard's Starcraft 2 and considering the"
-    publishedDateTime: 2021-02-25T11:57:00Z
-    webUrl: "https://entertainment.ie/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    ampWebUrl: "https://entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    cdnAmpWebUrl: "https://entertainment-ie.cdn.ampproject.org/c/s/entertainment.ie/amp/uncategorized/starcraft-2-wings-of-liberty-278497/"
-    type: article
-    provider:
-      name: entertainment.ie
-      domain: entertainment.ie
-    quality: 57
-    images:
-      - url: "https://img.resized.co/entertainment/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiJhNzUxMjhiODYzZDBmNDY0ZjU1YjE3Njc1ZmFkNzUzM2I3ODc3MTRmIn0=/starcraft-2-wings-of-liberty.png"
-        width: 647
-        height: 340
-        isCached: true
   - title: "2021 Starcraft Super Lite 241-BH"
     excerpt: "Starcraft Super Lite 241-BH Travel Trailer #YD5104 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-02-27T05:48:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/2978117/o/1_39105_2978117_120128335.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Reynor is your IEM Katowice 2021 Starcraft II champion"
+    excerpt: "This win has also made Reynor the first ever non-Korean player to win IEM Katowice ever, a feat that will surely be remembered in the history of competitive Starcraft II. Reynor has seen success over the last few months,"
+    publishedDateTime: 2021-03-01T09:15:00Z
+    webUrl: "https://www.gamereactor.dk/esports/938523/Reynor+is+your+IEM+Katowice+2021+Starcraft+II+champion/"
+    type: article
+    provider:
+      name: gamereactor.dk
+      domain: gamereactor.dk
+    quality: 54
+    images:
+      - url: "https://www.gamereactor.dk/media/67/reynorisyour_3396763b.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "P21i+nY+9f/etgzQ0DuL2UGxnYeQjRPLRkKn3NDzK18+/usUHsRNDXyj7EgXy3Iw712kwIk37BKv1VJq4VkOE7O1GknUaXK+BPLOgQjrh4rAmzUsyCjDSfHf2AgRpvI1hXacBgkMBdIpfKvJViXxaroe1wVfmagnHeZnlNXKr20KBm1xC/RsMx3A8hi9ochcZUqgz4SCjbUf3C3WwoPxUUNumYQG3MjDnCbGEUD7Ahek15ATAJKZedXBMHByv7e/iPqV8kMtAboVY5AI0j0FZ7xYXL8InnXcNM05OxQ51s1Etm4ITkCtFreEP9cZQpM4zEE0t2miO8y0jXF6yznaT5y6dVxfvOofqOdnSEf07I8=;3QJz59kfUSHK925Y0TK7Jw=="
