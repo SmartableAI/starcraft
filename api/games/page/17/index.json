@@ -4,44 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_games/lowkotv-starcraft-2-the-cringe-nukes.md",
-      "title": "StarCraft 2: The Cringe NUKES!",
-      "excerpt": "A very strange Terran vs Terran. Subscribe for more videos: http://lowko.tv/youtube Zerg vs Protoss misdirection: https://goo.gl/ByS50z  In this Gold vs Platinum League Terran vs Terran the player in Blue decides to play a bit of a strange style with Tactical Nukes and bad manner Mules.  Support me on",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-cringe-nukes/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-cringe-nukes/",
-      "originalUrl": "https://youtube.com/watch?v=ykgEMS8zuzI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ykgEMS8zuzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ykgEMS8zuzI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-04-29T11:57:16-07:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-double-nexus-rush-viewer-game.md",
       "title": "StarCraft 2: THE DOUBLE NEXUS RUSH! (Viewer Game)",
       "excerpt": "Fun but painful viewer submitted game of StarCraft 2. In this Silver League match of Terran versus Protoss we see the Protoss going for the fabled Nexus Rush.  Support my work: http://www.patreon.com/lowkotv  If you have an awesome game of StarCraft 2 that you would like me to cast, you can submit the",
@@ -1131,6 +1093,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-15T03:31:46-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-zest-vs-special.md",
+      "title": "StarCraft 2: Zest vs SpeCial!",
+      "excerpt": "A fun game of StarCraft 2 between SpeCial and Zest. A professional Protoss vs Terran.  Get more videos & support my work: http://www.patreon.com/lowkotv  Be part of the community on Discord: http://discord.gg/lowkotv The hardware setup I use: https://lowko.tv/setup/  StarCraft 2 is a military science",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zest-vs-special/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zest-vs-special/",
+      "originalUrl": "https://youtube.com/watch?v=PMvfDmUMBoA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PMvfDmUMBoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M34S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Protoss"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PMvfDmUMBoA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-08-26T08:38:33-07:00"
     }
   ],
   "nextPage": 18
