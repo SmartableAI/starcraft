@@ -2,6 +2,7 @@
 title: "StarCraft 2: RIDICULOUSLY GOOD Counter-Micro! (Clem vs ShoWTimE)"
 excerpt: "One of the best games of Terran versus Protoss I've recently seen. Fantastic game of top level StarCraft 2 between Clem and ShoWTimE. Great micro and macro from both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:"
 originalUrl: https://youtube.com/watch?v=fAtJIkXvh84
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ridiculously-good-counter-micro-clem-vs-showtime/
 type: video
 length: PT40M2S
 publishedDateTime: 2021-03-18T11:23:23Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Gd5mszsg33nPT5vOIkTLQrrnENhqzagrXdicu6ZGGRF00TA+wEqVUyJWHrXPM2d1DteHzpbFs+1wHBf9eMsgGDtdVdbBYkBQYVJdpOeE2U+0LUmBBqP/0bCKoe6ROkRMLsUilv9EGu1VnXaej4IlszYJURNcOnBGpUYbtzvEE55mmuMIDyfuNDQT+zi7ZUhuJYZXxjVqJukEtlxy4fuUoHp+odFDaS4JEuunohPn+gRLSNnnb4xfoYk7TOT1Abl0S3DGjPrSPyduwL2H5PeE5I5SrkODaY57BY+8rUPh0J3NMaT/H9wBtvzbye1lryMm66DhytJku7qwFFQdcraLExOsGEtWPNimrjdwJ2kLeDKhWDC6ay/hL/hZyHqP9I6HFx4cpyV71a430o3opuNIdw==;oLSmpUoCOISEHRLeCDimeA=="
+secured: "fqH5X157tCAM+UZNVyYS9gB6DtCvmlY24KQGpMw9ps7TN9pxZOa3UFGFnD34hITky+oKyk85cJi4rIFXXbtbnBtlPZsYh5GEoqvgjrlsVa+BwOSMwDah2hP9rlxY66hjxlbRo4sEBNf6XaUULq71zTq+SYAukw+PrUm58ejeYa2tMXv3XbSijSMhmtfLd5eDnwRbsRTHzprdUcvT3HmZ1LpTnWCaqqxNdezy9WJn5APobOnEd/dvLIp2fK2hMcW2jl/gkJrYPPpSQiHNOzRx1UPWrdvd28dS0c6rf2kj7Eh717XFHuVaWQ+pvWaaJb7Si0wFX1HmF0nv5KnLE6wIB1IQFV2yC0Ks1+PalMrLlKBJaINVn969nY3A3DaiTiLQ;iOpBJSsyffSN5oGADcILrA=="
 ---
 
