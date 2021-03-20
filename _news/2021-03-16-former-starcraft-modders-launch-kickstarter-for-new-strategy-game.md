@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
+    excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
+    publishedDateTime: 2021-03-15T00:00:00Z
+    webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 57
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
+        width: 580
+        height: 320
         isCached: true
   - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
     excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"

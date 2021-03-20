@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Top 5 Zerg players of all-time in Starcraft 2?"
-excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
-publishedDateTime: 2021-03-12T11:35:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
-webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
+title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
+excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
+publishedDateTime: 2021-03-15T00:00:00Z
+originalUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GosuGamers
-  domain: gosugamers.net
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
-  - Zerg
 
 images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-    width: 1200
-    height: 675
+  - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
+    width: 580
+    height: 320
     isCached: true
 
 related:
@@ -73,22 +78,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
-    excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
-    publishedDateTime: 2021-03-15T00:00:00Z
-    webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 57
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
-        width: 580
-        height: 320
-        isCached: true
   - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
     excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
     publishedDateTime: 2021-03-19T02:13:00Z
@@ -105,6 +94,20 @@ related:
         width: 390
         height: 548
         isCached: true
+  - title: "Top 5 Zerg players of all-time in Starcraft 2?"
+    excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
+    publishedDateTime: 2021-03-12T11:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 54
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
     excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
     publishedDateTime: 2021-03-12T10:40:00Z
@@ -120,6 +123,6 @@ related:
         height: 675
         isCached: true
 
-secured: "G+hzS3aMrkIq8nNFR8ypsP7nwAys8mPGYTvlS70DWnu/DytD0PE3Z3nsyCX0QUxghytAAbwkHfSnVuzX7ez9b9UH7DdK/sAJd4kydd3Wot8rOpteCD32vltOpTtEde7o0CFKCIaew47krfGHZvZ/6ysUYPvzmifBDLJjLl4mQuyjmmgRtlVSNHLoSiWI8bb/ll7u5RyNrRe3XjHYPLL3uSZeoKRk/9b23RiUqYb2yX3lZdTFcejkd/aneZ80ajI3S1aEtAZ6kyo+ZDTea1KzUcLWQ1QghuRIoq5SZX5DkLoTtXpAAO69AXs6skIdEg5ob4iwW44Gx5ji3/zPvxTtPmC3byAqy9cL2lL13fdGcx8=;HXeWPtRU1abMGpLvZ1CqsQ=="
+secured: "6alhC6KrVdeQX7pdFP1usrCLg8qtV5KuGm3S7+Fc3d8qex/ZHPlpkzvt4DiZtAiu2D8iEVa4AGYHbGbMdz+9wFwBAZdb8O7jd4f5K00k74TCIXRKbT30vI9WbUOyROOgLQayRVUKgby+uvPooi7cgUXNPf9P/zmAozkbLSuwQ3UbcFbno3E+QvZLJ8C+LhX7nbT4KZDhMqmueE590w98czfzCImIcLXKqXz4hGLvGF5KJ4AvKMMMYWLLIu1ocnS/L1JnCFHJE5T3uIJFp2l7k4lvjiApl5dru2Ostvwo64g0XB7f7087kp3Us1C46FZr+uM4l5oHf80f8H3/Av8OCmO6Vu3JgXR3u5Qzh+ZOy54=;G/g/57LT4lkcJaVZAamsUQ=="
 ---
 
