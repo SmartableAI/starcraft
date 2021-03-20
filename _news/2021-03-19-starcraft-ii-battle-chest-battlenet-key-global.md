@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
-excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
-publishedDateTime: 2021-03-12T10:40:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/news/53771-tournament-s-last-place-bitcoin-prize-could-ve-made-starcraft-losers-millionaires"
-webUrl: "https://www.gosugamers.net/starcraft2/news/53771-tournament-s-last-place-bitcoin-prize-could-ve-made-starcraft-losers-millionaires"
+title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
+excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
+publishedDateTime: 2021-03-19T02:13:00Z
+originalUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+webUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
 type: article
-quality: 32
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GosuGamers
-  domain: gosugamers.net
+  name: denoticias.es
+  domain: denoticias.es
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg"
+    width: 390
+    height: 548
     isCached: true
 
 related:
@@ -72,22 +74,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
-    excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
-    publishedDateTime: 2021-03-19T02:13:00Z
-    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
-    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
-    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
-    type: article
-    provider:
-      name: denoticias.es
-      domain: denoticias.es
-    quality: 57
-    images:
-      - url: "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg"
-        width: 390
-        height: 548
-        isCached: true
   - title: "Top 5 Zerg players of all-time in Starcraft 2?"
     excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
     publishedDateTime: 2021-03-12T11:35:00Z
@@ -102,7 +88,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
+    excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
+    publishedDateTime: 2021-03-12T10:40:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/news/53771-tournament-s-last-place-bitcoin-prize-could-ve-made-starcraft-losers-millionaires"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 32
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "1lUsL6L49/RDFyRhbwLnD/AImZ68Y+yIN8lKsqJeHDfLzFsIUAOzpvadVFZ35VxUNZFK9DGCUibOuKtFVJ3pgizFmIb4uXTY0ViPOz+1fbzALEO71bhe+faC1SJPsHy5KT2xGvxPWnNfmkQ4NXekepLAvff8u36fA4VbeYWDs6lRYo5uCeysJHFi6ASovvzfQUtWOBvhp+qrYhvBlKPYCy/J/sXQLoMq24wkL5nzUYqQFVlyY4RX5O3ZPvM2R3HImQ0CD6wztWZm7h1yYbVfrxFnNJCbxneDUgGbTgn8JgdSq8vv6PAa94NHe6anvdCpeWin5vDqH9VyoPWYc7yQV4aiUw+lfOstonOeun/uXC0=;MoL29NCD+yv6NXlUHLcThw=="
+secured: "ZiGh7ngxh55HEfE4CwUa3nBIs6QAnaUR9U/9aWPI9At+BVTeDUDwdNeiYaU0MDwQZDyt/vGe00g+TWt+0RxGZYgpdh8tplxPJDKQH1yolpCoJLpU1DZkrKrnqJ4OXgQk2dcFu1xp8ljELevViAPZhX5xnraTPpPoNKJ38+ky9OLFvq7VhgcYxtXAPTT7vVzayHPicSu4qniAdj6emluA8hArXwgiS2g0Jf19qs9523K6di6quMAKFFUkvdmfnGLoZkZbI7pA3wz9on6W3is9EyZP4W3j5huYKX9eJqGkkNsjdI/y/0IWj5AkIQTxye9tFXlYWO8z6TKouF9q11T5uleBEASaPwNBq4hY5zfv0kQ=;r3CClGSjennUUuWG1tyV7Q=="
 ---
 

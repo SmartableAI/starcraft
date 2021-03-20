@@ -58,6 +58,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
+    excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
+    publishedDateTime: 2021-03-19T02:13:00Z
+    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    type: article
+    provider:
+      name: denoticias.es
+      domain: denoticias.es
+    quality: 57
+    images:
+      - url: "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg"
+        width: 390
+        height: 548
+        isCached: true
   - title: "Top 5 Zerg players of all-time in Starcraft 2?"
     excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
     publishedDateTime: 2021-03-12T11:35:00Z

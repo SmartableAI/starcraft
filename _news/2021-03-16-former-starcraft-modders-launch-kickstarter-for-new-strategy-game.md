@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
+    excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
+    publishedDateTime: 2021-03-19T02:13:00Z
+    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+    type: article
+    provider:
+      name: denoticias.es
+      domain: denoticias.es
+    quality: 57
+    images:
+      - url: "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg"
+        width: 390
+        height: 548
         isCached: true
   - title: "Top 5 Zerg players of all-time in Starcraft 2?"
     excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
