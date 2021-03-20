@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-impro
 type: video
 length: PT17M59S
 publishedDateTime: 2020-12-04T11:48:36Z
-heat: 78
+heat: 75
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mBP8soYss38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "f1fVQeskaNWGUr/DbtD7mQ43yU3rfaTFD2N1B4KubcCQ8Xxpp/9PMiPsezpo56OYlNHTlHirrEZ+MTwQTp7OZXIGyXaJ8tPyr0zBOh4qg79rVfZCQlggJBfls2nh5L2yOPMYMTSI+vA3BLoY18J/AdaLYaQlsOVMflysGiPclhMIdCAFi0+BJlx8w8Y+Mmm4aX/BSV9TjEnkQOvTPDwS7JjZ1iUnRziCyrS4mH5qwQhgcw2nwoW5YIThGvrbrYbj9mRqdZAnRi9NtaZgEBV6NSX95hcxRK0z7e+m5/sF91XF5SKkGsMX3TWLiTszm1mx8lTUKesRd2dqZFTYCRFiv4SArYXJcYJkybIMDYq55eq8WweDH5Zu5MF1nSTtBqa0hUIrX9sV+gKoFD89vNBp4faSiYmyooMgFhh1M902+hCI9RNWz3AoOOhHxDKOjobA;QWtFL5GSREQw3/sL28wwRQ=="
+secured: "ekRDggquLUaJjy86uDsXYoVuInO4PGBiqd7Su0fD7mo4vTIXrIigp8VPEE/OtqtzkehXCeCtDl3QKxiILd9CyU1w/fYpIgWVaMLlEilf5CUv83bM8MuONOreu6rl4sggogSazppehRIsKPo6oeCWoQ8nercvMkFjmxEAKo/eTEA3iNzQDg5TjXvXD3IcSCS3a6ex/ga2/BYfQcKFx89Jab5ehxTUwmjwvWOgGo8bXcRj/hNovhRchB+KI4BDBFGX60ipPCziQu6Rx+MHVOKaPwMAm/KZBrrKM1B8tBiRBGWlZUXrImJN9bibxImOsBRR3d9DQByZsQ/aCNvIrJ85bJSWUXxdSrBacgNDT1V07hnFYCIoI6P3ba9AVMhypnz/tlywWUFqJ/1DfBYd2/1N4gFMIFG0MJtEhu/qAAzpOIy7CQSWJ8+dtRfRgHCZ0RfA;CiRv7GaQiRQQyjozq0zoNg=="
 ---
 

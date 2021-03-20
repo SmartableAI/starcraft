@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=8x9xoxB1DfI
 type: video
 length: PT14M30S
 publishedDateTime: 2017-08-04T19:34:48Z
-heat: 60
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8x9xoxB1DfI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kr2ZsL6Ra+mVpn0KEoPZwR8fs7ssX300lcTcNySpMrhaCGtekl8IczdOkHyq0KJO2ReetKc+oApQehy09rYD8CB5ZqEvuHldIDT+2/lal58BX+g65KVsvY0R9ddBwm4vmar9wUntkttRLtDxhr3pTePtK6oP4EVQ7PmcEtVFxv3A0v/yL7WyiSIVkA4v+RbxlIKOFCTdRLNdYbGLYASg+Or2Mp7g9LKeFb3m17eee6MN4VtoOBukOlJJrxm6GKmkcqvyRxrq8LpcSWruItbiIlrDItQGyuJrVG3oKUGwpLCCRUwrWIXrmvRoJmoJ8wJU2s1X9bQ0U6cHLn+nXldjzBhUInBcgbNkfieZAUZDCehq7ulTZ8OLwMmUytveonHsECXIQVnfcwKuSvdJJuRCMgNJr/YadXg+VnRwjF/3huLZI0MZ+dct8+ynCpNHhCtG;gyqC6QQsXBKx/HLTAN/ERw=="
+secured: "pxffTD44k0XQorypgziK430rRX6K5CmaCqIH3P2ubC30WCJotPrnq+ZylKZTvrxReuSw46GNthlP6k6ZKuGOVB6GujGaEiIJe6VUf1DKRZvPppzCI4KxjPsjKSJ69SfiTBxGkJUbJ8tCgV24R/jt39sTzbuImCsOFiMXIXxWFtFa6o5XHBoay4r7jHz0Z3h0DALbmhezxEtqt08rIOZhRTjLZ0e0OsMX5rJHEFHkpMKtYZgvBYiWbtIe5GU7T34Zj6Fb9W/Dc846FfkvJUzGMfTb4JMX9iO+cFFzG+56wYTrx0IfdKSiTPAt9lhVLJJ+8ZP9ABW68/uzm9nIBxU4YmEYoA4o4YWONkF/xJNftSm6Ij37U7ESOAzNLb91kprMIYmtQlWV1ZxKI5DdVqUp9Hc3j2DtElKWpOlvxf8Mn2vZSY4tQRNn4RDAKqkLHxEF;HNYO2yLZsPEJRO184/cTuQ=="
 ---
 
