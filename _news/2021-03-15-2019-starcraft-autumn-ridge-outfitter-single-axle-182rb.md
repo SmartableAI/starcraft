@@ -118,6 +118,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PSISTORM StarCraft League Season 2"
+    excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
+    publishedDateTime: 2021-03-20T00:00:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
 
 secured: "YgIg1JJtIPUjtHpBoA92JwfX7WcgZeO5WSDklV8FKvce2kEZTKjb+fVF1FBTm4zzPTXygj14z4EtolowcUesP3Uqxwsgyd/r9YmrKngJYa7dLZkl33Q6vuCKjzq5+1pIo7LJAG4M/qxRnoNfdIUCUtuPvXiBG4IMuPdWZ2m+BWxx1HzZ6HuCMqzdk+wyiFXIOVLFSgvFlRVULUS1mdLa0WUTizzV4sfwHuKroNCQEZbsDtJU7n7UzC5raua2wSyF8+d++2yZlW3veX1Lyo+VHHu8bcCg70/j+SOlV4gvMGBnPlgpxnLaePyH/MA/Tq+4k4d+R2n7IVuBgsv1mL9eJce8yXgatJJbfO+OqLYoP1w=;CqlABeLtQvuNvxGc+L9uLA=="
 ---

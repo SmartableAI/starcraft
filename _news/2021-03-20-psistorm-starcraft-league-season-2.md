@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Top 5 Zerg players of all-time in Starcraft 2?"
-excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
-publishedDateTime: 2021-03-12T11:35:00Z
-originalUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
-webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
+title: "PSISTORM StarCraft League Season 2"
+excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
+publishedDateTime: 2021-03-20T00:00:00Z
+originalUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
+webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
 type: article
-quality: 54
+quality: 17
 heat: -1
 published: false
 
@@ -16,13 +16,6 @@ provider:
 
 topics:
   - StarCraft 2
-  - Zerg
-
-images:
-  - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Former StarCraft Modders Launch Kickstarter for New Strategy Game"
@@ -105,6 +98,20 @@ related:
         width: 390
         height: 548
         isCached: true
+  - title: "Top 5 Zerg players of all-time in Starcraft 2?"
+    excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
+    publishedDateTime: 2021-03-12T11:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 54
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
     excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
     publishedDateTime: 2021-03-12T10:40:00Z
@@ -119,16 +126,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "PSISTORM StarCraft League Season 2"
-    excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
-    publishedDateTime: 2021-03-20T00:00:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 17
 
-secured: "G+hzS3aMrkIq8nNFR8ypsP7nwAys8mPGYTvlS70DWnu/DytD0PE3Z3nsyCX0QUxghytAAbwkHfSnVuzX7ez9b9UH7DdK/sAJd4kydd3Wot8rOpteCD32vltOpTtEde7o0CFKCIaew47krfGHZvZ/6ysUYPvzmifBDLJjLl4mQuyjmmgRtlVSNHLoSiWI8bb/ll7u5RyNrRe3XjHYPLL3uSZeoKRk/9b23RiUqYb2yX3lZdTFcejkd/aneZ80ajI3S1aEtAZ6kyo+ZDTea1KzUcLWQ1QghuRIoq5SZX5DkLoTtXpAAO69AXs6skIdEg5ob4iwW44Gx5ji3/zPvxTtPmC3byAqy9cL2lL13fdGcx8=;HXeWPtRU1abMGpLvZ1CqsQ=="
+secured: "uJYruhYyRuDsOrYNhDPWxeIYFEDNsmW1evmNqfOuJRzIL/74cqYfsO4YezlGqZogYvj3FyT+MaDyke1eO+uT4OjkPNvds3+bx89yYoMRBvHgBrScS020uq7+WnwXcjWhkq/U8kT0EtiTLKtquQ4Vyg7Wrct5oLHyUwYbKg5qGYQvDqkcq5vpFDR2RYeEzzYbMjw5UtyuszFpNtpGSXG9IERGf3DKCLTHuN64qRYAzwul/pFL9lxyQ1Cv9mbmq6fguK1yqx6fdHrIoHegYkaHZgf5fUJe47VdZvxJPaFDAjgfmHgqDmQexdmBcYwn+NqEP180s7GuCn91qxPGcYy5BuPTdHScFKJzBN4XVNVJX8M=;N8FAmCxPKfdfO0fXvWEbyw=="
 ---
 

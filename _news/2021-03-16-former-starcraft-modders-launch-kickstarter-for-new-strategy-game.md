@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PSISTORM StarCraft League Season 2"
+    excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
+    publishedDateTime: 2021-03-20T00:00:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
 
 secured: "aeDbayzyyeWvv0L14HjxNqIkxTkb7q2pod7iUktk46yox0ifAqGvvis7jH9vowFVHSeYEscNcmZm5iEMGmyE+19X2O9ghcxPB8qa/UVXqzMs1Ezg4hcWLIvK3tY3wNCPvXP7Lq7GxbrmVRwhmgy3Nu86fFc/7P+W/gTU7+AF/1rAhHROYbzExbp2mqvWGBkqyppNyrFVY3WOgq5zZZNpW2rtMzU4yw+pTts4/cYccRcz//bZggzlHaloOOHTn4pEGuqaXD5RN+M4mZDxZMKoMs8cGSrSQCJ8ruel+s0U9NuvwxK7RFJhdcTY4/6SiLY47pF/lpNaivwIRiLn1wSWohv2/Zd0NrvoD/sn9PvYq5k=;4FO4XeWrDhg9/boUNHtRWA=="
 ---
