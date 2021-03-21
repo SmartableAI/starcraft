@@ -4,72 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up.md",
-      "title": "StarCraft 2: Terrans and Protosses RISE UP!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  Also, I will begin to make videos featuring strategies,",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-terrans-and-protosses-rise-up/",
-      "originalUrl": "https://youtube.com/watch?v=QY1TLfKax58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QY1TLfKax58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M53S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QY1TLfKax58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-10-16T05:28:38-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack.md",
-      "title": "StarCraft 2: TRIPPLE Nydus MASS Infestor & Queen Attack!",
-      "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  The games in this video feature a TON of Infested",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-tripple-nydus-mass-infestor-queen-attack/",
-      "originalUrl": "https://youtube.com/watch?v=5ATH3bj_wIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ATH3bj_wIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M51S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ATH3bj_wIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-08-25T15:34:36-07:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-zerg-siege-tanks.md",
       "title": "StarCraft 2: ZERG Siege Tanks!",
       "excerpt": "Welcome to a BRAND NEW Series on the StarCraft ladder! This challenege is called \"Infestors to GM,\" where I play Mass Infestors and try to get to Grandmaster! I am allowing myself to make Queens as well, but other than that, the gameplan is INFESTORS!!!  When you play against Terran with Mass Infestors,",
@@ -333,44 +267,6 @@
       "publishedDateTime": "2017-04-08T02:10:00-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-brood-lord-infestor-is-back.md",
-      "title": "StarCraft 2: BROOD LORD & INFESTOR IS BACK?!",
-      "excerpt": "It's almost like we are back in 2010... But at a much higher level. Subscribe for more videos: http://lowko.tv/youtube Zest vs Solar: https://www.youtube.com/watch?v=Bj6749fN7ag  In this match between Scarlett and Zest, Scarlett decides to focus on a very defensive style. She defends pushes with Hydra",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-brood-lord-infestor-is-back/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-brood-lord-infestor-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=Q6jDYnf7Dtk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q6jDYnf7Dtk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M48S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q6jDYnf7Dtk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-11-20T08:07:06-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-cast-best-zerg-vs-zerg-dark-vs-solar.md",
       "title": "StarCraft 2 Cast: BEST Zerg vs Zerg - Dark vs Solar!",
       "excerpt": "The two best Zerg players in StarCraft 2, playing Zerg vs Zerg. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/fi5EXG  Solar and Dark are widely regarded as the best Zerg players in StarCraft 2.While statistically Dark is slightly stronger, Solar's Zerg vs Zerg",
@@ -407,6 +303,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2016-12-09T14:26:07-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-cast-brood-lords-ultralisks.md",
+      "title": "StarCraft 2 Cast: BROOD LORDS & ULTRALISKS!",
+      "excerpt": "Nerchio vs uThermal in a professional Zerg vs Terran in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Casts: https://goo.gl/t6g7aW  A macro focused game of StarCraft 2. While Nerchio opens up very aggressively with Ravagers and Roaches, the defense of uThermal is near",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-brood-lords-ultralisks/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-brood-lords-ultralisks/",
+      "originalUrl": "https://youtube.com/watch?v=1kDB8fyI3iU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1kDB8fyI3iU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M55S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1kDB8fyI3iU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-01-28T04:07:12-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-diamond-zerg-vs-zerg.md",
@@ -483,45 +417,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-02-25T05:20:57-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero.md",
-      "title": "StarCraft 2 Cast: HYPER AGGRESSIVE Zerg vs Protoss! (Solar vs herO)",
-      "excerpt": "An incredible match of Zerg versus Protoss between Solar and herO. Subscribe for more videos: http://lowko.tv/youtube My problems with Zerg vs Protoss: https://www.youtube.com/watch?v=dixWnwp8-Ug  Both players in this match play extremely aggressive. herO tries to deny the expansions from Solar for the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cast-hyper-aggressive-zerg-vs-protoss-solar-vs-hero/",
-      "originalUrl": "https://youtube.com/watch?v=QARWilN5RIw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QARWilN5RIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M30S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QARWilN5RIw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2016-12-16T08:56:26-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-cast-my-favourite-players-protoss-zerg.md",
@@ -947,44 +842,6 @@
       "publishedDateTime": "2018-09-28T02:59:21-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-drone-rush.md",
-      "title": "StarCraft 2: DRONE RUSH?!",
-      "excerpt": "Not quite your standard Zerg versus Terran. Subscribe for more videos: http://lowko.tv/youtube Planetary Fortress rush: https://goo.gl/fmevUo  In this Zerg versus Terran the Zerg player decides to open up with something quite extraordinary... Instead of using his Drones for mining he decides to use them",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-drone-rush/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-drone-rush/",
-      "originalUrl": "https://youtube.com/watch?v=BBbDa9TbUsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BBbDa9TbUsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M6S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BBbDa9TbUsE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2017-02-11T01:38:54-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-epic-lurker-wars-serral-vs-reynor.md",
       "title": "StarCraft 2: EPIC LURKER WARS! (Serral vs Reynor)",
       "excerpt": "Zerg versus Zerg is one of the most complicated matchups in StarCraft 2. If you miscontrol and mismicro in the first ten minutes of the game, it's pretty much game over right away. In this top-level match of Zerg versus Zerg between Serral and Reynor (in my opinion the best ZvZ players in the world)",
@@ -1138,6 +995,162 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2017-10-07T01:36:41-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-full-macro-zerg-vs-terran.md",
+      "title": "StarCraft 2: FULL MACRO Zerg vs Terran!",
+      "excerpt": "A passive macro game of professional StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Drone rush vs Drone rush: https://goo.gl/GsDVVk  Some people consider passive to be bad, I personally I really like watching both players sit back and macro up a massive army. In this Terran vs Zerg match",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-full-macro-zerg-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-full-macro-zerg-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=443EawoulW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/443EawoulW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M25S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/443EawoulW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2018-10-26T09:27:23-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-hero-dark-templar-ragnarok-vs-trap.md",
+      "title": "StarCraft 2: HERO DARK TEMPLAR! (Ragnarok vs Trap)",
+      "excerpt": "This professional match of Zerg versus Protoss starts off like most ZvP matchups currently do, with a Stargate and Oracles. Protoss transitions towards the mid game with Archon Immortal Zealot and Psionic Storm, where as Zerg decides to focus on Roach Ravager Ling Bane. The match becomes far more interesting",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-hero-dark-templar-ragnarok-vs-trap/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-hero-dark-templar-ragnarok-vs-trap/",
+      "originalUrl": "https://youtube.com/watch?v=WPdDluBpOUE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPdDluBpOUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WPdDluBpOUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-25T02:45:18-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting.md",
+      "title": "StarCraft 2: INSANE WARP PRISM MICRO! (Dark vs PartinG)",
+      "excerpt": "An epic best-of-3 series of professional StarCraft 2 between Dark and PartinG. This series of games was played at IEM Katowice. While Dark tries to take control of the early game by going for a Proxy Hatchery, PartinG is the one who quickly strikes back with some of the best Warp Prism micro I have ever",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-insane-warp-prism-micro-dark-vs-parting/",
+      "originalUrl": "https://youtube.com/watch?v=B7NF-52Gdho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7NF-52Gdho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M43S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B7NF-52Gdho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-03-03T04:07:39-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5.md",
+      "title": "StarCraft 2: INTENSE Zerg vs Protoss! (Bo5)",
+      "excerpt": "Best of 5 series between Zest and Leenock. Subscribe for more videos: http://lowko.tv/youtube Epic Zerg vs Terran: https://goo.gl/GJuLSh  A wide variety of games in this series of StarCraft 2. There are hyper aggressive games, as well as passive macro focused strategies from both players.  Support me",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-intense-zerg-vs-protoss-bo5/",
+      "originalUrl": "https://youtube.com/watch?v=I3J4dcnqt-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I3J4dcnqt-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M48S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I3J4dcnqt-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-07-20T13:49:26-07:00"
     }
   ],
   "nextPage": 8
