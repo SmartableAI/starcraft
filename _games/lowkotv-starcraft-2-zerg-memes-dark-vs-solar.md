@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-memes
 type: video
 length: PT30M2S
 publishedDateTime: 2020-10-24T10:01:33Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CmF7zUANQBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xHpgd94ZcTKYvx67nwPzyEbozv7zzxyxOjV84hDv4lFhQTOWZZ20k5h4p7kzNJksv/Ibe03ZwENnwUlpeaUxg/pTF37WR1tr9jOePPaLZJV1BmYdsyDoZLUBF5t9co1lk6Zf2YfdNnoApMqM8OcdBGSeNcTMfBGBdmWBXa6QDuTjmpe8a5ECxJI4XgvEeTtmHSXZE18hzZeVtBAs5sXyZ26n6FryjbN2EpgD+O4CX75em8DJd26uNFMrqMLbTfxm2yLOCK+wms1BOCluoziJMQdfQhVD5A/2BYv2/uPY7qF2GOhY2px60xirQzCJQ1QJC7Ifp6he51cZpdCyIdJcJtJifubkz90cSDnwleXZkjGZNb/w2hk9SGaM/eJu7WNtIEoVt76ywOkH/Une5ws2x/yucm0gj9KLUyeTNzCXV+A=;fv2QhMYpL+klrfpDzgLk+A=="
+secured: "lbSQlP2IZcJl6y8jXKUara492VLPbfuv8Fg3h/3GWmckra2QflCfmo+bYcYb1I0+8BQsQO52G7/EzB9ZIQfVh0ZJzWUgrJHzjAmT+kIJyeLylPVGdbsJjTIqwOivE0WpApaQqgdv+53vlitZttaqTLykr98CvVgPESB9gIXOd/pmA3Gr33pcIvByLy6O9obmeRjbWxZgY0YJUHsNs8ukItvcsDIovECGMDfIr3e0QE9S8cfOCajlzQ9IPPa4aNFOq2ChMIXNpRq3GF22Y2xW5Eq6Jo+7hmGKPsYZUlIGJunhIsxKTE7UsSvq3gOwMOKiY/lVFtyFmNNQhX+5O/3k1cUzHEFqVac2gYeFi223lVOnMv6ZMInwMAcGJIUIXnrFfsJraMb4m3PQGVABAsfJ5QdquLMSN8DS3peYNvBpAtc=;TKomoYNiBSC1kdYmsC6KJQ=="
 ---
 

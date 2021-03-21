@@ -4,6 +4,45 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-pro-terran-vs-zerg.md",
+      "title": "StarCraft 2: PRO Terran vs Zerg!",
+      "excerpt": "A macro game of Terran vs Zerg between Reynor and HeroMarine. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2: https://youtu.be/RXG4YYnO5Qw  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord: http://lowko.tv/discord",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-pro-terran-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-pro-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=Yu5vfEIEnsA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yu5vfEIEnsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yu5vfEIEnsA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-04-28T08:09:09-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-sky-terran-transition-ty-vs-time.md",
       "title": "StarCraft 2: SKY TERRAN TRANSITION! (TY vs TIME)",
       "excerpt": "An excellent game of top-level Terran versus Terran. In this game we have TY starting with Terran Mech that's focused around Banshees, and TIME going for Terran Bio focused around Marine Marauder Medivac Siege Tank. Both players however transition later towards Thors on one side, and Battlecruisers on",
@@ -502,14 +541,14 @@
       "publishedDateTime": "2019-03-06T07:05:01-08:00"
     },
     {
-      "path": "_games/sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open.md",
-      "title": "EPIC TvZ - Firecake vs MaSa - Dreamhack Open",
-      "excerpt": "SUBSCRIBE for more Starcraft! - http://bit.ly/SC2HLsubscribe  ► http://bit.ly/Divisionzero  -  Division Zero has the BEST gaming gear! Support SC2HL & Check them out!  ► http://bit.ly/Chairs4gaming  -  Get $20 discount and at Chairs4Gaming using code \"SC2HL\"  An epic Terran vs Zerg between Firecake and",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-epic-tvz-firecake-vs-masa-dreamhack-open/",
-      "originalUrl": "https://youtube.com/watch?v=a47lyo445KU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a47lyo445KU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M29S",
+      "path": "_games/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague.md",
+      "title": "PROXY vs PROXY - Maru vs Innovation - StarCraft 2 Starleague",
+      "excerpt": "Maru and Innovation both go for 2 rax reaper, landing in a weird TvT proxy vs proxy situation.  During the Starcraft 2 Starleague group stage  ► http://bit.ly/SC2HLsubscribe - SUBSCRIBE to SC2HL!    Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-proxy-vs-proxy-maru-vs-innovation-starcraft-2-starleague/",
+      "originalUrl": "https://youtube.com/watch?v=koQe2bgZfpw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/koQe2bgZfpw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M40S",
       "provider": {
         "name": "SC2HL",
         "domain": "sc2hl.com",
@@ -524,13 +563,12 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/a47lyo445KU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/koQe2bgZfpw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -538,46 +576,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2017-07-24T03:20:35-07:00"
-    },
-    {
-      "path": "_games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark.md",
-      "title": "Maru on 7 BASES?! - Starcraft 2 IEM: Maru vs Dark",
-      "excerpt": "Maru vs Dark during IEM Katowice, Maru showing off his crazy macro vs the killer zerg Dark.  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-maru-on-7-bases-starcraft-2-iem-maru-vs-dark/",
-      "originalUrl": "https://youtube.com/watch?v=xhIlzNTADhs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xhIlzNTADhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M27S",
-      "provider": {
-        "name": "SC2HL",
-        "domain": "sc2hl.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xhIlzNTADhs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-03-06T07:05:01-08:00"
+      "publishedDateTime": "2017-07-24T03:19:50-07:00"
     },
     {
       "path": "_games/beastyqtsc2-a-new-way-of-dealing-with-tempests.md",
