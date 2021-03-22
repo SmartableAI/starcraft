@@ -2,6 +2,7 @@
 title: "StarCraft 2: FAKE Cannon Rush vs REAL Cannon Rush?!"
 excerpt: "Awesome best-of-3 series of high level StarCraft 2. In this Protoss versus Protoss between PartinG and MaxPax we see both players constantly trying to outsmart each other with Photon Cannons, proxy Stargates, Dark Templar, army positioning and expansions.  Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=Gp-O9TRhIBA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-fake-cannon-rush-vs-real-cannon-rush/
 type: video
 length: PT24M58S
 publishedDateTime: 2021-03-22T11:03:32Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7XXCQguWYGhG7/d3ZoKr99sDCoJhW93AioXs36UMlOsLIjY11lgUX8UovgKJNTL3bKjscf6Nhh3wHf8uXwamuY2yXD0JoBvNcr6sUrhwdAhzPhvhNQtqvTd8e7QaC8fra6hGxyGAyqqj/DoIgrepRlYAZz6aiaeLMlYJI9hrUM7FYkAMxOq4umm/l1CDQg5R8kO+SyNwmXQV+l7GwwVg6Qa3fVo4ajzeJpm4DG2nosNsMg92IqnMfQrXa3bdQGMHNV0tPhzE7eE21lmiv+n62qMxvuLsJPq0RokThRfpt237TxQIXQ/WkCmc/bLh44QZXRpNNKCbnfoNdSv0NXLwiBmuaI3kQFjwMrDq0KraXdMin5LRD4Kh8IgIF8dnnSbzpIxtu8py1mNO3SFeq/yxpg==;nCWDTTien2i9MbD6eCpGiQ=="
+secured: "wp2ebZAxe/OVgw70IjY6yL1ucSECnS/5kRphLWpeyowNWOqp6gS4tWbe7lAiAkr6kT7WAdnYYgVZQintvsV/w6rxk/mmNYzq+yxYKpImuzols4zKFrjrGzg+tX7wAfc6bJnPFt3LXK52US3rPGvSPFOgi7q0Gvsouuckzl+eHm/FulfWfADbCzBLHK+8SY30luyvN/pb6XiaG5j6qbhRK3h+FX/6pkiYlBcrDtUsTybS7hwVC4NLMK4nZP/70FMyDexMs6DGHC5vM5ioKaujBpJ6PDp0YJETGFB8FQtqBkBFW72TnqucfbTu97zK+H+xjQDllEDYoOEC+Zp+DSNp22/1kQPVT600snYHN91bKs/8Twgw0+a89JOEZYQ94m2z;9SFdjFqMfUFBOKjw0YVbhQ=="
 ---
 
