@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=1QHMbOpq_ec
 type: video
 length: PT27M30S
 publishedDateTime: 2017-04-26T20:44:12Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1QHMbOpq_ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UkKPTSeqJLkM4tLD3AowEtoo6TD9I48/ZXXGEGjwGdBRhXm1DJEdBVLmwPpTiazmBImeuiLnmqMcOvnmkJ/axZlN/gFZeRMpMzdhTjuPUhjl9QON9aFv2Jpfz65lv/cNceGG5XNB91zJaohxNVGkbEiuGqsLvt9OpiHcd/x7Zp2u/wg1QHJmOGvA7B9T4HU1IcByV1/aBYo2CZuhBwNeZE/Ppba8HTPx2glRuNfEb+iBvOKCF5xxv8ky8bSDVlOsih7m0UP/avoyZ9RP95fBtoo6nygEEYBNvL77QU7YS5IIjBGGFbExSc01SBcAXNyyfEp6IUyjbb27p9RyHajcz89M8O7itzIQqS2gZWPxXJD9CHfjUpGsdmUjM4Log+fDmqYYazaW0nc8iIBur80dRBbGZQjIJBFnItC8JHMJYAv6Cr9WQEyOFltuRCdUK1mq;Q359lUVdjTHmgT/rsevi/A=="
+secured: "UFAGpX4KgOo/wVxM3EFIMzWWv249ltOMkAUD7Gtr1E7Fyizq1fn+YfwWfAxJFP6qzgMbIE65mhoE2yIVTDuwdsCEGfbJ0v0hR57OhiwM+tWI4DPNCmPNe0YPm8UtgUJ23KsHoA1cCNf+x4nxUjE4uyhsrZR+SUlxuZn7BUw07se4ZQE3lxtfLjuddUQK0qgNlQPHkN5oSJiOAZxakj9b30Et/RcLr+cBelUcdEtsy84KBunFx++wMk22hwgRVrNIJZGcalBYTmcN4PHp/U/fvvquhRh5ShGGyv+XxiU2FBImsA5/d3ET0N14jDpFjZw4rnmLSN6bXfhSlvvR2x2d1ldMsrajcGFMlcg6KHNcDOI7QoEBljiifPSq98q1oRDYV5Xa/wUvYhzHIZpq3kcf5oPxd8NDx0IFKrBf0xOXUdHICrk0rlMTGLCMdDFehHUX;R4AVTwK8dBJMQhuaqloFSg=="
 ---
 
