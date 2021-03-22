@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
-excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
-publishedDateTime: 2021-03-15T00:00:00Z
-originalUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+title: "2021 Global StarCraft II League Season 1"
+excerpt: "A new beginning to regain the stolen throne, a fierce battle unchanged this year. GSL 's league system has been changed from this year to a Code S 16 round from Code A 16 round . -The Code S Round of 16 Group Stage begins with 8 players who won the Code A ..."
+publishedDateTime: 2021-03-21T02:35:00Z
+originalUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
+webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GosuGamers
+  domain: gosugamers.net
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
-    width: 580
-    height: 320
-    isCached: true
 
 related:
   - title: "Former StarCraft Modders Launch Kickstarter for New Strategy Game"
@@ -77,6 +65,22 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
+    excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
+    publishedDateTime: 2021-03-15T00:00:00Z
+    webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 57
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
+        width: 580
+        height: 320
         isCached: true
   - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
     excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
@@ -131,16 +135,7 @@ related:
       name: GosuGamers
       domain: gosugamers.net
     quality: 17
-  - title: "2021 Global StarCraft II League Season 1"
-    excerpt: "A new beginning to regain the stolen throne, a fierce battle unchanged this year. GSL 's league system has been changed from this year to a Code S 16 round from Code A 16 round . -The Code S Round of 16 Group Stage begins with 8 players who won the Code A ..."
-    publishedDateTime: 2021-03-21T02:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 17
 
-secured: "6alhC6KrVdeQX7pdFP1usrCLg8qtV5KuGm3S7+Fc3d8qex/ZHPlpkzvt4DiZtAiu2D8iEVa4AGYHbGbMdz+9wFwBAZdb8O7jd4f5K00k74TCIXRKbT30vI9WbUOyROOgLQayRVUKgby+uvPooi7cgUXNPf9P/zmAozkbLSuwQ3UbcFbno3E+QvZLJ8C+LhX7nbT4KZDhMqmueE590w98czfzCImIcLXKqXz4hGLvGF5KJ4AvKMMMYWLLIu1ocnS/L1JnCFHJE5T3uIJFp2l7k4lvjiApl5dru2Ostvwo64g0XB7f7087kp3Us1C46FZr+uM4l5oHf80f8H3/Av8OCmO6Vu3JgXR3u5Qzh+ZOy54=;G/g/57LT4lkcJaVZAamsUQ=="
+secured: "+rKZv2wYPviXX06CvquiZ7tCxlUGo3i+HQ3TJmC7scY7NIxwKdvMPth6XwUrGDpEDMMWBAshlSj+q6nZ4QuwMMrSviPkVhCAuUeNtWfQBXlvuUQ1/rb6lve83w4jonCUiHRbMbP1aGpdiiYujuRZqsSVn1w6FPnZNKVN8lSgbwRSM3Wz54kqrcyt29CkcDA6H0l6lfQj3TfnouBQRZoDNV8tlUXX75XMx/r3l/vOtQItiR/0c/E4KjhSKgcQkSZji/NYJBcSWuIjkr+Qoh7t9BuHBd5rqZNhvvROleeGA7sxsNdBVRU3ISQMITJfoTlo8mX3V9+3KMup2++oiotomWUD2U1Dn8+vXx3/h810VRU=;5QdB7zoVPY9FHoP7OmDU4Q=="
 ---
 

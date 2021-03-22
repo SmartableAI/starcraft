@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -126,6 +126,15 @@ related:
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
     webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
+  - title: "2021 Global StarCraft II League Season 1"
+    excerpt: "A new beginning to regain the stolen throne, a fierce battle unchanged this year. GSL 's league system has been changed from this year to a Code S 16 round from Code A 16 round . -The Code S Round of 16 Group Stage begins with 8 players who won the Code A ..."
+    publishedDateTime: 2021-03-21T02:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
     type: article
     provider:
       name: GosuGamers

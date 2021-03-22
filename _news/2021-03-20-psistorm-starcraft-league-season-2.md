@@ -126,6 +126,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2021 Global StarCraft II League Season 1"
+    excerpt: "A new beginning to regain the stolen throne, a fierce battle unchanged this year. GSL 's league system has been changed from this year to a Code S 16 round from Code A 16 round . -The Code S Round of 16 Group Stage begins with 8 players who won the Code A ..."
+    publishedDateTime: 2021-03-21T02:35:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 17
 
 secured: "uJYruhYyRuDsOrYNhDPWxeIYFEDNsmW1evmNqfOuJRzIL/74cqYfsO4YezlGqZogYvj3FyT+MaDyke1eO+uT4OjkPNvds3+bx89yYoMRBvHgBrScS020uq7+WnwXcjWhkq/U8kT0EtiTLKtquQ4Vyg7Wrct5oLHyUwYbKg5qGYQvDqkcq5vpFDR2RYeEzzYbMjw5UtyuszFpNtpGSXG9IERGf3DKCLTHuN64qRYAzwul/pFL9lxyQ1Cv9mbmq6fguK1yqx6fdHrIoHegYkaHZgf5fUJe47VdZvxJPaFDAjgfmHgqDmQexdmBcYwn+NqEP180s7GuCn91qxPGcYy5BuPTdHScFKJzBN4XVNVJX8M=;N8FAmCxPKfdfO0fXvWEbyw=="
 ---
