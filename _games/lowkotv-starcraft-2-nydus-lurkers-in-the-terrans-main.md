@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-nydus-lurk
 type: video
 length: PT32M52S
 publishedDateTime: 2020-12-22T18:21:45Z
-heat: 59
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K3QnoQEfNS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "AiDqT+gkJJe8e6vfKGZFeuHXi/E5elFc+L1nb+Qrt63jI+U/9mx6ajPGj41sbWMbNZC36ebMpBV/2aR8giwSZyZ3/HOWKhJCsFF9pVYfOko1ByaqZWO6VSMHbqyN5PxcLi9SY97UqbO8CSKHGXrtInh373Ee5XcmUJy6TdZleeemj6eQpM1ypc9I2InMMjxR3S38K2ML83KadPLOhRFzwFQDIuNTnmF462XD/CtGL0T1+R1uMKxowQ0LDjI7YqxBe1GLNTz5lk4U7/ze3oChDVSIr3Vg14qSK1C9R5hWKPJZjSYMPwSFK5XQB23hSFHbW3jb0kQM7gUOyFLfjcW8+V+H4y9uArmPRm7ZscR+SIk+rjP9XeK71REeZvaGPrQv/dlc78FqeH8fJBwBlpADJsoshbM5qcG8Uo7H+OiT5Eg=;Qfq/cWwJWNxsEFWPWnKp3w=="
+secured: "oaNfqPap25MlWKFykmatpnONiiTNv3BJfuxVk2LzO9ZKoIZm69Kx501Evqslnm3NjLtRelghjhZZfe1Rkrq2YiS6m7H+LKmF4e2lrbg3YIDPVqZu39FW/xutzn7wHnwgDoXP6vks9w8LeXzdjX1aKFxhtH6x7HPEEFX8K1E7NBAYo6jsVGUA6hMO2dghaYhTKGTZMvd1DzHKiHks3DvofjnyFooto2JznwzhzrAo8nHRH4538f7wbU4vMidgKNz1Ps+52jCM/qeLtSO72E5yD2EMygSEfVxYIIHQn0nZdmrTSiHWt3FdnCRB1rlYusp44bC5VFWCSOycGzTIOGnMCrFvjBvM1g+CjXqE9tLuibXKLX8Cj4mhCjsDpEJWCJlKmHAvyKEEi5QfXz5zyXcy8PS32Ol96nAJNTgy9V5sZVc=;TL/i8R6brgpR6aJzW2xJ+g=="
 ---
 
