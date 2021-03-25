@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "RIT researchers helping to develop artificial intelligence systems capable of playing 'Starcraft II'"
-    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-    publishedDateTime: 2021-03-12T14:36:00Z
-    webUrl: "https://www.rit.edu/news/rit-researchers-helping-develop-artificial-intelligence-systems-capable-playing-starcraft-ii"
+  - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
+    excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
+    publishedDateTime: 2021-03-23T13:00:00Z
+    webUrl: "https://www.polygon.com/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+    ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
     type: article
     provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
-    quality: 22
+      name: Polygon
+      domain: polygon.com
+    quality: 63
     images:
-      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-03/Starcraft_2.jpg?itok=GLvmIZ6q"
-        width: 1080
-        height: 720
+      - url: "https://cdn.vox-cdn.com/thumbor/rUdmPq9ueRxiSNPrZzIsdEEvwQI=/0x0:1920x1080/1400x933/filters:focal(799x128:1105x434):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69012675/auroboros.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
 
 secured: "tnbZYYFndaauDsBBw6BgHuskgHqOz3LB9QZXaXjIV14lY/SbDQmH1W27X/wxqGpmJYDeU3PJCRq/oD5cXkxS0K60IYsEjRZ1OB2dCzkxzz5/PJsA6pH07SQuqNPWDOzhjXW4nDA4KFFbOVxpOi4/51vH+kA9JsFj3gQXQgcTPuM/Cv8Ieg8b2FzPPum1lA5ZzXcK7V1DUpFH21NNabDIlZyJ+OwgpPG+A03ZpQMCMnIVQ6xUZNb6qstoRYRR3aDkId9E39sBH3Pvz8GvUO/B+3lEOd5VOQrOLnGMT2HuFeghpZu62l7RRQ1cWLptq2K/dAgO92OL18XF/Tv3qH79aPMFCbuVIg8vJYj+zFWf15I=;kwIz1ZC9nI6eGZhc39e7SQ=="
