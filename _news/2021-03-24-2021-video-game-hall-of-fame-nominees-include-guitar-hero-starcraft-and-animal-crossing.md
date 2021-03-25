@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
     excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
     publishedDateTime: 2021-03-16T14:55:00Z
@@ -56,6 +72,6 @@ related:
         height: 675
         isCached: true
 
-secured: "oKOKA5G0qrY2duYi2jOtjPUjfZ48xORTvUnbzLNz+sYSudssYRpoBlK1r91VMYiwPyh2AwMrAuut8b2OA9PqGtlfkjMfZENEGGeAIo+QhRmquxw1M5tvnjJZsi2OygrXO6OTN/YOvH0Z+j55f50bYGm2wY/UZHtZKhrTfwxEwmkWHmlIMCCXmjQRJB0aRwYJ80Dpg95nF5/LOHFPvV+4AhllhW1aaXPfU6ms3mGzeVlgy7gWQHLIByrERAlgqoUr79rTKz0iGT9URZB42IT077e3VSL/HFcWAocxL4FFvGhJsE+kOsp5E05ybNvLzbzTgUFAv/4VOMRMOR7NeBP6M1RiMbvZJ3Xurqpj+IXPkj8=;DqMuzfFxzUddY4+iNFQXeA=="
+secured: "euqDWWoSlo7Nz/hWkavod/ClzEcRDYumGdRX9ZwItuQKSSwcixhJJLkIVxS/saLHfa6bPcrL6/63OahwD4QIWbp5aBu2RQafr1hOqAiL3xNSNpKi00afreTWdL5qHqO57zedoYksXguxxxR9RWmfEkDmP+DzEoKlYunl8rpDxaq7rOARFicpDIZv8UTtizn4oX86B/dKu8ZXee1/9TICTyf9dIMrhqkD5nz3OepgzRYu1+l7RFWF/qx53nqEDc3YbF+IIJHLAP6VI1UGqbHQN3ocwL/H/GsqTA5li3gizQjvfP5wXdopMV7FtVupxQaxzOyudPYwH82fAV7KnscMPJMcgxpsb/DshjVcYeHvUj+IHqWebXHTYBKxKhzI9oBEuVMh+QNplzBlMpLfXxK+5YEWlX+tTCY0JxXpdRQGbGquc1NlFwYReE2uBfVwXBgkFQvKfYwC1tJy3pDJwny0m+5ZFmFK08B4YNFjejK1ZuT+ES6VkFQIGGFluN5B/jdeROc8cNjoUXomYoiehSCxpg==;hrq50tyEWZVbzJB1LFrcOg=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
-excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-publishedDateTime: 2021-03-16T14:55:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
+title: "RTS game from ex-Starcraft devs won't streamline the genre"
+excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+publishedDateTime: 2021-03-25T15:35:00Z
+originalUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
-quality: 33
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: GamesRadar
+  domain: gamesradar.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
-    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
-    publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
     excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
     publishedDateTime: 2021-03-24T14:00:00Z
@@ -70,7 +56,21 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
+    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
+    publishedDateTime: 2021-03-16T14:55:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "tnbZYYFndaauDsBBw6BgHuskgHqOz3LB9QZXaXjIV14lY/SbDQmH1W27X/wxqGpmJYDeU3PJCRq/oD5cXkxS0K60IYsEjRZ1OB2dCzkxzz5/PJsA6pH07SQuqNPWDOzhjXW4nDA4KFFbOVxpOi4/51vH+kA9JsFj3gQXQgcTPuM/Cv8Ieg8b2FzPPum1lA5ZzXcK7V1DUpFH21NNabDIlZyJ+OwgpPG+A03ZpQMCMnIVQ6xUZNb6qstoRYRR3aDkId9E39sBH3Pvz8GvUO/B+3lEOd5VOQrOLnGMT2HuFeghpZu62l7RRQ1cWLptq2K/dAgO92OL18XF/Tv3qH79aPMFCbuVIg8vJYj+zFWf15I=;kwIz1ZC9nI6eGZhc39e7SQ=="
+secured: "ySHqdGIfT7GVbAbPHf2fOAAe8dlPLJOQ0BiOw95NgMfZcE2Zs/HYGBDmy6WeaRrdYYVKys8YFLlU1IQIQwpUecNCv4IRxFdmxXFwullBoI53X9iAml9Bww8bdebfaVk0dBmTbQ//yEjHviFnuXtDXt7FemfLcorpd8LVlzDFRed8rYdnR/D403liU3dwJ1hF5YfaXKTxsfiEwuhbR7LMhW5Fb42T2MBZ6HgE0AOIwnVrpf9lP479eLHRI4bVd7fTE5nnAI8M9Xb16jXzJi1CBS3NWY22FWFAbxnqcSPSRwyf8HSUJ2h7pQgEyF/BPs9RFxjEO5Vhr3e9D7KKWVxY4zbfezZDMjNzEzJ2wKp2ODc=;BckHwbzspiCi75owj3aOcw=="
 ---
 
