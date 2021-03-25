@@ -188,82 +188,6 @@
       "publishedDateTime": "2021-03-16T04:44:46-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-vs-cure-best-of-5.md",
-      "title": "StarCraft 2: BYUN vs CURE! (Best-of-5)",
-      "excerpt": "Epic best-of-5 series of professional StarCraft 2 between ByuN and Cure.   Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-vs-cure-best-of-5/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-cure-best-of-5/",
-      "originalUrl": "https://youtube.com/watch?v=tTX4nFOYqOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTX4nFOYqOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tTX4nFOYqOA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-11T04:22:50-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-mass-brood-lords-vs-ghosts-elazer-vs-clem.md",
-      "title": "StarCraft 2: MASS Brood Lords vs Ghosts! (Elazer vs Clem)",
-      "excerpt": "Awesome game of StarCraft 2 between Elazer and Clem. This is one of the longest games of professional SC2 that I've casted recently. It really comes down to the final resources.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-mass-brood-lords-vs-ghosts-elazer-vs-clem/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-brood-lords-vs-ghosts-elazer-vs-clem/",
-      "originalUrl": "https://youtube.com/watch?v=ajYUbpK8JtY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ajYUbpK8JtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M18S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ajYUbpK8JtY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-16T03:11:54-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-serral-vs-showtime-best-of-5.md",
       "title": "StarCraft 2: SERRAL vs SHOWTIME! (Best-of-5)",
       "excerpt": "Top-level best of-5 series of professional StarCraft 2 between Serral and ShoWTimE.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on",
@@ -379,6 +303,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-17T04:39:22-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-the-zerg-gambler-cure-vs-drg.md",
+      "title": "StarCraft 2: The Zerg Gambler... (Cure vs DRG)",
+      "excerpt": "Best-of-3 series between Cure and DRG in StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley/  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-zerg-gambler-cure-vs-drg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-zerg-gambler-cure-vs-drg/",
+      "originalUrl": "https://youtube.com/watch?v=4EkG4cuQ5L0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4EkG4cuQ5L0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M15S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 126,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4EkG4cuQ5L0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-06T05:02:19-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-florencios-disgusting-terran-plays.md",
@@ -1144,6 +1106,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-18T11:25:36-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-parting-plays-protoss-like-a-zerg-best-of-3.md",
+      "title": "StarCraft 2: PartinG Plays PROTOSS like a ZERG! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Rogue and PartinG. Especially game 2 in this series is fantastic.  Reynor vs Zest: https://youtu.be/Qzt-MoPfiL8  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-parting-plays-protoss-like-a-zerg-best-of-3/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-parting-plays-protoss-like-a-zerg-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=LP-iPz7nwzw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LP-iPz7nwzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M27S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LP-iPz7nwzw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-09T01:06:47-08:00"
     }
   ],
   "nextPage": 2
