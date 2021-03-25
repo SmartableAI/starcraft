@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizz
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
 type: article
 quality: 63
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+    excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
+    publishedDateTime: 2021-03-24T14:00:00Z
+    webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
     excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
     publishedDateTime: 2021-03-16T14:55:00Z
@@ -42,6 +56,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Pm6vZzACKwhjtmmQAt/bgAJJTZiZL4OW+ovg3267FEZJ7fNw/pzPbSNviEh7Va+TMqUajCzoTUOy1pnG/ijasOA7dk9geENoyCWhkI0fikH/8mUoNW+CY6ZlJbAU/56lf6lpXmlUqqWJ0rPQSwJxkjV2utz96ztnAy5qggPZUzp7EQtcBhtRVXg6aQLPOBQmQCJz9biiBuVnEtxxreKY4qSQz9gdZ382W5bNl9JXF0JrHio9fHfvJlvpngJyuuWEBkMPEG79PV4OMhbEqB4AonPVQm3ZoOBe7ea+th7CscR6FNA3NZTDVszRB3vk2rjhIMCb80trbrrn8/cEqUnVKCsB1AoYLpnqMVODXHckoL0=;yK8j88VtWS8FZ5LQe/6BiQ=="
+secured: "THICMbC946w1c4qa+mlUYomejnXr9tcvFd75dKsKjNRY6FUZGc5jZ3rZoMSd5iTSc57z3r4d4W1kNygsQ88Bamz4kGKbHTJAAvBitjNYONTQcaRmLYyGkh3sKFt8mbe/kVRXgdylId8faeuBTG/IhB57Rlb46cT755t8YbCohb2iDFPbzS9nr96K5nskAMYNE46InliNc4CuPkcGUcI54TpfX3E6R9d8ooIf0Tw4wBVgYjr+cE8o8WAKqi1erSR73iZRhjK53zVxcbZAtD3Ry4yiDMLfyfvrezAqG5vkT0d6/1HYscdJyYsrOqfi0GyL7uh4KKco/a/um4XMjlK1ift2oFjA92+8xzSDIRBOe4tgfcNkT0BiiAZA0wVnvMfkHROmo8Z6Ntxq3TWKMessU8KC80Af3Iv+4mTUky1o0ZA8Idqa2FVNc4M6rkkk+EIUGMmA4wD3RqWZLSzIhpYoAeUf+FrA2Uw2OxT6dd8R+uUfqsGGmWsptkQmVrrsHgD6tAqPHuqd3NY0AQnFZPH3Zg==;J1kvS1hC/OCeGztAf5g1qA=="
 ---
 
