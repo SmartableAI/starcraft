@@ -2,6 +2,7 @@
 title: "StarCraft 2: ByuN's RIDICULOUS Unit Control!"
 excerpt: "A match of professional StarCraft 2 between DRG and ByuN. While ByuN is behind almost the entire game economically, he somehow someway makes a game of out it.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=eLsxa7TnXvo
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-ridiculous-unit-control/
 type: video
 length: PT24M4S
 publishedDateTime: 2021-03-25T12:59:08Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uSTwYxpfh0xn0KBVDo+PZNp1ADUhT6T1dAXLx7xhqAXZvUPdsJeRnM42cUovYRadYQNSR/rgiOezzqB4IEbBXRFftaUnLApBSVhjbdXw+MIGhQqqRpC3xPSQ38KaPpaMQrEN0Yw4ChF1getMjnTDDKbbjPOadQa7gahZuWjts42IpN8w+bhyoEVrzHnDXcdcrsWZVCj3yB4+nNiPKcSjx4qsCL6I9B3KR/FDE7NApxcyILTMcW4MPtU3e/zI/giPzUQPfUu3qeqQQ3e6YNITSWut0RAyOG4EVlag4nsw7Wue1OylfVxm8onwlQa7SBykcNWQmDcDwUYc6j5Ozgi2l442JzPGosYhjftFO6xDvVuZcHzcxQDM4LAS5CU7tHSrsHZi4dwxBoqGWu/gWWNu/w==;zWrmFXQ1GxWKE8h5DBUqOg=="
+secured: "KLWxGz3BBoT6d44vZwodbMB17NCNf29qbpbfsvFqyidL7vD5EvoJm58BTR+FbLtpJop5fPD1cZk3h5pkkyGrYgEiOrgUN/kGYQVZTypPZfjMjMO0ONCU1JHLrHAljITVvsdDWSRR0mo8+EzSBMdgw7htQn5CWxhs3hvOyyjQSKIMEp8AAgtNIitRMQlhtaL20JQKOuK4b+e7weeQInjosmXWzrufvaqgRfSKFCJmtflVrKhakEoJ+N5QSOaP0E3ysCe20O4KVQK8CM/rxD0izbS8nedH9hN0aYEnmV8gpRcNd+rXA+kdO+Dx1xr1OhEMecv+/f7WDENCalPO6XV5S6sGoM7AevaiSV8VM8I2V+tTR6XKV6AQhUOyNr5B7K7h;dAYe1KgQefzXLgvT2oJeRA=="
 ---
 
