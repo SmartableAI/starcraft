@@ -1,28 +1,23 @@
 ---
 category: news
-title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
-excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
-publishedDateTime: 2021-03-24T14:00:00Z
-originalUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+title: "2019 Starcraft Mossy Oak 21FBS"
+excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
+publishedDateTime: 2021-03-25T09:36:00Z
+originalUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
 type: article
-quality: 45
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: criticalhit.net
-  domain: criticalhit.net
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
-  - Protoss
-
-images:
-  - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
-    width: 850
-    height: 478
-    isCached: true
 
 related:
   - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
@@ -57,17 +52,20 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FBS"
-    excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+    excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
+    publishedDateTime: 2021-03-24T14:00:00Z
+    webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
     excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
     publishedDateTime: 2021-03-16T14:55:00Z
@@ -83,6 +81,6 @@ related:
         height: 675
         isCached: true
 
-secured: "euqDWWoSlo7Nz/hWkavod/ClzEcRDYumGdRX9ZwItuQKSSwcixhJJLkIVxS/saLHfa6bPcrL6/63OahwD4QIWbp5aBu2RQafr1hOqAiL3xNSNpKi00afreTWdL5qHqO57zedoYksXguxxxR9RWmfEkDmP+DzEoKlYunl8rpDxaq7rOARFicpDIZv8UTtizn4oX86B/dKu8ZXee1/9TICTyf9dIMrhqkD5nz3OepgzRYu1+l7RFWF/qx53nqEDc3YbF+IIJHLAP6VI1UGqbHQN3ocwL/H/GsqTA5li3gizQjvfP5wXdopMV7FtVupxQaxzOyudPYwH82fAV7KnscMPJMcgxpsb/DshjVcYeHvUj+IHqWebXHTYBKxKhzI9oBEuVMh+QNplzBlMpLfXxK+5YEWlX+tTCY0JxXpdRQGbGquc1NlFwYReE2uBfVwXBgkFQvKfYwC1tJy3pDJwny0m+5ZFmFK08B4YNFjejK1ZuT+ES6VkFQIGGFluN5B/jdeROc8cNjoUXomYoiehSCxpg==;hrq50tyEWZVbzJB1LFrcOg=="
+secured: "BP5WdlCN3koSYfl7m53Vj77hc9ANRCf4RrzXtjVhZCsnNLIu4/+RxbAqJ8fbYk7+Smuam5q2RlpEVmUChqn/NNXRUOBY4sO3TnUUMRFV+GJo2k3BY8FLSFNOZeCaTRn+lYALFiZRFLZ8HHy23zpQsAxQUmD07vfl836FWIPgNyNw2aHY0uFi6idFFS2pNdf9LxjP5aMBQP2GR1yhhynR5vNqX7ClqP1kg0EU7JN6BopS9YAduFsHZsheMiUjaEuKk6/S1yYjoNAgwjRks8NmgFSMq8YzMABJ/rvkUzCWau38JlWcxQPIu/KOnTZV5eufX6nG606jWbHr+4H1T0OBXn+6nJfL49aqq/sofzQAJDE=;D3twrJ1MiXJeHMgtyTAFBA=="
 ---
 

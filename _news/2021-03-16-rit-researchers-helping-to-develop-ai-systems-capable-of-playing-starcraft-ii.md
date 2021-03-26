@@ -70,6 +70,17 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "2019 Starcraft Mossy Oak 21FBS"
+    excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
+    publishedDateTime: 2021-03-25T09:36:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "tnbZYYFndaauDsBBw6BgHuskgHqOz3LB9QZXaXjIV14lY/SbDQmH1W27X/wxqGpmJYDeU3PJCRq/oD5cXkxS0K60IYsEjRZ1OB2dCzkxzz5/PJsA6pH07SQuqNPWDOzhjXW4nDA4KFFbOVxpOi4/51vH+kA9JsFj3gQXQgcTPuM/Cv8Ieg8b2FzPPum1lA5ZzXcK7V1DUpFH21NNabDIlZyJ+OwgpPG+A03ZpQMCMnIVQ6xUZNb6qstoRYRR3aDkId9E39sBH3Pvz8GvUO/B+3lEOd5VOQrOLnGMT2HuFeghpZu62l7RRQ1cWLptq2K/dAgO92OL18XF/Tv3qH79aPMFCbuVIg8vJYj+zFWf15I=;kwIz1ZC9nI6eGZhc39e7SQ=="
 ---
