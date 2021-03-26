@@ -2,6 +2,7 @@
 title: "StarCraft 2: Zest vs MaxPax - Cheese in EVERY Game! (Best-of-5)"
 excerpt: "MaxPax versus Zest in a best-of-5 series of Protoss versus Protoss in StarCraft 2. It doesn't get much more cheesy than this...  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch"
 originalUrl: https://youtube.com/watch?v=QUw68GwInWQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zest-vs-maxpax-cheese-in-every-game-best-of-5/
 type: video
 length: PT27M38S
 publishedDateTime: 2021-03-26T11:54:48Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6+zwB+gKyuhOZQdSqZv5M89imXqhAcXwuGiGf3pt1RhkV49hgLmeuYCjMMKKAaVKIv9K6z8Pw/n1VXAmGREZ4XOI3Fwnae6xBSYjxYhrwrjL9fM174KVePduzO9/ozbBtBOJBZ48fYrKLcLnTzVVavERHo9s+ChZyzJWE///seATKLTrvRHx3swklc3ffimjJQ25V9l2iXYgbaYJuSiOUQ5iB/lbWvw1zI4s96lbk0eMeGiHxChA8j3WRnqLLXSnVkW4PpEYIO78k3n/EOfEGn7/Sqv0CSesUaQxX+oP3umIsysbM9PRmt+z42yyNJsl/rlQG5aOxTN7Ojzmb/JPIMunZ/zGN0dd8FyOoJHgbFY1Nt7YJHqHVdx1ZmeFro43uweEtCWRb4pAvuf7I8ZMrg==;5gAqPEPy4F+poQ+G5FxcGg=="
+secured: "OH2ajidjT9Hz32SlnbaBYW4n7UHK1rcyUhwBfy4My+uI2Zx1xi+MrqpKfz3Yr5LxElptXL9huBPiPI5hYKneDvxTDdc/6AP6k4R3eOqX3lsJH+0Fr21DZ0p47RvMn18YTH/LT8vyaUOwhEunsG+8sMPc4wAKIptPP/POBl0pwh5Ta8zSF1mDyW+adxlMkfJzz2GmbQgK0k1G/QPZsjcOdRAhkdFk7UFdah4m8EXJ/0XzTFvUTDayti6HO6OajrzVAbf5Y26MtMTKJL285Ac63j8dvpwyFUVVW0mWneXzzq+BIACCm3Wg22CH1wGcbyGNBLyISSJwcH35JG+ChQ03SqajUljmKA3S7YeVEyhzl3qGUkcG0ZobZyA9exi1k0j9;xVOx7d0T77QBC6Zka7/xag=="
 ---
 

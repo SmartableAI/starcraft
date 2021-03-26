@@ -4,152 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
-      "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
-      "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/",
-      "originalUrl": "https://youtube.com/watch?v=1haIHmlSusA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1haIHmlSusA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-03-09T08:12:42-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1haIHmlSusA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide.md",
-      "title": "StarCraft 2: MASS CARRIER! (Fenix Guide)",
-      "excerpt": "A cheesy, but very effective build for Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube My \"standard\" Fenix build: https://goo.gl/G6ArYc  While in most games I will get a wide variety of units, while leveling up Fenix I quickly found out a few very powerful strategies. This is",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/",
-      "originalUrl": "https://youtube.com/watch?v=76PmBDv7-ww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-06T02:01:43-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/76PmBDv7-ww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order.md",
-      "title": "StarCraft 2: SERRAL'S ZERG BUILD ORDER!",
-      "excerpt": "Let's discuss Serral's Zerg vs Terran Roach push push! Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 Guides & Tutorials: https://goo.gl/BEPvJo  In this video I go over a match that Serral recently played in the Grand Finals of Homestory Cup 18 versus INnoVation. Serral and many",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-build-order/",
-      "originalUrl": "https://youtube.com/watch?v=c9p20iRoWmo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9p20iRoWmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M10S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-27T04:12:24-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c9p20iRoWmo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys.md",
-      "title": "Learn Starcraft Tip #2 - Camera Hotkeys",
-      "excerpt": "Useful for all races almost all of the time :) More detailed guides/tutorials under the learn to play starcraft playlist.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/",
-      "originalUrl": "https://youtube.com/watch?v=t4Ml0nAWcig",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t4Ml0nAWcig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M56S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-10-23T11:17:42-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t4Ml0nAWcig/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
       "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial.md",
       "title": "Starcraft 2 Newbie Guide - 001 - Tutorial",
       "excerpt": "A newbie guide for Starcraft 2 multiplayer!  In this first episode, we'll cover the game's very first introductory missions—the Tutorial missions—which are designed specifically for players who have never touched Starcraft before.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
@@ -243,6 +97,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay.md",
+      "title": "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay",
+      "excerpt": "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=tccZgx9HqXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tccZgx9HqXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-09T16:22:06-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran.md",
       "title": "Protoss Gameplay Starcraft 2 | Storm vs Terran",
       "excerpt": "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years",
@@ -291,6 +176,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/scB6uE4jFuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2020.md",
+      "title": "Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020]",
+      "excerpt": "Let's take a dive into some protoss vs protoss (pvp) tutorials this week. To get us into the midgame safely, let's make sure to start off with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #protoss #starcraft2 #buildorder  Build Order: ----------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2020/",
+      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-06T20:41:15-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -584,14 +500,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth.md",
-      "title": "StarCraft 2: EASY Zerg Build Order! (In Depth!)",
-      "excerpt": "In this video I cover a relatively easy build order for new or returning Zerg players for StarCraft 2: Heart of the Swarm. This build order is relatively easy to execute after a few hours of practice and will allow you to beat your opponents.  14 Spawning Pool 15 Hatchery 15 Queen 17 Overlord 2x Zerglings",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-build-order-in-depth/",
-      "originalUrl": "https://youtube.com/watch?v=ScyK_2okKZE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ScyK_2okKZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth.md",
+      "title": "StarCraft 2: EASY Protoss Build Order For New Players! (In Depth!)",
+      "excerpt": "In this video I cover a very easy one base build order for the Protoss race in StarCraft 2: Heart of the Swarm. The build order is very easy to execute for new players, and only requires a little bit of practice before you can go on the ladder and beat your oponnents.  9 Pylon 12 Gateway 14 Gas Geyser",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-protoss-build-order-for-new-players-in-depth/",
+      "originalUrl": "https://youtube.com/watch?v=j5u3cYoDidg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j5u3cYoDidg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M36S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -604,11 +520,11 @@
           }
         ]
       },
-      "publishedDateTime": "2014-01-06T07:05:30-08:00",
+      "publishedDateTime": "2014-01-13T11:33:21-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ScyK_2okKZE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/j5u3cYoDidg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -619,18 +535,18 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Protoss"
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
-      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
-      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
+      "path": "_learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide.md",
+      "title": "StarCraft 2: EASY Terran Build Order! (Guide)",
+      "excerpt": "StarCraft 2 build order for Terran players. In this video I go over an easy to execute two base build order for Terran versus Protoss that new players and experienced players should be able to pick up quickly. This is a relatively easy build order that focuses on a timing attack, as well as macro.  10",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-terran-build-order-guide/",
+      "originalUrl": "https://youtube.com/watch?v=1haIHmlSusA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1haIHmlSusA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M21S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -643,11 +559,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-30T04:59:22-08:00",
+      "publishedDateTime": "2015-03-09T08:12:42-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1haIHmlSusA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -658,8 +574,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ]
     },
     {
@@ -703,14 +618,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide.md",
-      "title": "StarCraft 2: How-To Defend Cannon Rushes! (Guide)",
-      "excerpt": "Tutorial on how to defend Cannon Rushes in Zerg versus Protoss. Every now and then you will have a Protoss opening up with a Forge and going for the blind Cannon rush. In this video I explain the approach you should take when defending this all-in. It does require a substantial amount of micro and you",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-defend-cannon-rushes-guide/",
-      "originalUrl": "https://youtube.com/watch?v=ri5KCdEdyMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ri5KCdEdyMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-4-terran-macro-tips-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - 4 Terran Macro Tips! (Terran Tutorial)",
+      "excerpt": "4 tips for Terran players in StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/a5vYOq  These guidelines should help out most Terran players that are looking to improve in StarCraft 2: 1. Focus on Marine, Marauder and Medivac",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-4-terran-macro-tips-terran-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-4-terran-macro-tips-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=BqUZqtpHdeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BqUZqtpHdeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M49S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -723,11 +638,11 @@
           }
         ]
       },
-      "publishedDateTime": "2015-03-23T07:55:25-07:00",
+      "publishedDateTime": "2016-09-17T07:36:14-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ri5KCdEdyMg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BqUZqtpHdeE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -738,18 +653,18 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders.md",
-      "title": "StarCraft 2: Serral's Zerg vs Terran Build Orders!",
-      "excerpt": "Zerg versus Terran build orders. In this video I go over three games that Serral recently played versus HeroMarine and have an in depth look at the build orders that plays to achieve the macro game.  Get more videos & support my work: http://www.patreon.com/lowkotv Zerg vs Terran build order notes: https://pastebin.com/vZisrAuM",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-serrals-zerg-vs-terran-build-orders/",
-      "originalUrl": "https://youtube.com/watch?v=ZOY5ctizPK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZOY5ctizPK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H23M46S",
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - Basic Terran Tutorial!",
+      "excerpt": "A basic Terran tutorial for StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/IKl51P  In this tutorial I cover the very basics of ranking up with Terran on the StarCraft 2: Legacy of the Void ladder. One thing that a lot of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=jHu5qIISMKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jHu5qIISMKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -762,11 +677,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-17T01:59:58-07:00",
+      "publishedDateTime": "2016-10-21T04:13:09-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZOY5ctizPK0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jHu5qIISMKQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -777,8 +692,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
+        "Terran"
       ]
     },
     {
@@ -818,6 +732,39 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran",
+        "Protoss"
       ]
     },
     {
@@ -992,6 +939,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RG4kz4RSEIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus.md",
+      "title": "SC2 Protoss Gameplay | Adept Glaives into Colossus",
+      "excerpt": "In today's gameplay video I use adept glaives vs a 5500GM zerg. I transition into colossus afterwards and go for a heavy push.  SC2 Protoss Gameplay | Adept Glaives into Colossus #sc2 #protoss #gameplay   Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus/",
+      "originalUrl": "https://youtube.com/watch?v=lP-AxjhloVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lP-AxjhloVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-17T22:40:01-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lP-AxjhloVM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
