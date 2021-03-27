@@ -1,32 +1,41 @@
 ---
 category: news
-title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
-excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
-publishedDateTime: 2021-03-23T13:00:00Z
-originalUrl: "https://www.polygon.com/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-webUrl: "https://www.polygon.com/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+title: "2014 Starcraft Travel Star 239TBS"
+excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-03-27T04:41:00Z
+originalUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
 type: article
-quality: 63
-heat: 163
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
-  - Protoss
-
-images:
-  - url: "https://cdn.vox-cdn.com/thumbor/rUdmPq9ueRxiSNPrZzIsdEEvwQI=/0x0:1920x1080/1400x933/filters:focal(799x128:1105x434):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69012675/auroboros.0.jpg"
-    width: 1400
-    height: 933
-    isCached: true
 
 related:
+  - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
+    excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
+    publishedDateTime: 2021-03-23T13:00:00Z
+    webUrl: "https://www.polygon.com/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+    ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 63
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/rUdmPq9ueRxiSNPrZzIsdEEvwQI=/0x0:1920x1080/1400x933/filters:focal(799x128:1105x434):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69012675/auroboros.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "RTS game from ex-Starcraft devs won't streamline the genre"
     excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
     publishedDateTime: 2021-03-25T15:35:00Z
@@ -68,17 +77,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "2014 Starcraft Travel Star 239TBS"
-    excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-27T04:41:00Z
-    webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
     excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
     publishedDateTime: 2021-03-16T14:55:00Z
@@ -94,6 +92,6 @@ related:
         height: 675
         isCached: true
 
-secured: "THICMbC946w1c4qa+mlUYomejnXr9tcvFd75dKsKjNRY6FUZGc5jZ3rZoMSd5iTSc57z3r4d4W1kNygsQ88Bamz4kGKbHTJAAvBitjNYONTQcaRmLYyGkh3sKFt8mbe/kVRXgdylId8faeuBTG/IhB57Rlb46cT755t8YbCohb2iDFPbzS9nr96K5nskAMYNE46InliNc4CuPkcGUcI54TpfX3E6R9d8ooIf0Tw4wBVgYjr+cE8o8WAKqi1erSR73iZRhjK53zVxcbZAtD3Ry4yiDMLfyfvrezAqG5vkT0d6/1HYscdJyYsrOqfi0GyL7uh4KKco/a/um4XMjlK1ift2oFjA92+8xzSDIRBOe4tgfcNkT0BiiAZA0wVnvMfkHROmo8Z6Ntxq3TWKMessU8KC80Af3Iv+4mTUky1o0ZA8Idqa2FVNc4M6rkkk+EIUGMmA4wD3RqWZLSzIhpYoAeUf+FrA2Uw2OxT6dd8R+uUfqsGGmWsptkQmVrrsHgD6tAqPHuqd3NY0AQnFZPH3Zg==;J1kvS1hC/OCeGztAf5g1qA=="
+secured: "rMH3sEDuAmrHSTGBzFz20+JdzPJ9+UkDgD/LzsLfGmmpA9FEYgvfzkTgRW10pLi/RtNqDCJ6sS9UGx/q5M6lfx+ZXrc+/begjlpqn+F8qEbK50+veMNs2TWGuRUFsZh7wSm6zeeTIbr4+AJjO/bGB7btMGKA7xyich6XNPqFnGkf0g4uY9VwQAKW68xfQ6s0XAsW5sz67NazlpESOl+C8LMF9KQZAtvpjQMFboDJUY2Lgt4r6vydS+dmQX4KeL7pjXYoCjXo2nmzRVcNnLTqhpLu4w3iWU8QxSc7oOkq43NX9IgJAaS0y5Mcfy4cAgSUglWL03P5LvXrPC8VZCJGYu/O9XJQPpI76CGaXyzAT2Bl3W4YeDVjmPjg4MkCNRJX5DSvNCmJutQ1ELbPzy/MtCdxAbbnH1GLamvmZ0AE0dsEaT8jOCxN+Hvng3NJVgGVGmdxt9xmjmJxIj01ztmsaqWOC8IHH9nUjyMjdh/YvXW11b5LWn4R1dTxABCIwgK90yqOlsFUYK9oAmLDuem16w==;FL3pFvvF++FYFS5X/XTTVA=="
 ---
 

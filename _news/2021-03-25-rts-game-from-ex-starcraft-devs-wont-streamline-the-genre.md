@@ -67,6 +67,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "2014 Starcraft Travel Star 239TBS"
+    excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-03-27T04:41:00Z
+    webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
     excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
     publishedDateTime: 2021-03-16T14:55:00Z

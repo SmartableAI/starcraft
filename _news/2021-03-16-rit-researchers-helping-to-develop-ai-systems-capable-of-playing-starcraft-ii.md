@@ -81,6 +81,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "2014 Starcraft Travel Star 239TBS"
+    excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-03-27T04:41:00Z
+    webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "tnbZYYFndaauDsBBw6BgHuskgHqOz3LB9QZXaXjIV14lY/SbDQmH1W27X/wxqGpmJYDeU3PJCRq/oD5cXkxS0K60IYsEjRZ1OB2dCzkxzz5/PJsA6pH07SQuqNPWDOzhjXW4nDA4KFFbOVxpOi4/51vH+kA9JsFj3gQXQgcTPuM/Cv8Ieg8b2FzPPum1lA5ZzXcK7V1DUpFH21NNabDIlZyJ+OwgpPG+A03ZpQMCMnIVQ6xUZNb6qstoRYRR3aDkId9E39sBH3Pvz8GvUO/B+3lEOd5VOQrOLnGMT2HuFeghpZu62l7RRQ1cWLptq2K/dAgO92OL18XF/Tv3qH79aPMFCbuVIg8vJYj+zFWf15I=;kwIz1ZC9nI6eGZhc39e7SQ=="
 ---
