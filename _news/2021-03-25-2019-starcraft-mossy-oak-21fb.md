@@ -1,28 +1,28 @@
 ---
 category: news
-title: "RTS game from ex-Starcraft devs won't streamline the genre"
-excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
-publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+title: "2019 Starcraft Mossy Oak 21FB"
+excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-03-25T09:36:00Z
+originalUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
+    width: 908
+    height: 511
     isCached: true
 
 related:
@@ -42,21 +42,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FB"
-    excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
+      name: GamesRadar
+      domain: gamesradar.com
     quality: 57
     images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
-        width: 908
-        height: 511
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "2005 Starcraft RT Series 11"
     excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
@@ -125,6 +125,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ySHqdGIfT7GVbAbPHf2fOAAe8dlPLJOQ0BiOw95NgMfZcE2Zs/HYGBDmy6WeaRrdYYVKys8YFLlU1IQIQwpUecNCv4IRxFdmxXFwullBoI53X9iAml9Bww8bdebfaVk0dBmTbQ//yEjHviFnuXtDXt7FemfLcorpd8LVlzDFRed8rYdnR/D403liU3dwJ1hF5YfaXKTxsfiEwuhbR7LMhW5Fb42T2MBZ6HgE0AOIwnVrpf9lP479eLHRI4bVd7fTE5nnAI8M9Xb16jXzJi1CBS3NWY22FWFAbxnqcSPSRwyf8HSUJ2h7pQgEyF/BPs9RFxjEO5Vhr3e9D7KKWVxY4zbfezZDMjNzEzJ2wKp2ODc=;BckHwbzspiCi75owj3aOcw=="
+secured: "W4CpqDA8vyDNzDdKkLswvD7Pphe8EhCAcgtKSHDi9N/lWcjmsTWW4UlKOzCSJfcI3pSKLB/VMRl7nihuYCPP3fAH8e3Xe2reODAtk+od68d9goaSik+F9ewJDDeP8F7gtkAibv3UwjezoD4HJECJu+tgJn3mwHcZ39mZzMssU8I+O0g0QBmSLhIKge7bfHRPKGb3JRZvshyOFAC/zaqS7zH3XzIOq899c79rvNtUukLaUbmEwgSL/xI+4YyIKxEatztEBOcVgJEKJfIVLi492zf4wXwvMWoUm/frpgo2UXyGTRwS4fh71cuWw8ivu+YDGq7sQFEES+V1XYSKHXrCsSHHlBQmVsjnngM2ZeMVOHk=;F0O8feyHC0DUT8F+MNZvcg=="
 ---
 

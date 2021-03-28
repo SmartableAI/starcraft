@@ -1,28 +1,28 @@
 ---
 category: news
-title: "RTS game from ex-Starcraft devs won't streamline the genre"
-excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
-publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+title: "2005 Starcraft RT Series 11"
+excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
+publishedDateTime: 2021-03-28T04:40:00Z
+originalUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
+webUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
+ampWebUrl: "https://www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
+    width: 800
+    height: 599
     isCached: true
 
 related:
@@ -58,21 +58,21 @@ related:
         width: 908
         height: 511
         isCached: true
-  - title: "2005 Starcraft RT Series 11"
-    excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
-    publishedDateTime: 2021-03-28T04:40:00Z
-    webUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
-    ampWebUrl: "https://www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
+      name: GamesRadar
+      domain: gamesradar.com
     quality: 57
     images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
-        width: 800
-        height: 599
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
     excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
@@ -125,6 +125,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ySHqdGIfT7GVbAbPHf2fOAAe8dlPLJOQ0BiOw95NgMfZcE2Zs/HYGBDmy6WeaRrdYYVKys8YFLlU1IQIQwpUecNCv4IRxFdmxXFwullBoI53X9iAml9Bww8bdebfaVk0dBmTbQ//yEjHviFnuXtDXt7FemfLcorpd8LVlzDFRed8rYdnR/D403liU3dwJ1hF5YfaXKTxsfiEwuhbR7LMhW5Fb42T2MBZ6HgE0AOIwnVrpf9lP479eLHRI4bVd7fTE5nnAI8M9Xb16jXzJi1CBS3NWY22FWFAbxnqcSPSRwyf8HSUJ2h7pQgEyF/BPs9RFxjEO5Vhr3e9D7KKWVxY4zbfezZDMjNzEzJ2wKp2ODc=;BckHwbzspiCi75owj3aOcw=="
+secured: "Tpa1t+ZllVLrK3Xm1BgRZAs0IFVpURNkgecCoeqQ5G2AaBt9BnyriNqi9HNJW5FjMOTH1xyBG5fISOJ03G+h1XYU/YC6oRex0nVCa6QAom6ab8yBITa0LcgoO9vz5olEryHQkE8OdB2BAvdHgbpH45TkUYzplYWLQM4yaJkj6Ai4DrdPrlLB6ICIHcftLdI2YyKBI4XRlprNmHsWIXcbY0LZl/ckA75OQmP6n9jXb9xdXqFAMBlxTqY5NYES7z1sraucNNFD227ufaloZCBCL1dD1GFKaIMW/heSXmnrlolLmMWSf+l5Gzov6F5/lEel7edHeTivzOpT9/J9BTte1vMFSfV3plN88h17T3jtOUM=;5t3AYki6sQo+qIzJ9B3kxg=="
 ---
 
