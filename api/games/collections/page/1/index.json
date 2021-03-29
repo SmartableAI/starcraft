@@ -224,7 +224,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 64,
+          "heat": 69,
           "tags": [
             "Live"
           ],
@@ -257,7 +257,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 54,
+          "heat": 55,
           "tags": [
             "Live"
           ],
@@ -290,7 +290,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 53,
+          "heat": 54,
           "tags": [
             "Live"
           ],
@@ -323,7 +323,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 52,
+          "heat": 53,
           "tags": [
             "Live"
           ],
@@ -341,7 +341,7 @@
         }
       ],
       "size": 19,
-      "heat": 64,
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
@@ -744,7 +744,7 @@
             "StarCraft 2",
             "Protoss"
           ],
-          "heat": 55,
+          "heat": 53,
           "tags": [
             "Live"
           ],

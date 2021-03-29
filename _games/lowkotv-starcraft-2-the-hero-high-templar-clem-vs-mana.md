@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=AStoNIlNzbo
 type: video
 length: PT29M46S
 publishedDateTime: 2020-07-16T10:35:27Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AStoNIlNzbo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "O2AGpIwgqdvp9u850stZcOzbIcY17B3XN8e7Z5Rc25eq9V2puSeYK++ykolES6V4cB9h+kCu32HLEdMR3tV49jU2WhkJXRKS51fvKM51hBK5z+cUcvs2+1NBWAq525cAYYgO6aNIQanGQPCSC4NN7U+2ZNncGnANGEgFuyNnYTR7QDZGds2S2ZjLwnwVcKstElmszZ1Y6XKP9m2ypFKRz5PbzHiIZAdmudzVv9OSvOO7ts9+NVsxSw2SG/ovmgsmOxUIFWTnNbHOAZ2TLdDcEVLeN8niY5Lsv9IWhrHolNvYF5qX4/o7vaH5ZK/zCN+AxIw7hUW2qcKj5up+Ie3UDIm5ukEZZQfIckh6DLiTTSGSiLk/GqaNgJGhZtuHmhiK14PzDNu+mWsHL+xkC+qeuYkdDKT3J9OC+ixXCTfAPog=;ZfHkGOahAOmLTW/ZdY/pig=="
+secured: "CtMio0bM5Wpc822V/AMASWD9fpxUc3z6XPXEHkwkdk6MJaSrPBctTmVrZbkizusyrUSyjFKqkec791r9bVwR5++NF7d2DO4vdUGaskppYl3D9IaqE2fclZ/oNC+vjfOFJogL7c2l+ccK7jXXDEr1PIXoCVlcorVrSHpOrcXzflaw1pDT5W2lnAyfKcYMEaCUy0vuq1Pq+mu4RiJBnQKF0HgYGFrfOKNphFMrjrnwdPBIQXApJupreFwQ/lb+04DZz7DWinUCOApM3YnwrkZFPiE+NYJ4aRG+eXKuQRUQp4mqtmmvZRjBmVeQmms1fnwQMUfD14pZgt5vMoSNsglY5flbpFa3LsPOuMChXbnWYsCS40XtU/+nv7YK/Z8m5g2tDMBB914aOcgd9opTl1girWgqt/cvjRfsFPdCC2V9T9U=;nw4hr4Kolo8YXlMb1wBwgw=="
 ---
 
