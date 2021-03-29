@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+    excerpt: "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course."
+    publishedDateTime: 2021-03-29T07:23:00Z
+    webUrl: "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 65
+    images:
+      - url: "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
     excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
     publishedDateTime: 2021-03-23T13:00:00Z
@@ -110,20 +126,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
-    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-    publishedDateTime: 2021-03-16T14:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Gfz1OHb4qreOKfrlZhaDtCkgb0HkUfy+6ZSEZi15ZYkFUfl308OMkhvQ35LjxxVfEZPplagpwKxu9tqR85pQyG2+Wp0RIO/hp9cHcWr3/ojrYOkacEGpd7lDWMshVj/uDlvaLF7MLK8AjRzeyMjAYIudoBxn7TTjZrXU8xQP2OHU0R5U21I5z7ifcQWl+OEZydpEJ1IQXY6kmSn/HWUc8EuoRzwtWXgnlUzY88JLpkJ/yJlNPtu0Obt7lpXX1ZPPXY/olXKvx18FQ+LFxxzUvJquLux9HhQC+OVtLYl7yXt/8LHT7w8hvHSzTSrp3odUaRkN6Gp/+OCHk0Kxr76Pr8/99nMR7mLUyNw68IjZ1gdxljsSR5KWxGO/VcwzBaQKsON8uy6FrLh2Lj23GWZLTQzdrfovSqZQW8USjPzH5dgfCDYEEcWe3W82qRYRotgA0st17ulT34DJwIHCR7Yxbig442qwXAUTXEziEu7dVEVOyupR0S0CoPJjq0Mh1VMhgPZSm0XMpaQ1DIoQwHNqRg==;WuReKzQsnGPq3NNpSscpNQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizz
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
 type: article
 quality: 63
-heat: 203
-published: true
+heat: -1
+published: false
 
 provider:
   name: Polygon
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+    excerpt: "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course."
+    publishedDateTime: 2021-03-29T07:23:00Z
+    webUrl: "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 65
+    images:
+      - url: "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000"
+        width: 850
+        height: 478
+        isCached: true
   - title: "2019 Starcraft Mossy Oak 21FB"
     excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-25T09:36:00Z
@@ -111,20 +127,6 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
-    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-    publishedDateTime: 2021-03-16T14:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "THICMbC946w1c4qa+mlUYomejnXr9tcvFd75dKsKjNRY6FUZGc5jZ3rZoMSd5iTSc57z3r4d4W1kNygsQ88Bamz4kGKbHTJAAvBitjNYONTQcaRmLYyGkh3sKFt8mbe/kVRXgdylId8faeuBTG/IhB57Rlb46cT755t8YbCohb2iDFPbzS9nr96K5nskAMYNE46InliNc4CuPkcGUcI54TpfX3E6R9d8ooIf0Tw4wBVgYjr+cE8o8WAKqi1erSR73iZRhjK53zVxcbZAtD3Ry4yiDMLfyfvrezAqG5vkT0d6/1HYscdJyYsrOqfi0GyL7uh4KKco/a/um4XMjlK1ift2oFjA92+8xzSDIRBOe4tgfcNkT0BiiAZA0wVnvMfkHROmo8Z6Ntxq3TWKMessU8KC80Af3Iv+4mTUky1o0ZA8Idqa2FVNc4M6rkkk+EIUGMmA4wD3RqWZLSzIhpYoAeUf+FrA2Uw2OxT6dd8R+uUfqsGGmWsptkQmVrrsHgD6tAqPHuqd3NY0AQnFZPH3Zg==;J1kvS1hC/OCeGztAf5g1qA=="
 ---

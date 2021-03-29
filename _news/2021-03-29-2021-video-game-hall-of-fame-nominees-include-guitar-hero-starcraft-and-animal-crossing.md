@@ -1,47 +1,32 @@
 ---
 category: news
-title: "2005 Starcraft RT Series 11"
-excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
-publishedDateTime: 2021-03-28T04:40:00Z
-originalUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
-webUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
-ampWebUrl: "https://www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
+title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+excerpt: "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course."
+publishedDateTime: 2021-03-29T07:23:00Z
+originalUrl: "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+webUrl: "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 65
+heat: 205
+published: true
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - StarCraft 2
+  - Protoss
 
 images:
-  - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
-    width: 800
-    height: 599
+  - url: "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000"
+    width: 850
+    height: 478
     isCached: true
 
 related:
-  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
-    excerpt: "Video game fans pretty much have tiny museums on their shelves at any given time. Preserving history, having a shrine dedicated to a single franchise, it’s all par for the course."
-    publishedDateTime: 2021-03-29T07:23:00Z
-    webUrl: "https://www.timeslive.co.za/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 65
-    images:
-      - url: "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000"
-        width: 850
-        height: 478
-        isCached: true
   - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
     excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
     publishedDateTime: 2021-03-23T13:00:00Z
@@ -90,6 +75,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "2005 Starcraft RT Series 11"
+    excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
+    publishedDateTime: 2021-03-28T04:40:00Z
+    webUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
+    ampWebUrl: "https://www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
+        width: 800
+        height: 599
+        isCached: true
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
     excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
     publishedDateTime: 2021-03-24T14:00:00Z
@@ -127,6 +128,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "g6wMqzFwAPyiaPr8n/0xsne0+ubI5oFhvQDsMBDHBZ+VcE6parqTF70OGReIeKANsUe15+BPzvIjsM2fUsFLds5XMUcYsyTluNIlDwGAzCvTPPLcN0OBLwvI2kOPyKVLodbx4/OZTIZQrT5c3QmbQRzs2CKkjr3DEWSRm4KdaPYCRnP2VWPOwL8kEtxI2ENfZm9JgbHqfeTF75GskqNMtJG0DWwvdWll+Pibk0osgLu1pDugFngzu3hGDHAobjHSfegREjVf3MYT5XKV+rbdAy7BY5Pps/LlzHTJJmctg9ZAWUzhlNVdtYCPEuxKDhCBpS8DtjL167H3W7hC3vgigVzWznGArESJhKKpXaALcIveaKcvSrpalglFiGYpnM1FD0hYP/MA2tVLIKIX+9j+++rYYVid6ZjE49QNoBpKj1wTdJWlHUEamJJMBU751SweUKGKtpu07CyVSVHqOfumDo15rTGULyOmkpf2cs14RQ6521YNP8kCjneJOG6fq55fk3e4a/wTgY46IoHyNqpTog==;d24eaSXs0efIu8BOn9pj2w=="
+secured: "bSH6pAp0driHSo/QvmJxK4gH8QBlXF08oo0rgz5mIvmQB8fMEbuUHbGxvtmvCY83AnsXRaWbp6kY1ipQX+zxuZT/A13HVSUwCDMqs2u6XuT5Hlf7QjO6JsE+8oWHtAiM0+qp39GVpBUrnwjHImAr/PgnM2yJ7o2H6R9sLZzaILkLqWZ3A5GxAdBxK7hJjKvNqb6yvBrjyor8S/U0zBdJgGqDQz6WSLbT7VDrz2xP+VRa8mdxT4tkIAtvqc9/F+sjk48SMTFRQHJO3NWzCRVKx7V0zG8JZnIp6qqB1TPhqIaLK5WSna+PiYxmsl+A/t3Kkzhm+Dr6VWoo/a4P7owS2LdCVB1Splv/hbe8hEacGag=;fbngBEmfNwLyELZIwbMu3A=="
 ---
 
