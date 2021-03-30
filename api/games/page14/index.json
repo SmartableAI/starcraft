@@ -862,40 +862,6 @@
       "publishedDateTime": "2020-01-26T04:47:35-08:00"
     },
     {
-      "path": "_games/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1.md",
-      "title": "StarCraft 2: SPEED RUNNING TO GRANDMASTER! - Episode 1",
-      "excerpt": "Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!  Check out my stream on twitch if you enjoy my YouTube content. I stream about 5/7 days a week - stream start time is around 9 PM CET. Link to my stream is down below.  JOIN MY DISCORD CHANNEL @ https://discord.gg/aJMGAEn",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-speed-running-to-grandmaster-episode-1/",
-      "originalUrl": "https://youtube.com/watch?v=sVaXdHrxIIk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sVaXdHrxIIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M4S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ],
-      "heat": 51,
-      "tags": [
-        "Cheese",
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sVaXdHrxIIk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2018-01-13T05:02:11-08:00"
-    },
-    {
       "path": "_games/beastyqtsc2-starcraft-2-the-best-game-of-the-widow-mine-raven-series.md",
       "title": "StarCraft 2: The Best Game of the Widow Mine & Raven Series!",
       "excerpt": "The new series is here! You voted and I answered: Widow Mines & Ravens to Grandmaster has arrived!  2019 Best Moments video: https://youtu.be/FEAEwkYcUS0  #WidowMineRaven #Beastyqt #StarCraft2 #SC2  Feel free to let me know if you have any suggestions for future videos. I hope you guys enjoy this one!",
@@ -992,6 +958,39 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-25T03:46:54-08:00"
+    },
+    {
+      "path": "_games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry.md",
+      "title": "StarCraft 2: WTF? Mass Sentry vs Mass Sentry?",
+      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  A true test of skill in this series happens when I go up vs another Protoss who is also playing Mass Sentry. Who can out-Mass Sentry",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-wtf-mass-sentry-vs-mass-sentry/",
+      "originalUrl": "https://youtube.com/watch?v=t2LNo5LJKLM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t2LNo5LJKLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M18S",
+      "provider": {
+        "name": "BeastyqtSC2",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ],
+      "heat": 51,
+      "tags": [
+        "Live"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t2LNo5LJKLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-07-21T05:59:26-07:00"
     }
   ],
   "nextPage": 15
