@@ -125,6 +125,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "2017 Starcraft AR-1 MAXX 27 BHS"
+    excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-03-29T09:02:00Z
+    webUrl: "https://www.rvusa.com/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "BP5WdlCN3koSYfl7m53Vj77hc9ANRCf4RrzXtjVhZCsnNLIu4/+RxbAqJ8fbYk7+Smuam5q2RlpEVmUChqn/NNXRUOBY4sO3TnUUMRFV+GJo2k3BY8FLSFNOZeCaTRn+lYALFiZRFLZ8HHy23zpQsAxQUmD07vfl836FWIPgNyNw2aHY0uFi6idFFS2pNdf9LxjP5aMBQP2GR1yhhynR5vNqX7ClqP1kg0EU7JN6BopS9YAduFsHZsheMiUjaEuKk6/S1yYjoNAgwjRks8NmgFSMq8YzMABJ/rvkUzCWau38JlWcxQPIu/KOnTZV5eufX6nG606jWbHr+4H1T0OBXn+6nJfL49aqq/sofzQAJDE=;D3twrJ1MiXJeHMgtyTAFBA=="
 ---

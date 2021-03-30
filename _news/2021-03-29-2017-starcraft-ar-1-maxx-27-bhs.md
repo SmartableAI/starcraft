@@ -1,14 +1,14 @@
 ---
 category: news
-title: "2019 Starcraft Mossy Oak 21FB"
-excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-03-25T09:36:00Z
-originalUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+title: "2017 Starcraft AR-1 MAXX 27 BHS"
+excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-03-29T09:02:00Z
+originalUrl: "https://www.rvusa.com/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+webUrl: "https://www.rvusa.com/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
-    width: 908
-    height: 511
-    isCached: true
 
 related:
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
@@ -57,6 +51,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/rUdmPq9ueRxiSNPrZzIsdEEvwQI=/0x0:1920x1080/1400x933/filters:focal(799x128:1105x434):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69012675/auroboros.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "2019 Starcraft Mossy Oak 21FB"
+    excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-03-25T09:36:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
+        width: 908
+        height: 511
         isCached: true
   - title: "RTS game from ex-Starcraft devs won't streamline the genre"
     excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
@@ -126,18 +136,7 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "2017 Starcraft AR-1 MAXX 27 BHS"
-    excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-29T09:02:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
-    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
 
-secured: "Gfz1OHb4qreOKfrlZhaDtCkgb0HkUfy+6ZSEZi15ZYkFUfl308OMkhvQ35LjxxVfEZPplagpwKxu9tqR85pQyG2+Wp0RIO/hp9cHcWr3/ojrYOkacEGpd7lDWMshVj/uDlvaLF7MLK8AjRzeyMjAYIudoBxn7TTjZrXU8xQP2OHU0R5U21I5z7ifcQWl+OEZydpEJ1IQXY6kmSn/HWUc8EuoRzwtWXgnlUzY88JLpkJ/yJlNPtu0Obt7lpXX1ZPPXY/olXKvx18FQ+LFxxzUvJquLux9HhQC+OVtLYl7yXt/8LHT7w8hvHSzTSrp3odUaRkN6Gp/+OCHk0Kxr76Pr8/99nMR7mLUyNw68IjZ1gdxljsSR5KWxGO/VcwzBaQKsON8uy6FrLh2Lj23GWZLTQzdrfovSqZQW8USjPzH5dgfCDYEEcWe3W82qRYRotgA0st17ulT34DJwIHCR7Yxbig442qwXAUTXEziEu7dVEVOyupR0S0CoPJjq0Mh1VMhgPZSm0XMpaQ1DIoQwHNqRg==;WuReKzQsnGPq3NNpSscpNQ=="
+secured: "zHXClTLD0nSuxucrLvAo2JZhAe9nF3CpqpvGrFYDJczRbLwTpERPD5ygdfFURMuSodx7yJQ7BL+z6IGdkRei8p4fUu8K5fW7T4Ngk9H/qu++aZcNU0E89ry8+fY/8WCfKxulQm2fbrrRVcn0r71prRZUkOfJ19Z+Hd+whc6+zM59qHwv0i5ni0uoRY24zwwLLSVVxz7weHP3oB+fbheHcAKYsWfE/LQSvpKaJrzNrJIO+zCWMDyh4JBX+UZSrML076hKCW4fwh4o78AlhbRGCdDtO3gP0xEM/mYo147K2mQq0Orp0ISZSZqzWGImYMcIAV7oT3d4zdhGIl/1y8DC2Hqq3ZEHyw66TnW95AVEvJo=;j454kzA3YMnn9M4xDV0zsA=="
 ---
 

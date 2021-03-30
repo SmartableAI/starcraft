@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-vid
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
 type: article
 quality: 65
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -122,6 +122,17 @@ related:
     webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
     ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
     cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+  - title: "2017 Starcraft AR-1 MAXX 27 BHS"
+    excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-03-29T09:02:00Z
+    webUrl: "https://www.rvusa.com/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-1-maxx-27-bhs-travel-trailer-3009325"
     type: article
     provider:
       name: RVUSA.com
