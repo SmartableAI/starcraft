@@ -4,6 +4,37 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2.md",
+      "title": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)",
+      "excerpt": "Zerg vs Protoss | Beginner Build Order (Starcraft 2)  In this Starcraft 2 guide we will take a look at a very safe and standard way to open in the zerg vs protoss matchup. We will be using a roach composition that is easy to make and tends to be more forgiving if your macro slips than other compositions.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-vs-protoss-beginner-build-order-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=5MwuNRUcLtg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5MwuNRUcLtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-08T12:45:54-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5MwuNRUcLtg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-co-op-han-and-horner-guide.md",
       "title": "StarCraft 2 Co-op: HAN AND HORNER GUIDE!",
       "excerpt": "The most efficient way to play Han and Horner in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 co-op: https://goo.gl/rTBoJm  Han and Horner recently came out, and I've been playing as much as possible to get them to the maximum level quickly. While leveling them up,",
@@ -225,6 +256,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2.md",
+      "title": "Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2",
+      "excerpt": "In part 2 of my mini series on hyper aggressive TvZ we take a look at some example replays to help you guys out with various scenarios. Hopefully you learn a lot and enjoy the daily!  Mastering Starcraft 2: Hyper-Aggressive TvZ Part 2 #StarCraft2 #Terran #SC2 #guide #starcraft #tvz  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-hyper-aggressive-tvz-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=4Z2G5h0vUrM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z2G5h0vUrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-18T21:09:10-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
       "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
       "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
@@ -273,6 +335,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
+      "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
+      "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=Nr66-65wDKc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nr66-65wDKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M14S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-04T22:21:45-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -349,37 +442,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful.md",
-      "title": "Starcraft 2: Parting's Blink | Build Order Guide [Caution! Extremely Powerful]",
-      "excerpt": "In this Starcraft 2 guide we take a look at an incredibly strong build order by Parting: \"four gate blink\" which he used several times against Maru in the ro8 of GSL this season. It's an incredibly strong build order that often wins the game before even arriving at the mid-game, so it's sure to be an",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-partings-blink-build-order-guide-caution-extremely-powerful/",
-      "originalUrl": "https://youtube.com/watch?v=aPPHx7GAVUo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPPHx7GAVUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-31T15:48:59-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aPPHx7GAVUo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-protoss-aggressive-opening-adept-oracle-2021-build-order-guide.md",
       "title": "Starcraft 2: Protoss vs Protoss | Aggressive Opening! Adept-Oracle [2021 Build Order Guide]",
       "excerpt": "Starcraft 2: Protoss vs Protoss guide/tutorial. Today we're learning an aggressive pvp opening with 8 adepts + 2 oracles. It hits like a tank and there's pretty much no way for your opponent to defend any damage. The question is more so \"how much damage\" can you do?  Protoss vs Protoss | Aggressive Opening!",
@@ -397,37 +459,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yfRfWt7eUlg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful.md",
-      "title": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL",
-      "excerpt": "Starcraft 2: Protoss vs Zerg Guide | Zest's 4 Gate Glaives Attack VERY POWERFUL In this Starcraft 2 guide we take a look at one of the strongest builds in the current meta. We begin with a 12 adept attack which is sometimes also followed up with a dt shrine before teching into the mid-game.  #protoss",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-vs-zerg-guide-zests-4-gate-glaives-attack-very-powerful/",
-      "originalUrl": "https://youtube.com/watch?v=GMsV9rl4354",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GMsV9rl4354\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-06-05T16:44:30-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GMsV9rl4354/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -473,23 +504,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020.md",
-      "title": "Starcraft 2: Zerg Build Order | The German Taxi [Zerg vs Protoss] [2020]",
-      "excerpt": "In today's Starcraft 2 guide/tutorial we are investigating a brand new build that popped up recently called the germany taxi! It's a zerg vs protoss build order that's been destroying many protoss players as a response to the double stargate voidray meta. Let's take a look!  Starcraft 2: Zerg Build Order",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-zerg-build-order-the-german-taxi-zerg-vs-protoss-2020/",
-      "originalUrl": "https://youtube.com/watch?v=igVyxwnfDMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igVyxwnfDMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M39S",
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
+      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
+      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M20S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-12-20T14:08:56-08:00",
+      "publishedDateTime": "2021-01-16T20:26:50-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/igVyxwnfDMI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -500,27 +531,27 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
+        "Terran"
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020.md",
-      "title": "Starcraft II: Protoss Gameplay - Ladder [2020]",
-      "excerpt": "Hey guys, today we're going to doing some Starcraft II protoss ladder gameplay. The starcraft 2 protoss gameplay is in the 4400MMR range as I level up a new main account. Hope you enjoy!  Starcraft II: Protoss Gameplay - Ladder [2020] #StarCraftII #Protoss #Gameplay   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-ii-protoss-gameplay-ladder-2020/",
-      "originalUrl": "https://youtube.com/watch?v=Hbs2J5L6ry8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hbs2J5L6ry8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M28S",
+      "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
+      "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
+      "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
+      "originalUrl": "https://youtube.com/watch?v=kljRMVyUlfU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M42S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-09-08T23:33:58-07:00",
+      "publishedDateTime": "2020-09-02T20:18:04-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Hbs2J5L6ry8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -531,7 +562,38 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax.md",
+      "title": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax)",
+      "excerpt": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax) Learn how to start dominating Protoss players with one of the most standard builds in TvP. In this guide you'll learn how to begin with a mine drop to put on some pressure with the possibility of dealing game ending damage and then transition into a",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax/",
+      "originalUrl": "https://youtube.com/watch?v=F92vx4MNbc4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F92vx4MNbc4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M59S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-02T10:44:27-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F92vx4MNbc4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
       ]
     },
     {
@@ -759,68 +821,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
-      "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
-      "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players/",
-      "originalUrl": "https://youtube.com/watch?v=2ohfdaz-hDI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ohfdaz-hDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-05T16:15:55-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2ohfdaz-hDI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-dark-templar-build-order-2020.md",
-      "title": "Dark Templar Build Order [2020]",
-      "excerpt": "You don't want to miss today's dark templar build order strategy guide! We're learning a dark templar build order(dt rush)! This strategy/build is for the Protoss vs Terran matchup and get's your dark templar (DT) out by 4:30 IN YOUR OPPONENTS BASE by using a warp prism which we sneak out across the",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-dark-templar-build-order-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-dark-templar-build-order-2020/",
-      "originalUrl": "https://youtube.com/watch?v=HJnbfpLiyo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HJnbfpLiyo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M1S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-08-27T14:04:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HJnbfpLiyo8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz.md",
       "title": "Hellion-Liberator | Build Order Guide TvZ",
       "excerpt": "Build Order Document: https://drive.google.com/file/d/1p498T52iQWahcCZs5tKGG1mxBqwqIXZO/view?usp=sharing  https://www.hushangcoaching.com Find personal one on one lessons, guides, community & more -------------------------------------------------------------------------------------------------------",
@@ -838,6 +838,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zNnrd1-eWPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay.md",
+      "title": "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay",
+      "excerpt": "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=tccZgx9HqXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tccZgx9HqXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-09T16:22:06-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -883,23 +914,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran.md",
-      "title": "Mastering Starcraft 2: Take control of the Mid-Game TvZ [3 Rax Transition Guide] [Terran]",
-      "excerpt": "In this Terran guide, I'm going to show you an incredibly powerful timing attack to show Zergs who's the real nerd in town. Let's get to it!   #terran #Starcraft #Guide #sc2 #starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-take-control-of-the-mid-game-tvz-3-rax-transition-guide-terran/",
-      "originalUrl": "https://youtube.com/watch?v=QkyNGd-2E0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkyNGd-2E0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
+      "path": "_learning/videos/hushang-tutorials-playing-vs-voidrays-into-adepts-starcraft-2-zerg-gameplay-ladder.md",
+      "title": "Playing vs Voidrays into Adepts [Starcraft 2 - Zerg Gameplay / Ladder]",
+      "excerpt": "Showing a game that gives a lot of insight into how to play vs voidrays depending on their 3rd base timing  Starcraft 2: Zerg Gameplay / Ladder #Zerg #Starcraft2 #Gameplay #Ladder  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-playing-vs-voidrays-into-adepts-starcraft-2-zerg-gameplay-ladder/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-playing-vs-voidrays-into-adepts-starcraft-2-zerg-gameplay-ladder/",
+      "originalUrl": "https://youtube.com/watch?v=1qvK0KwZ2LQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1qvK0KwZ2LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M3S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2020-07-12T19:38:57-07:00",
+      "publishedDateTime": "2021-02-23T15:42:05-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QkyNGd-2E0o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1qvK0KwZ2LQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -910,7 +941,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Zerg"
       ]
     },
     {
@@ -931,37 +962,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RG4kz4RSEIo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2.md",
-      "title": "Protoss vs Zerg Guide | Learn HOW to stay SAFE!!! [Starcraft 2]",
-      "excerpt": "In today's Starcraft 2 guide we will be looking at the Protoss vs Zerg (PvZ) matchup.  Let's take a look at a simple tip that will help you win in all of your Protoss vs Zerg (PvZ) matches. This is a strategy I use when playing pvz to easily crush the bugs. Hope you enjoy the guide!  Protoss vs Zerg",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zerg-guide-learn-how-to-stay-safe-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=Nr66-65wDKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nr66-65wDKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M14S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-04T22:21:45-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nr66-65wDKc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
