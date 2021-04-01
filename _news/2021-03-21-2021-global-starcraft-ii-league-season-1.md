@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tournament's Last-Place Bitcoin Prize Could've Made Starcraft Losers Millionaires"
-    excerpt: "A StarCraft 2 tournament in 2011 may have inadvertently made its losers millionaires thanks to Bitcoin. The tournament had a prize pool of about $1,000, but also included 25 Bitcoins for some of the losers, which wasn't worth much back then but is a ..."
-    publishedDateTime: 2021-03-12T10:40:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/news/53771-tournament-s-last-place-bitcoin-prize-could-ve-made-starcraft-losers-millionaires"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 32
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
