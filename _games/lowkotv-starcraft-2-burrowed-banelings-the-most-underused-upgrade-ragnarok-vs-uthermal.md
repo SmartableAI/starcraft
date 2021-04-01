@@ -2,6 +2,7 @@
 title: "StarCraft 2: BURROWED BANELINGS - The Most Underused Upgrade! (Ragnarok vs uThermal)"
 excerpt: "Best-of-3 series of professional StarCraft 2 between uThermal and Ragnarok. Some creative plays coming out of both players.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch"
 originalUrl: https://youtube.com/watch?v=aIYvo2vohCw
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-burrowed-banelings-the-most-underused-upgrade-ragnarok-vs-uthermal/
 type: video
 length: PT42M8S
 publishedDateTime: 2021-04-01T11:37:28Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pziJCx4oJCUJm4fv1SYvzJ/0ZR3rNP9tAqTvaQiYqVZ57bZT/gznUDG4uj6iUMbE0cE1l9u4xRfNjQnVCUCojHAJcsH7dljLzSyRFpOPua+DmrwgFKOcqyYJFdsPJ1fFh+yXFq+8HVnuspEzM94JKBQNDsXrjcsoUx+wtohGAYsLiq8uuXPZ6H+dhDu/STsR68GqFDYtgdazZtGnUE/xSz5AGIHXbh95+lb5eN4Q9HeEAAsSju0tD2q4KVpKZeDYK39GBucu4s5Zn33d4Vx5EotLpWtY3SEkuryfmOvVI9wEzvtW7MfP+Reajve6ihcp4TehESZ1hoAKWfQnVenb8oxrJdhH9wIXXEkkg6gd76Ei79Y1LVaMKD7VrAShWo1V5ZRoJFhVlAHq7vclxXmXyA==;TgOxXP3LfF2F7HluoRX+Bw=="
+secured: "q+a7/yuYSO+dtbe84KH49nnu4giehaaQYEaFGaKuLoZltkiiVZl1O05gdWFnvy64aG3IYkriG3f3tJJc8Rngs5UrkFpmU19wDpnxFYYITRWtkkMA0vwCjpePTeGzuJ/aCUnCoGmiEbGlJeP25ukLQ7dAvkprYbyDxtuBGRb6meuFEP7BEG8IAclZuXHQqxGbqzWC0zh2pLyEare5kIV8/4f3mAf910xk2D65PMkJ7pPbjwnNq5A4kadReB4Cx8j74H/P53hSR8wOBhRFXIPpncXdcV1s/V9Q6Vq1EYpNLcvEoqjQU4vRifPBijNEGnDCEqGQjhR3igzfBR3effuhZGgjbeuZuMmwtaK3wAs9Dx5iD87r7A4TgLpi45rqaHitcLHg+71ieHBOgDXmy0vZkw==;hhZJAvIcKsujbvbShO3jgg=="
 ---
 
