@@ -4,68 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018.md",
-      "title": "Learn Starcraft - Advanced Guide (Diamond to Masters All Races) Part 1 [Updated 2018]",
-      "excerpt": "A guide for more experienced players, detailing the things that diamond (and below) players frequently miss, and what to look for! Covers all races and builds. Required: https://www.sc2replaystats.com Replay Pack of All the Games: https://drive.google.com/open?id=16TEQx8mNyKoiKJvymM3l7Vnb5X53HHrX  Thumbnail",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/",
-      "originalUrl": "https://youtube.com/watch?v=jzoixsf3yJQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H7M",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:42-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jzoixsf3yJQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial.md",
-      "title": "Starcraft 2 Newbie Guide - 001 - Tutorial",
-      "excerpt": "A newbie guide for Starcraft 2 multiplayer!  In this first episode, we'll cover the game's very first introductory missions—the Tutorial missions—which are designed specifically for players who have never touched Starcraft before.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-001-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=1wcWMqzUQ2k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1wcWMqzUQ2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M31S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-11-26T17:00:09-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1wcWMqzUQ2k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-climbing-the-ladder-high-grandmaster-protoss-plays-vs-4400-4800-players.md",
       "title": "Climbing the ladder | High Grandmaster Protoss plays vs 4400-4800 players",
       "excerpt": "Live high-level protoss ladder play. Unfortunately the footage came out quite choppy at some points and I was considering just not posting today, but I will post it anyways in case a few of you want to watch still. I'm trying to figure out what the cause of the lag is and hopefully I can get some cleaner",
@@ -973,6 +911,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4Z2G5h0vUrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran.md",
+      "title": "Protoss Gameplay Starcraft 2 | Storm vs Terran",
+      "excerpt": "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=YhmpwiCGw5c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhmpwiCGw5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-03-02T19:37:50-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YhmpwiCGw5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg.md",
+      "title": "Starcraft 2: Defending Mutalisks [Terran vs Zerg]",
+      "excerpt": "In today's Terran Starcraft 2 lesson we are looking at how to defend mutalisks in Terran vs Zerg  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-defending-mutalisks-terran-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=WPLvSCJNvkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPLvSCJNvkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M25S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-11-08T12:36:07-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WPLvSCJNvkM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
