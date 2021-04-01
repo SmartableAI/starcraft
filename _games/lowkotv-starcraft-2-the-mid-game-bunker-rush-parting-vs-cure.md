@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=bWYd0T8I6Ts
 type: video
 length: PT27M7S
 publishedDateTime: 2020-04-28T10:02:55Z
-heat: 55
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bWYd0T8I6Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YUbwfB8EbJFh2IvEiQP5nI8BSeV1T85Xy7WXgALG12N+HVYmXzkA5vm5kPWSpeRyOrPD8FIK/NmOHeWeczKOIYNtHCyFTTgtYb0qXeb/rrYr4CJr2jg9BO/lJWttmiUKz2BX7KtS0EubBJeOfYACOr/je7T1KJVR96mlx8UrZ1suNPXQ8pBHUCL/XkhJm66bIghYBnagOB7YIu33m+xcHO2ttzE01kKt1yDxadyHhA5NuMj0rMOwFJdnJGk3VJWGZd+XWqmSnYdEwtEtpHd1OH4p+SRHK0KuajzS1XgzPu5Cr3zCNBupFHfH8GRqUZB+QJMCkNctVFMM4n/HyMNN7xRwXz9fyfSfn+FLA3Uw/Fj4NNuNizllIUbNPS8LT6fXepyRtqRHjHeWcbRE4cz0rVB5ayeAZz/GSWXtfcvELuMrmPeDYv372QTfvP5gqPrg;GmqDEGoYhYIi74C691sbrg=="
+secured: "IoT+E5nWbPNrfrTEkwV58li4AMvltCoADj/F979ppqhnaT6iBdfLGieYdCDFIxH+pnv6k3XMXE3fIq4+b6H51nldBlvWKtKPjf9wcyRalvit1WiUhZ0/GkCjTJ7FptuxtPJZECG0un9KOJ5MRbwBNp+kBujsmDPAQR5qJDQaG75svxDwgjqv/Hn/LxBqrA2x/vM/vhwr4pDCwzNUD+7UfGRNJezpH5rK2jwbP316FUdmirjQEVKjm1K0ZgwFlPO34Ee7FeeSDdwslQxYMCcavcjgeOIE6RZ6VX9ien3+HDb/OFJfltVvRpPSQSXeGKQo1hUehbRgAx9Et/ueEmamhdEVRn9SQuD8hzHLkN6GXaVRyGBhUuJDetStW2DxCJ861VFXJtpZ/b++Q2W9i8ykEM+lS0YB3WLwoI2YeceyIRbiMa2YjNsC9qs8OCmdQLGk;MlQWhvBTKkkD9he9nh91tA=="
 ---
 

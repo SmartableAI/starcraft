@@ -50,7 +50,7 @@
             "StarCraft 2",
             "Zerg"
           ],
-          "heat": 109,
+          "heat": 115,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -128,7 +128,7 @@
             "Terran",
             "Zerg"
           ],
-          "heat": 64,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ZX1dmv6aTAE/maxresdefault.jpg",
@@ -224,7 +224,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 61,
+          "heat": 65,
           "tags": [
             "Live"
           ],
@@ -257,7 +257,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 54,
+          "heat": 53,
           "tags": [
             "Live"
           ],
@@ -290,7 +290,7 @@
             "StarCraft 2",
             "Terran"
           ],
-          "heat": 53,
+          "heat": 52,
           "tags": [
             "Live"
           ],
@@ -341,7 +341,7 @@
         }
       ],
       "size": 19,
-      "heat": 64,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dTWvlG6Lork/maxresdefault.jpg",
