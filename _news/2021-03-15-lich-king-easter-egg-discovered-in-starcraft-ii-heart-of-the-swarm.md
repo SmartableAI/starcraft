@@ -94,20 +94,6 @@ related:
         width: 390
         height: 548
         isCached: true
-  - title: "Top 5 Zerg players of all-time in Starcraft 2?"
-    excerpt: "As a Terran player, we love to joke how Zerg requires less APM and less skill but I’ve been watching a lot of ZvZ lately and I take it all back."
-    publishedDateTime: 2021-03-12T11:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/53907-top-5-zerg-players-of-all-time-in-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 54
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
