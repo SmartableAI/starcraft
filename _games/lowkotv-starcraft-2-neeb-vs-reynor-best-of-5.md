@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-neeb-vs-re
 type: video
 length: PT1H6M46S
 publishedDateTime: 2021-02-17T12:39:22Z
-heat: 157
+heat: 151
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-W21W1MlUgA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OA3vTr0A8Y3wWRCwh7knCgH+PjpMny1bngJrWw4M6GYFV99PLb/OycpWoxzNGFuGL9NmL28TfnSO/fWn8FSH/F2A71d1mvRItAGqD0d2/UCjjamk8EfGxpIld5OKX3IbKEnWMowgAGznMSpc0FPY/a3bppWSr2uSRsW9cVesZ0HEL00gDu/i1HtMpG6m4PXL8tzrPMYcLXfCu5S76Cs6HLSvHAawr8WghLqTTcr7XMaqswAjQD/gbeSB042Q8w83kHonRtHUAx5Szic0vpnpKlL4hOE8i8mv1uj4Nw6BLLT8USLpjoF6DiTxV97UOjS3WDGXbyql4GgG+dsR4IRWRfRv/1vOul7HmiJvVdgn6S1hf4oHiTXW6wNYSj69MyV/iVWfpzW9U0mCcLb7+zn43/ZhI6Yp+oMhwv48fQV80HpvSvKNOOhtY3pbM7tSrQgG;MZwdhIwI0wurl5b+hac95A=="
+secured: "SZYRJmmq11ZYeGR6AOVfyc2duQYMZ5TcQFqC3QXrG93fs1gZQ+4DkjjTf51XFlh2luR5koCGo01AMz3cOkFg3MX5ciULF3haZ9+iKarmrnMLIfGGn2ZcwZiZ+oV2mTYCfaP9HNCOqJrrHcc1kXQ+IAPshq6bTnAlRknLPZpJQZXAhAuTmMOJVZ2rGhhgH9WRwD2MIVJOBZEeC5reTiEzvJPsgabXaAgGlHCr5Daa0L+kAYj1ZfemzLuaSyF0kH/Gnxtb4qisBs3GPbPCaHqAZh+3C4RhqPkrT/D5k5K84eIntKASu+aRo4nPpb3tOWEAH//IGdSbTNBtExB6GxW0/SJQMZ0WpuDy+99GAMfIsBZkOS/SyCpV4nOrJ/+OLRigMVqxDlpujVeTWE+9Fnxf5BpinjL/IYFku3vQ1+RTTHKsN7t9160hgtWrBAAZOlwd;CkehxVRsbPeF+6gPdBxVOw=="
 ---
 
