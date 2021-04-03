@@ -42,22 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "2021 Starcraft Super Lite 242-RL"
-    excerpt: "Starcraft Super Lite 242-RL Travel Trailer #YT5233 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-14T07:40:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39105/i/2989189/o/1_39105_2989189_120376731.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
     excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
     publishedDateTime: 2021-03-15T00:00:00Z

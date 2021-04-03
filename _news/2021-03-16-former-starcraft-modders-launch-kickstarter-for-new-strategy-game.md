@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 Starcraft Super Lite 242-RL"
-    excerpt: "Starcraft Super Lite 242-RL Travel Trailer #YT5233 with 2 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-14T07:40:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-242-rl-travel-trailer-2989189"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39105/i/2989189/o/1_39105_2989189_120376731.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "2019 Starcraft Autumn Ridge Outfitter Single Axle 182RB"
     excerpt: "The state of Florida is a favorite among RV travelers, and it isn’t hard to understand why. Snowbirds flock to The Sunshine State in the winter months, and many full-time RVers choose Florida as their domicile state because of the legal perks like no ..."
     publishedDateTime: 2021-03-15T04:41:00Z
