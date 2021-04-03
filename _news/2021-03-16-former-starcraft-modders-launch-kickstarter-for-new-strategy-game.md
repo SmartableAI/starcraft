@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/forme
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
 type: article
 quality: 97
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2019 Starcraft Autumn Ridge Outfitter Single Axle 182RB"
-    excerpt: "The state of Florida is a favorite among RV travelers, and it isn’t hard to understand why. Snowbirds flock to The Sunshine State in the winter months, and many full-time RVers choose Florida as their domicile state because of the legal perks like no ..."
-    publishedDateTime: 2021-03-15T04:41:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
     excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
     publishedDateTime: 2021-03-19T02:13:00Z

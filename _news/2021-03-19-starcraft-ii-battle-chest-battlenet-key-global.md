@@ -42,22 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "2019 Starcraft Autumn Ridge Outfitter Single Axle 182RB"
-    excerpt: "The state of Florida is a favorite among RV travelers, and it isn’t hard to understand why. Snowbirds flock to The Sunshine State in the winter months, and many full-time RVers choose Florida as their domicile state because of the legal perks like no ..."
-    publishedDateTime: 2021-03-15T04:41:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-autumn-ridge-outfitter-single-axle-182rb-travel-trailer-2996097"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/38409/i/2996097/o/1_38409_2996097_120525163.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
