@@ -90,6 +90,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
+    excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
+    publishedDateTime: 2021-04-03T15:54:00Z
+    webUrl: "https://www.pcgamesn.com/former-blizzard-rts-game"
+    ampWebUrl: "https://www.pcgamesn.com/former-blizzard-rts-game?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/former-blizzard-rts-game?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 46
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2021/04/StarCraft_2_Legacy_of_the_Void-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
     excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
     publishedDateTime: 2021-03-24T14:00:00Z

@@ -105,6 +105,22 @@ related:
         width: 800
         height: 599
         isCached: true
+  - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
+    excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
+    publishedDateTime: 2021-04-03T15:54:00Z
+    webUrl: "https://www.pcgamesn.com/former-blizzard-rts-game"
+    ampWebUrl: "https://www.pcgamesn.com/former-blizzard-rts-game?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/former-blizzard-rts-game?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 46
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2021/04/StarCraft_2_Legacy_of_the_Void-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2019 Starcraft Mossy Oak 21FBS"
     excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
     publishedDateTime: 2021-03-25T09:36:00Z

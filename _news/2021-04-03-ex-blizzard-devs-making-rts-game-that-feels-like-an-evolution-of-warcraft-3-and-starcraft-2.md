@@ -1,28 +1,28 @@
 ---
 category: news
-title: "RTS game from ex-Starcraft devs won't streamline the genre"
-excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
-publishedDateTime: 2021-03-25T15:36:00Z
-originalUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
+excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
+publishedDateTime: 2021-04-03T15:54:00Z
+originalUrl: "https://www.pcgamesn.com/former-blizzard-rts-game"
+webUrl: "https://www.pcgamesn.com/former-blizzard-rts-game"
+ampWebUrl: "https://www.pcgamesn.com/former-blizzard-rts-game?amp"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/former-blizzard-rts-game?amp"
 type: article
-quality: 57
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://www.pcgamesn.com/wp-content/uploads/2021/04/StarCraft_2_Legacy_of_the_Void-1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -74,6 +74,22 @@ related:
         width: 908
         height: 511
         isCached: true
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
+    publishedDateTime: 2021-03-25T15:36:00Z
+    webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "2005 Starcraft RT Series 11"
     excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
     publishedDateTime: 2021-03-28T04:40:00Z
@@ -89,22 +105,6 @@ related:
       - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
         width: 800
         height: 599
-        isCached: true
-  - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
-    excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
-    publishedDateTime: 2021-04-03T15:54:00Z
-    webUrl: "https://www.pcgamesn.com/former-blizzard-rts-game"
-    ampWebUrl: "https://www.pcgamesn.com/former-blizzard-rts-game?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/former-blizzard-rts-game?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 46
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2021/04/StarCraft_2_Legacy_of_the_Void-1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
     excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
@@ -154,6 +154,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "Ae0m8GXDjdF3h1g+o/4onwTI+5rWDFNytMkWIlpo8CjKVXCVcmSLfOzrB9TfSdMwDNquBlaVkUmkvw7IjD2CRXanxCCI0x0gONc7AfTXOiwzdf+O6GQYd6qs4dQboUITRz11Bde4JL158/KYisGaCtRhBuoKlWzV1f7pH2fhZbwUHf9cvUJxgVtcfiwID0L874Pyg8TUJWAF66yn4rfYoQKu04wSLWsCgayQuH6ZigBLaeTogxpX24Hm6Oo87zJoYoCNwW9jcmRhDy+TgV3fiUUh+CBhhP2YxUqevFWqSMTx6Wp5bhbfqhzYCCohA0Oda+Y0SPyt6IstT9hx9i9E65WQGWdCF7jgjoPH2eXXSTI=;YXfrus0W/RjeAwtsEXCu1w=="
+secured: "8tcYO891OjkG6al2OnUKoM8Sddb4+JG301E3xaxQTt5QlqewzzF8HQiYTt+o1qgmdfePNv8een0XZHDJjAISWNeshitHiNBmBuH3w5AGiWCpP0LjhmCbe8U56BxL84EzZMCC0cMN/iN8BG4j987MCMmzQuld8Ar5qWmR/i0n+Iq8l78R+aLw5RuM27S/J+8Yd9RbQwbLCMR677EkrerMchDJDkbrj7povC6eZISDFYjSlbroDqpDlEHndxYrPjHIDO4DXumTJT4orhr1UHrUb3ytJeWLOCyQBs9A9GliBDQlNIGykVQs7pWRteCA8TyoyUZML0mugaeG8uvbF8iG0K3XERWMX9VatRvtcCzqWik=;1Eqxv90VXhQAGts6Xj8stQ=="
 ---
 

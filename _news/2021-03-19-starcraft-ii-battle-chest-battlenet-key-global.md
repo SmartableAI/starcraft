@@ -58,22 +58,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Lich King easter egg discovered in StarCraft II: Heart of the Swarm"
-    excerpt: "\"There must always be a Lich King,\" Bolvar reminded us, and he really, really meant it. Across all realities, in every Blizzard intellectual property, there must be a Lich King. That's right, take ..."
-    publishedDateTime: 2021-03-15T00:00:00Z
-    webUrl: "https://www.engadget.com/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    ampWebUrl: "https://www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2013-03-15-lich-king-easter-egg-discovered-in-starcraft-ii-heart-of-the-sw.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 57
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/X_xSk6p6unxKbVbF5bCBxg--~B/aD0zMjA7dz01ODA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/wow.joystiq.com/media/2013/03/lichkingsc2header-1363381362.jpg"
-        width: 580
-        height: 320
-        isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
