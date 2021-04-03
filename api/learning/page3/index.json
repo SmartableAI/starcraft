@@ -4,6 +4,67 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018.md",
+      "title": "Learn Starcraft - Advanced Guide (Diamond to Masters All Races) Part 1 [Updated 2018]",
+      "excerpt": "A guide for more experienced players, detailing the things that diamond (and below) players frequently miss, and what to look for! Covers all races and builds. Required: https://www.sc2replaystats.com Replay Pack of All the Games: https://drive.google.com/open?id=16TEQx8mNyKoiKJvymM3l7Vnb5X53HHrX  Thumbnail",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-advanced-guide-diamond-to-masters-all-races-part-1-updated-2018/",
+      "originalUrl": "https://youtube.com/watch?v=jzoixsf3yJQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzoixsf3yJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H7M",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:42-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jzoixsf3yJQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys.md",
+      "title": "Learn Starcraft Tip #2 - Camera Hotkeys",
+      "excerpt": "Useful for all races almost all of the time :) More detailed guides/tutorials under the learn to play starcraft playlist.",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-tip-2-camera-hotkeys/",
+      "originalUrl": "https://youtube.com/watch?v=t4Ml0nAWcig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t4Ml0nAWcig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M56S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-10-23T11:17:42-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t4Ml0nAWcig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2.md",
       "title": "Build Order Guide | Double Stargate Phoenix [Starcraft 2]",
       "excerpt": "Super strong, defensive protoss vs zerg (pvz) build order guide. This opening is going to give you incredible map control over zerg in the mid-game, letting you scout exactly what is coming your way and making it easy to feel in control of the game. This build also completely owns mutalisk transitions",
@@ -125,37 +186,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021.md",
-      "title": "Learn Starcraft 2: Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2021]",
-      "excerpt": "Today we're looking at a Starcraft 2 protoss vs protoss build order. This week we'll be covering lots of pvp tutorials & guides. But first things first, let's get us into the midgame with a safe opening!  Protoss vs Protoss Build Order - Safe Stalker-Sentry Opening [Starcraft 2 2020] #ProtossVsProtoss",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-protoss-vs-protoss-build-order-safe-stalker-sentry-opening-starcraft-2-2021/",
-      "originalUrl": "https://youtube.com/watch?v=PD6PYQBfF6Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PD6PYQBfF6Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M15S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-06T20:41:15-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PD6PYQBfF6Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     },
     {
@@ -986,37 +1016,6 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz.md",
-      "title": "Hellion-Liberator | Build Order Guide TvZ",
-      "excerpt": "Build Order Document: https://drive.google.com/file/d/1p498T52iQWahcCZs5tKGG1mxBqwqIXZO/view?usp=sharing  https://www.hushangcoaching.com Find personal one on one lessons, guides, community & more -------------------------------------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/",
-      "originalUrl": "https://youtube.com/watch?v=zNnrd1-eWPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNnrd1-eWPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M2S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-30T17:18:13-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zNnrd1-eWPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],
