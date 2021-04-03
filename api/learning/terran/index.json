@@ -4,37 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
-      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
-      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
-      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M20S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-01-16T20:26:50-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-why-scientists-wont-settle-for-any-other-build.md",
       "title": "WHY scientists WON'T settle for any other BUILD",
       "excerpt": "In today's lesson we're looking at a terran vs terran gameplan. Was supposed to be the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -128,6 +97,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
+      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
+      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
+      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-12-08T18:09:09-08:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-terran-build-order.md",
       "title": "StarCraft 2: Terran BUILD ORDER!",
       "excerpt": "A very powerful Terran vs Protoss timing attack. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 guides: https://goo.gl/Njw8ay  In this video I discuss a match that of Terran vs Protoss from aLive's point of view. He's a very powerful Terran player, who executes a very clean build",
@@ -149,41 +149,10 @@
         ]
       },
       "publishedDateTime": "2017-05-19T06:23:58-07:00",
-      "heat": 65,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KK4Trit-MvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020.md",
-      "title": "Learn Starcraft 2: Terran Build Order - EASY & SAFE [Starcraft 2 2020]",
-      "excerpt": "In today's guide/lesson we're looking at how to execute a terran vs terran (tvt) build order. Was supposed to be just the opening but I got a little carried away so you're getting 19 minutes of raw TvT information. Get out your notepads ;)  #BuildOrder #TerranVsTerran #TvT Terran vs Terran(TvT) Build",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-learn-starcraft-2-terran-build-order-easy-safe-starcraft-2-2020/",
-      "originalUrl": "https://youtube.com/watch?v=CupNHJotqmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CupNHJotqmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-12-08T18:09:09-08:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CupNHJotqmQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -250,7 +219,7 @@
         ]
       },
       "publishedDateTime": "2016-12-16T08:09:20-08:00",
-      "heat": 58,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OwowRArz5Do/maxresdefault.jpg",
@@ -281,7 +250,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2017-11-19T09:08:52-08:00",
-      "heat": 57,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qL9Ns0ORolo/maxresdefault.jpg",
@@ -499,7 +468,7 @@
         ]
       },
       "publishedDateTime": "2019-09-17T01:59:58-07:00",
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZOY5ctizPK0/maxresdefault.jpg",
@@ -535,6 +504,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yCBRHiAlvv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
+      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
+      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M20S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-16T20:26:50-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -907,39 +907,6 @@
       ]
     },
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss.md",
-      "title": "Learn Starcraft - Beginner Timing Attacks & All-Ins (Terran, Zerg & Protoss)",
-      "excerpt": "A few basic builds that can get you far when done fairly well. Also important is how not to overextend and lose everything.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=8xOuROdh6t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8xOuROdh6t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M11S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:57-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg",
-        "Terran",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
       "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
       "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
@@ -990,6 +957,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Bo61A-koxDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs.md",
+      "title": "Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs",
+      "excerpt": "In this episode of the mini-series Hyper-Aggressive TvZ we take a look at some micro techniques you can use in your own games to significantly improve the performance of your army. Just don't forget to macro xD  Mastering Starcraft 2: Easy micro techniques (mostly) to WRECK zergs #StarCraft2 #Terran",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-mastering-starcraft-2-easy-micro-techniques-mostly-to-wreck-zergs/",
+      "originalUrl": "https://youtube.com/watch?v=bnT1opNwMQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bnT1opNwMQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M24S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-20T19:06:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bnT1opNwMQQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
