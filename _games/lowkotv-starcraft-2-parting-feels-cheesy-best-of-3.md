@@ -2,6 +2,7 @@
 title: "StarCraft 2: PartinG Feels CHEESY! (Best-of-3)"
 excerpt: "Best-of-3 series of professional StarCraft 2 between PartinG and Ragnarok. In this particular series PartinG is feeling cheesy as he opens up as aggressively as possible versus his Zerg opponent.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=KBeo72SzCBk
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-parting-feels-cheesy-best-of-3/
 type: video
 length: PT13M40S
 publishedDateTime: 2021-04-05T09:51:37Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dghdSim0dpTWJZRTULMlduITQqzi6Ln7bKzHJO+F370fv+YPybk4rgvsv64rDJF65tKRjOYvi08ZrcvBmHsl6k5Q8qm/6HcoEAJaX6mKRt0UGz8xguv07RrWED99WO577U2ANQZD2+foohTHZBsM5aT+sgAVILOORNBfmrJ/joyixGkEydGbp9yb12LyZEpVrYugiEpc/K6S0yDnxgV24lKJuoz3MkrNyN+D7zyOkMCpdw5rO0YxX7SegQJ5/7ULKNoiOmrkElOYxazBmiPR11BMPtq34tfnCTxPr40x5hmiycuo4w6u7PoENq2MZpwrBQZ7f5SseefauwSbXadPjF59XxK3ChmTbksRvJZXNLK8rw2qNi1nytMUORZbw/fHCQ5ELVy9KuoFzYZLgkuZzA==;gPjiFkRmwKug+eHrnp6f0w=="
+secured: "dj8CSFcUMaklvAhTFXn2g++2w3T1VTIj2/JrrjSXpeBWH4Ufr6WiPX5cf9dKRJAsVmp5USYcGI79iTuv2EgXv1cpUk3a8AXVDuStOaHtTyzpP+cFL24fo5ww8Oy4EYrGiGGtkfr5Kw/1EmwZZdVtZT1s+lt9CAzgnf4j4d47WgXIq7O8mJGSLCa3Rt8TPD6l4elZtI8Nl+dLjROVwPN8+Y5XZZXHGid1ZFzyAAWJEU+NzRMjW+4Z94/hnm/JJUciVwQzMyA0bMDMg99yyWC4c7bwxEH+bYamwOoL9jWXCP983XXA8HF09SAjBIyHXEmyEIUyuvpZVFSB8RGkKcqadyaX1WxHUIu7cgryCq9u3cvU0CzkZ+hbREcwUG8i9YR6bj/fd67h1xJTTO2C1rBgfA==;vKSMA93IWR/w1if81ifuOQ=="
 ---
 
