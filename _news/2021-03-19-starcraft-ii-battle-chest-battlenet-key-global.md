@@ -9,8 +9,8 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: denoticias.es
@@ -26,35 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Former StarCraft Modders Launch Kickstarter for New Strategy Game"
-    excerpt: "Sunspear Games, a studio formed by former StarCraft modders, has launched a Kickstarter campaign for its own real-time strategy game. Titled Immortal: Gates of Pyre, the campaign has surpassed its ..."
-    publishedDateTime: 2021-03-16T06:31:00Z
-    webUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game"
-    ampWebUrl: "https://in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
-    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/156211/news/former-starcraft-modders-launch-kickstarter-for-new-strategy-game?amp=1"
+  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
+    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
+    publishedDateTime: 2021-03-16T14:55:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 97
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
     images:
-      - url: "https://sm.ign.com/t/ign_in/screenshot/default/gamecover-art_nka4.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z
     webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43937-psistorm-starcraft-league-season-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 17
-  - title: "2021 Global StarCraft II League Season 1"
-    excerpt: "A new beginning to regain the stolen throne, a fierce battle unchanged this year. GSL 's league system has been changed from this year to a Code S 16 round from Code A 16 round . -The Code S Round of 16 Group Stage begins with 8 players who won the Code A ..."
-    publishedDateTime: 2021-03-21T02:35:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/tournaments/43988-2021-global-starcraft-ii-league-season-1"
     type: article
     provider:
       name: GosuGamers
