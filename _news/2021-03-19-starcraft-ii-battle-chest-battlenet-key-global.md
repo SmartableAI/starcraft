@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-
 cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
-    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-    publishedDateTime: 2021-03-16T14:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PSISTORM StarCraft League Season 2"
     excerpt: "PSISTORM Gaming has continued to another season of PSISTORM StarCraft League it will be conducted in the Philippines show support to StarCraft 2 in the Philippines. The season 2 are now open for not only the Filipinos but for the players all over."
     publishedDateTime: 2021-03-20T00:00:00Z

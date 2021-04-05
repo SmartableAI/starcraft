@@ -34,20 +34,6 @@ related:
         width: 390
         height: 548
         isCached: true
-  - title: "RIT researchers helping to develop AI systems capable of playing 'Starcraft II'"
-    excerpt: "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II."
-    publishedDateTime: 2021-03-16T14:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/riot-rrh031621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uJYruhYyRuDsOrYNhDPWxeIYFEDNsmW1evmNqfOuJRzIL/74cqYfsO4YezlGqZogYvj3FyT+MaDyke1eO+uT4OjkPNvds3+bx89yYoMRBvHgBrScS020uq7+WnwXcjWhkq/U8kT0EtiTLKtquQ4Vyg7Wrct5oLHyUwYbKg5qGYQvDqkcq5vpFDR2RYeEzzYbMjw5UtyuszFpNtpGSXG9IERGf3DKCLTHuN64qRYAzwul/pFL9lxyQ1Cv9mbmq6fguK1yqx6fdHrIoHegYkaHZgf5fUJe47VdZvxJPaFDAjgfmHgqDmQexdmBcYwn+NqEP180s7GuCn91qxPGcYy5BuPTdHScFKJzBN4XVNVJX8M=;N8FAmCxPKfdfO0fXvWEbyw=="
 ---
