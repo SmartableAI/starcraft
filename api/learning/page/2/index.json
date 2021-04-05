@@ -243,6 +243,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss Gameplay with Commentary [2021]",
+      "excerpt": "In today's video we're looking at some Starcraft 2: Terran vs Protoss gameplay. We'll be covering TvP all week. Let's get to it!  0:00 - Intro/Cinematic 1:12 - SC2 Terran Gameplay  19:00 - Like/Share/Subscribe!  #terran #gameplay #Starcraft2 #ladder #commentary Starcraft 2: Terran vs Protoss Gameplay",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-gameplay-with-commentary-2021/",
+      "originalUrl": "https://youtube.com/watch?v=YS3zcgrN5IE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YS3zcgrN5IE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M56S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-01-15T18:18:51-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YS3zcgrN5IE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-co-op-fenix-guide-how-to-easily-beat-brutal-missions.md",
       "title": "StarCraft 2 Co-op: Fenix Guide - How To Easily Beat Brutal Missions!",
       "excerpt": "A full overview of my go-to strategy with Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Fenix Stargate build: https://goo.gl/uq2FU9  After spending quite a bit of time, I finally managed to get Fenix to the highest level in the game. In this video I explain my default strategy",
@@ -386,6 +417,37 @@
       "topics": [
         "StarCraft 2",
         "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021.md",
+      "title": "Protoss Guide | Includes scouting, reacting, examples & more [Starcraft 2 2021]",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     },
     {
@@ -793,37 +855,6 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran.md",
-      "title": "Protoss Gameplay Starcraft 2 | Storm vs Terran",
-      "excerpt": "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=YhmpwiCGw5c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhmpwiCGw5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-03-02T19:37:50-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YhmpwiCGw5c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-protoss-vs-protoss-using-the-safe-pvp-build-to-defend-cheese-16-times-in-a-row.md",
       "title": "Protoss vs Protoss - Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW",
       "excerpt": "I get cheesed 16 times in a row in Starcraft 2 to help you defend one base attacks in the protoss vs protoss matchup.  Using the safe PvP build to Defend cheese... 16 TIMES IN A ROW #protoss #pvp #starcraft2  Coaching -------------------------------------------------------------------------- Website:",
@@ -976,37 +1007,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
-      "title": "Terran Hotkeys | Life changing tips to setup your keyboard and mouse",
-      "excerpt": "Taking a look at my Terran hotkeys due to popular request. If you want download my hotkeys, you can do so here: https://www.hushangcoaching.com/product/terran-hotkeys/  Terran Hotkeys | Life changing tips to setup your keyboard and mouse #hotkeys #StarCraft2 #Terran   Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
-      "originalUrl": "https://youtube.com/watch?v=kljRMVyUlfU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kljRMVyUlfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M42S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-09-02T20:18:04-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kljRMVyUlfU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     }
   ],
