@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-vid
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
 type: article
 quality: 65
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "2005 Starcraft RT Series 11"
-    excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
-    publishedDateTime: 2021-03-28T04:40:00Z
-    webUrl: "https://www.rvusa.com/2005-starcraft-rt-series-11-popup-3008412"
-    ampWebUrl: "https://www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2005-starcraft-rt-series-11-popup-3008412"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
-        width: 800
-        height: 599
         isCached: true
   - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
     excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
