@@ -74,6 +74,22 @@ related:
         width: 908
         height: 511
         isCached: true
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "2005 Starcraft RT Series 11"
     excerpt: "I don’t know if you’ve ever thought about it, but America is huge. Without sounding too pessimistic, humans are so so small in the grand scheme of things. There’s no possible way one human could ever see every square inch of the world, but there are ..."
     publishedDateTime: 2021-03-28T04:40:00Z
@@ -114,17 +130,6 @@ related:
     provider:
       name: RVUSA.com
       domain: rvusa.com
-    quality: 37
-  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
-    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
-    publishedDateTime: 2021-03-25T15:38:00Z
-    webUrl: "https://www.gamesradar.com/uk/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    ampWebUrl: "https://www.gamesradar.com/uk/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
     quality: 37
   - title: "2014 Starcraft Travel Star 239TBS"
     excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."

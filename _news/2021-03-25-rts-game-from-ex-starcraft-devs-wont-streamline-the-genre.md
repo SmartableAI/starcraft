@@ -2,13 +2,13 @@
 category: news
 title: "RTS game from ex-Starcraft devs won't streamline the genre"
 excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
-publishedDateTime: 2021-03-25T15:38:00Z
-originalUrl: "https://www.gamesradar.com/uk/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/uk/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/uk/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+publishedDateTime: 2021-03-25T15:35:00Z
+originalUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
@@ -148,6 +154,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "0lyB0/vl3E9x2bKLrtQv9/CviBY3FH6WAZ9lthf00N0t/Sxq5M7VH/YmbPYbrkCExSY+34uj8XK/aMwfdtd4yxT2xdd6gsevxq+KB6RIouiS+kEbmzEd+Z4xaK0g/QhlY79RNWz07Yi7kTA+1puoJDppM5JX2MWAMNrmcPEL++A/XtU3IN9la8Es9NnELBcZ9Ng0pVtfe/Vz5k7MlBXfUrW5K6KIlpe1RJwhEhVpoME1LygrikIerO4ul0j01nM1LvBi2V1RJQ+ROU9eCljgwBh5JbvEtmt37BVC7dey/pOG79KrA7VByqkK16UDrATgg+TVFGDxKYrZ3WbDPmMr7b4jhfc88VzDVm4TLVeVm3I=;T2kA9tYBKT4bPmhihIUFPg=="
+secured: "8r5vAp868AKFdqB2NNctEomGk8kD5rSvazcr/PeluxRVAIRSZneJvCldlMaERiO3FoKcR5/Gnxs8q3QD53karDfPmw9Wjwg85JjtbKNpc3diera8MDPaNWgPzwgMiU94yDWrhpJ1HYMeKyLSlgxmCQmiFssske+yeDcHGy5cvmUs8PiQrZl1xftLiEzUqZ/8jG9sSMhwfQXpuqFLqW5B7q0c5fs5mnjcoDu+PLxBpQFQWfFl5BrdzrZW4G9RERg5SgEqb1CL6pNw+N1ZCQfuyovpw+xd5aDWX3PnxwrAtiSlX7ls525n7Wa1BfMVRJnfASMNfUSwt/Vo0qrB1o3hL2ThOfuRw+4kOU/eE5aIKO4=;KpSpuRqHNOyrpCqRbgXR8g=="
 ---
 
