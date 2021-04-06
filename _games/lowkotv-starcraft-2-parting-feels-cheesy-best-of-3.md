@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-parting-fe
 type: video
 length: PT13M40S
 publishedDateTime: 2021-04-05T09:51:37Z
-heat: 254
+heat: 429
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KBeo72SzCBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dj8CSFcUMaklvAhTFXn2g++2w3T1VTIj2/JrrjSXpeBWH4Ufr6WiPX5cf9dKRJAsVmp5USYcGI79iTuv2EgXv1cpUk3a8AXVDuStOaHtTyzpP+cFL24fo5ww8Oy4EYrGiGGtkfr5Kw/1EmwZZdVtZT1s+lt9CAzgnf4j4d47WgXIq7O8mJGSLCa3Rt8TPD6l4elZtI8Nl+dLjROVwPN8+Y5XZZXHGid1ZFzyAAWJEU+NzRMjW+4Z94/hnm/JJUciVwQzMyA0bMDMg99yyWC4c7bwxEH+bYamwOoL9jWXCP983XXA8HF09SAjBIyHXEmyEIUyuvpZVFSB8RGkKcqadyaX1WxHUIu7cgryCq9u3cvU0CzkZ+hbREcwUG8i9YR6bj/fd67h1xJTTO2C1rBgfA==;vKSMA93IWR/w1if81ifuOQ=="
+secured: "YkM1zHEF+jo3XAq2LQij6YDeEu5YEHd8RUmrOhWCMKcL/WfB5iujXv/ZG5qMuN2kCTWuEGujyqqhHAoQvgnZS7x7wVsdXKomvgubUvPPJuwNy+JVSVWSFqJKVLZw+4hraGPm9CsKonRrhpEUgGNR+zBtgYlgFPnHz4+l+Ww+UUDXp82G+i40Y9Ho9Gk9sUlhDSK+DjGWvC94hXOXvd8l6/3AZVMHAFDgW7MiGoqdkFzZLuWyur+ANED1lHT6Xzx0Zf7l62k9dAuvXoS5JvyfG4cVYHCvj0bNNrMQfOZkgIYvWuhNpHbhbQ6D8TbTuMpwdsh+NC0P0f7gixs/MrCR2yezw4h4f7Mjg+lvYy1Nvuzr2Ub5KtA248ZdwyFFuCWAqv5bRvAXIrUGOnDdYKWJlAXxV8VMwU/Ykqi7m9o2gV0=;f2oDjuZ2ewZr7eQ6juzw+w=="
 ---
 
