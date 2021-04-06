@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-ridiculous
 type: video
 length: PT40M2S
 publishedDateTime: 2021-03-18T11:23:23Z
-heat: 82
+heat: 86
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAtJIkXvh84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2rTQnmo1l/xhVetTJJd40S3qLjpZQJmSVCyFyg17BTN7tXzlCWt9xnOEvSgs/jCE7Rn84ZeC2OtySAVApsVBvfvQPOgvxiu6S3Q5IyG24FowUS7sbnE6hbAGvr7q593NV/V2jR7Lhe4dMyimvmk6n3j002TtmRKF4fBku7XNXsPeJty9hJPJX/+yUXcbu/z5UEiI8kRxrKLP1SeFmzKbNWlWpF2tV95Q2hesLfrkJ3xwbmPKVOfLTZXlrM2Kc3yZzrE//cJJlMHC+OgQLLvkDyFjaLkZm2apuDmx6YXV8qnN2mPdt+Cfujpiavkv9DdjH/NDREgtI9Ph5Z3notjIUGxiRU5Jx7mEzbWvItGSouFhDdLPgJ7INzu6MxFsfkHlIAEvorvk/rpgYVd8MRHmazvVCP2TNTX7P0GsnfAMAj0=;TwEZlZ0yMOn1D7nHr7K6PA=="
+secured: "5hEq4PGNcpDyQWaLXuQymRQg4cwqiBCG2nrg9aUZ8JNJJDnMz6AlV663nctBs3Ty9f7sQHorQty5egsP4rnVm1W3c7x9/V0zYulo6TbbNCY4kqOFLUGSQEt+AsPSNbTSPTwuENQOhUmLvXk6vJ2iP2tjwWq+O6HpdORayMG2tO4Px7SkdCEnE0wCARuFN4jU7W9T5UKsaZwdWEXTOLg9yDmGuRNy1Gm0wN/bvv1x2U5pzteGCCzW1itgF4WlbG7JUj23Bg5w9HmzpGzDoQ7ATpsgV6Xyzq6F33I9oSPI73HeIrTluYwFSygdIL9K9KC+fOio90XYSiLApyhqcxa96CpP0Wq32H4xvHbeDnnID6mqxuiWnq2V9ewuqSsinqzULXQ3K2Q6biaA88xdew9Ukb9S1wRqvS11y+JD7w61iDg=;b1z5c/NeWGI/NeqqS93hNg=="
 ---
 
