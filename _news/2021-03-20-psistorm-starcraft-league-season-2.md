@@ -18,21 +18,19 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "StarCraft II Battle Chest Battle.net Key GLOBAL"
-    excerpt: "Battle Chest includes: • StarCraft II Wings of Liberty • StarCraft II Heart of the Swarm Expansion Starcraft II:"
-    publishedDateTime: 2021-03-19T02:13:00Z
-    webUrl: "https://www.denoticias.es/us/products/starcraft-ii-battle-chest-battlenet-key-global.html"
-    ampWebUrl: "https://www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
-    cdnAmpWebUrl: "https://www-denoticias-es.cdn.ampproject.org/c/s/www.denoticias.es/us/amp/products/starcraft-ii-battle-chest-battlenet-key-global.html"
+  - title: "Dota 2, StarCraft, Tekken out; Wild Rift, PUBG in for final SEA Games esports lineup"
+    excerpt: "Approved by Vietnam’s Ministry of Culture, Sports, and Tourism this week, the esports events to be contested this November will be: It’s a massive reshuffling from the list of games in the 2019 SEA Games."
+    publishedDateTime: 2021-03-26T02:05:00Z
+    webUrl: "https://www.spin.ph/esports/final-2021-sea-games-esports-lineup-a1017-20210326"
     type: article
     provider:
-      name: denoticias.es
-      domain: denoticias.es
-    quality: 57
+      name: SPIN
+      domain: spin.ph
+    quality: 30
     images:
-      - url: "https://cdn-products.eneba.com/resized-products/XVpAFfc1GBNazQ6DVlBENYDzcZn-gCBY0WaS2U7asvs_390x400_1x-0.jpeg"
-        width: 390
-        height: 548
+      - url: "http://contents.spin.ph/image/resize/image/2021/03/26/0326-sea-games-esports-dota-pubg-tekken-starcraft-league-of-legends-mi-1616751364.webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "uJYruhYyRuDsOrYNhDPWxeIYFEDNsmW1evmNqfOuJRzIL/74cqYfsO4YezlGqZogYvj3FyT+MaDyke1eO+uT4OjkPNvds3+bx89yYoMRBvHgBrScS020uq7+WnwXcjWhkq/U8kT0EtiTLKtquQ4Vyg7Wrct5oLHyUwYbKg5qGYQvDqkcq5vpFDR2RYeEzzYbMjw5UtyuszFpNtpGSXG9IERGf3DKCLTHuN64qRYAzwul/pFL9lxyQ1Cv9mbmq6fguK1yqx6fdHrIoHegYkaHZgf5fUJe47VdZvxJPaFDAjgfmHgqDmQexdmBcYwn+NqEP180s7GuCn91qxPGcYy5BuPTdHScFKJzBN4XVNVJX8M=;N8FAmCxPKfdfO0fXvWEbyw=="
