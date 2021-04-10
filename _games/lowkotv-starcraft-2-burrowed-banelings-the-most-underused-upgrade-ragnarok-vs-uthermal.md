@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-burrowed-b
 type: video
 length: PT42M8S
 publishedDateTime: 2021-04-01T11:37:28Z
-heat: 171
+heat: 154
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aIYvo2vohCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "am2HpFDtQE5SnLh71B7c1Sh161lVk1jSBrf7gy1h/d+nHSL20XEzOTIoiJwyAuhx3Churg+v7mRf6WsF0yWj22B677ML76coq0ulgcsc2h3HFeyHsomeFnEEm+KTNWfYkWnCIXeYPVt+NcAJW7pag7rpCLdiq1BH36gaen6MqK/uRq+RlvdXncBMvc/d0ai3VxujacqGMF5rtcjXUnR3K0XZ1PCkBKucUhXBJ1tG2qg1rHjoPdNXrjozHbUPO/d65+KJTM5+9BRGmUbcj1uUgy/8q1PfnoZXfiwCgkEGkXbUYg04sDSkTMF5eBdnsbdRWShhspZtvkkYfvhh+QQO6VJauOKeI8f9BJEYl6fX/minLwr02ttaHcYIHvv/LlQTzvnZvcfno+27WAB4CZr5uIs7zH/34lj2gdHO+logdXo=;aQk0v+XRvYtB4bucuX+VHg=="
+secured: "vT0cDIyCP+Bqa2cW4yz1l9VOaXUgaLCxmN5TtY9e5DDykfzd1nn8gFkNrQDITtbkOPOykPZBDnzcAiVkQnl3hvJf5dFfsKoSPvOXj/ElbkF53liI1lUNTItsj1SQCQojQ7GC2p03W3nZCdvaKF/rKqWNARCb38VXwXcrErdivLcRd0s40y6QRWYGkwFM8RSnZxTyLM47EoMGXT/UXf+NpBbKLfsm+ZBfLbBEDjcb/8BSPsqNaqKfJUb+LDcOOCuUI3CSiM/xZHGClavbsJxstceZb9XIopF7gRJQUnyEOnv8sigTDzbBUhNcpShhVmB8mXdy/Gn7ZCOxrrpnnCwE4Fbw/eExORrPee5WoP9cw4avWAOWR7iHtxs9eNrzcCC9Ydn+GdUHhz98JNabiEMFx0EqtbWtYg+/pYDJiY0Uwzo=;aEMpjIE766buUo1z0efpaw=="
 ---
 
