@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=e2--2DSvteU
 type: video
 length: PT16M26S
 publishedDateTime: 2020-07-07T11:05:28Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e2--2DSvteU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kceZskzcgnlKrqWVyK6WX4B0XCqLCxTtyXdLr3YgSUlewT3mmBHK/bUSwUURQqD+2sWQzUSjZEHiM9mSTGMPwvtYgH83lHlLA/kLYVPKYZzQVoL8dQlBVYxoZte2CD220no9ikcyjz35TGXvnAWiIfBeKpOPOnS3m1jcOPLFFKdaXSpT29LYVDJZELMbVbPlWkiJy/d2hmXsi0Sstt+WJjerQVQAGxBa8Cxd12O4HrZteVzQ1upXM7yUGMOo+Ez53aNI/HJslfvBJyc9R4/mYvsrDHdd4bwCffB3+N4OPAPLVH5LvxToDRlEBUKbb+uINP/GNBAIGNqaTExgPpCCTADjD+n+UOgKlwggCOfaTePmwGhcAwBtXxZ5sBcum59F4EQzYVDmxNnUKICj5tdKyLqXz8rp4krXF0E/5DYptSo=;nV8cRURFC7svErrVwWu0qQ=="
+secured: "KoBei/Jipp/pgjKsEQhomTjLdj8ZohOWoc0YgXMZlkQmKq9D4dOM0uqepk8FnwLdUqIIXCh+o6sEJfBzHX65ZMO6DSvHd/YoLfRWpwepUueE2f35LTb8PsnCcM5U1L392DvHwdu8qzVBp9SlvTpZz0l48yK9KMod3p6IN7Y8yArLRj3uGBNwybxaLtDaC45sqs+d8VA7FoIscLkIZdNKt6ZFeZ2e9SHrywLondTM+yO9ZA1cJ22g3Qli3NqO5eQ89PmtkjPNAgDrvDgxS31Zp2EuJP46frIYclXBoUVOsnq3t96egsPdHzGoNxd3GKwc6iT+wQKwhBZCyfpcoXNgZZumhhWgzbEp8+cYVF8UJEwg39o3lVs2e1veo3qS+RspZSmyRBRcM9MCHmz2cd1U0B7EYw3K3IxH1QjCe26deiY=;ZXtSfqbFae6vDl1HDFNPoA=="
 ---
 
