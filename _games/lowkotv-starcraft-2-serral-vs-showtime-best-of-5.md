@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-vs-
 type: video
 length: PT1H18M31S
 publishedDateTime: 2021-01-14T12:25:38Z
-heat: 144
+heat: 136
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jf2lO14J63E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "X9AQSUD+P88huD3iLHYJ7bcfr4GldFgatSPcG7T0P3iAwzS4fLZWkjfFPuanj9OaAKbWyfItJcY1JRT46GokhabyE9F4zSkSvVp8jIKZfNumB1fLOiQ0Z/71qJZRvU6YXqu/LXB0e3syDBeYjWWyPM3R44iyQJ9rTZVcM0CMS9YSH+fB+C5DXVwLiEq+n03mDUFgb/hmtXcjevinwC5E+Au1B51sPpgyQ0/IILPnNzUlEn5Nb/LB3uz2qcVSiUtAs8UEHQFdPBqBMLRElr8RkwWMR3u+GOoMFB/xRRtBveshcUkVVqXQtIMkX9K9XW62CNaEfr+fhmqAeZjQrvCBzWSwy7pikNjZAJsXT91R/Q4oscTRMmVfTxPNaB+BurLeWZrpkEx5QMT592drjl10m5I41k1fWPHCRi8sGKxkLKvsfO0tWdn9ZsSVo16xxryl;pEzE4vvEifem5MwS6t9q7Q=="
+secured: "xldPc12ZJSfTF1AOkRIjqmQc0Xg7EdijGiC3Vx8sHFdrdkL3pqZ+m1Lc+ZS95FzS4xbZfOlvl9dcJmxWu824YdVoicrx0b1DuIpbAQNxFtJu1bPfaNl63rZIViRQTKi0efJQgzpDpK/4sY497hUXGIUXarOATTi/5z1qkkhdXyUfzT/8div083O4ukSYB2D1mWkA1bd/IGas/U0LVPV1g/ZckjDuf1XeuqXpvRDsN6LQ0iYjTDW854C4M+Hke0qWr4rKTJPkNHQ02eS4+erFdQWDF8RawIeSjTYsibAfzAEUtp+pZHg2UuS27qtiCztTyoPQij3tR3q/+33nzl5n6g8kZhm2Sk4C5RDqaKAxTFJXyVJ9ANq6Kvn9utAb86b22ixMDXOuVLd6JELNKcoKhtAfzFNNwdqvRmM/Y49rGGn9EhE1rJKmvnz3f2Mbhem6;JX0n1At3kQO/Cf2Lphz7BQ=="
 ---
 
