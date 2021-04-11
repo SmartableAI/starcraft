@@ -28,7 +28,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 420,
+      "heat": 344,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/YGsBtckySA8/maxresdefault.jpg",
@@ -66,7 +66,7 @@
         "StarCraft 2",
         "Zerg"
       ],
-      "heat": 156,
+      "heat": 158,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ut6nCoAXiP4/maxresdefault.jpg",
@@ -233,6 +233,44 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-01-04T03:39:21-08:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5.md",
+      "title": "StarCraft 2: DOMINATION! Reynor vs HeRoMaRinE! (Best-of-5)",
+      "excerpt": "Best-of-5 series of professional StarCraft 2. Zerg versus Terran series between Reynor and HeRoMaRinE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-domination-reynor-vs-heromarine-best-of-5/",
+      "originalUrl": "https://youtube.com/watch?v=O5v4_d3GxmY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5v4_d3GxmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O5v4_d3GxmY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-10T04:37:40-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
@@ -1122,44 +1160,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-15T03:05:15-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking.md",
-      "title": "StarCraft 2: Reynor's Crazy APM and Multi Tasking!",
-      "excerpt": "Awesome match of Zerg versus Terran in StarCraft 2 between Reynor and soul.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynors-crazy-apm-and-multi-tasking/",
-      "originalUrl": "https://youtube.com/watch?v=rwkoi2sgjNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwkoi2sgjNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M21S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rwkoi2sgjNk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-22T05:05:05-08:00"
     }
   ],
   "nextPage": 2
