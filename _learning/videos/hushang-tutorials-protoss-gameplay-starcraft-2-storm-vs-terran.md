@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M42S
 publishedDateTime: 2021-03-03T03:37:50Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhmpwiCGw5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1T3Owgq6XLNJWMWLYiFAC9QbXNHMnCUM52qkqdS6PCpWnH8rjgw7KSR90BeA9WOlPK59k4JcHsqQ4BKNpWucAq7f6C7y66soe0otWXz70kt0R++5cRQ6rscCG7n2Y24PDKWMky/lJBoiKLKyw7mJXcwiIlsWKjOmVbQbvE0rZmFLZ/UZJrpvR7RcJRH4UkoFjwz+omLFuTCVI7im65FqSQNc6FZqYG4+gVwlDPC69QBBAJEH88JuKsBZPfG/GNjpryX1lmIetN3i7670k/JGaibl4HN5c9Wj8iPQMCn/KZX3w2MieTXS22+nsLYqvRqjUkqoje0XKvUyhQK+GOCWcTNuf4T4kFzIfC2xt7+7mZg8U36Bhs6GAU/U1uQMcGmqrB/GuXowr7zibMK+Hlg4h/il0Jrl4CFtPAsxkw6gh8M=;AnEYTtifHy9hOh5j8GUrcA=="
+secured: "5thAuDISa/EqUCHyuEjEiQ8zv3OP9INXzBECqPoNFnJ5AK2nQkETVsWjkxC2WOHEcE5jXHt7JWqxn/kpdVqtpSHMy1YAGzSX1tscl6Jdl4ZbJGdWixrzeRngCHGjvCMS7RzD2aR+Ynch9Gb6Gbng+d6daeI88YWimmd46MFv6469Wji8VfNENnkCQLAs2x2hXGPovyRYj38daj9K2R0tMjVmIrwenknumcAh2e/CSO5Ozb5V4cOoq3iLn82Yq5kolwxvj8MYDv+SpI5r19DdVoGoh2bfHqUqEkux2qhFGjO4+HHT+TPjUnnhTpFh2rXDXK9uHeUhnetYGM2iWb3nFvJiHijeG1tQaD+r5DG+vI6eMMfxnQw7Sruc0B+O0MYriWpyxRWgeHRBzraU8zj7lOE6snfyMNDePxpZmaL/YSw=;SjKU/XRWnASZJzFuoZMZSg=="
 ---
 
