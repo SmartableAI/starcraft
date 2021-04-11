@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-ridi
 type: video
 length: PT24M4S
 publishedDateTime: 2021-03-25T12:59:08Z
-heat: 83
+heat: 81
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLsxa7TnXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W8tIKSn02G/hHYHhceKv1zUWo+nFu52M8D9cr5qVcLKcC8pxlcMnG/q5AC+JQ0Lh2Nqdrb/TP0pjuTF4tVvK+/nspKpZEDSfUk56S/KIqLhd+u1t+zphZjGePI80RDp/yo/DtVof6qKkxWdaLogJTA8rKdFwSCowU/8q2cRmkkfmYBC+e3D4v2+Ys3Lm+7S2rMJMmZX3UgBR7Epi5XBYMfocHw8UXBixbHDSb5eiFqbDG0vW7eDq5QqKyhJe0EqH9FW5try5skY6AEgGIx3Kn6S0LbDJ6vbeB866pF+FitfxjbScK3IzCFSvzAcvh5W+vDweGaNz9zzE4XwcoHtALa5LVFsKQhq6gAde6ze9UqRRGru6yQfLANrZJJqDu6TaWqb9rcFPmxE8+mQw9XM+gQ1/Tm0DdzUHoY+3RiB7CV0=;9BC/M4LGwfjkQlw6Wn5ijQ=="
+secured: "nhHFlEjrMMF3gOfsdnq5/pkpNaZz4oo6Bivw19QLTjEo06G+oqW4o/Cdfn77N7YjdIsIok/eeN7ZZeWTaG90zr4y1yC2jOJgQOskHAvFvEJMe72cJOAFDIln7yKe/Xmpfn95Z0LXPheY9V7EoEaAhL+ENUDK2aJ7xzCj2jGfOVt8Lo9wLCZoOoyoUq7A6ERTIOqtlQ9UFpGozpxKLwvazMjy7x5r+4USZ9yvKpl41yMsHegW0TCqoSPfyWeDvwr+dVOiVTpmjlmKIg4phjc5LFyIFue/URkv6G75dYln0h6TzjJVZQUoa5vOZAXONcUIjMj7YkoryGP8cb/yNoTwNaOjsVBh9Zx453snY4j8AYb8rrGMXyvw1xqO/ilGsj22ZNXbixE63gTmzspmiwiOBrypa1F5jfaHZgA8wmOayrs=;hlEIGYkUiveF1V3Y1rqrMQ=="
 ---
 

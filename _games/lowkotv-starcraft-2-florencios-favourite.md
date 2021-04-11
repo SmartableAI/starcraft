@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios
 type: video
 length: PT42M8S
 publishedDateTime: 2021-03-17T12:45:07Z
-heat: 73
+heat: 74
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhTomZ3__wU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4Ftt8Ahcr4FTidL3w9kBJJmVHm1GCR8j3rOmLJFlAH0i0ohgTZgKpuVk4QG5EiWU4QKLsWh+0sOUOyyb3J6zjfG+RF4hQqWYDQDbvzfLe9kF9htgybsIENiVky56k5RfVlEbVWIY04k4ZFci7jxqGO5CDgrqfuknsooqsbHSR1xiPTEEFBiMuV2MP1I1D9eeelZ/+PUg3WBxncnJ3ZHhAqbdHUxzjDbYZY/NK4zCj1GbSqO4Mb4BEUi7AHl/9HcHbHHKQIztnsLlX/mzlwKwgP6VHxFuepeZw2gbhy0eNmZVkGBEmlYXG6X8hGJku6FR/8Gv2I7b8aHxNEPq8bJGtUnvfeI4HasHwdQ0XjV362Lnt2UFjXG65LM+dGrkKqXGPwYg2l/FPOEWx42vgPAagEmgOdVtCzrb2TYjJ54yFls=;yld7dM3W9yG5VV700PYxsA=="
+secured: "AesT23F0AzvmI521RVLKDQGnk7eYRULM+DZnzDWP+fFoBTKjW8AUepXyAb+xHiZ7BtY863X/Lk64peij5PFmPwgGSHpr7kWePkDAx+oIYehboDP1ZBsvekIku3lu5sOd7V3UR9r0C+tPiXqNSus6zTFMkh0BfiPQFgffMsw1nY5HxvB8KW+a9qbG+mWFMp7kqtcxLl5goiUd4ftHbenFlRC5GRgsWEIRSPi74FRdNFJC9Xu9knr5rzFRf4uR5DliHjvCAAx9AoAgtFRIoghfb03VS64kO8bcvo5FsisOW4AnwPjMrUI0LPXy+WrhLugL9aRziy44VqAVtZS3VLGPpUdnuYThvUmI6rebq/ZRc0ojVNrueYzbGENG8089dAoKJgMFBOa1UkMBrfeqb6HtTCIn3JIaq+KiG4rVnGE3GJ8=;kCCWPXj/fEYXngfBdHf/Vw=="
 ---
 
