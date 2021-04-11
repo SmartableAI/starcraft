@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5-0-7-patch-notes"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i13.dlrwebservice.com/s3/img.rv/36346/i/3008412/o/1_36346_3008412_120831170.jpg"
         width: 800
         height: 599
+        isCached: true
+  - title: "Does anyone have a guide to all the Starcraft comics out there?"
+    excerpt: "I found the twelve Dark Horse comics were each 4 issue runs that were collected into three separate volumes, but then I found Frontline and Warchest and not sure if there are more,"
+    publishedDateTime: 2021-04-05T01:30:00Z
+    webUrl: "https://www.gosugamers.net/starcraft2/reddit/54137-does-anyone-have-a-guide-to-all-the-starcraft-comics-out-there"
+    type: article
+    provider:
+      name: GosuGamers
+      domain: gosugamers.net
+    quality: 37
+    images:
+      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kJATZBgHSrTuljigVAT44B1xBjSqxSitc8P+fPKUZtWqkuv9JMrWLbEicg12OzIguyamwkoVLXYioLRkgyyQ0cV9NaqUg55BVb2M+GOmK5Sf9giGGK/neTZGaoqR1HECrDQ4T+FTIYQPYnUq9uymH8m/T/At3tEYsVy3omsEEFDnlaMjFHLOV/JAwdWaRvrU4FSHzjXoAzVdZyFAZ8KNsdgyZ/kw6uvzrApOAmXoNAtWT7aupGy5GjEUCa1De9JVT8sg8PbqiSQR2B+OwnSEVmGZ61C4o4hRlwWeQoyLkttdbCs90gnxmxSQjsK7fwlpTZVbvSuV5gPbKRlUigWPOIGxzguAt5pLBYdImw7zgaU=;ySS1DJZUh3rncdbY4OjTqA=="
