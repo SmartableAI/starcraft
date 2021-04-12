@@ -1,12 +1,12 @@
 ---
 category: news
 title: "RTS game from ex-Starcraft devs won't streamline the genre"
-excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
 publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+originalUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
 quality: 57
 heat: -1
@@ -122,6 +122,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "2Jxzx7dFO2GemzaSRqa7TWN/n0klM3SEjz2hbEI4c2nE2Nskqoj5d89PeMi8vxqc78W5uWq+88eT8AfAlZu6c2I4qmRKoyp91vIZi9y+Mvnv9hxOf5Xhwz03u9wspqYZM1a1RFSpMISxIzcBuX5mTO1dNiL6Ftq0Bb/kQaw4jFdfOQ5f5M/WEAPCz6ecLB7yJNIXnulvksCCxUJSSkzKsP3lxgBIgEmPbDPUcUwC7m4Wkbbcx2xLwWFbYapLqmLzwhm1QxmFKY/dQcVTnYUbOxVF41R4oP9lw0P+f8w/tm2blD4wEppQlCoON24ckzT0We9LCAYAdhZ1gzl70m8PolGWoQuGxS45YenxQQDiw4c=;4LsTF58HvNxYtzIhgGdmNQ=="
+secured: "Gy/7aYu1nwPeVSvUSEJQXMpk3aMZg/e0Hd+EIRURMax2cbTFNEEJXwRf3u25/7gToYiXy5f0N/osjVglWBYVNTvitmLbWZGSI56NfS5Wip+2WDzQ42wmC4jFKV6hgBKmRQwDs/d5Y2E/nZS2pBtFJPJqxW/N/hNhmzkDhPa2cMr9ImwJX6u7oKNz72kAxCeI94Fj3g3LIleo9omEwWDtQZZf5fuJFty2lrT2q9edL5BlKu4lH7HZ3PSTcQTNRok9H6JybWjs5No0+DbmxiZILcqM7cHuqG7Wkrpw0PJtYXcJnWPDEsP/V3V6gwoM64W/vQa1TZofYgQ3ggKq7d+Y4aMzPq0+I4pfxVah822QgWQ=;vTCMJPFOFmnyZgIhsq2wEA=="
 ---
 
