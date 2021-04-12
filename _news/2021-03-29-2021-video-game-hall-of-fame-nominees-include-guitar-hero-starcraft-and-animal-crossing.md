@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-vid
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/gamers-live/2021-03-29-2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
 type: article
 quality: 65
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Warcraft and StarCraft co-creator Chris Metzen is building a new world using the rules of D&D"
-    excerpt: "Chris Metzen and Mike Gilmartin are former Blizzard Entertainment executives who helped to bring the worlds of Warcraft, Diablo, and StarCraft to life. In 2020, after Metzen wrapped a 22-year stint at Blizzard,"
-    publishedDateTime: 2021-03-23T13:00:00Z
-    webUrl: "https://www.polygon.com/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-    ampWebUrl: "https://www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22346478/dungeons-dragons-blizzard-chris-metzen-mike-gilmartin-warchief-auroboros-kickstarter"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 63
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/rUdmPq9ueRxiSNPrZzIsdEEvwQI=/0x0:1920x1080/1400x933/filters:focal(799x128:1105x434):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69012675/auroboros.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "2019 Starcraft Mossy Oak 21FB"
     excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-25T09:36:00Z
