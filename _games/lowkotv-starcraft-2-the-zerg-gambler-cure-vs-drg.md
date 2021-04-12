@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-zerg-g
 type: video
 length: PT46M15S
 publishedDateTime: 2021-01-06T13:02:19Z
-heat: 60
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4EkG4cuQ5L0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lVhYxBTmzvflvPwrMHrjC0S2prcJc8Y9CBA4jBy7T0gMN4PUmqPDT+Zq8+C2N/Hn4vExrgLxIONgVNmWmiLRA/MhqMmZOpd3dSEyjAwB1ZUTaXKoUKT1jk1w7iDl022fMjXMMeyWk/9TUXwyW0yaaD7SM6vYEUekSZT3ne7xf4cB9sKAQFYDz/cua6pYw9wlWkeDNWuMzyCJLKOstZQUQGlleEhSS3Bg+LqAPSZLqtRHJ0yOyoQhUavBvgTfyj8CTG8Zj4wJCeKjl9C1gC4dgcnsg1qD5DuMLKDPwSDtwRP59ou3nEP9pU93q4jOEECgoolTwsV/q7uNrpwKiCedL2cU+ydEK9+I2TrRGPQ7Dld99OnyLus0BDKIkZCn4HvDaHNZLXsCnNX4JcwGlUGdvzVN0xYN8UffnQ0M/QEmWgk=;zZfNL8K7r0pcrdoUQpoV7w=="
+secured: "dtCkWzj9hb8IDOaisns43GaBs9qMiw3YO9r9a+WXoLmgahRpHJ+s62UIOvZrdgkKF1WPVl3KfKp+5j7xoUUFP4H0TE07paIrpPRn53sOs/pg2M9MC3WZHZ1Be70m0NIHMFBgEzmIz9/2Yk5QxsSUdanXNiZJTSMIKTCHEIsH2EV8WCAMxwin8KGH9l/zhkpVbBg++/7bZB6DIgcS5Lsbw3soFdgf9d/lIgy4jxScIIckcm83Hhdsd7rGNxRc/PYr4BIqN2sZtIGdgi6ELMM99D08sNyReiO1B0oD4nBEFoRUqtJzH4ELd7+LLux6K13r+SNVqyjym8UcUBhQ60jijNxPF/qorvWZD0xWTWb40944NO/R+jmpFTrV/JhhuYlvKkdpuQ2QOTA9vGpYXSKqDGuIEr7CWEl8MdFsc5p/GxA=;f4hX4zRfJID2mcf1ZxVS4Q=="
 ---
 
