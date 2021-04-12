@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-re
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23656252/the-rise-of-reynor-behind-the-scenes-with-the-starcraft-ii-sensation"
 type: article
 quality: 194
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 660
         height: 380
         isCached: true
+  - title: "2018 Starcraft Autumn Ridge 19BH"
+    excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
+    publishedDateTime: 2021-04-12T04:38:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "CQ/aHdauN/ws0IVdUDlnCa1LSFjrNXziXG1df9kbs7x88b22ERxYC9qZvCIW+HkqrfBvOx9fhxuRorIcgn4rCDEUJsqLcge3c9VyA/gHDxHfxM6/D6iPDnjDZ9h1PPhIYsL3GvsecPEL9UgaVO/CN+APITn9wwUEr0omFyqTZr/gAOp5ZgCE54iQxSmngzLR76QvGVa2Dfl7Bqp5+dDqu5A5RRsmadsaY3TFyKli3CT0P3YI2lcEG5TXsLxkEgVXKWc/ZnfoibKM92pvcXFb5n+mXt/zxCEvAQ+OH7CBwOnmLfJDxXHVCDp+mtfgbLXaQyuvuCRb18QKGGv/mtyvSTfKC+eleb1SFL+8XsZeCbY=;JBSqnO88ovcDzRoj6iOJwQ=="
 ---

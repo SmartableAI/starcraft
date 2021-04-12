@@ -38,6 +38,17 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "2018 Starcraft Autumn Ridge 19BH"
+    excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
+    publishedDateTime: 2021-04-12T04:38:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "DmmrmrF+F73/mIew5Y0cvAmvuViAKjVrzzJwGjvgXSSjNc1NDx3xubesOs3/o3nIeqwwAYf0Un6Rud8uuf6ISUgj9xAVh7wpk4cgr0n8RUZ/427oj0Qnu7aWLzyYJgQxQQSDP2sGC9psAgkWM7qamVRF7Fi5qAJsI4DAoyrrRSLF+U0i5w2Ujt4reZMgp/r/6T/EcrY0xFYIt0QR3innQS3Gt0SL6fTcjECq3ZRmta9/1Mz4aXaCrJUKNC2P4veVz6R6+N7Gc82V9BC6Ri2J53bWchgsSeVJcvkfIqu86VoJbK2/rsA/5EsVDWz3k88vpbhpTmJziouQI+xXG3fCJBQ6lJkneRqs3BfY5d8fb+E=;k9oaxI6FkBsRadBgJUwjwQ=="
 ---
