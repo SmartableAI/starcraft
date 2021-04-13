@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-relentless
 type: video
 length: PT34M22S
 publishedDateTime: 2020-10-22T10:17:44Z
-heat: 84
+heat: 74
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azhpEHcwzMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vSfNwnsLO8QDT2DHevCi/1d/2oh+nWlGBnnwykYEnKcxeVoX5Q1gNvYNy6ukXoNJcX8SmzgrxI39AmcUkBAgJHvYWIkNcftoQsrmv13CimloGrw1zwZx0z5A6HFsxEidTmPbowZWmqlAMUGKoyIqKzvZHnyOg6k+YPolO0IUCoyVxVO2QAie8tF4haA+8vXqXTjlYWouAtYEmo3OXlrgzMWu0vSMmMx9n2rNO2s5wUisoQGpsLbWsjCDNiluia/cg11hV8DM8JHM1J6niwFGJzJwjI2or4upyqhgv5TxUxNizpDjWj/GZ3KcOG4pqMeuRj+RiN1nqo2SNuXbsDOZs/P7U3OlDWL7stCgvDjTLwEpFCstKtveXJ0IEv5h7IASYOt6PzQ/iRbgs+REahrluBd85Z1ywDpRTY1oNRlsktw=;phdHA7/hLyT8WJI7i9hXPQ=="
+secured: "UxToxlBzmc3r/ZSu2qp/MDQ4E07JbBYzNQ3P2F3oDUrESecA2s4KbU0Vnah+v0TufLIjFeIwxPxiE7h99+fN2xL6rmAp2KwAm3XrLnMiVU0t/iUkcudUHfaADOFnxDOa89nPg3xgjKbKEd7cvmBtxhctzC3dd6y4zufMM6BdvvDSy3awpOfCJ0rpSEM0uooVnGaX6h73+N0BqUjyaL4fiLVA6GABxocDjmyKyAnOoqC7E27635t0i9Bo/NE2nPMOd6cZ3Fsf6xKIrylGBXlxsDcsC++9PuUFozPPvvL8zCpNuW0clLpZKmDN5YnQHICPBjWa9frd2nAEW6et473UBtl5LPVfE6uOgmvZjY6c4jDTiNn/+nTcY8DXsUa4dakIyr19ir8RTW0TIshgb9yI+LMwsDWuHTjkNn5ZCp71YYM=;+bmwOE6X9H9FzFhwSnrtww=="
 ---
 

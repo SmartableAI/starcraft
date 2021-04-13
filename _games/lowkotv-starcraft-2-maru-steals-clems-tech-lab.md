@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maru-steal
 type: video
 length: PT21M34S
 publishedDateTime: 2020-11-17T11:05:58Z
-heat: 60
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BZZosGja3cg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aP5RCL2yZMsoJmiJuFprsJC06Xk27om5x1/7OWZ4LEoNGBaM4diLTxjLsUj8/eeVgzmYtOF4uDgy5t9ya3bHdG2Z/m12ix9Qys7LETv8MdzVRzJPUtenoGb36ADX1bB/M0Vaq52sUVVAWAazQTh8yd8gFfpmA6avNujzSmwKDr0HbMREKJqKZ+R0jlj3F0VLXBZr5+n0TgnwQMMRTlyQk14JK6ic7BBCNMKGw8jb6c4vbuStK/150/D2oGpBAD2ELezPA3FKy9W2j/4Ze50yVrqHBvBRLpMTR1wfz7A4Mf5ATOVqmtvZMv0bM9ORltTUBKnfkHHdsOUMnAuXdhw1p5x4gArQG8r1KE1VE1aO3nXXPCSVVIvLgHsTPajXdAlp66tV11+ndKgnsr03evM8pOm8zUck22RNLpI1n+JV4C0=;svKv38TcGJDsGX7AjW00sQ=="
+secured: "R3z3zZRW23OSRXOSD+/Y6uYKQ+66edb04wO4g1XhLzRuwuWmbT+9yKt4G+TMz+wu0Gs5N/8fbLTYk8204Ou0Kt5wbazdumCBRrrcaTJNaIEJzkbpvsO3esUDsRZlkfK0J87Mji/GaqKRymVT55QARdapzmGHSfK9SSsa5Zv85MozYzse6lI+Uygc+0Lae1Y6o4aNZFx3CukK3qElQmQQxkI7osdLD1jMTqbNvmd+59H9p2nS8nbrj1exLyYcDYcHoZ7KRtoSPEYmh2Afy7aXiUBTV+28Fc9fw6mLoryOXpFBydy9byA1WfeuzBymTudU4YTU/peo+ArT7T8wsdi9BCsvn9oUaB/72cFbLmMPY5/MIXbjU3lIQGP9wzTMVg+kMyUECCDyehFqluy+FsFNEhv860pXwzu3NNhn+atnb41rOQTTBztWw7rnF8NK0Z8f;bebMwDfD2bUxOdzqnkaoew=="
 ---
 
