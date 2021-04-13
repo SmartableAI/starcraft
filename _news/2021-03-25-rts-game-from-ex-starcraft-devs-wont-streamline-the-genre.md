@@ -8,7 +8,7 @@ webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streaml
 ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 
 topics:
   - StarCraft 2
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
-    width: 480
-    height: 270
-    isCached: true
 
 related:
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
@@ -124,6 +118,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "oCThQu+hkSGSTfbVXiF+mp2fvst8hlXxVGFCgaIX/WK9PJcePjbkEM61Hn62xJK4v2xSNc1BsG9We1jNl7LRfmzet3Lq7rhTi9xon1GkuAZLJ8PN4Uc7Kzgu07mHOu5AqJ/fGhJcAqaJ6Rfn3Sp33i7eGHY1NBFM+5gJ+Pd5N5jEdpPmjVY48UOyAgDUutPNwgtvSQJB7NM0vkznV5B2B20kgqRDYDdu5fsblI+4uTy32v2TvLhLI8Tu5UCZ2GMyMLEXC7R0Zwlrs8uCE0mS7zCdLFmnXzNQU3M1FbqNG753FdSBgD594RK78G/orQIHEqp8MZR/GOfp4yhnwShpg+Vyovwr7LGqG5ymuHBQCt4=;ezH4oiMGA87By1CjXvb7Ig=="
+secured: "W88ySrge+AhbVHWdSZabkwVAcYLEX+jRTKBA0SAiTcJNGVclL5T4oFQbVBVR8HHnfBN1UNv72J6VgaRKRPcT72l2tq4pTNDowEsSWwvDp43K7tiST6iZr1uXOKG1clRDxkhfyhGCjT/s/eqzCdeVz83Khf1wtMAtJtgDkvni0qyPT/t2KC+ZtsoPxTmqhCsjUl4bVy3Xhj2948NGkk7Fdh8YZUOPDE8b35OhHLbwZ9kKWXK3fDh7cbT2sE6z9/tvO4jfzOFj7XY94GPjlFZ17320yf9nvo54LT/Kcu0XJXC2VzrzT2OsAK9/sdpwVW/DTYPRFFGEVpL8TK54e6ePc7V/r8ExI2boyyePw8nOefY=;KRbVURD+MoBb8H1F7/Bf2w=="
 ---
 
