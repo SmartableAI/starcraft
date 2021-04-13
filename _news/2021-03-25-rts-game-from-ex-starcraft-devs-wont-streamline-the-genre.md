@@ -1,14 +1,14 @@
 ---
 category: news
 title: "RTS game from ex-Starcraft devs won't streamline the genre"
-excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of the genre and a belief that RTS as a whole has plenty of room ..."
+excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
 publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-webUrl: "https://www.gamesradar.com/au/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-ampWebUrl: "https://www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+originalUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
@@ -51,6 +57,22 @@ related:
       - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
         width: 908
         height: 511
+        isCached: true
+  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
+    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
+    publishedDateTime: 2021-03-27T00:00:00Z
+    webUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
+    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=70&strip=all"
+        width: 1110
+        height: 780
         isCached: true
   - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
     excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
@@ -116,6 +138,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "jz5yu0v8aCwkO9MyTJmevfoGGEmocP9E6IKaOYp5wx5LG4hwRvChmPZi0VZuoj0JWYvxjbAoCFxgRv3UP2Tc3nszlld3SRNPe6BoEnNYUQMGrUItDWnS69jZisn2Wvw65nBqCc5dhrwML362fshd6BNrvBfdRwsNoxy9Sf+rUaj9b0J+2eyuROoTJFO1W4ghm4jy4F/jiKXQ3XGuI16bFhUw8DH+rKGjKicT7SKABKEIsHzq7TXR+HMNkiEVD7XK2QlNzlFdstdSyg3tst86NY6USRovcTzSXgXfvhIF89lbzUvfnV78sfcq3T2HUZnbArTN64NTs7Oqys0nXIU9Ps0o+g02IdMSUEuoddDVYAg=;+ncvKanCB69nF3VEwrW4wg=="
+secured: "ppGLs4b3lMOxYp6OrsXfNiwESm0wcOcCttXl0HBc4NjjesYZE+q2UFHEvmrUY4oWlnSC0sxSIcRTIYRzjNgpYVE1Exh+4HJTKvKl38kVrRCfzOjjr4G1qW2xVUT1Ub6U5XdiB4lcY85fnWLR07DWk41xVON3DeK8O5/Lmt7Jb74sM4FeBA5rYaB9cRBDauSOWt1Plbd1k+2Tkh9BLqNJC1wJVrYzjqmX7mBNjxRyZpfV2e8HN+gx0aKKiL9FifZyr/C1tYoqi4UFTC7clmFkhNTF2drUOabU10oLo7i5I/sCF26TTJsk4dwBb2YojX0GFoIINz+wFditSintyWEZ7VmH1QjlaM/KNvkazxhbwuM=;3GFA/A9/oJxeVy/baLMWmg=="
 ---
 

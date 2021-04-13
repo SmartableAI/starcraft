@@ -1,27 +1,28 @@
 ---
 category: news
-title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
-excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
-publishedDateTime: 2021-03-24T14:00:00Z
-originalUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+title: "Blizzard is remastering Starcraft and making it free to play in 4K"
+excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
+publishedDateTime: 2021-03-27T00:00:00Z
+originalUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
+webUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
+ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
+cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
 type: article
-quality: 45
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: criticalhit.net
-  domain: criticalhit.net
+  name: BGR
+  domain: bgr.com
 
 topics:
   - StarCraft 2
-  - Protoss
 
 images:
-  - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
-    width: 850
-    height: 478
+  - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=70&strip=all"
+    width: 1110
+    height: 780
     isCached: true
 
 related:
@@ -73,22 +74,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
-    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
-    publishedDateTime: 2021-03-27T00:00:00Z
-    webUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
-    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=70&strip=all"
-        width: 1110
-        height: 780
-        isCached: true
   - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
     excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
     publishedDateTime: 2021-04-03T15:54:00Z
@@ -104,6 +89,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/uploads/2021/04/StarCraft_2_Legacy_of_the_Void-1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
+    excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
+    publishedDateTime: 2021-03-24T14:00:00Z
+    webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 45
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
+        width: 850
+        height: 478
         isCached: true
   - title: "2019 Starcraft Mossy Oak 21FBS"
     excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
@@ -139,6 +138,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "euqDWWoSlo7Nz/hWkavod/ClzEcRDYumGdRX9ZwItuQKSSwcixhJJLkIVxS/saLHfa6bPcrL6/63OahwD4QIWbp5aBu2RQafr1hOqAiL3xNSNpKi00afreTWdL5qHqO57zedoYksXguxxxR9RWmfEkDmP+DzEoKlYunl8rpDxaq7rOARFicpDIZv8UTtizn4oX86B/dKu8ZXee1/9TICTyf9dIMrhqkD5nz3OepgzRYu1+l7RFWF/qx53nqEDc3YbF+IIJHLAP6VI1UGqbHQN3ocwL/H/GsqTA5li3gizQjvfP5wXdopMV7FtVupxQaxzOyudPYwH82fAV7KnscMPJMcgxpsb/DshjVcYeHvUj+IHqWebXHTYBKxKhzI9oBEuVMh+QNplzBlMpLfXxK+5YEWlX+tTCY0JxXpdRQGbGquc1NlFwYReE2uBfVwXBgkFQvKfYwC1tJy3pDJwny0m+5ZFmFK08B4YNFjejK1ZuT+ES6VkFQIGGFluN5B/jdeROc8cNjoUXomYoiehSCxpg==;hrq50tyEWZVbzJB1LFrcOg=="
+secured: "6jzs+/dtCk5cyLEjJjhTgQZhLeXiLbRAg/NiywZbF9Q8zQ0kYob/eesLKZwu6LQcy55kI1NIACy/GYSsfNljgNt/CDuF35VEuqzjbHTiyEpTEt8AdQQT1vUITUZksLDLad9I8zBnGj0SxKF2T9iDFkXp+cE60y8c/MXpuY3UgvElukkoE64qbiComwmAbB+FfB2uEDvx00K22a6v2g1Bh7I+f/xCUjfmuuj4bA3/Ck5m351Ysnn4HEGWQeEhHlULBPHssG0dhBTEALtdRuNlLPKamog0Dr5d4PYyQU9zcZ8wMwg2Yvn+jErwJyq6+lyq8ORe7/5m+7EczjOObn6hWhuT9eY5OOktThKv8VGbGp4=;1WzAEqKCCerebNJrGedBtg=="
 ---
 
