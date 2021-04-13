@@ -4,6 +4,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-the-stargate-surprise.md",
+      "title": "StarCraft 2: The Stargate Surprise!",
+      "excerpt": "Professional match of StarCraft 2 between herO and soO. Two pro gamers from South Korea. In this game there are multiple Stargate surprise, but nevertheless, Zerg manages to max out on the scariest unit composition in the game... Broodlords and Infestors.  Get more videos & support my work: http://www.patreon.com/lowkotv",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-stargate-surprise/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-stargate-surprise/",
+      "originalUrl": "https://youtube.com/watch?v=vLEZjbCfdGI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vLEZjbCfdGI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M1S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vLEZjbCfdGI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-10-01T04:19:17-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-the-surprise-colossus.md",
       "title": "StarCraft 2: THE SURPRISE COLOSSUS!",
       "excerpt": "Terran vs Protoss between Kelazhur and MaNa in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 casts: https://youtu.be/BfikSEkWzao  Check out Lowko merchandise: http://lowko.tv/merch Support me on Patreon: http://www.patreon.com/lowkotv Join the community on discord:",
@@ -1050,39 +1087,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-25T07:20:48-07:00"
-    },
-    {
-      "path": "_games/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries.md",
-      "title": "StarCraft 2: Almost 5000 MMR With Sentries!",
-      "excerpt": "Welcome to this new series: MASS SENTRIES to GRANDMASTER! In this series, we will see how far I can get by playing ONLY Sentries on the ladder in ALL Protoss matchups!  Here are a few more Mass Sentry games from playing the series on stream.   Feel free to let me know if you have any suggestions for",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/beastyqtsc2-starcraft-2-almost-5000-mmr-with-sentries/",
-      "originalUrl": "https://youtube.com/watch?v=_rOubyZPhAA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_rOubyZPhAA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M2S",
-      "provider": {
-        "name": "BeastyqtSC2",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 50,
-      "tags": [
-        "Live"
-      ],
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_rOubyZPhAA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-07-24T15:55:50-07:00"
     }
   ],
   "nextPage": 20
