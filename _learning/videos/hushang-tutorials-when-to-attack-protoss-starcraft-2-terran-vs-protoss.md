@@ -2,6 +2,7 @@
 title: "WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss"
 excerpt: "Playing vs protoss can sometimes feels like bull!@#$...but beating protoss is easier than you might think! In this series \"How to Defeat Protoss\" we're going to be looking at key components to let you annihilate the competition. Let's get into it!  WHEN TO ATTACK PROTOSS | Starcraft 2 Terran vs Protoss"
 originalUrl: https://youtube.com/watch?v=O_eotUxWXTU
+webUrl: https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-when-to-attack-protoss-starcraft-2-terran-vs-protoss/
 type: video
 price: Free
 length: PT15M29S
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ULZ4TuKdUMb4Pp4KuQBdTF4j9kiKn699KTC3Nszt+L6LvKtvenxCIbisswUHykugbUBneQ11BxLJJdEnauwILbDBjl4B8l1W8ZiRDXrH/QFB7i+rMjl8xRCReYdgwyVTCz6Ts0HliVoqtXsQ1R6kgI9tPyFcfYkFU4l/X3ZeEb/Rl7wYsQRVplmYaABn5NMXqkpIIAlKMsUjysJnwppc/LeqgOcpqjCRysMxYLAICOdt3AbPZdW+pqDcXxLGVXTEEGpJ4EhgiPUT3AvXDeZL5vEBSW2OrgGUlhgsTL2c3hbjSOlZnAA8WFUocHO0MlQOrGBSLt9b7fVSVJ6MF2MOjP9skC3iMzmjTj04fxtEo1MJBC2CSIR20i/X/8H8MK0sUZI4kE76voTPSwj629faAw==;96d4pRhtKAVjc557HiZXmg=="
+secured: "B6nqd8MtJQDlTT9gqXDzelZnxi2Olrxp3LmKPvHhsIGk8Jqhz57dK1hlwiPYC7yqiUCR7pKFwwE8BodmgIEI3W70NSBHVaFTrYqxlXwdG+PrrCU4A3axbyEZ5pRi7oTG0BM5oK+E99xhIquew4W9PkH8fUl6pREIievyxRb5o2z9EXY8tAeeaqErOIF+O765kD0yKY2eOXbyriF2Bo5OjN3U17RKHa61ZjiTyUPFSaEzaErYGyBToWC2aIHz5QvraQdO37v9jYM/HCRBA0O+VWWvx8Ipt9gkAvOYmxBVX0/1EvTDNdivRUhOABJbyul1/NhdrvoR58WF0KSgqaoUMpZjTTwgeR146KA2TXfnnLLCUsWKDn6JRz3f2j0ee7UMBwSoYsZ2jnsF6qwI3PzfbA==;p7ykIobMj9VN30ocDkVsgA=="
 ---
 
