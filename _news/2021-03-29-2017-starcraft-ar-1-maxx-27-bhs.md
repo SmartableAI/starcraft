@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
-    excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
-    publishedDateTime: 2021-03-24T14:00:00Z
-    webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 45
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "2019 Starcraft Mossy Oak 21FBS"
     excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
     publishedDateTime: 2021-03-25T09:36:00Z

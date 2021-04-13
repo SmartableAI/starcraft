@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
-    excerpt: "The Strong Museum of Play announces new finalists for its Video Game Hall of Fame every year, and this year’s potential inductees are a heavyweight collection of video game franchises and titles that have become legendary in the years since they were first released."
-    publishedDateTime: 2021-03-24T14:00:00Z
-    webUrl: "https://www.criticalhit.net/gaming/2021-video-game-hall-of-fame-nominees-include-guitar-hero-starcraft-and-animal-crossing/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 45
-    images:
-      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/VG-Hall-of-fame-2021.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "2019 Starcraft Mossy Oak 21FBS"
     excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
     publishedDateTime: 2021-03-25T09:36:00Z
@@ -132,6 +118,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "7IMtWifc2FybuCTrE/Hth+tJ3Yh9hxk7sa6yMeIl7weH95J1ACc7nuZANvTyYDX9OZ8xbFuSiYjAGQSId6L2zk7YdsssReg81QbWWadLiHKhHY01ndNceA8I3nDImppoh7FBW3t96yFkLOc/e2+Nfdu5WEbTv3tuuqijTUSmnhGhPHviGa5+bgxXw+8LKNhfsvT2hX5OhajG2Ee9pRAqftqEmwmxk5fqvxtyrQolqoraZXVJqg7gB0DKHq6tOg8KpLa2hKFn6ZqQsJ9Z5rc4TLWBfdkLTiOXUZ5GjEkhZb47s/G/vzhtTOHw5rY0aJWEmroV/Koc9vO7u/K8haeJLi4oxlSVHJj3GlkY9phVRcw=;/EIfpj6AmFf0UeZwprY/9Q=="
+secured: "r/45Es/+Mke1XPLuAE5CNU7F7hk7wseFS2+rYfvRm/Qm9bqgiRJS/SMgqw1dIc8FlZvYuL2vauL2uAmVAyCPgL79AKQkF1H+XJK/fKwH74kSdtXNhO+A8fNju8MkbXzvSkl0fzPPAr04YIzI9MoPt7XmfS57xEzd70FsMkM+Fk2L7kgXIUGyhCleJoMNEBW9b/kIVGuImg8zwoKNQddKzn9KkzOBUPTstVTZpxzvmTZ9ebHiw7HmTSgG8upblxHiSseU0+QCg5NqddciNT4KK/A19A+xcyCg8RWjXd/VBwhaod45sXcawuPsZfhh1nabaWr0fgP0ABOGx+65x0/WF7VkRdrOzHaRCTmqUAdZ5vA=;bj3Eag1Rna15iVosFbQiVA=="
 ---
 
