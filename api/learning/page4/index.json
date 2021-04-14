@@ -4,6 +4,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran.md",
+      "title": "Protoss Gameplay Starcraft 2 | Storm vs Terran",
+      "excerpt": "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/",
+      "originalUrl": "https://youtube.com/watch?v=YhmpwiCGw5c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhmpwiCGw5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M42S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-03-02T19:37:50-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YhmpwiCGw5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse.md",
+      "title": "Protoss Hotkeys | Life changing tips to setup your keyboard and mouse",
+      "excerpt": "Taking a look at my Protoss hotkeys due to popular request. If you want download my hotkeys, you can do so @ https://www.hushangcoaching.com/guides/  #protoss #hotkeys #protosshotkeys Protoss Hotkeys | Life changing tips to setup your keyboard and mouse  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-hotkeys-life-changing-tips-to-setup-your-keyboard-and-mouse/",
+      "originalUrl": "https://youtube.com/watch?v=scB6uE4jFuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/scB6uE4jFuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M41S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-09-04T16:07:56-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/scB6uE4jFuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2.md",
+      "title": "Protoss vs Zerg(pvz) | Scouting and Early Game Basics [starcraft 2]",
+      "excerpt": "Starcraft 2: Protoss vs Zerg | Scouting and Early Game Basics In this guide we take a look at how to scout in the protoss vs zerg matchup in starcraft 2. What you need to be looking for at certain times and what they mean! Enjoy~  #starcraft #pvz #scouting #protoss #vs zerg #starcraft 2 #sc2  Interested",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-vs-zergpvz-scouting-and-early-game-basics-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=W3AERGMCp4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W3AERGMCp4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-06-11T10:56:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W3AERGMCp4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-sc2-protoss-gameplay-adept-glaives-into-colossus.md",
       "title": "SC2 Protoss Gameplay | Adept Glaives into Colossus",
       "excerpt": "In today's gameplay video I use adept glaives vs a 5500GM zerg. I transition into colossus afterwards and go for a heavy push.  SC2 Protoss Gameplay | Adept Glaives into Colossus #sc2 #protoss #gameplay   Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com",
@@ -376,14 +469,14 @@
       ]
     },
     {
-      "path": "_learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in.md",
-      "title": "StarCraft 2: EASY Zerg vs Terran All-In!",
-      "excerpt": "Easy Zerg build order for the Zerg vs Terran matchup in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Serral's Zerg vs Terran Roach push: https://goo.gl/8A8pSd  This is a much easier build order to execute in Zerg vs Terran. While it is easier and hits much earlier, it is also much",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-easy-zerg-vs-terran-all-in/",
-      "originalUrl": "https://youtube.com/watch?v=Te-EQdku9PI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Te-EQdku9PI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
+      "path": "_learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial.md",
+      "title": "StarCraft 2: Legacy of the Void - Basic Terran Tutorial!",
+      "excerpt": "A basic Terran tutorial for StarCraft 2: Legacy of the Void. Subscribe for more videos: http://lowko.tv/youtube More StarCraft 2 tutorials: https://goo.gl/IKl51P  In this tutorial I cover the very basics of ranking up with Terran on the StarCraft 2: Legacy of the Void ladder. One thing that a lot of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-legacy-of-the-void-basic-terran-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=jHu5qIISMKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jHu5qIISMKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M52S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -396,11 +489,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-30T04:59:22-08:00",
+      "publishedDateTime": "2016-10-21T04:13:09-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Te-EQdku9PI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jHu5qIISMKQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -411,123 +504,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-how-to-baneling-bust-intelligently-guide.md",
-      "title": "StarCraft 2: How-to Baneling Bust INTELLIGENTLY! (Guide)",
-      "excerpt": "Baneling Busting is one of the easiest Zerg all-ins in the game. Most Zerg players are aware of this strategy and realise that it works great on the lower part of the ladder in Zerg versus Terran, Zerg versus Protoss and Zerg versus Zerg.   In this video I discuss how to Baneling Bust intelligent instead",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-how-to-baneling-bust-intelligently-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-how-to-baneling-bust-intelligently-guide/",
-      "originalUrl": "https://youtube.com/watch?v=qaShuxrNZtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaShuxrNZtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M35S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-03-12T04:05:28-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qaShuxrNZtg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide.md",
-      "title": "StarCraft 2: MASS CARRIER! (Fenix Guide)",
-      "excerpt": "A cheesy, but very effective build for Fenix in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube My \"standard\" Fenix build: https://goo.gl/G6ArYc  While in most games I will get a wide variety of units, while leveling up Fenix I quickly found out a few very powerful strategies. This is",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-mass-carrier-fenix-guide/",
-      "originalUrl": "https://youtube.com/watch?v=76PmBDv7-ww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/76PmBDv7-ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M22S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-06T02:01:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/76PmBDv7-ww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-massive-balance-changes.md",
-      "title": "StarCraft 2: MASSIVE Balance Changes!",
-      "excerpt": "Massive balance changes were announced for StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Patch notes: https://goo.gl/64DKjp  In order to keep the game fresh, massive balance changes have been announced for StarCraft 2. In this video I read out all of the patch notes where the latest",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-massive-balance-changes/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-massive-balance-changes/",
-      "originalUrl": "https://youtube.com/watch?v=Zlq7u_qVXRc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zlq7u_qVXRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M5S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-08-18T02:21:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zlq7u_qVXRc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
+        "Terran"
       ]
     },
     {
@@ -632,6 +609,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Mn3Twb13398/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide.md",
+      "title": "StarCraft 2: The Zerg Priority List! (Guide)",
+      "excerpt": "In StarCraft 2 it is generally known that macro is more important than micro. However, this concept makes sense to those that have been playing a lot but if you haven't played in a while or if you're new to the game this concept is confusing. In this video I talk about the Zerg priority list and how",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-the-zerg-priority-list-guide/",
+      "originalUrl": "https://youtube.com/watch?v=O3aGlfvQiqo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O3aGlfvQiqo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M57S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-02-16T07:09:19-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O3aGlfvQiqo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -960,38 +976,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
-      "path": "_learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay.md",
-      "title": "Starcraft 2 Newbie Guide - 009 - Protoss Gameplay",
-      "excerpt": "An overview of Protoss gameplay to help newer, interested players get a good view of all three races, and to help round out the guide.  Starcraft 2 Newbie Guide Playlist: https://www.youtube.com/playlist?list=PL5UmyuxWKXvrNOHKIp9VWkMMikqE9AOxZ  Other places to find my stuff: Twitter: http://twitter.com/davidangel64",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/davidangel64-starcraft-2-newbie-guide-009-protoss-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=YYLph9dGJ-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYLph9dGJ-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M54S",
-      "provider": {
-        "name": "davidangel64",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2015-12-06T17:00:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YYLph9dGJ-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
         "Zerg"
       ]
     }
