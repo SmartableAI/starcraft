@@ -8,7 +8,7 @@ webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streaml
 ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "2021 Video Game Hall Of Fame nominees include Guitar Hero, StarCraft, and Animal Crossing"
@@ -35,22 +41,6 @@ related:
       - url: "https://lh3.googleusercontent.com/TL9Fq3WQKxkWrsdO7Ooqilhk0xbOxtP9aHMNEKXIQLwVyivVXsftUp4s30PIiGXa0bjPTkLLLEWxXE5zAfmqUlB0QfvPfmI-_yw=s1000"
         width: 850
         height: 478
-        isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FB"
-    excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
-        width: 908
-        height: 511
         isCached: true
   - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
     excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
@@ -84,17 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FBS"
-    excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2014 Starcraft Travel Star 239TBS"
     excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-27T04:41:00Z
@@ -118,6 +97,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "kg/nA0II9MiODp12NNkvAfFcNhZn6oZ0YY+JrAZNoL7p0OMLOZ4ACAQ0cGRt0YpZH10hqAlPmV7WZU2w322MavUTnrtX9G2mnt9OVRPcpfZB+QA+U2si/rAvlYrd91dmt3rkTxobX7QInDIalSFSxeNH5nP/gpkjl7IGBPdqlj1VcuSIqBWPdBarN4iE1yuDeg5T7RChFkceXLnsOB6UVTzd4G1DDER2GBXluFOGcOmURc3tREAzLPpUzm9V5NYPKHiCK27BUdiCmVDyhDOvp1UCjmC+vXryarB0JMVodw8pHqwSmK0TdXrDmWZl8e7Jn4j7enHaEkfmC9rJSMvam5F6SeW68+fO956wY33tmLY=;eVQV05lZXpagSARG7AdSUQ=="
+secured: "pyVzEugeK2q/T/FXyp1RIgV94TFQ8zY5TusU1/ybQR60u184S4alZMoZCdmiCuUj4kB+IhvIt0lNaYByW3OVizUb0ypfFjzi+UVTBlw973JdFnuYAQ+tQ4l8ManXpMm5lSTFwdSHZ/PyzvDQSXajuy2452T9hMnkAfPySZDo2rRBRFymr+ha/6MLOgV+Y1xQlZMnhBB7JWjkybjNY7QZLvDIZnt4tyK5TAPfZQCjEFfXf3/Fmy0ROcBmv8mFUm5vISEXi6WmmL+xQlaBbBVq6kqUzig37UU4Qe3eGwWgg0dF6c3B2PLQpUox1emtxwZXauN7dtjC/8ny/Ci+bIIjpI8M4VKhVVm3c+x7domPfCE=;qlnLddNWsWONY/WtQrXHlA=="
 ---
 

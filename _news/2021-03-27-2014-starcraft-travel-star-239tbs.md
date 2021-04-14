@@ -36,21 +36,21 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FB"
-    excerpt: "Starcraft Mossy Oak 21FB Travel Trailer #28036247 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fb-travel-trailer-3006328"
+  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
+    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
+      name: GamesRadar
+      domain: gamesradar.com
     quality: 57
     images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39478/i/3006328/o/1_39478_3006328_120827000.jpg"
-        width: 908
-        height: 511
+      - url: "https://cdn.mos.cms.futurecdn.net/mwo3qS5qzwJn75uB3Lio7b-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
     excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
@@ -84,28 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2019 Starcraft Mossy Oak 21FBS"
-    excerpt: "When you think of the civil rights movement in America, there are a group of names that stand out as those that led the way. While the movement was a group effort, assuming a leadership role was what makes these names stand out in history. Many were ..."
-    publishedDateTime: 2021-03-25T09:36:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    ampWebUrl: "https://www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2019-starcraft-mossy-oak-21fbs-travel-trailer-3006328"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-  - title: "RTS game from ex-Starcraft devs won't streamline the genre"
-    excerpt: "Former Starcraft developers Tim Campbell and Tim Morten recently discussed their goals for the upcoming RTS game from their new studio Frost Giant, highlighting their focus on the essentials of ..."
-    publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.gamesradar.com/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    ampWebUrl: "https://www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/rts-game-from-ex-starcraft-devs-wont-streamline-the-genre/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 37
   - title: "2017 Starcraft AR-1 MAXX 27 BHS"
     excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-29T09:02:00Z
