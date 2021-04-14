@@ -2,6 +2,7 @@
 title: "StarCraft 2: Reynor's HYPER AGGRESSIVE Strategies! (Best-of-5)"
 excerpt: "Best-of-5 series of professional StarCraft 2 between Reynor and GunGFuBanDa. In this series Reynor decides to play very aggresively as he plays a variety of strategies versus this macro Protoss style. Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=sfTbHUSeEGA
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynors-hyper-aggressive-strategies-best-of-5/
 type: video
 length: PT42M56S
 publishedDateTime: 2021-04-14T10:58:39Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MvHJomZKuVoekcBXho+u/Nwrjdzy1kA1Eu1t0HgxVKXV1f+JeoWl9SZEQhpARFWaDT9tm/9kKsubw7axhDZCfphdi42Cs5Yhy3veuWqJZLCAYDdjUuDoaGKWJq+ZyVh208vpcKNX1NCgKT8PacI0lS4wBQBnDrSzFS2WIMWHtWICS9rb6dNoo2irTqJzM2H96U4EYTFEKqvw3EbcMgphkjz/e8+1cyYu2F3iV4yaPz1kKyqgbofQbIMkO4aABqStupXxg3+o+C/PpzVK3MJXcvq275LZSGDI76nBCRMIN+FiQPWwmtA+xDbUGRgjAdYha708fsD8RqWTWNdioF4z8JK8tq7ase9rkCjMbw60J5l+cMPErn065oJjwimQvonnsEX3X/Iz5Zahj7GENFfD+w==;dnarvC5HikmdfGGRYUgoFA=="
+secured: "1lE2GvnVbXFaOet1Hem8GNnCh+pJqf2z6QO13gKkeQNVIQvoemW2eU5NNqbwC7q9bZx6lAiUD4pUk9pJtu0Yz0XQP1gvUiK5qZkSKa5iNtv4fSUxKRaitlZhTW2nUCj+NZDI6m1u8oGwOrXpvyFMf1dX4iXWB49ljFb/N1eYUJAKHZsvloFWnqcR0asmZfKuJZAS1f3cdZy10ttHCqC7vtVHlK5aGbVSu/WSobT8lPPPd9u/WHokU2q7boGUbI97G50cKPyVtIlw6dl3ccOThzjbPFflj+JrrAXyYLwGP6ALtfvHShMLaXeMSnZvtXy7LoEAKPGHzwxnCOFwR9YqIPaQ/lUM9nlnCES8TYEmRsWzTDxYzThYvURxs0ft9EOC74lQ65WscBMPhs5xcSvg8g==;l3yaaUb5s+8Z7Y2uOm2c0w=="
 ---
 
