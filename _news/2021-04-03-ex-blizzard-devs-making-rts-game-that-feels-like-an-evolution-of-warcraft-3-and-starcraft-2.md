@@ -42,17 +42,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "2014 Starcraft Travel Star 239TBS"
-    excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-03-27T04:41:00Z
-    webUrl: "https://www.rvusa.com/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    ampWebUrl: "https://www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2014-starcraft-travel-star-239tbs-expandable-trailer-3007512"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2017 Starcraft AR-1 MAXX 27 BHS"
     excerpt: "Starcraft AR-1 MAXX 27 BHS Travel Trailer #21085763 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-29T09:02:00Z
