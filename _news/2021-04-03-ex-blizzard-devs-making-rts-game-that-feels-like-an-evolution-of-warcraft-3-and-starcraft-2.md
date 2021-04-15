@@ -42,22 +42,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
-    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
-    publishedDateTime: 2021-03-27T00:00:00Z
-    webUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
-    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=70&strip=all"
-        width: 1110
-        height: 780
-        isCached: true
   - title: "2014 Starcraft Travel Star 239TBS"
     excerpt: "Starcraft Travel Star 239TBS Expandable Trailer #PR422 with 2 photos for sale in Boerne, Texas 78006-9250. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-03-27T04:41:00Z

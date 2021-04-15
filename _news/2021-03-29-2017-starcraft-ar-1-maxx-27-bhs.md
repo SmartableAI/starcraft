@@ -36,22 +36,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Blizzard is remastering Starcraft and making it free to play in 4K"
-    excerpt: "Starcraft fans everywhere will be thrilled to hear that Blizzard will make their favorite real-time strategy game in the universe great again. Launched in 1998 and seen as one of the best RTS ..."
-    publishedDateTime: 2021-03-27T00:00:00Z
-    webUrl: "https://bgr.com/2017/03/27/starcraft-remastered-release-date-and-trailer/"
-    ampWebUrl: "https://bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/starcraft-remastered-release-date-and-trailer-5560929/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2017/03/starcraft-remastered-release-date-trailer.jpg?quality=70&strip=all"
-        width: 1110
-        height: 780
-        isCached: true
   - title: "Ex-Blizzard devs making RTS game that “feels like an evolution” of Warcraft 3 and StarCraft 2"
     excerpt: "One of the co-founders, Tim Morten, former production lead on Blizzard’s StarCraft 2: Legacy of the Void, says the RTS game will build on what’s come before. “We very much want to build a game that feels like an evolution of Blizzard RTS games ..."
     publishedDateTime: 2021-04-03T15:54:00Z
