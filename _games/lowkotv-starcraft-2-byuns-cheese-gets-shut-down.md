@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=cvOrN72JZbE
 type: video
 length: PT20M47S
 publishedDateTime: 2021-01-15T14:24:18Z
-heat: 106
+heat: 98
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cvOrN72JZbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JbgLPN5Pyu4aagh4fOv8gSTuwFeUFDjRtHLI+7XcfJDwfVRYzSFGPAkhlFYY5Gq0OfYmK6yLSb2S0WtCa/SFbCbbNNJc6uy5RvqmDjriXGfBfUYZeIO62+6Skja22EIWvVxXHUou0ziYRWYjxI/bypbnb3Szbzd2L+8coUzc4Z/vGlCVOCp2x2/yX1lm0cX0MsxDOKOn+zBpRojOWKzM/OsDJekKk4QGM6hgEIZCgX3RTgvHc04g3vTc7QrPPDWhAtLrv50dTq6UFoCOEkXfr+8DbqzXMUIQhrCxCzh1EFxUwCBSpiP0iNozO1qC08IgHBwuQ/QXG0RqYMJ4F24YAC8sky+9/mSqPGytl11Egvf3Y0IvGtqXfTebf9Y9XfPTd8o2BoEaGSa7La1/lDYPtfdqvM8UdrBePt4HuHucHjZ6mj7+fTzhm3A/PRAgayok;5YxC0zHGN+D2FHu6kPlp7A=="
+secured: "t8YTkc/FazZ5H6y1iTLqpzTEnNBWI1+3YAZebZKjicYC+PD1ThpdjIxmyjbad1eieN5F89YUXMKbxh7t6C2NwEOgzirkqhg3nIyq0cwRd+4d2yBWO+Hdo3iTdUp/5bwecoNOo5oGXwt2dqdoKGeO2tLf3QWxTl5GltbaZhS4z08Mlnz2XXYTYYf3WdVuKdvRNZxExCPvRHxo9/7IXrBLCqgLRDIqYTopAqzfm+q+Js62mweTQIvQW1gCYopqaXJ2jK6S49O3Uq7wA6CfCd4anfy7y6bCyDCUCGltEOn+c8G5r14A7KRrewwlM/fZem2+uWxfdUqk+P8hK7JW+crVQ7XWmJYGwmmhNaASY7BicQ4CL/Ol1tGN+MsLZOj/IZJ27KOC3fyfufxvfhElyNZlKwV6cbn0PSZzrfLslJt2v89vZD1Ln/SjgmIxMr5JZ+LX;wirHtoQ4cp743KrEGP+iZg=="
 ---
 
