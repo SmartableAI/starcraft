@@ -4,39 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss.md",
-      "title": "Learn Starcraft - Beginner Timing Attacks & All-Ins (Terran, Zerg & Protoss)",
-      "excerpt": "A few basic builds that can get you far when done fairly well. Also important is how not to overextend and lose everything.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-beginner-timing-attacks-all-ins-terran-zerg-protoss/",
-      "originalUrl": "https://youtube.com/watch?v=8xOuROdh6t0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8xOuROdh6t0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58M11S",
-      "provider": {
-        "name": "WinterStarcraft",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-09-21T15:07:57-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8xOuROdh6t0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg",
-        "Terran",
-        "Protoss"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-zerg-starter-guide-2-build-order-updated-2017-lotv.md",
       "title": "Learn to play Starcraft: Zerg Starter Guide #2 [BUILD ORDER] (Updated 2017 LOTV)",
       "excerpt": "We go over a very basic Zerg build order designed to get you into the midgame with a good economy and options. These guides are in no particular order, nor are they meant for COMPLETELY NEW (less than 10 games) players, instead are all meant to help improve generally!",
@@ -303,6 +270,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/05TeCuG68GI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial.md",
+      "title": "How to twist Protoss [Starcraft 2: Zerg Strategy Tutorial]",
+      "excerpt": "[Starcraft 2: Zerg Strategy Tutorial] #Starcraft2 #Zerg #ZvP  In today's video I show you guys 3 common setups/plans to play aggressive against protoss. All three are pretty strong but it depends a bit on your playstyle and intentions throughout the game. Hope you enjoy the video :)   Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-how-to-twist-protoss-starcraft-2-zerg-strategy-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=rlYxy7ygaio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rlYxy7ygaio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M24S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-02T21:10:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rlYxy7ygaio/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
