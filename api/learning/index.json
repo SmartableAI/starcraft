@@ -35,23 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister.md",
-      "title": "Starcraft 2: Protoss Build Order | Parting's Adept Twister",
-      "excerpt": "Starcraft 2: Protoss Build Order | Parting's Adept Twister #Starcraft2 #ProtossBuildOrder #Parting  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/",
-      "originalUrl": "https://youtube.com/watch?v=JgVw6AsTL9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgVw6AsTL9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M14S",
+      "path": "_learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021.md",
+      "title": "Protoss Guide | Includes scouting, reacting, examples & more [Starcraft 2 2021]",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-03-05T22:55:05-08:00",
-      "heat": 136,
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JgVw6AsTL9c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -66,23 +66,61 @@
       ]
     },
     {
-      "path": "_learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran.md",
-      "title": "Protoss Gameplay Starcraft 2 | Storm vs Terran",
-      "excerpt": "#Protoss #Gameplay #Starcraft2  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-gameplay-starcraft-2-storm-vs-terran/",
-      "originalUrl": "https://youtube.com/watch?v=YhmpwiCGw5c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhmpwiCGw5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M42S",
+      "path": "_learning/videos/lowkotv-starcraft-2-sky-toss-is-hard-microbial-shroud-is-good.md",
+      "title": "StarCraft 2: Sky Toss is HARD & Microbial Shroud is GOOD?!",
+      "excerpt": "Let's talk about Sky Toss, Microbial Shroud and hotkeys, selections and control groups in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-sky-toss-is-hard-microbial-shroud-is-good/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-sky-toss-is-hard-microbial-shroud-is-good/",
+      "originalUrl": "https://youtube.com/watch?v=CdA_30j6lhI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CdA_30j6lhI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M16S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-01T03:12:35-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CdA_30j6lhI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021.md",
+      "title": "Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021]",
+      "excerpt": "Hey guys, in our second installation of Terran vs Protoss week we're looking at how to defend a bunch of different openings with the safe beginner terran opening.   Starcraft 2: Terran vs Protoss | Defending Protoss Openings [2021] #Starcraft2 #TerranVsProtoss #TvP #Terran #SC2  0:00 - Intro/Cinematic",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-terran-vs-protoss-defending-protoss-openings-2021/",
+      "originalUrl": "https://youtube.com/watch?v=a7L-9spJ0vs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a7L-9spJ0vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M20S",
       "provider": {
         "name": "HuShang Tutorials",
         "domain": "hushangcoaching.com"
       },
-      "publishedDateTime": "2021-03-02T19:37:50-08:00",
-      "heat": 131,
+      "publishedDateTime": "2021-01-16T20:26:50-08:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YhmpwiCGw5c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a7L-9spJ0vs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -93,7 +131,7 @@
       "price": "Free",
       "topics": [
         "StarCraft 2",
-        "Protoss"
+        "Terran"
       ]
     },
     {
@@ -1294,44 +1332,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/foqzSPGRAH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire.md",
-      "title": "StarCraft 2 Guide: SPAMMING Abilities! (Rapid Fire)",
-      "excerpt": "Rapid fire is one of the most useful hotkeys in StarCraft 2. Subscribe for more videos: http://lowko.tv/youtube Hotkey & Control Groups guide: https://goo.gl/u1zJjv  In this video I explain how to enable rapid fire, and spam abilities in StarCraft 2. The uses for this are very obvious once you start",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-guide-spamming-abilities-rapid-fire/",
-      "originalUrl": "https://youtube.com/watch?v=N2dNK-mIWkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N2dNK-mIWkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-12T08:03:44-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N2dNK-mIWkQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
