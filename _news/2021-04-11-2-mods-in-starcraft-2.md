@@ -38,6 +38,34 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "2017 Starcraft Solstice Super Lite 28TSI"
+    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-17T04:38:00Z
+    webUrl: "https://www.rvusa.com/2017-starcraft-solstice-super-lite-28tsi-fifth-wheel-3025074"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/2661/i/3025074/o/1_2661_3025074_121329940.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
+    excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-17T04:38:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "DyriciHCdq7Wk/L46rk4C6EK2Vk3SsIsJJgo0nA87ft5hike8UQ/MtcPqTmD+A5Wujmk6pdnI8r6W+SxUU/MIjcfM/NK0ZwxS7x4nvN6aT9MboSJnhENCZXvtdU1OQc0jeUG+a1bWq0Kj1t6b/rO2YYPmrp+f43kvOfzdT1G7g0VPwOQq7dFUsy14FX+oHq3GVOlKllg5Nzx8zKmZQdSJzuxaOS7b2I6HjMODqoJbohkOooc0oxm2WmsFBqpG/tUjmTlQIdUm+tVTUcyK9QmWXW0lr0Mu7IKc4Qm2A7ypY6X07GaSa07HbHtIMhYxKxLZk42+I5G9B866FhSPhX6AWAFRUo+5OFD524gFpds7N0=;tCSljFlLeDRvVViBur4rTg=="
 ---
