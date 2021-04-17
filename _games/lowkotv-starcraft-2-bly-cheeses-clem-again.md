@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-bly-cheese
 type: video
 length: PT20M59S
 publishedDateTime: 2021-03-24T13:24:31Z
-heat: 109
+heat: 115
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ei4U_Douz18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nsd0zhaogB9yj0bRWUETusQPQpIJd93ZcUvfKgySSwpD49jB2KsaBb4OW5LzTKZmKr9SjSLEjM5lvvSLAVyYaOg4IDZFmPiB+QevnP1J8ZGzhWnpNMQAFoIh8qOda678bZbaxhDdAsfR3iH/Tj2jWw1y2Fq3rh+Z0M1r/1AkJT8zK9d17ga/jwi21Z+PVrZw3yfb+QoYA6Zq/T1axb9sk6h4oljrz4xdBcUv24Isp6Dte34C6gkjEU7XRZZQMeD9NXWxdDVnX6iP/bTLfumEbxbrhRMgYUdEARe39Z4sT1B0ElDicTBHaYaVbFp0Xxfwbmg0V6jT4eHYWfNIF47sNyvNnn6ja9yC/cGg1s5Md76f0KxUHgJ/pM0T8Qi8Ltw2+wnp7TkEn+M1ojCM9vz7YljltIGgqBqvgqB6jhvZUMqiqqZNfE3+zVXuZVDcsMJm;bA9Yfkzk2taMCuSQVRdQKw=="
+secured: "CS5P+TL84uiwtq0NM7bNUo/3czkvUYtTqc1cPNwGlxzOF+MDIR1fC565Yt34HGE9k8TI8yDfZf0ypm+VjbWnJL0RGwQc0gzfZTFOWAexVWo5RN4AlZfh40XEaZXdnBSEameNoyf+kiF8ilhBxziMh5P2uGMyaZabCo0HbJk64zTdIKWrt9XqE5YwrDV/SZyK1zEM6fi3HVSb/2M5dDVZlDnB0/spIduteD86cTf3qozYqCyPlfSVaoGwVHqOxaBeNeLTMSZPB4urgw0Pkrrc1PS8ZYR5js1X0/5OOUxffHtwCf/s7WjFE4LvLvy2Ydgo/93K1qz69GPVZUQLeITOoOuaQ9l1e2pbrw9BpVtqy5aZ+SqyPuKR9KyBXTdyFrm6vMozPx8y46twMOV1K+dhKOhUYAYCTt6P+Gb8+cusD+o=;YZ+dWG/hCoTu8N2nVeixxg=="
 ---
 
