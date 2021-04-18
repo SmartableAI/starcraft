@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-
 type: video
 length: PT54M48S
 publishedDateTime: 2020-11-02T11:15:03Z
-heat: 73
+heat: 76
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "D3HgpdTiYLqA042jrkcX+bwzBxbR+p1UaWwRl5bAmXbQslYWjtbUBoOFySnbhZCKiNeZk8zgZehNIrNE7C5nOxFWFApkBoREINhmMk8kaexOaTDw2SeheMXioyzkSlT53memPlRMdbADvb1yD0h3ySJNZoifVXYWgh3rnsqOO7uvYmkqrQIsEOCvyJ97LbDGr8OHykxhApOYnKTWr6x9Bub59ceVi3lY89LlfYFK9MymBZ7ZAbcAlyZLWL31XK5jh++wyfOkmnL2BhXvmwY/MYJzWYYQQYSfDPb/vp8UVwUY07C8krFclB8+zNkt3BpWAUG+FKjHVaulzzQptImvabVgFP4aLl5ium5X1tR/TKVFTp/tSb5U+hgMdhSnV4hyHc8+51oUXoSBHPcgD5x1zbwR6NvFVBA4l3DGm+hJD6KssygLCLevc2lR9TVRE0bL;kpA410IR11bTeCboX6joIQ=="
+secured: "RRDsLOPs84ZULM8NvFkLK7kWfpN7mHMG1t63jNJWjdh40CwdjGcUGcnic/7TcC0UueZu+XSAUfam0duNx9xlCAf30+RJpuSmQHXumDWeiY1AhdWK8L0BYHEcUkL8kPYGPojsIz6qMssDVzjYq46Dur0nUncyhqgdh7185n4IesAA909i8D3WWa0cWjuNPbpovpKfLYhexEXa3+sNA4acFCNoCC9iLLeoNI+kAKQsLP+i94K5rNBn+ChpEO+x4aKumKYDLCTwT0Tm6l/bHynginIaT1cYAn6GEcoO/1y5Xjy6a/THTOZyUTfsHZ85iZuZKVoUyp51NnK+AOALCOnm0Vfxt6+Zc3ZMHz1CJOnMQjumn3pWX/ZUnkCguX4LWF/dFCh1Z/oKKTwr3KdCN5xvrM3O6au+iWW6R+c4AN2GBYelZDI3e4Sdmoqj+UgDZUms;laKTsNNVMLnrUKp7ehkgkQ=="
 ---
 

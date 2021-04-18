@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultima
 type: video
 length: PT49M38S
 publishedDateTime: 2020-10-20T08:41:14Z
-heat: 58
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rryHOkmWze+uOmMwvVZSyqBZO5GhRKl8br5Zf8vumjm/3z8hzsvFfNf6GMw6Zh0UmuSrlB6Kefgg9uwJYeBCtwgw0S0tGLewQ3Hgn8Ru85Hz+6t6F5285BnonH+9k8xGyIy0E+MO5Zdqyvo4MTGVj5ZYGafbOEJxPtw6p71yBWY5XWuaoax3hMgxNu9aWcWIxvfCtZtof/vBqexP5B8HuZetB3c2wH1ljP8KMkE82rMQR9iLe/pib60tlP62Jv3Iblrj4oMqjCX5XPfwWIUAJCA0L8IEnmdZRqj/o3aL8Zq2iJTICzbdexmHE3OVrKk2Y28VSbUKdWIuxSr5Nc7mhJ/KVD6TGBB0KPBzcvjvGHit7696rCQRlY7J6AlqJv6Gd/DYUB8uy7lwzn/EryGG/7KPuqdbmDmQSXBqVx4TLJk=;/Lbb/SeuL27S+6RRu1zsvg=="
+secured: "gyryOZ+1X9hqoA9jtjcGb59epqtJnohW2bOc4yzHiZMdeyCc8v+be+j4kezoJq2YhA+hvmzCZlJ8FUQ4Ojd02TmNMuHOhZiXw5vO6Z3z+RJumJPWttFM3l2kO4Y3NAhpF2Ppohj56R7cQTjb3Q9IeuEAKjdmZ7HciPDpxKhg5oOfsx/mM/Qo1NyhUNB5icBRjAgf/bljVhRzTz1dutsxtt0MKMSbk1spXR2qFHhxA/m03I46JSqGyMv0ilaJrGCPbl3ALl8n5EdTIQ2EVS+3a7HzJoZyCT/+AhSanWZxqr2rfhiKQQF0AH3AaEok87eAQIrgxwF0/3igb6olkWpplrS+JE2w93PsucpFEqPCMzbNYDEU7SldOE/Txow126QlhVidawskJcKSsF/X5AfnIAocXaK2hZgVQmUNZVX+wa8=;X/imzhOt7rJ8aOXhGaZkEA=="
 ---
 
