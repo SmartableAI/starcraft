@@ -52,6 +52,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "2019 Starcraft Telluride 338MBH"
+    excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-16T09:04:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
+        width: 300
+        height: 201
+        isCached: true
   - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
     excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-17T04:38:00Z

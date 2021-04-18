@@ -1,26 +1,26 @@
 ---
 category: news
-title: "How AI Accidentally Learned Ecology by Playing StarCraft"
-excerpt: "A video game about battling aliens could help ecologists study life on Earth."
-publishedDateTime: 2021-04-15T01:52:00Z
-originalUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
-webUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
+title: "2019 Starcraft Telluride 338MBH"
+excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-16T09:04:00Z
+originalUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
+webUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Discover Magazine
-  domain: discovermagazine.com
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://images.ctfassets.net/cnu0m8re1exe/4RkTgGmDgot59FI9y2wlk5/73ae102e4b65b6b0d3ac8e4bd5046870/technotemay2.jpg?w=650&h=433&fit=fill"
-    width: 650
-    height: 433
+  - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
+    width: 300
+    height: 201
     isCached: true
 
 related:
@@ -38,19 +38,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2019 Starcraft Telluride 338MBH"
-    excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-16T09:04:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
+  - title: "How AI Accidentally Learned Ecology by Playing StarCraft"
+    excerpt: "A video game about battling aliens could help ecologists study life on Earth."
+    publishedDateTime: 2021-04-15T01:52:00Z
+    webUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
+      name: Discover Magazine
+      domain: discovermagazine.com
     quality: 37
     images:
-      - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
-        width: 300
-        height: 201
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/4RkTgGmDgot59FI9y2wlk5/73ae102e4b65b6b0d3ac8e4bd5046870/technotemay2.jpg?w=650&h=433&fit=fill"
+        width: 650
+        height: 433
         isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -81,6 +81,6 @@ related:
         height: 600
         isCached: true
 
-secured: "U9IUSHm2H9SaeLSLSRU6k0DmcX1VE96TlOgGJcpyOKOmFYfga2iPOWypeWcZGDKlzN9F7H78HAeSm46SIBrHWuctvsI9qXultMKg9IF6oQpA7OUiKEJosIJKG1EzuN+Mqcp50L+kv9b9vX9mckySJDLi3mkldiOLc5gBq0IjpI0ebQqxmZbafMjaYY29DAiiGzi7JrhsVLy9KTutonkXD4wRr+PO2/chz1koz47RaY3SNbv909KcMuj8xS1edL7YG2wuEeaBrahAWLnBaqFnwUB7c9nl63otr6UuudYT8uX3C1t0AwE3U+qHg4q0gDMwaywHfwuyMfuWtKZ7ZvqbObyOa91vpL/tgYZKeNt3lKswMLh9rMJlAuSh1DmRJVDnHUoJ7VW+5ywE3Ei/Q72fwTAs7tXAzr8O8XXGD3gMLo4GgEJ5SssYql2u7zTRUjsALL+qf3z3ZtpMscVIVsAdhNAwUDIARiV/W+CuaNfirEwo8SWAuJNL3ub8c0BD9p1bKjjsqFeGFX/i34u5Cxm+kw==;vKyGo+/jokhglHn3ll9d6A=="
+secured: "iyXqhB76/GTnwlYL4qOseiM9ehwuW6dhTrKLKjN5MavshhnCr5x76LvWQlmIyOqxhFSAsBorWWAyajBAnDeS+E9fAmei5ujIg1FvfHO/2nmOkhXLwB9FQ7W+htPWBliLWwrIXP5z/mAMHcscPe/vvTssjOiaDM6nQ5QX+brr4F2oj6K4LXyd3xNtGvfaS38Ls0pqecZf+ZG6+9crMgMYgN4Ns1c4cO7hgcnSI4eI84/cFpQyE9hgKJdV3V1HbDI0jfawN6KAONOsQa3B5hA5JdP1Ln0fw7aWMdJ8Q1/ZqvKCcSEVF8LS9Hj1zCrgvrcQC+qF+VdiADPdTdUzxFtzaofPtJVWHhcZ8j1bcOIxfMA=;WxJhweIz9gg0VgrPMfkzGw=="
 ---
 
