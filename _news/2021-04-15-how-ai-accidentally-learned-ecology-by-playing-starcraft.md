@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2019 Starcraft Comet Mini 18MK"
+    excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-16T10:31:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-comet-mini-18mk-travel-trailer-3026294"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://www.rvusa.com/blog/wp-content/uploads/2017/03/tt1-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "2019 Starcraft Telluride 338MBH"
     excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T09:04:00Z

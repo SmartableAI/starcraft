@@ -1,10 +1,10 @@
 ---
 category: news
-title: "2019 Starcraft Telluride 338MBH"
-excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-16T09:04:00Z
-originalUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
-webUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
+title: "2019 Starcraft Comet Mini 18MK"
+excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-16T10:31:00Z
+originalUrl: "https://www.rvusa.com/2019-starcraft-comet-mini-18mk-travel-trailer-3026294"
+webUrl: "https://www.rvusa.com/2019-starcraft-comet-mini-18mk-travel-trailer-3026294"
 type: article
 quality: 37
 heat: -1
@@ -18,9 +18,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
+  - url: "https://www.rvusa.com/blog/wp-content/uploads/2017/03/tt1-300x225.jpg"
     width: 300
-    height: 201
+    height: 225
     isCached: true
 
 related:
@@ -52,19 +52,19 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "2019 Starcraft Comet Mini 18MK"
-    excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-16T10:31:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-comet-mini-18mk-travel-trailer-3026294"
+  - title: "2019 Starcraft Telluride 338MBH"
+    excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-16T09:04:00Z
+    webUrl: "https://www.rvusa.com/2019-starcraft-telluride-338mbh-fifth-wheel-3026029"
     type: article
     provider:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
     images:
-      - url: "https://www.rvusa.com/blog/wp-content/uploads/2017/03/tt1-300x225.jpg"
+      - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
         width: 300
-        height: 225
+        height: 201
         isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -95,6 +95,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iyXqhB76/GTnwlYL4qOseiM9ehwuW6dhTrKLKjN5MavshhnCr5x76LvWQlmIyOqxhFSAsBorWWAyajBAnDeS+E9fAmei5ujIg1FvfHO/2nmOkhXLwB9FQ7W+htPWBliLWwrIXP5z/mAMHcscPe/vvTssjOiaDM6nQ5QX+brr4F2oj6K4LXyd3xNtGvfaS38Ls0pqecZf+ZG6+9crMgMYgN4Ns1c4cO7hgcnSI4eI84/cFpQyE9hgKJdV3V1HbDI0jfawN6KAONOsQa3B5hA5JdP1Ln0fw7aWMdJ8Q1/ZqvKCcSEVF8LS9Hj1zCrgvrcQC+qF+VdiADPdTdUzxFtzaofPtJVWHhcZ8j1bcOIxfMA=;WxJhweIz9gg0VgrPMfkzGw=="
+secured: "M7mzd5C/CaTG7/4FgYsZCqEHLP4pbdnpNeYmfcvcrA36RmUR8NK9YI6vzU6nB5VIw+rxdAPkUrIYCBst4bYAdmqo1oZIT7PrKbMIp+RS4kPmZr194ioF3WanZSQ8EpBgkmQfRg4ejYZOgze2xQSs20RA7fNKFrcptUDqFgt13Kj6oduZilHaP4xMSwnWHx4bxdJyBZhhtxHEEeceTnTwI4rfwR8dTl7MKNxeWzDR9At/sqhBjwfoYo6XN06SCDZesMFQS+gMfRRoESJEO/nk7kkVJq81tOiBPhdzet+bNIpnHApVGYtZOf8mGfeDVE/kregUwpCMeyWUJk9TVKSZEEWkkOjWzDfN+9wzmflzFj8=;W4jkMXp7glNsc2/8fBv4Nw=="
 ---
 
