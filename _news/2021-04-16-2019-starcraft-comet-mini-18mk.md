@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Accidentally Learned Ecology by Playing StarCraft"
-    excerpt: "A video game about battling aliens could help ecologists study life on Earth."
-    publishedDateTime: 2021-04-15T01:52:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/4RkTgGmDgot59FI9y2wlk5/73ae102e4b65b6b0d3ac8e4bd5046870/technotemay2.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
-        isCached: true
   - title: "2019 Starcraft Telluride 338MBH"
     excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T09:04:00Z
