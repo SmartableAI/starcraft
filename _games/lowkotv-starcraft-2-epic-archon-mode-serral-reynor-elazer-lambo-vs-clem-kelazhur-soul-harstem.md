@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=qU5HmyLz6xA
 type: video
 length: PT56M26S
 publishedDateTime: 2020-05-13T12:03:46Z
-heat: 73
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qU5HmyLz6xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0kWNrXl4X4XfVi1QPT953uZL0t3f+gqSNEd3vzIyshSsDzAsjAwMr6HlWPKzqbuqIAcj1lor/Z+SfsWs/Sb9KDUVAkmWGmPttArrFbdWm94tUZZNfTLtYeKWqoOGO4g4OpuhzRO8rFjbohhUFww6PTbykyfco0FHwAxahRub8LL2uQYbnzmWQUnlm42msXyqoNmOyhE/OxWpvHLq/UNaxCXgzZqOgL2YUVt5YDKeVWTvuJixXIoYBqN0/bUfdZ0iZJtz8gphJmPFcEw+VVyTgBlwcasNRDFOqqDBBcMhIv9sreium/SjBMWDZpEI8QBtOiwnvskmpyhU3gPHDg2cCke/qvySGCwsChr2BEYXPga7z/Xxc4b72sYCiT2dFlfsn7RH1GzkZd8C/Jl41vjdhYnA8aTuU/HObQxjIg+3XO/15Ho3yHDovYVW+AwSo0YI;gasuiaKrUtehLuYSe1bi6g=="
+secured: "y3YFC20aaTuKlRd9pxWgCK9Df7QBWWAnCEqNei9AMopGEo258JPPc4hm26iyt5XBVGVb4iSHIYqbwCzpFWrrRH0xsKSrJd6O4Zul9OjSGqsQTDA0yqekzwXZlYXtAtoEfkfD0B6Gav85daZe/krMxG4n7Cvf90bXH5QKb6KyhAVIWqkiz2ApRMDsnvU2JFuVpj82gwTn3iPKkK0awSHYPZBv0FvKOEDkKw6G2cV+HN/OrUk3nv8t6sM8VRr5SmUW1x3t8quh/n++t7nq0orvv+nT0zzWW5hkOgPSHdlqjrWSjSp8OSgkijp7SvhkL43hTxUsJzSNKNzEWJr9dpsRY6ohmjigASyKVBALqdg8ovYRLAxW9VX+FHXdVtMSdpWdUuRCQ8xWuI3hTr17e5qTjUp70XbI72UAuYRZHRco9G65mLyp0ayuV2E33tcc2gXx;nYTbdSWN3mMTpjwSTBHYog=="
 ---
 
