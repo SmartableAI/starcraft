@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-machin
 type: video
 length: PT52M15S
 publishedDateTime: 2021-01-30T12:55:14Z
-heat: 77
+heat: 80
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JQPqVOKmW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yYMdaEw470jLdZ5RZQmjSFiWIwC0CA/GgGn3cX6Czm9+ySoHHhd3nSGAMdJ5sF+V8crRWaxXYpDuULEyqal4Co+uoh65t4giKiia77bqAuinSYJB9l8LgvDrR2elIObfDXz55nG2CqtL8LBebXZYf7SqhHwj+tzZXni37ms2pQIdDjUDlBDaUn+Qn63/trNOTo0dAZtheZuFDGKe+E/8IYMHnMOyYBrQM4K+PhsgsJ7E0Og2ovVKM/zRt64sIBlADwuOF+/IUBy6nEantNyGbT5Krj/uzr0PBJSQgeWWJ5o/G3nH5PyqN2S0mGl5hGY9n044c7J5FJgFS0NRW4Oq3Fn4i1kFY2/rGxZGU7HE9bJGLjBZ4mno+/jwtNTloOGWKimUox81WOCLbgILDtt08wCKRtkBVFNZInImsch/mHE401y3dJTkO24HtbXu65zA;cURTZxQDNyuW3i7sDEAbeg=="
+secured: "g/78pnFPnAFI9zLNQURIa9SMMQ9myB07O0fV7M+GGjnE/hLRGAEWuHbFJ/hJILmADOanvvmHuIVaR1Pvq9R+XttmWE5oJFf0Qe3R+4jic//24UYsLpzVlao/vU4sZBrEeFOzLTordPfl8E3Zo02milVjOfuQHB8PaJEzPnOkJ6/hL6ACzWT3LMuJaeq35Phw3jfQ+QqdGUflvk9IXUeU6FLNH1Ox3/bNVOkjDyZ5Mfy8t8ayqn3gL63jaSSuVjH3qhORcEvTxs/JlTbzmSA4i9omeaw9i10ae95BH3UBsR0MDkL4djxtRiwrnc/AUSZMVPyu3Q48NBCBawQ+Jv+VuXvEr9uhkmzuLNpoMoOl2aZ09SFkQ+qypXIz+UYFm20KT0j1hZAtXuJJM2PA9sOVdcbC4WYMGEW9O34ErGGaJ3MPGDy0p2HfWtGEmRLs3io6;3xMhP7KdA/plccUm22PyEg=="
 ---
 
