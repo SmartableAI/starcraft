@@ -2,6 +2,7 @@
 title: "StarCraft 2: Bly's CRAZY Roach Builds! (Best-of-3)"
 excerpt: "Best-of-3 series of professional StarCraft 2 between Bly and soul. In this series Bly decides to play hyper aggressive strategies, based around the good ol' Roach, a unit we don't see very often versus Bio Terran.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=1m3Ro99LOmo
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-crazy-roach-builds-best-of-3/
 type: video
 length: PT53M53S
 publishedDateTime: 2021-04-21T11:30:01Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7WEotiOwtbBWMiCvglo1xJuD4mFfAAinKaJIyy5LJKs+ROiATm6XFhqEnFRA+w/p+UV/4S2WkNTE76cj7CmLVvWBjZezJRxtGCS14a7I8s2An7h3E2wGGejBG8sS3bFY54XhpOkXvH87qf461Ug0np+3lxGV836YRw7AMmn6h1DdkKbBuSl56NVUAL1SNWWh6xnVSkbdPxAGBbnVjrFiSRkEgy4gajowx9ExsEuKh76b4rXCbOQV9LB2ZtwwvZ6c2X6tBfwfWBY96PlkAniDKdy25dHEvgQUk1sw+upDfITiZ7d2CdiXxhRXKCXoANgdQNfPtfoIdr9KqGXhbfMmDUatoAORoMAg1+A6wRtyyC0f2sggXCKp5ja6HbLWlpPfrte6xUVxi8mLFK+DS9MSaw==;WzUn0iLCyqCkyIycYi0kIQ=="
+secured: "utby3j65+QP1SA2XBfTMutAaKpkMquco0BrjOIQiiqzrUZzBhJvMdbxHgZ0wdnJIYUAUDBpYrf0ZXrtrk6THShGL2DQnKRJhpkR6hP6hsYsmOuAOk6czR08eD60+CMwo2ppzc8rD+GpoFmYSeoTjTMxO/0yLcOnjD8Si9bw8zT52eue4Jz5pgiBEWKExfGLk066KmdhZYRJa3P8wthNE6LpNhS4NmFcsADjAcZNkdF4ZAhN/JVdWAoWlpuuj0WAXukDyYeHqH9IV0KGLWEdlo2gJjmJU7CGWE1G7mnY/cwC0xrCVP4okqLw2EpKbNilq1j8n1Gg4U6yYlytbU8mPc6wSUTq0SqALdaRWEURUhfuTa9TJNXbNPIrm2/MBmlVLvYr0UalL/mTR2Zv8Y10IBQ==;D+EZ0lWCx0DcZz2/271y0Q=="
 ---
 
