@@ -2,6 +2,7 @@
 title: "StarCraft 2: HAS Is Playing Next-Year Strategies?! (Creator vs Has)"
 excerpt: "Fun match of Protoss versus Protoss in StarCraft 2 between Has and Creator.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord:"
 originalUrl: https://youtube.com/watch?v=EY33CBhYJIs
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-has-is-playing-next-year-strategies-creator-vs-has/
 type: video
 length: PT14M46S
 publishedDateTime: 2021-04-22T11:32:10Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hTDTl+Z7ARlskt+vYTUuFwczB4yAzvUh1sJS5jcdT/LJ5r4tWPGAi0QcQShcDzPOymWJiYJ2M5HQ4xGfrhH9Hgw+gJqfPk9P4NLm3zIgPzZ5b658IPvD7x+zRdiierBlRyHgo3iB9AVQJzASkx9WMZvURA9QweKk++iDbxcHkDt6mg7ZKQUd3HeLb3K69KYJ8b5CQxvT53fuInlqjHKEfUG170p3jr0vpYluzzAv+MRODpm5IDgQt2aPALg1Upk3VdM0zu+Ek8YqqL1MG98qDpkWb0uyQySnPaTMdyexgDHPHX9p2/n7Yw1I15u0OyPgERhKI6YOnwGW9sDKVo13+7OOc+K50KDJ1ORnGcXxYJeteS9173BgpC4jmtaZmk3Jk17ef+jcLljfHj31P3fw5Q==;Pm2BD72s5l7P3vokXuvJLQ=="
+secured: "n2Wbt6xg0heXSlD5cgCntIPjj1CiajVplDmzFV7TCExaU7OooNVLy85EpdeO1xtuptoeSOFYzqlQDs24NkFjgfICzXklCHno7RAnLINHKEPz49LAB8zOGuzB6AzOpVplG70LCF3BUgqvnY32Sya9+I5xlahwjC2OWbWlDxTr5MjxZ+1iWPLNyJ4tqEpEi6XUDBeccuYSSYZ1jvrL7GSjEufxCGaWFrOlj57FTuTn0XliuJxYKrLwC1f8wVeYI005lJ1rAPjCC7bH5aAjctjpg9efXNJmhM5MudEKzlcr5eBUFmtmr4i4P69VkiSmN5/ch8d6aLGF99z2gAPIS/bn3QlOaqWPo2Ened7YJaTn3EKAu1paJmpNCG2AheNBvAt4XCz6TQyXVDEbI5vxUlIi9w==;SpakHci9wjj6ToO1HzVL4Q=="
 ---
 
