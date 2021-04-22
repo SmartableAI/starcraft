@@ -40,6 +40,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge"
+    excerpt: "Starcraft Autumn Ridge Travel Trailer #07845 with 16 photos for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:04:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/2381/i/3029727/o/1_2381_3029727_121419250.jpg"
+        width: 2048
+        height: 1153
+        isCached: true
   - title: "Does anyone have a guide to all the Starcraft comics out there?"
     excerpt: "I found the twelve Dark Horse comics were each 4 issue runs that were collected into three separate volumes, but then I found Frontline and Warchest and not sure if there are more,"
     publishedDateTime: 2021-04-05T01:30:00Z
