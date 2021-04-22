@@ -4,37 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru.md",
-      "title": "Terran vs Protoss | Keep it SIMPLE, stop microing like MARU",
-      "excerpt": "Today we look at microing vs chargelot archon as Terran. You don't need to do any flashy/wild micro to get effective results vs protoss! Keep it SIMPLE and follow a set plan of steps and you'll be crushing :)  Terran vs Protoss | Keep it SIMPLE, stop microing like MARU #StarCraft2 #Terran #Micro #TvP",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-terran-vs-protoss-keep-it-simple-stop-microing-like-maru/",
-      "originalUrl": "https://youtube.com/watch?v=HmIGYeoXzTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmIGYeoXzTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-30T19:03:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HmIGYeoXzTA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-terran-vs-protoss-mine-drop-tutorial-into-3-rax.md",
       "title": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax)",
       "excerpt": "Terran vs Protoss | Mine Drop Tutorial (into 3 rax) Learn how to start dominating Protoss players with one of the most standard builds in TvP. In this guide you'll learn how to begin with a mine drop to put on some pressure with the possibility of dealing game ending damage and then transition into a",
@@ -1017,6 +986,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vKfhpDEDO5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz.md",
+      "title": "Death Aura LE - Walling Guide PvZ",
+      "excerpt": "Interested in lessons? Email Devon directly at hushangtutorials@outlook.com ------------------------------------------------------------------------------------------------------- Want to support HuShang Tutorials directly? Patreon is a website where you can contribute a monthly donation that will help",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-death-aura-le-walling-guide-pvz/",
+      "originalUrl": "https://youtube.com/watch?v=gntIHZ8kSqY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gntIHZ8kSqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M17S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-05-28T09:53:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gntIHZ8kSqY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
