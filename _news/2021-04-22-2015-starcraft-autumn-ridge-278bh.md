@@ -1,14 +1,16 @@
 ---
 category: news
-title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
-excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-17T04:38:00Z
-originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
-webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+title: "2015 Starcraft Autumn Ridge 278BH"
+excerpt: "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-22T07:07:00Z
+originalUrl: "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
+webUrl: "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
+ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 177
+published: true
 
 provider:
   name: RVUSA.com
@@ -18,28 +20,12 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
+  - url: "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg"
     width: 800
-    height: 600
+    height: 599
     isCached: true
 
 related:
-  - title: "2015 Starcraft Autumn Ridge 278BH"
-    excerpt: "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-22T07:07:00Z
-    webUrl: "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg"
-        width: 800
-        height: 599
-        isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T10:31:00Z
@@ -96,6 +82,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
+    excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-17T04:38:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2017 Starcraft Launch 19BHS"
     excerpt: "Starcraft Launch 19BHS Travel Trailer #c5410463 with 26 photos for sale in Helena, Montana 59602. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-21T07:05:00Z
@@ -108,6 +108,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "K4kfqGUgDUhTehBw2FhIEXQFxfnYwSdo/oNPGTylEk/3gl40xRIBnA3rCOfiLTBcCWPLR0VSIVe4r/u4EwY6FScY685zoJ/ITgeVSQACohSAhpycnBto+csappD7mSjsPA7P5RYMkwDFKvFm1hzG26Eebfji8Lgvvun4ixn8k/txJ6Gz/S9R2t60Pqn3YQ034udr7aNlNi+2CSEwC7ZDOBQZGxhcaRloGUs/fSwn2DD57BybfySdkJllai00A0IE49zphZciWhxB8qZ/dRW2tLUsDSfcwrQjbmz3RJKkpXKr9qdvfgwLf54OZ/ImP2HBMMVIIohk9BbH9fr/YcyqjEgovvdgBJLaxBgiFtcfr/HaAAEPGKavevXBveGR3drA82P26Ni1W63pzSDJseBKbxLP1EbcddXKw5obWAgtih/VaqNxmx8U8B7V+XDqKSR2uj4oewE7fB97pX+mzWV7EHX1fWss/+qkodDIxlW7kqVEVRDHHXzMsNAEIKZcO+sGSrO1wikjYPSnhTNpfRnNmA==;q69o7KQ4ifFMtjHaTHf7Zw=="
+secured: "VElVeYxk4U7ocCvmnOATcLzj38tum6wcB7uQy+PUqfYG3j5smX5jfyVlyuydc13WReq8Fo+NsXl0bDvCAzqMzXOXbs97S37BrkG2UlKMYQiGyENOFaLLLBBdjYRifw9/K70ONvVyE9ngep8KoyTS/I2WerRHjOaHyWoZAMGnzR4ic/cP/Q4Oq6f7sBbOUEDnrGmVg56REw/4MdZpaqV37stuCwHgJfT+bvBc2DZJEYimrjhJqgq0U50opY+MivmzeKS6knRyUUk79OB8gnI8G5gOSajjdVeq4Kqfojq9LKqLl0KVF7UUVpfTcxFp8fCfyLfvgK1KgAM008wnRXLJrBB/REIpCFEFtPPVwhXyD+k=;tKu0fvxPpv04jAj0wxWK1Q=="
 ---
 

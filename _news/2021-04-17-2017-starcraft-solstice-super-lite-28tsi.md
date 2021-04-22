@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "2 Mods in Starcraft 2"
-    excerpt: "Hey guys i want to know if is possible play 2 starcraft 2 mods in one match, i wanted play zombiefest and campaign units with some friends but i dont know how to do someone can help me?"
-    publishedDateTime: 2021-04-11T06:34:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/54199-2-mods-in-starcraft-2"
+  - title: "2015 Starcraft Autumn Ridge 278BH"
+    excerpt: "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:07:00Z
+    webUrl: "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
+    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
     type: article
     provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
     images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg"
+        width: 800
+        height: 599
         isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -65,6 +67,20 @@ related:
       - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
         width: 300
         height: 201
+        isCached: true
+  - title: "StarCraft II budget passes $100m - report"
+    excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
+    publishedDateTime: 2021-04-16T00:00:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
     excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."

@@ -38,6 +38,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "2021 Starcraft Super Lite"
+    excerpt: "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:04:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BXnR5URtPFoqJKXV4zXLkb+/TOjYbfqc2H5jxlCrD60M/aIWupUqe4HkcRBIp3XKzL0SR5IdsDnTkkBastyNKAZpzh7HMKgx9BnCCoBXUPVBd02C5hBXAF6cWcX9Nx2sydTGXXBcXtlKQiIea2iCFra28QZnN/w9be2A+RhM7egQlF+Og68jg3u9w7cjlFi5xGSR9UAIQl68igyPQSv3cx6WQSD3EzqVbGYAeWeODcJ5JQs1p48IOCBCDdgQBB2/xMuXFqa6NLvDyVhexkVTcnSjQgj+UZw2FfpjE8UWOphSCWSZ+srlhYLPyhBM9RygTh7OI4GPg5DibfLXARn+7Vb6cyw+bNwF9O07FO3Wx70=;lj6zFBeOr644aY6gRyw7Jg=="
 ---

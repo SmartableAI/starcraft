@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5
 webUrl: "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5-0-7-patch-notes"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Starcraft Super Lite"
+    excerpt: "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:04:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Does anyone have a guide to all the Starcraft comics out there?"
     excerpt: "I found the twelve Dark Horse comics were each 4 issue runs that were collected into three separate volumes, but then I found Frontline and Warchest and not sure if there are more,"
     publishedDateTime: 2021-04-05T01:30:00Z

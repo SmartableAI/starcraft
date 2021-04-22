@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-2015-starcraft-autumn-ridge-278bh.md",
+      "title": "2015 Starcraft Autumn Ridge 278BH",
+      "excerpt": "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641",
+      "originalUrl": "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641",
+      "cdnAmpWebUrl": "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641",
+      "publishedDateTime": "2021-04-22T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RVUSA.com",
+        "domain": "rvusa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-starcraft-ii-507-patch-notes.md",
       "title": "StarCraft II 5.0.7 Patch Notes",
       "excerpt": "Patch 5.0.7 has arrived. Check out the detail!",
@@ -10,7 +52,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/starcraft2/23657318/starcraft-ii-5-0-7-patch-notes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -1049,57 +1091,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-starcraft-2-wont-get-new-content.md",
-      "title": "StarCraft 2 Won't Get New Content",
-      "excerpt": "In a blog post, Blizzard has announced that it is officially ending development of new content for StarCraft 2. According to the post, new content that is traditionally sold for the game like co ...",
-      "sourceUrl": null,
-      "webUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content",
-      "originalUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_in/video/o/oblivion/oblivion_jt1x.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1",
-      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/starcraft-ii-legacy-of-the-void/151810/news/starcraft-2-wont-get-new-content?amp=1",
-      "publishedDateTime": "2020-10-19T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/ign.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
