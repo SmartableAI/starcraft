@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-amazi
 type: video
 length: PT15M56S
 publishedDateTime: 2021-02-11T20:06:48Z
-heat: 66
+heat: 127
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60wtU8hP_mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rnBJ3M/LPObgPrR343ym6wyeCJBH0IgjTC1RxuC6ZLg/66aKyMyf5CAWlOPOrQ9joKgAutC5B/JmWBhR+BodBX838ZCzFXx6FFr8sGPQgpsvy1Rxv0JQ3C+tRQRXrEdyug3OdOHcj1JFpnBzB2Nz9b6wla9c7YmVQri2P8JFQbnXI2U6Vws7+GWgXqXkFvPCbXvyCHTxjEwQOyEz5NGmCZlrJ2xKEJg73M54VYVR4/wxwJpxlU0auQPqoasNPmMa+9Tz120rMXTkl0RaW5jKSIaMj9f3A84dKPmzhw26oAtdT9S3lnhUmX61ov/VhxkMvuk16iIA6tcUZ6UnExj1+BQrkmSUrHpH6ZaUAjyqtx/csTE0KILJsNhoR18EL9MgxQ84Rvp66obyLLb5jtQ9h+XON9s2ZN9gPe71ZH6oH1zZqrOzx4cMDvGGY7fehEqG;oblfGH8NRYQQCiTiUMxkHw=="
+secured: "+awsuzSGs3fknoPKglq5HoO554h2fyMUe+8iPjl8A874sm6Ot1h0SciLprXHcO74y6BylhAVusJMWxsbuZJHr2PP/1WDL2aNY+HwQnLax2vjVqPwt7y0pZYIaPU92isbGtJUZv6mPsJJYBcwo6OVzfW23ylzGk7NxP6QBBebIWC9Mle+nalTplBWBQNWSUzKSnn15ZP7NUC0gMVvTT0mdHbmY+EGdsBuQh4N7F3id2gOiAOeXXOcjxKbqh5Fzj51eYNFXgvLdjbuN6vsnpKfTT2o6ijz7Bq5dthmoXV2Dj1bYahOryXFlqon+B2wOK+aC3eivP6ow7LMjTbZdN92f6jve5A9wBZtR/SxxM+RB9eDnyHUnc1ZEAJo/q+RA50BqviXJSf5RH9KzJ+fk/gfAu1SJGwdq5E6P2ndFIgLWKeJfxE5c7J6Nv4mdQTxgnW1;hHHL3Gol/zxsNpW5LZJQIA=="
 ---
 
