@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-new-map-hi
 type: video
 length: PT24M26S
 publishedDateTime: 2021-04-15T11:53:30Z
-heat: 189
+heat: 160
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GE_M8NzQHuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XwJU9fabEtAY0bQ0ksW8+w+3t2W84K87mtodkMzvq8o0RG/xBq0bMwdhal/XDLcqfMMF5Sp0WmiGVfTizdcTOmfKrfr0AknpvIy+EelhRbfZZwXtXt4c1ukm5BlJSNiBagQWqKWEIALZl51uMQo8wXlLYD5H68d1YHkK3KGM7/glm3aRMVH1Gboq3Yj1pvH3jMe8rO3OzKdmQqGZbwlT9Cptc5diqU8uxOmY/FrhSMuOcgndspwNNzsJM+6XQlonHfOxUhiy/dr6XxSxqY9Jlh9zvZUV758kg0Be5HXvFW1sfZR3Vw8o4OV1jGlyVP/xv75nlHcqh46ZsimweDHDSzM36GvQBndEINa1x7qBPm7VRU6pty/jJHVRp8hU9Uk1FppXPGpEhuPulrgeMN0iXBNb8XCP+hzmMIG6xNG2BLk=;ifQcWz3GMdVmeoXj0jKh6w=="
+secured: "V+Mgf1cZpY5ZxP/7WoEVFllhMXJ8yWQ5lVJWzNQVHSSJaYJJ6HMGrXfDQPrj+Ev9UgENC3+XHqu8DwoEowjyEme28aVqDVpx7iJE4zD33QTmipudoEsdMEWTaIDnMdswCHi7H6Gpynoh4PIu9qLeau2MIX98oiM54zHWtm/Qrk0IpBm0lq82AyMNWfIk/2484NMqGQR91GRna1ER5aBVyXwLPt85A0U6N6eZ7VWPnUFYKFy9D/GbWcmpIRucZjDKB3H/Ho9iWE7e6zdVQ6xumu61G5bgLooTWRCOO5Fs97Clwm3CgYDqBtRfoxnzlWjSjcYgfvKD1nIiH6X7QboBzPXwUChPZHdA5XuQkl1V8/1jcAR80RBch1YxcOxF5iA8ycVeMDD1LSp9tTUyPxpYmJqraYENJMKhk54NLMDmcg4=;0ZsZrImZIatmM6nazMGZqg=="
 ---
 

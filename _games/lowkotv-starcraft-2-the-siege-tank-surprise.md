@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-siege-
 type: video
 length: PT34M51S
 publishedDateTime: 2021-03-16T11:44:46Z
-heat: 84
+heat: 81
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RdZ3iUlFaNc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8BgQ2g6Yui7T3ezoRiBg2KCrryxcqVY7fAVI8jVsVODnnwXd7U3GcaUit/eZZDNp1fOzfXZuw4AqFWoUa2t5xtWevdTMioIPYuvV+P+6TeUflpMUA6Y2bL4g9rTEFwBrGN5yj6P0+Z57BmCF0jNnWTzjO8WIwQ/vf8vepY/tzPeSnjL9shefQnbbbdqmpRjJKzTiuiRurQQ6rdZtko3rehg9955oTbnZcB08RgQ5gRBn527uKglwqVreIejwgK0qr1kmZTYKlHTuX8Oso2aV9fnGkTwXjZKP9kr4NmrTZPvzSwj7lckTQir4Zl/uKiaruj4ydKQwodAmKI7+BDhBh9Fmusl798g3L3lg4FwNPy2yZRBhEOvYU5PfUKiisIovVuahZFmpEhDPrWjXuWS+YQpDSYPC4uvbxOk40gGkMPM=;PgNcoNPNJX3L77YdvvhEtw=="
+secured: "QfJYOH7ri+Fci10WJ7MLi48X1kKiypmWVbqGqMvJqCpfKxApqeJwVGQdDfI+dR7tccgswOatslv17pdXXnht/hujbobl/q3agEeCJHBWmq68iyANzMX+Bhkt2V+WEWeNBMnKWEZ5vw7cn0swRydHGoy0jGo3k1WvEbHmbXPzy6TmIGQuO5hnINWnoBMy7nN7O2+ndt5lwIkFL+lQsXcPXN8cCYYFXpUaPA+TLmaiiK1rGoS7xYXqD/W43MHvowHxaPVIXUwPKFzuMNu7WqSFCCGinTC5bCU/CIzVoI6jWZyxFkXTkpC9Wb6ni0gQA68WaUdnhLp/ipsOBjMD+K6k9gC9lcT6nPk4KAbqh1KzayMg7ALvuyx8304UJbWkPAjyhf67jDONWu7Y40mAufplyb+uI6WgA8CpNfWgBATEhDM=;QWymFFQmo98qn+iLKdZlsw=="
 ---
 
