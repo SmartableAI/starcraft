@@ -4,6 +4,45 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg.md",
+      "title": "StarCraft 2 Gameplay: Defending Cheese in Zerg vs Zerg!",
+      "excerpt": "Safe Zerg vs Zerg build order guide: https://www.youtube.com/watch?v=-Hqgyx6z-6E  In this live game of StarCraft 2: Legacy of the Void I play a Zerg versus Zerg on one of the smallest maps in the current map pool. Because the map is so small, the chances of my opponent opening up with an aggressive push",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-starcraft-2-gameplay-defending-cheese-in-zerg-vs-zerg/",
+      "originalUrl": "https://youtube.com/watch?v=SHWX5M54-ds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHWX5M54-ds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M14S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-21T07:04:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SHWX5M54-ds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ]
+    },
+    {
       "path": "_learning/videos/lowkotv-starcraft-2-gasless-zerg-versus-zerg-build-order-explained.md",
       "title": "StarCraft 2: GASLESS Zerg versus Zerg Build Order EXPLAINED!",
       "excerpt": "Zerg versus Terran Build Order: https://www.youtube.com/watch?v=ZOMj6X5_eHw  This is a video about a gasless Zerg versus Zerg build order for StarCraft 2: Heart of the Swarm.  The gasless build order in Zerg versus Zerg is currently one of the most popular builds across all of StarCraft 2, simply because",
@@ -1134,46 +1173,6 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm.md",
-      "title": "Zerg Build Order - RorO's Roach Baneling Timing Push Versus Terran (StarCraft 2 Heart of the Swarm)",
-      "excerpt": "This is currently one of the best build orders in StarCraft II: Heart of the Swarm. I would highly suggest all Zerg players to try out this build order at least once versus a Terran that is going for a standard Reaper Expand or CC first. This build order is great versus Terran in the current metagame.",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/lowkotv-zerg-build-order-roros-roach-baneling-timing-push-versus-terran-starcraft-2-heart-of-the-swarm/",
-      "originalUrl": "https://youtube.com/watch?v=sq7Yj3kSm5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sq7Yj3kSm5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2013-06-08T06:46:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sq7Yj3kSm5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
       ]
     }
   ],
