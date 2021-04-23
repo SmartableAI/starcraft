@@ -56,6 +56,20 @@ related:
         width: 2048
         height: 1153
         isCached: true
+  - title: "StarCraft PL Youtube Creator Info and Contact Details"
+    excerpt: "How do I access Youtube Creator, StarCraft PL details? Youtube Creator - StarCraft PL runs their Youtube channel, StarCraft PL and works with brands to promote their products to their Youtube channel's subscribers."
+    publishedDateTime: 2021-04-11T13:31:00Z
+    webUrl: "https://www.thehandbook.com/creator/starcraft-pl/"
+    type: article
+    provider:
+      name: The Handbook
+      domain: thehandbook.com
+    quality: 54
+    images:
+      - url: "https://files.thehandbook.com/uploads/2021/04/aauvwnjhimstuseikquffg3s2f8ztf4ea5poqlnqmcxukgs800-c-k-c0x00ffffff-no-rj.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Does anyone have a guide to all the Starcraft comics out there?"
     excerpt: "I found the twelve Dark Horse comics were each 4 issue runs that were collected into three separate volumes, but then I found Frontline and Warchest and not sure if there are more,"
     publishedDateTime: 2021-04-05T01:30:00Z
