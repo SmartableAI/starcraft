@@ -2,6 +2,7 @@
 title: "StarCraft 2: The THREE RAVEN Hit Squad! (Clem vs HeroMarine)"
 excerpt: "Best-of-3 series of top level Terran versus Terran between Clem and HeroMarine in StarCraft 2.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community"
 originalUrl: https://youtube.com/watch?v=PWZ2DVCytqE
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-three-raven-hit-squad-clem-vs-heromarine/
 type: video
 length: PT38M44S
 publishedDateTime: 2021-04-23T11:40:18Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dgjEuDQPE0afdvF7BBhZxvgNEgNPo18y2MzC1LJg/iEUYSStRiS/8COyWXeqk/oNDa1GRce0WX/gOtHyue1oxAgSKZRBODAaN+nw/UCouCkSC008mH4cEnFIsr/nJqLrQWNSA3jrsupRX2tsXcBXn8cTZTjcuvMDoI8pgFQRRuSLp+3n71j+A8F4uo+p0gy1uIPvjmg81AVig2jYDuYmzl6mR6l5SXC3e0Gdf8/7m9NKB25POQXcBRh77CBn+shvj2j7tD+dxY7pqokgwGLEauGiLIQY4Q5bxbyAykFOOFWG4Nfxp6gjP7FBTgBymluejrSb1d9zLGbl4x9Tlzk6FLCXxaPd356CaNJfQ2wSJEqiA2E4vq9rijES99R0FSDaZQL+/la/1l4oOR5/ZdH9Vw==;iwfReGjZKSDv559xQhNcFw=="
+secured: "m4Ltyb/Umy2GufvBdFlHCa8AuPW/O96T71qKODFhGhZFylsfIHx5+OLqk72n6v6AQVNRGGr9kAvaXh6yiacSMfjJbZiBh+tBy7sFa0ttCCKTA/oX5Gw6WuFcyBoYY7tac00FkrP6kFm/Blaxv9I7enyPKY3UiRh9okIJZ9ULGC/I3GOxzCCyNpAWihzhWwApa0Khw47R6411ovYzyx0+AuPLSx/TVxnTl72/9t7ZGaD7mO7UWFw00/2QrnX9KIM01Ha5SX5zzhubHK3vzjMt1LdZXjNd/c+Ql+jLXjcE/vnzhavU8t7kSeM/Qm7J4FfOTwRELKJz1MZ6+AyxmijgY8YHD1U4LU3o25q0cliNxmH3nREa2MqAXYP9s8xHpxm4keLrXTg+iyLGRo4x92za7g==;mxbdXHOcV98eMsz/LAZzsA=="
 ---
 
