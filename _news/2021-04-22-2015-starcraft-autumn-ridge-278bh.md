@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
     publishedDateTime: 2021-04-16T00:00:00Z
     webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Swingin' Ape to complete StarCraft: Ghost"
+    excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
+    publishedDateTime: 2021-04-16T00:00:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
     type: article
     provider:
       name: Games Industry

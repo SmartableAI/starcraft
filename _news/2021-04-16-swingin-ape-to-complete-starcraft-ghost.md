@@ -1,26 +1,26 @@
 ---
 category: news
-title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
-excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-17T04:38:00Z
-originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
-webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+title: "Swingin' Ape to complete StarCraft: Ghost"
+excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
+publishedDateTime: 2021-04-16T00:00:00Z
+originalUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
+webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: Games Industry
+  domain: gamesindustry.biz
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
-    width: 800
-    height: 600
+  - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -98,20 +98,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Swingin' Ape to complete StarCraft: Ghost"
-    excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
-    publishedDateTime: 2021-04-16T00:00:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-17T04:38:00Z
@@ -126,6 +112,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
+    excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-17T04:38:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2017 Starcraft Launch 19BHS"
     excerpt: "Starcraft Launch 19BHS Travel Trailer #c5410463 with 26 photos for sale in Helena, Montana 59602. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-21T07:05:00Z
@@ -138,6 +138,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "K4kfqGUgDUhTehBw2FhIEXQFxfnYwSdo/oNPGTylEk/3gl40xRIBnA3rCOfiLTBcCWPLR0VSIVe4r/u4EwY6FScY685zoJ/ITgeVSQACohSAhpycnBto+csappD7mSjsPA7P5RYMkwDFKvFm1hzG26Eebfji8Lgvvun4ixn8k/txJ6Gz/S9R2t60Pqn3YQ034udr7aNlNi+2CSEwC7ZDOBQZGxhcaRloGUs/fSwn2DD57BybfySdkJllai00A0IE49zphZciWhxB8qZ/dRW2tLUsDSfcwrQjbmz3RJKkpXKr9qdvfgwLf54OZ/ImP2HBMMVIIohk9BbH9fr/YcyqjEgovvdgBJLaxBgiFtcfr/HaAAEPGKavevXBveGR3drA82P26Ni1W63pzSDJseBKbxLP1EbcddXKw5obWAgtih/VaqNxmx8U8B7V+XDqKSR2uj4oewE7fB97pX+mzWV7EHX1fWss/+qkodDIxlW7kqVEVRDHHXzMsNAEIKZcO+sGSrO1wikjYPSnhTNpfRnNmA==;q69o7KQ4ifFMtjHaTHf7Zw=="
+secured: "xgDmVZT9GnpF+lT95f3+wE0v79u8h2/zziIoJu+fKAtRFCgrTIB9K6elApW+0Zdju1NbkoGneJE1lwUBGSEXK49vy3lmNfPh6TH/FLdeUsyKwXlSou0os4Qm4HixO58kWWwczpfx3F2C5kk999846yFkhS0tYEvcGyy4ENcZzc1VIq/JT2ts0X/OMkqTH97yAxSsl9qrWSqNLBHf7vUzMiB58TIHgwQrGFnQ+IS6KU/XhhMAwIMSQSMVo8H/5LnR9/+mqQkKIpk0DNVoDtL061S0Kf0flFUXchv5L7ochbwksReRxxhOA2ENwbj3WarerPm50lKB4m5y0Ui7Ua4eprOwscHxFIkXDEAZq8oHPXg=;lvtCWbOyZMNqmB/vXj6Wqg=="
 ---
 
