@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-very-b
 type: video
 length: PT30M54S
 publishedDateTime: 2021-04-13T11:04:30Z
-heat: 152
+heat: 135
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UvH2h4bWcfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rpCytA8Z2b47QDrhD9/uepDzXMJQORNoi4M7KRfQ9D30x4UaErbaHXgHNtqO7IvtsOruTn7MTem4OQpt8gX5/H5jf5XHKbLmaxmklf+VJ0FYeZXWWGsHe9A4mHXYCeX6IqKL8TbT+eQ1Rp3kSThhYWi2hmXSnQkKiLah6/qfF9y80c656bb48ZSYqKCRj3CYGciOwk6JPpjyGetzK7khd6egNiVY1ffcizcdXCdwCIP8/Uap58QS6itzJKKGkFHs7xQd70JIE0TWlZcCeZVTVrCqp2BTWPzoLfupDfi7tUhYSOyf29o/8KD8lJAz1oeHO0ghh89gAQiXZ+eYv4swqfperIilqJeo1lR3EBDwQ1TyCLzKgESDVERhxyaxGMOQ69kX9hDQru55r7QhfMZGGkt8Ab9ERPz9itLqnQjuP6Q=;edoazF8QIg1AhbRHj/UPcg=="
+secured: "le+CcNH0rk3gQDmzd6RWX7I3f31jvJiw2vvtVXQQNBkbfIs0R3LFXQVGZu6PeMjM5d+ejJy4Rl8ezgENFsK2A+DtKUCJEbLrRaVlAUQxaXiuSBFl0T+CKbieKmIrYCM1/BN+zSuwJs3L8qV6fRGn3+DkimIwaHcZB7d78p78mMb3SH0EEIvYk18Qj7OmvPDZ2z8oKFiPYCFyOGrYZJ+SdvGihyf4FOdqeGudsOmoQZ3/wmrrbGPXTs8Rm4TQNndMC4XqiC6nXmDKi7BuarBx8fwRsMGE3DqwRdzI3ipjmyfmJ3L/dAApehTUjkE7KonhJ9TM+aN1pEoMkGM8WaYfleyOhvi3EJTvUSRHMTuk/c2zSJ590pOGJb3gPYuQChmFixSCNe7VWpX1CnE1pOkpfojGGVhoncA4wHYYUCeY+Fg=;jHF5oIfkNAt+nUZ2Tg8SxA=="
 ---
 
