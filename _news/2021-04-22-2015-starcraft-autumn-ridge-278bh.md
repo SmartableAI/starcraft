@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "2018 Starcraft Autumn Ridge 289BHS"
+    excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-24T04:05:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/41829/i/3033997/o/1_41829_3033997_121488298.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T10:31:00Z

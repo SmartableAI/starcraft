@@ -1,26 +1,28 @@
 ---
 category: news
-title: "StarCraft II budget passes $100m - report"
-excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
-publishedDateTime: 2021-04-16T00:00:00Z
-originalUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
-webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
+title: "2018 Starcraft Autumn Ridge 289BHS"
+excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-24T04:05:00Z
+originalUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Games Industry
-  domain: gamesindustry.biz
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
-    width: 400
-    height: 400
+  - url: "https://i12.dlrwebservice.com/s3/img.rv/41829/i/3033997/o/1_41829_3033997_121488298.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -39,22 +41,6 @@ related:
       - url: "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg"
         width: 800
         height: 599
-        isCached: true
-  - title: "2018 Starcraft Autumn Ridge 289BHS"
-    excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-24T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/41829/i/3033997/o/1_41829_3033997_121488298.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -83,6 +69,20 @@ related:
       - url: "https://www.rvusa.com/blog/wp-content/uploads/2018/09/Bucket-List-Worthy-Fall-Festivals-300x201.jpg"
         width: 300
         height: 201
+        isCached: true
+  - title: "StarCraft II budget passes $100m - report"
+    excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
+    publishedDateTime: 2021-04-16T00:00:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -124,6 +124,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "yV8f8oJhrbGn+wjS0yL1z+ihmq8DvTata3f4OTBBbHp8paoSb1Q6z/xTyNwxqcdvRHtW5Cjvbbkf7JSaSDhp187hOge0kvOkGbVQtys1h6ydpxreC6hIK8AvPxLweuQizEqduCwdEAN0wlN0JS2w0Bar7lq3AJaEz43NXi0HoybePPU+L3fg3VqKJV0Yt5SsaW2A+6CSUFn2/ph0WVCDq9tiRqJLf0eX2HkkbHXVAWPf/Lt/zLGs6FkEXoA0U7eADOP16oDPbUiZRefANZG0/NQ3IVOIU3pyCyKd8XeQKwm2uCo2wPLTTZX51auMycjSXMtOBfb9amGeGfXCfV0Rf1HFxxxfOsRa8v9/GSoeWew=;KrRzyBKWPVJ4UQLRp1AtMQ=="
+secured: "LPtTOvoGx0lECbniRIGgSVDdb1nO06EqIQmGOLcB/UFPz3/smAoI5yfeyZtEHV9GXz5cmNsShpG64ZS5yADPxINK42nOS/p6BFeZZ9ySiKg5+V7FGs0Jx54JAmkl9CA8knRkkPqlo/6gKAtO91bmq1eoYYjxU8kt7DgKzgwzxbjVPVCOhjga0kCuCa/NmutYut7nAV0L4Dpl9Jpi23UwACVc8PCz9xAK86Rbbmk4FQZDoBWiUUyIlndMsLONnrgC0yI1nsjKquSrAxuQXsRzEFjDUtYePhRoelCcsr8FwfEwu+hr6ga8GXqP46/8C1jPhgenexlKgy65z+SigiVpe7RKWI+LP1/jVnbabtCS1O4=;7Wiah56ylRWBbM6A2NpBbw=="
 ---
 
