@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-legend
 type: video
 length: PT18M13S
 publishedDateTime: 2021-02-23T17:23:49Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOcA0Q-gjBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zYuRp9yJmrDbPIIAnpigkbnFJ0WGWFJxSDKiitJMs1r56VrSbAZC3Lrmtb7tNvFpBkY9wQLJ9cj+dQYH0WgyG4qL3rkthFZehVKQiE2VvlybjbXs1yWWnva66CEO8YEpC4taf4A5gMR9mE+tQzG2/UZOEEYm4hnmnS7Ocj7w2CYycLYpEkzbSF21qHP1mM2h7IPK9RkORmkq0029ih9lcENUF+p1W7Dc5mqIVR5ti8EPKye0KShJGcq4uAkjaBB3nECcoNaoaXMFHCI32tAJX44YaGFzx7p/sY1amjCpkQr9OaE5mjeMzZuHjrTax3+ZSxFjQCslTWAulaSZLFJQUtaYgIIui1Uwz/IL6Ga52whFXKDUjE6amA4Xv/SfAGQME3A2rli+rQFZs5caS0UbjA8A6swBfg2do32Y+g1wHFY=;UmJXmTXAOUpeDNBSh+g2cQ=="
+secured: "XElZnQoIApzOBR+4+R6dhWN839uH17fMfOUdSNs3N7jokJKXGasP49J1o0eDDwOjbznCUzugXTIkCg7yGmlJMf/iM6oH2iz2qzlV/uLcHxEyoBEIWPVGOVQm+gK97NE+334hIcekOwwOGoLbIvcu/n9hO8h2FMkyAEK36rH4bVTDs5y3xLZSQdHmJ2Bxg3kSy3HGaNXLiECXBu9Ud726WLFcpqGz3s6UuF/GYGysJ4MOsvCzluXpQnCPdiOLBLznYmcmkFIcTHiynjRG5vUPwuTz6c2DaEIydTIPQZj1hN+sZTkKg1fvzIQeRYQ2uwHA3PJvzJAZmll746CVoXTGB0bPUR6rYokJKngdbp0oF/MRVdEw9k1ds5pvbhSunNvCRLVEmo5J3/6wDXwOesmqlTTFKbYqR7lTMbYmrf5Mg08=;tUQdLCZ2x7Glj4ANOfLN9A=="
 ---
 
