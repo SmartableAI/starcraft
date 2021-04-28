@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 217
+heat: 297
 published: true
 
 provider:
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Starcraft Autumn Ridge"
+    excerpt: "Starcraft Autumn Ridge Travel Trailer #07845 with 16 photos for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:04:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/2381/i/3029727/o/1_2381_3029727_121419250.jpg"
+        width: 2048
+        height: 1153
+        isCached: true
+  - title: "2021 Starcraft Super Lite"
+    excerpt: "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-22T07:04:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "2018 Starcraft Autumn Ridge 289BHS"
     excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-24T04:05:00Z
@@ -42,6 +74,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "2018 Starcraft Autumn Ridge 19BH"
+    excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
+    publishedDateTime: 2021-04-12T04:38:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T10:31:00Z
@@ -137,6 +180,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "2021 Starcraft SVX 210 DC OB"
+    excerpt: "If you boat in a cooler climate, the dual consoles and full windshield of this new Starcraft deck boat can greatly enhance passenger comfort and extend the season. Both consoles are part of a one-piece fiberglass liner that also forms bench seat bases and ..."
+    publishedDateTime: 2021-04-23T14:04:00Z
+    webUrl: "https://www.boatingmag.com/story/boats/2021-starcraft-svx-210-dc-ob/"
+    type: article
+    provider:
+      name: Boating
+      domain: boatingmag.com
+    quality: 37
+    images:
+      - url: "https://www.boatingmag.com/resizer/glvRC25Tq7-VHAy1oZh9RNmPklU=/1037x0/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/27ODLRHSBRAXPLBZTDAAP6BDMU.jpg"
+        width: 1037
+        height: 691
+        isCached: true
 
 secured: "+e8XfSxeT9Lt0T5r3Cyxwi5FEnMT7tWNyIhC71yLT3RJLuW244hS777cRWPboWsHbd3x1xFMjNc7fhRHLsYhCyPmYVkcsXtTXFRjMnwROJEkgUc21gZ/GwaJUehcFgh+fYqD2YtMOTkYCNzcQn+819F+Fw1iTTVpqgsng0HHI2gwAz9iSMjXUI65zqUqK9Qw80LJAEtX/cD+b1tH8vcNt52bBTPK41EYM23sbo+fGHyqg9cVZPgwtwpGazL8vzO36O3CfKZg0PWGljfBxB0MxXgdliIx1M2VMGm/Kvz3n4MS5EMhJcgWxd+xRwlW+16nLmSVH0IM1kF33w9V71Z94pPs/MKPGDu/FO4feguYGB05d8duB630/qWZ3SYLMWtyp5dCLMRgbA9C34I/ntQR6PxLlDIRy3kUA7OJsunafBw00aXQtcahiGZBOF3/FnQasH0EB9Je0q337ze8Xl/Z3HJtLH11GRTuTpK3CaLV35wv8clFMDSGTB7dbu/YEqAuodnJnOvINxqy1SBmIIXTxw==;5FB/Zj9RsttNX0FpLKB9ZQ=="
 ---
