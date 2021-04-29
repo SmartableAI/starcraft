@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-top-tier-m
 type: video
 length: PT22M26S
 publishedDateTime: 2021-02-09T11:10:50Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pV8vs2V7dVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W8ckuHcek8DKMAo7hV/q24SNzfGE6+CrQk0+zsgn0BY208o2ykMSAvE76WwgDBcTQTY0xQokYT1WFKExBMcOiFOsvZs2K38af+sOU0zglBdM47DxFtOU/ydnX1lzq+oDP2R4kRQbmA5dfqhe2wJIZqIb0IHud3AznBoKDCXOshf3gNQ24hXaYdIMYi+652xnkksHydfGekhocOkOx6Bfcnleh1LqozwRGajnd4I4DjSGy4Qsp6IKFwZ9bKZcxph4COTuXQQTtT5d7/SW8n9GSUSIrP/dL1JNVT6XzjSdfTzxg7AfXmKLrl3faUEjDiMhzHD0WQWQKLk6tyhMocYOgX6TWP9w9zxTxXbI0mALAkMIGBBcaS95R5VNQ/9WdtIlPe8W5AHEnJgJeWWS9aXdgVToWXzQfpFFpGidqqozDJ0=;ngVD3p54SvkVeW3fD2igtw=="
+secured: "JSzh53bINgzA+w4H2lQ3fC1gOKpb2NIbsriRYTgM+P4H5vAeWqx4hp1PPty9MDzXmGZZZsfPGqr4YTun+p0HHKcGwps64MZ+n0C8gJsIE/H4iNVD01UZfy/ljF/5ZIg9ZefFmbdcVv9RjjtYcD2NJAZgmW66bJKmMJX97DTrC3h8tFMWk/Q+uWXE3kMqqvF2KhunTDR5+tUf+LV1rwzSt1xp7Mm9nJ4S5lwyV0ogdji3ls6voqPmPOf8olo8bWLs4IQruuYbxuRqtLP50CqLQteCavsY2zc8LUI/NPoZ7rL98bWIvaqfOAsmpMXiDKz102+TSbB6Ape7km7beTPuuEpSwV0DNB7LevLt53XoY26UMgZ+uQSIxfacbKYvAFC4uXvZGDDn3/KrhUdKdS6U6KCojWtyW1+lfBqQ/giaQsU=;1N7T+lwrBpM48/UgUxJM/w=="
 ---
 
