@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Swingin' Ape to complete StarCraft: Ghost"
-excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
-publishedDateTime: 2021-04-16T00:00:00Z
-originalUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
-webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
+title: "2015 Keystone Starcraft 309BHL"
+excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-29T07:09:00Z
+originalUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+webUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+ampWebUrl: "https://www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Games Industry
-  domain: gamesindustry.biz
+  name: RVUSA.com
+  domain: rvusa.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
-    width: 400
-    height: 400
+  - url: "https://i13.dlrwebservice.com/s3/img.rv/41871/i/3037564/o/1_41871_3037564_121579139.jpg"
+    width: 800
+    height: 599
     isCached: true
 
 related:
@@ -88,22 +90,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "2015 Keystone Starcraft 309BHL"
-    excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-29T07:09:00Z
-    webUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/41871/i/3037564/o/1_41871_3037564_121579139.jpg"
-        width: 800
-        height: 599
-        isCached: true
   - title: "2018 Starcraft Autumn Ridge 19BH"
     excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
     publishedDateTime: 2021-04-12T04:38:00Z
@@ -147,6 +133,20 @@ related:
     excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
     publishedDateTime: 2021-04-16T00:00:00Z
     webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Swingin' Ape to complete StarCraft: Ghost"
+    excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
+    publishedDateTime: 2021-04-16T00:00:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
     type: article
     provider:
       name: Games Industry
@@ -211,6 +211,6 @@ related:
         height: 691
         isCached: true
 
-secured: "xgDmVZT9GnpF+lT95f3+wE0v79u8h2/zziIoJu+fKAtRFCgrTIB9K6elApW+0Zdju1NbkoGneJE1lwUBGSEXK49vy3lmNfPh6TH/FLdeUsyKwXlSou0os4Qm4HixO58kWWwczpfx3F2C5kk999846yFkhS0tYEvcGyy4ENcZzc1VIq/JT2ts0X/OMkqTH97yAxSsl9qrWSqNLBHf7vUzMiB58TIHgwQrGFnQ+IS6KU/XhhMAwIMSQSMVo8H/5LnR9/+mqQkKIpk0DNVoDtL061S0Kf0flFUXchv5L7ochbwksReRxxhOA2ENwbj3WarerPm50lKB4m5y0Ui7Ua4eprOwscHxFIkXDEAZq8oHPXg=;lvtCWbOyZMNqmB/vXj6Wqg=="
+secured: "gv0LT6Tp3xARAFM0uv1woxM7jCz2dHCOyvkSzjtndg9Fa0EA2l42AJ2e/2HxLTTOUBJDaKUBw4eATBOyEGxLU1+aja/RVFQGPWX39XiqPOL60wsGcw6lO0Xz+g3Ui3MlRws8ghvmnsYvjUNgqyQkBQjMA7xHl8IucFixUI4K33OlFPkaC7Zua9x6EIZXW1cP4RFH6oxBTkIW6RZaMTbGSbOrJCsbGIW/jet6HdGARI8bqJtRjFErNsai/oCfTuV5yr5H+AZ6zLeAJzFcq03p/yTK6X6GsCfNz43igDbeJQNWJIlG9QZnuYDOtcq3U6/V+7twDP0tyIsrOds5kQqGAelxrNR/P+3TtFmgnFtInJU=;eyMTnSfkINkm96VLR0iyIg=="
 ---
 

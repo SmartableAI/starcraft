@@ -74,6 +74,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "2015 Keystone Starcraft 309BHL"
+    excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-29T07:09:00Z
+    webUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+    ampWebUrl: "https://www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/41871/i/3037564/o/1_41871_3037564_121579139.jpg"
+        width: 800
+        height: 599
+        isCached: true
   - title: "2018 Starcraft Autumn Ridge 19BH"
     excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
     publishedDateTime: 2021-04-12T04:38:00Z
