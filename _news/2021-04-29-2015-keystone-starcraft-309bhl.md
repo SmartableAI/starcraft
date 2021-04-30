@@ -90,6 +90,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge 19BH"
+    excerpt: "Starcraft Autumn Ridge 19BH Travel Trailer #AR13769 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T04:10:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3038631/o/1_3718_3038631_121610992.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "2018 Starcraft Autumn Ridge 19BH"
     excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
     publishedDateTime: 2021-04-12T04:38:00Z

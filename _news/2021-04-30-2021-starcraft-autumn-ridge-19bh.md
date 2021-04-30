@@ -1,14 +1,14 @@
 ---
 category: news
-title: "2018 Starcraft Autumn Ridge 19BH"
-excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
-publishedDateTime: 2021-04-12T04:38:00Z
-originalUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+title: "2021 Starcraft Autumn Ridge 19BH"
+excerpt: "Starcraft Autumn Ridge 19BH Travel Trailer #AR13769 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-04-30T04:10:00Z
+originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 
 topics:
   - StarCraft 2
+
+images:
+  - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3038631/o/1_3718_3038631_121610992.jpg"
+    width: 1300
+    height: 1300
+    isCached: true
 
 related:
   - title: "2015 Starcraft Autumn Ridge 278BH"
@@ -100,22 +106,17 @@ related:
         width: 800
         height: 599
         isCached: true
-  - title: "2021 Starcraft Autumn Ridge 19BH"
-    excerpt: "Starcraft Autumn Ridge 19BH Travel Trailer #AR13769 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T04:10:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-19bh-travel-trailer-3038631"
+  - title: "2018 Starcraft Autumn Ridge 19BH"
+    excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
+    publishedDateTime: 2021-04-12T04:38:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
     type: article
     provider:
       name: RVUSA.com
       domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3038631/o/1_3718_3038631_121610992.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
+    quality: 37
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T10:31:00Z
@@ -226,6 +227,6 @@ related:
         height: 691
         isCached: true
 
-secured: "SGrDeSX6VZElyNKE4kuOVUOCbTHljDAh0Vf4oTc2WN3sqWF84iKr6LzxxyJTGFbK1U2WAo0fMtEVgGXtbhrVWtzM8Yj1PH48j9fG1mh6oQ8lwgl2gjdXy2zcJwMvoMRlgoIPChiVb2g3e0XVOqAIwT5qs2lK5uKPhxqoKohXFf+bR5za4qJek0lC6k3WRKolxhfsZmOjtVO8ssSAnfWn1Jx9oITRoNNgXpcvnNyYeEk8eMLycgHStMm4kaqq07++QuaHuw31SMkmD73vTOdTkoWrkZmynlssAtNg0IQoVN/fDoWy2GQIAiHbyCLDREYc9IMQcnpDs+kgfKJAb1MTWWqnJSA2/HO0LxxQ2xTxarA=;FMi5brfpjSQXe9IjQWuNrA=="
+secured: "R9ReXDlR0e8BcyBvEmLZb/5kWt99Dc2nv/5bHfIjN4o18DFjLqgOfoSE9+AZ33r352em/UOANGxmTm//0Qz8NgFOb95bRB22h4bG20Ld6+Hakr/qVIehX7sa7kEXvl+iZhgk3htXfd+RtdIv4AyqFVlXJKhs26MS/mw5/5NnemiqOUkG/EnbJg/OZZVrVvQagHGc4x9bukga8GzM/U4N4hTzUFOooxgwTDtUs5SoDXfVoWry/rPhr5H9GOR9Er6f0SuZ/Kdp5kPnethJl2hbGG8JCtCsuG/wpoqRPb8sC+Ifqhdrnk0AYuJv7r7UVdcZ3QLtqPOuDVVircRml5CGjOojKqxlSimJkTUAuAOaC+I=;kxUGq6SaQuTAkec4HDLc6A=="
 ---
 
