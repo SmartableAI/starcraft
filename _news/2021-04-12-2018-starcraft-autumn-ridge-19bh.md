@@ -116,6 +116,22 @@ related:
         width: 1300
         height: 1300
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge 172FB"
+    excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T22:33:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T10:31:00Z

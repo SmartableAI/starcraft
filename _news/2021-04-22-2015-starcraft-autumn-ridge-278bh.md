@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
     quality: 57
     images:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3038631/o/1_3718_3038631_121610992.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
+  - title: "2021 Starcraft Autumn Ridge 172FB"
+    excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T22:33:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
         width: 1300
         height: 1300
         isCached: true
