@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-crazy
 type: video
 length: PT53M53S
 publishedDateTime: 2021-04-21T11:30:01Z
-heat: 170
+heat: 161
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1m3Ro99LOmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Pvh41bY052aOYNXGYiD8hzdV4PTEfwTuObAnkPGPe6uIPfYT5kOInu5B2/o5e4fKf6fcCvmWWs3hrfmvZe+eJ4dpN5GkRvPbO1S7xEk+rQf4IYoDIbqXtPIxYVe6wmO2RXX2Wz4BcxUfZ3r+Mmyg+RcvjCx7Zck9C6jmJwcBA9it8rLmQ0bmStJ9oaGoT51MtuII70XDM6gH+Uz0cSeRxOBwQHQ4wTzhjnJiBQ+VBupLgvZpHIN/cwhlmcqvAQnjBsfRMSEKk5SH4Mveaphsmn1hyh/pDZpzZSlKj1eUNK1YvJ6hFcTUhLo1a6ylqr0kmSw4dOVWqlgmSwHOvovXuCTWnfhsH8DLSb4ARJEszUAVSYS8YkoH/D+eRhruHvhvv5uwiC5+00onpzaA9GEYVhQMUNURrQynxOJt7WS58qM=;ZGwqrQiG9Ox0Xmxbz2Rhag=="
+secured: "dY5Vt4EHGuFYHlwrWEeyY01NUOtf4/LdEEiNl240ueNkRKk4iqh5u9gUQQsFT3DK5m1ADyH58A5g0fF3MlTo0xoSAjHz8TU6G+idy2em4NEBnpKw9WnbBqvlfYST18HHLiOEA0Dn0+ifnqP7vmuwqk/bV26yW3h93UC9ixrkAKXCYUeV1oCLEEZWeNypt4PGtZ6aBIKgD7nmjnp66Z/yckd9iy1Zj4A3kclLuVbJcmNpNctDVxdU5t2sF4hgHUGm628hoKhz3mrLCdyV/160+PmtbeQvkKjSScTh1TYBXaL1Z1O21kXmVvcGnFXeXnLo048IYsMCDjcSMviedxo+KB1s3e1/R51HhkoY4eiVJpwf893UkMxRx9xE3/sD2zVJvic1Q/EXBqSxRugJWH32/6vvr86vfnobgA7Rdq7nf/k=;Re3Gl2y4Yiy6GsztDMlDig=="
 ---
 
