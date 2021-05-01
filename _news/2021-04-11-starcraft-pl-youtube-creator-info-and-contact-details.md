@@ -7,7 +7,7 @@ originalUrl: "https://www.thehandbook.com/creator/starcraft-pl/"
 webUrl: "https://www.thehandbook.com/creator/starcraft-pl/"
 type: article
 quality: 54
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Mods in Starcraft 2"
-    excerpt: "Hey guys i want to know if is possible play 2 starcraft 2 mods in one match, i wanted play zombiefest and campaign units with some friends but i dont know how to do someone can help me?"
-    publishedDateTime: 2021-04-11T06:34:00Z
-    webUrl: "https://www.gosugamers.net/starcraft2/reddit/54199-2-mods-in-starcraft-2"
-    type: article
-    provider:
-      name: GosuGamers
-      domain: gosugamers.net
-    quality: 37
-    images:
-      - url: "https://www.gosugamers.net/assets/images/social/sharing-generic-253163b9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI Accidentally Learned Ecology by Playing StarCraft"
     excerpt: "A video game about battling aliens could help ecologists study life on Earth."
     publishedDateTime: 2021-04-15T01:52:00Z
