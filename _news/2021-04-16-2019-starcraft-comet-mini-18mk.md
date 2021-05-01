@@ -136,17 +136,6 @@ related:
         width: 1300
         height: 1300
         isCached: true
-  - title: "2018 Starcraft Autumn Ridge 19BH"
-    excerpt: "Easter is only a few months away, and there’s no better time than now to start planning that Easter RV trip! This is a great time to be with family, eat delicious dishes and enjoy the outdoors. It falls a bit late this year, but Easter is still a sign of ..."
-    publishedDateTime: 2021-04-12T04:38:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-19bh-travel-trailer-3021103"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2019 Starcraft Telluride 338MBH"
     excerpt: "Starcraft Telluride 338MBH Fifth Wheel #21087780 with 1 videos for sale in Seffner, Florida 33584. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-16T09:04:00Z
