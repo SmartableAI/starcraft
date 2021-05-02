@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-destr
 type: video
 length: PT30M18S
 publishedDateTime: 2021-02-25T17:27:54Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Qb51hctEN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "i50YlCa9KNe1vehNaEsSYmRC3D8cb78Gw/dbm/wEQCIFXepEI+eoWxBrGW8eg0cGzCOM8u4yZpvyrjdF0ZR4dEbZxZXA1qqF60omhQW6u7IctdWI9EqTcvVkxWWFCiJg/kqNlwtVIB2rX4q9za6mseJTCsTBFDrZyomM2WlKa6V1NjmpoWA8/jWvXnSwwaX1wOGaiLkLQOGNszbi7Ik1L2H2Re2LjRwurijdvE8+Q4rKDCy1coBsdr3kMh0NrOR4S4eUcHmNsp4DJi4wzaa0u355FdtEORjri/Hh4rei2EBLYBLpYb93eX0JOniHYLQy6wF7tSDeeqhd1VDAID0IaJEHbYTaHnRWRky6jrs9pekhRkKi9PafUSwyGdTt6Uhb1OlIxOAgRUjra2eZ7oMyW9OprtijucFotiGVMAx2mfQ=;1Tfm64Le839hXzgme4EOmA=="
+secured: "UN2jIJfrX9Jz+xcyofKvbntzWL2+uPuYlPd1V2hUgdVLrLCRPDQ2N6C2nEzvmNMiFAhQIbpQ136psp4Dhi3hd153O/0rZ+o5D/rga6glKZsbLLr2hrolQCIi5foDsa3FWWb1XB1wsQxMULDYyYaEwVTFCz9NZRTnccauknjM/SFL8vOs484dg98+1+qpztbT6CQfMRtOIBFI/quTrwsyjwlYUojo3wcTRxKXibKCdaXOz3fE5o2nLWXJpSVqI5JOgp5smwcaqh2w1H1y+wU71m9bxBiH4RxwEh3KFB91bZL2REm8OmbnkoaVSvlpW/Z+KawJrmov3jApo4TmrEbHHnANOiHSjvTyfPj2j05nZlRPHrNCAZJLH5YGSkZSXbxclQVkrGY7UzPWvtUf9JbYOqNh9colD8Sep108MkyyqNs=;Ut9CKHj6rcS17ndKP4MJyg=="
 ---
 
