@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trai
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "2011 Starcraft Lexion S-Lite 254RK"
+    excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T09:30:00Z
+    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
+        width: 908
+        height: 511
+        isCached: true
   - title: "2011 Starcraft Lexion S-Lite M-254RK"
     excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-30T09:30:00Z

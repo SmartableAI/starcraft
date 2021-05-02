@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2011 Starcraft Lexion S-Lite M-254RK"
-excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+title: "2011 Starcraft Lexion S-Lite 254RK"
+excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
 publishedDateTime: 2021-04-30T09:30:00Z
-originalUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+originalUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
 type: article
 quality: 57
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
+  - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
     width: 908
     height: 511
     isCached: true
@@ -42,19 +42,19 @@ related:
         width: 860
         height: 645
         isCached: true
-  - title: "2011 Starcraft Lexion S-Lite 254RK"
-    excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+  - title: "2011 Starcraft Lexion S-Lite M-254RK"
+    excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-30T09:30:00Z
-    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
     type: article
     provider:
       name: RVUSA.com
       domain: rvusa.com
     quality: 57
     images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
         width: 908
         height: 511
         isCached: true
@@ -75,6 +75,6 @@ related:
         height: 600
         isCached: true
 
-secured: "QXuxDRo8T9oSoyjxHBZmiAi3FUzNi5Jud9g20SVAJLWzHwBKOK2htF+t1g/DcSu7E+R1ZnmZsytIR36nQ3ohQ2gtCO+o0MBsk3rf2exnwN3g0GzscqNPYQb4j2GnHDoh7KqZHL3w8sBYpQSdC637Zwo79MVaaKtndXBkJWRj9KdDNmsQsdsxrV/yUsVEMSWaGUTeXCLLtnVE2rkjW9lDRoYt0e0Ho/EoOKlAhaqYu+FqjUfvecXPN0qx4InOngCTaS0dxkyAujUMj3y3GuC6DBnsbo+U5NU8Twhu0CvCXAbqgPZYgvlqM5j7y6R1X0RDDaYBwkriNWD2/aBERoUkXYJiwI3Iv7kbBbEvMjn2rT8=;k2dh+6fPMoWNGajEq+3yCg=="
+secured: "ep6PUVgHLsH51L8yjq5W7FM8Y+ypxGzG8RBQI48d2lW0Fi1MJ8Qy2WXiSFL8iUZKfcxIesSAomR2qphgOUniSRmfKM442TFXt75mlo/GGECoOmeQ/pMK1S0DUWxVa0r01e0ZeV0YDnDaryVhYxZ/gJVdXu5r/jiReRA73GFYLvzFDsSSnN4L+BU0z+FqB9LpmXuzgfYU+9wIASkGBrQYSk8JpDBLklX3RSQV74rxGING9rmC4iOr0abbtIfWnmOyvapBhg2OBVfeRbhEX4mseyIQe3jPxHyrxxv5NsGifcPfDYvXu0R5h7HwBYDZhuxkrXEzbqrrJL5imrxltR3AxWMHIuI4bQ/pVC6N8am+4oU=;wu5qwa+tAVA1AtkRXyow1Q=="
 ---
 
