@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -231,6 +231,17 @@ related:
         width: 1037
         height: 691
         isCached: true
+  - title: "2018 Starcraft Launch 27rb ULTRA"
+    excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-02T04:04:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "+e8XfSxeT9Lt0T5r3Cyxwi5FEnMT7tWNyIhC71yLT3RJLuW244hS777cRWPboWsHbd3x1xFMjNc7fhRHLsYhCyPmYVkcsXtTXFRjMnwROJEkgUc21gZ/GwaJUehcFgh+fYqD2YtMOTkYCNzcQn+819F+Fw1iTTVpqgsng0HHI2gwAz9iSMjXUI65zqUqK9Qw80LJAEtX/cD+b1tH8vcNt52bBTPK41EYM23sbo+fGHyqg9cVZPgwtwpGazL8vzO36O3CfKZg0PWGljfBxB0MxXgdliIx1M2VMGm/Kvz3n4MS5EMhJcgWxd+xRwlW+16nLmSVH0IM1kF33w9V71Z94pPs/MKPGDu/FO4feguYGB05d8duB630/qWZ3SYLMWtyp5dCLMRgbA9C34I/ntQR6PxLlDIRy3kUA7OJsunafBw00aXQtcahiGZBOF3/FnQasH0EB9Je0q337ze8Xl/Z3HJtLH11GRTuTpK3CaLV35wv8clFMDSGTB7dbu/YEqAuodnJnOvINxqy1SBmIIXTxw==;5FB/Zj9RsttNX0FpLKB9ZQ=="
 ---
