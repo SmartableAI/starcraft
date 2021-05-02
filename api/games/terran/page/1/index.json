@@ -75,14 +75,14 @@
       "publishedDateTime": "2021-04-23T04:40:18-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-marus-insane-defensive-skills.md",
-      "title": "StarCraft 2: Maru's INSANE Defensive Skills!",
-      "excerpt": "Terran versus Terran match of professional StarCraft 2. In this match Maru falls behind early on after HeRoMaRinE opens up with a great timing attack.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-insane-defensive-skills/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-marus-insane-defensive-skills/",
-      "originalUrl": "https://youtube.com/watch?v=cBJMOrlebSg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cBJMOrlebSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M54S",
+      "path": "_games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3.md",
+      "title": "StarCraft 2: Maru's MASSIVE Tactical Nuke vs Solar! (Best-of-3)",
+      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru and Solar. Easily of the biggest Nukes in a professional match of SC2 ever.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=LNKvSjzZXr8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LNKvSjzZXr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M37S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -97,12 +97,13 @@
       },
       "topics": [
         "StarCraft 2",
-        "Terran"
+        "Terran",
+        "Zerg"
       ],
-      "heat": 117,
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cBJMOrlebSg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LNKvSjzZXr8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -110,7 +111,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-03-09T01:10:08-08:00"
+      "publishedDateTime": "2021-03-04T04:51:27-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-incredible-best-of-5-maru-vs-dark.md",
@@ -961,45 +962,6 @@
       "publishedDateTime": "2020-10-15T03:05:15-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3.md",
-      "title": "StarCraft 2: Maru's MASSIVE Tactical Nuke vs Solar! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru and Solar. Easily of the biggest Nukes in a professional match of SC2 ever.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=LNKvSjzZXr8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LNKvSjzZXr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LNKvSjzZXr8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T04:51:27-08:00"
-    },
-    {
       "path": "_games/lowkotv-starcraft-2-the-siege-tank-surprise.md",
       "title": "StarCraft 2: The Siege Tank SURPRISE!",
       "excerpt": "Macro game of Zerg versus Terran in StarCraft 2. I decide to play mostly Zerglings, Banelings, Hydralisks and Ultralisks versus a Bio Terran after opening up with 5 quick Roaches.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel:",
@@ -1151,6 +1113,45 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-09-03T03:51:47-07:00"
+    },
+    {
+      "path": "_games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019.md",
+      "title": "Serral vs. Mass Battlecruisers - Starcraft 2 IEM 2019",
+      "excerpt": "Serral plays vs Gumiho Mass Battlecruisers in a crazy Terran vs Zerg at IEM katowice 2019  ► SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe   A crazy description   Thank you for watching our videos! Subscribe for more StarCraft 2: Legacy of the void highlights. We also upload other content, such as",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/sc2hl-serral-vs-mass-battlecruisers-starcraft-2-iem-2019/",
+      "originalUrl": "https://youtube.com/watch?v=X8jnYBGnyKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X8jnYBGnyKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M45S",
+      "provider": {
+        "name": "SC2HL",
+        "domain": "sc2hl.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/sc2hl.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran",
+        "Zerg"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X8jnYBGnyKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-03-06T07:05:01-08:00"
     }
   ],
   "nextPage": 2

@@ -4,6 +4,82 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord.md",
+      "title": "StarCraft 2: ZERG LATE GAME... SUCKS? (Serral vs MarineLorD)",
+      "excerpt": "Best-of-3 series of StarCraft 2 between Serral and MarineLorD. In this series we have an epic game of Zerg versus Terran Mech and an amazing match of non-stop Terran Bio aggression. Turns out Zerg late game... Kind of sucks?  Get more videos & support my work: http://www.patreon.com/lowkotv  My second",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zerg-late-game-sucks-serral-vs-marinelord/",
+      "originalUrl": "https://youtube.com/watch?v=H7X3zl5P8hs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7X3zl5P8hs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M30S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/H7X3zl5P8hs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-24T03:42:56-07:00"
+    },
+    {
+      "path": "_games/lowkotv-starcraft-2-blys-amazing-zerg-rushes.md",
+      "title": "StarCraft 2: Bly's AMAZING Zerg Rushes!",
+      "excerpt": "Bly is one of the most aggressive Zerg players at the professional level of StarCraft 2. In this best-of-3 series he faces off against Harstem.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-blys-amazing-zerg-rushes/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-blys-amazing-zerg-rushes/",
+      "originalUrl": "https://youtube.com/watch?v=60wtU8hP_mQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60wtU8hP_mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M56S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Zerg"
+      ],
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/60wtU8hP_mQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-11T12:06:48-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-return-of-the-king-byun-vs-solar.md",
       "title": "StarCraft 2: RETURN OF THE KING! (ByuN vs Solar)",
       "excerpt": "ByuN is one of the most succesful StarCraft 2 pro gamers. He recently returned to the game and in this series he's going up against one of the strongest Zerg players in the world Solar.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second",
@@ -41,45 +117,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-15T03:05:15-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3.md",
-      "title": "StarCraft 2: Maru's MASSIVE Tactical Nuke vs Solar! (Best-of-3)",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Maru and Solar. Easily of the biggest Nukes in a professional match of SC2 ever.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-marus-massive-tactical-nuke-vs-solar-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=LNKvSjzZXr8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LNKvSjzZXr8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M37S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Zerg"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LNKvSjzZXr8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T04:51:27-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-proxy-hatchery-problems-bly-vs-maxpax.md",
@@ -1247,44 +1284,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-10-26T04:40:37-07:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream.md",
-      "title": "StarCraft 2: THE NEW RANK #1! (Reynor vs Dream)",
-      "excerpt": "Amazing best-of-3 series of StarCraft 2 between the Reynor and Dream. In this series of Zerg versus Terran Reynor decides to use Lurkers against Terran bio, which is a unit that is not commonly used in the matchup. In general a brilliant series between two very highly ranked pro gamers.  Support my work:",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-rank-1-reynor-vs-dream/",
-      "originalUrl": "https://youtube.com/watch?v=okcJxrHF3Cs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/okcJxrHF3Cs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M44S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/okcJxrHF3Cs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-15T04:14:29-07:00"
     }
   ],
   "nextPage": 3
