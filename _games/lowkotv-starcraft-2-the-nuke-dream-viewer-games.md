@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-nuke-d
 type: video
 length: PT37M35S
 publishedDateTime: 2021-01-18T12:06:10Z
-heat: 57
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WgG_32aY-S8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QGL6k8IbIodmTs7Rvn68ty08XWJ0JsWOKSOzFLqd23bPFM6cLOtwzEMBkjEnwFO2bJVZKNGM/+m8yafAUCXNdkWYXR6Kornkg8MklWMuev4vZ5kA/ISbW3Gk1jJ3SSqLjPX+SSitu1CVUwtzmBAuMWDHM17CwpeyLtMhd0XPVqEyktFvMnby/t25QDHpZAWdVBIKgwpBHqyrkqsruD1VwhiYgFQO8ayqoJ4QJ/Idrxgmvkg+fMTRE6FlHBBjA8GNT5BVvDMh2zB8R6UxERPdbL24U7NkRlQy/CxLUDtiXxsd1bMxZPvHRi5hopKqHCfqevY9RVvC/q13/MYqkcb7LdpcnrLRcJS7b43eOmqqo2GR21JL8YFWZizX/Rj/Y+rhvyCHp/0MSyWxVWXPzCuoHg8GKk/kY3nsKc7Q1QFtjFo=;5xTJWV4B5E+1F6FXBojlVA=="
+secured: "B3KbeUFKi98sSy7qPXw9xb6hcnFTVKGvcBl8ZUkL4sEcK4PT2qzug6rtpvRDumaYvMwXaqn/8cMsqLbphfyCndUgGvmcAdc0pBMdoUEgbQcUhLoUXElM6317xVvhz3gjJFRZT9dRkElgzV4I32hwvaWdP2aOR0u9BScFVEbRIuvkEcHfJMpWKUvQ05Q6xmBVYlp2w1CnXv/n1Bfr/4QdlvKk7ga2yVJK2jx/AKTSVC+q4p6Rb4GX59LobySwh2V82e1pjZqR+bm2FYoL0UnMY3159AYdMype8EyDIRY45MRp7dWXwT1RZa3fbqwya05Qb61gEYJr+ZTosPVjgUeDZYxPE+paC5e/V1InAb8NECv6jErVGcVZn5Q5LBCReHMWd5Sr8o0r8ZqacaSut/TvmDOYvmYSo/jAOTgFpMBaWtI=;Qi6DjO4gGFajHz8aTxlrVQ=="
 ---
 

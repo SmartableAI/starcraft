@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-wild-micro
 type: video
 length: PT32M14S
 publishedDateTime: 2020-11-05T10:56:07Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6GWgvx0wfhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "tfUNDePJca09p1de5AQGMu8LoUUiakuy7ux2Vgg8TevMHRr7AnLjy5tR3OE1ZdewVhWptaoTuuss9UpkLtTlT9irxgJl578xt8RWAGe7nILjNFjAk6V8DCrx/4K0KFh6VwpHqIJoRX0D8ANa1wYlXlDtzW+FS6d89XC6m9lcvwKo1LKUPTWob6eMSNxDgWeecJlKZSYuEDaxajre2iGHIxjijt1vxqcGQNd2c5qvBJp+X9nEjUwUxQlCi07JePM+2tz/1YAcGM8wqJkU7DrzT5V8bJERa7DjSk9P+QCd/nNQvV92CeWP5H0FoosFVERxoRlzSYArebysmHKe7Xx32moxatsbbyH/TMpw8XnwwfnFq9yV6qrI5Uy8S6mXHWbIiYdg6qHAY92WCGzi5Q+Tj65xxWRQu+bgQc3KmrkDLtU=;IbnlboR8wmHJFdD3JTIsEw=="
+secured: "pnbo2TWO1+dxtM5/O840sqsoQHjLKRKRANN+OMBH/bRAQRnhnQcDWVnXTLUbdhAbskp20AFek/fUiR20x6HX0cMyCLcrw3MyWUI9KVVW3NJNM1q4NKIC51kD3/GvI17FxzMmmKQIR8GuY6yig9CHyEg/rSE1zGCcCrO+RbkPRypVuDRzuwSKN2ZlNQOMx8Mire/L9J6OzOYEeB/4U+EavVR+iOh0agNz0+N7hs600N+hHEgn/R+ZJNaui9IGWkx2r0TgD1/p4wUJCxdCNIXsA4LsUHIa1E+3yBEDovUweKqLIGe2I7sHr4JasvLJ0XhvQIboO77L36KkjXCebArUy7zoEboPlVPcZpoI1wNb/aB5cJPdeBzOnSd3asKcLa2IiCK+S98Cc7eQ0sWmurPzCEeJ5RV6JCU+Cly041zcLo4=;g3hj2herI+RXyhdmOSw6NA=="
 ---
 
