@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/lowkotv-starcraft-2-epic-zerg-vs-protoss.md",
+      "title": "StarCraft 2: EPIC Zerg vs Protoss!",
+      "excerpt": "Ultralisks, Brood Lords, Mothership, Carriers. An epic pro match!  Subscribe for more videos: http://lowko.tv/youtube Bunker Rush: https://goo.gl/etjR16  Easily one of the best examples of late game Zerg versus Protoss. Both players continously try to set each other up for mistakes. In the end we see",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-epic-zerg-vs-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-zerg-vs-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=-zn8IBTY9fI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-zn8IBTY9fI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M51S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Protoss",
+        "Zerg"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-zn8IBTY9fI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2017-11-29T01:36:31-08:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-extreme-cannon-rush.md",
       "title": "StarCraft 2: EXTREME Cannon Rush!",
       "excerpt": "StarCraft 2 cast of a Platinum League Protoss versus Terran. Subscribe for more videos: http://lowko.tv/youtube Insane Proxy Barracks: https://goo.gl/8m0B4g  Cannon rush seems to be one of the most popular strategies for lower league Protoss players. In this PvT, it is no different. However the Protoss",
@@ -1091,45 +1130,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2018-11-30T04:14:52-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice.md",
-      "title": "StarCraft 2: When Behind Go Dark Shrine... TWICE!",
-      "excerpt": "Amazing game of professional StarCraft 2 between Astrea and Trap. In this match of Protoss versus Protoss we see very high level decision making and unit control.  Become a YouTube member: https://lowko.tv/join Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-when-behind-go-dark-shrine-twice/",
-      "originalUrl": "https://youtube.com/watch?v=0SlB8B7UdZI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SlB8B7UdZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M27S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss",
-        "Zerg"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0SlB8B7UdZI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-19T02:13:18-08:00"
     }
   ],
   "nextPage": 9
