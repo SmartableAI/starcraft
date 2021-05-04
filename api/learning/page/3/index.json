@@ -4,6 +4,37 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2.md",
+      "title": "Build Order Guide | Double Stargate Phoenix [Starcraft 2]",
+      "excerpt": "Super strong, defensive protoss vs zerg (pvz) build order guide. This opening is going to give you incredible map control over zerg in the mid-game, letting you scout exactly what is coming your way and making it easy to feel in control of the game. This build also completely owns mutalisk transitions",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-build-order-guide-double-stargate-phoenix-starcraft-2/",
+      "originalUrl": "https://youtube.com/watch?v=uL5uZTCwPcs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uL5uZTCwPcs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M1S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2020-07-25T15:27:18-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uL5uZTCwPcs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-dark-templar-build-order-2020.md",
       "title": "Dark Templar Build Order [2020]",
       "excerpt": "You don't want to miss today's dark templar build order strategy guide! We're learning a dark templar build order(dt rush)! This strategy/build is for the Protoss vs Terran matchup and get's your dark templar (DT) out by 4:30 IN YOUR OPPONENTS BASE by using a warp prism which we sneak out across the",
@@ -831,37 +862,6 @@
       "topics": [
         "StarCraft 2",
         "Protoss"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay.md",
-      "title": "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay",
-      "excerpt": "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=tccZgx9HqXo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tccZgx9HqXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M17S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-02-09T16:22:06-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tccZgx9HqXo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
       ]
     },
     {
