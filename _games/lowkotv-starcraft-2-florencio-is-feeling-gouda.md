@@ -2,6 +2,7 @@
 title: "StarCraft 2: FLORENCIO Is Feeling Gouda!"
 excerpt: "Florencio is back with other crazy strategies in StarCraft 2. Hiding Starport production with a lifting Factory. Landed Vikings inside of Medivacs. Massing Thors and Tactical Nukes. And a whole lot more.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join"
 originalUrl: https://youtube.com/watch?v=AGZZFwqTjBg
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencio-is-feeling-gouda/
 type: video
 length: PT44M6S
 publishedDateTime: 2021-05-04T11:18:24Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fhbuzEHoAb+xAWKXSzQaltSihl3BZ+p2iGOTwDNgBadaAqgkHtNmBWPQ1RzaHclVPADJJ9ZWY/zDTLQrzjAXqOyAPqtuNHAKP8pZ8g4ndBvcaziNVLtMqTZf9ss8Cq2donEcqX2DAsyGkfYEF7x0iPf0poJTMvzvubexVfHHtTP8vbMwL66haPeNFjTHiya+eKw5cyN8f8vtLzGZcoo/rRvXGUrptjJHUvAhUoXiQ9aui65lUk6f82+xB2Ve3CEsIZnmOR4r59IKe6Qo8XfwoNl/XioSx1LZ4gyCuEUeQiCeUvGmnFs9pHhb9Mud1XuTiDrr587ZiD8ihpLDN5H2JNjegfJoyo5l71Ylk7L4XewITinX4UqwIB9A5BW4Fyrfo0pdI/w2zXRVXusmJJFTrg==;nXgI5ZMHSUiUqs3FPMLwqA=="
+secured: "WEnInMW5/5DDCrD+YEHlSONOeEKfW8lCTQYQC6ok/1AnGmwM7mbh8CtZ7K0B9ywOQfG5i4t0uwouk22eJ8y6yciM8niIlI0uSuaiHh1SBmUtnLvx/x3rd54Xgp5aUcyhbVAs6ik6zmgFZV6UeX3HrjgRWsWWowpZXTNM4ibFuSJgbV0rGlOwhR0Mgn/g+Kg2h1tloJev6XtApzxDcpzcXcQybQg8GK9uTEpDhF3SnF/XnQgPc01h9hN7nB2487ncWbYoXMSVyoDFA9ZPW2dlEqewmth6ic8ZUYO/b0NckZEMSj5A+HlPuoYU9MS1eBd+dRsUwzitye3PyeQZA09M7EDt5jaOMT5It3E44JZfE0f2b9XY/pgWM97gYivQomrXeH6eHTw+3a0k5EDPRlhJ8A==;R8KmPeU/Ml/DL+kD+LiHdQ=="
 ---
 
