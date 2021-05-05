@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2011 Starcraft Lexion S-Lite M-254RK"
-excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-30T09:30:00Z
-originalUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+title: "2018 Starcraft Solstice Super Lite 28TSI"
+excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-05-05T07:08:00Z
+originalUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
 type: article
 quality: 57
 heat: -1
@@ -20,9 +20,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
-    width: 908
-    height: 511
+  - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
+    width: 860
+    height: 573
     isCached: true
 
 related:
@@ -58,6 +58,22 @@ related:
         width: 908
         height: 511
         isCached: true
+  - title: "2011 Starcraft Lexion S-Lite M-254RK"
+    excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T09:30:00Z
+    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
+        width: 908
+        height: 511
+        isCached: true
   - title: "2017 Starcraft AR-ONE MAXX 26BHS"
     excerpt: "Starcraft AR-ONE MAXX 26BHS Travel Trailer #1KZ0728B with 1 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-01T04:09:00Z
@@ -74,23 +90,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "2018 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:08:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
-        width: 860
-        height: 573
-        isCached: true
 
-secured: "QXuxDRo8T9oSoyjxHBZmiAi3FUzNi5Jud9g20SVAJLWzHwBKOK2htF+t1g/DcSu7E+R1ZnmZsytIR36nQ3ohQ2gtCO+o0MBsk3rf2exnwN3g0GzscqNPYQb4j2GnHDoh7KqZHL3w8sBYpQSdC637Zwo79MVaaKtndXBkJWRj9KdDNmsQsdsxrV/yUsVEMSWaGUTeXCLLtnVE2rkjW9lDRoYt0e0Ho/EoOKlAhaqYu+FqjUfvecXPN0qx4InOngCTaS0dxkyAujUMj3y3GuC6DBnsbo+U5NU8Twhu0CvCXAbqgPZYgvlqM5j7y6R1X0RDDaYBwkriNWD2/aBERoUkXYJiwI3Iv7kbBbEvMjn2rT8=;k2dh+6fPMoWNGajEq+3yCg=="
+secured: "ivY5goR4qM91HhRhxVKWuEvyyJmcId1gXZ72m/nqZ35RR+Xxw8PnEWeJFJ9nblR+1EvBXmamqsZ8DB0EBhaxHkCE4G1zNGKUHrbzzQJwrN3KDMki9xhMtoCw/EWR5IgezcCJJpLGD9luB3+7tXOE5lK+FjrZ/cJ2usnxQraakBBvGcWum36TdHemVCkvb15oc6G0KW3/Z6gtdK8zAFfzNdi58e6Ww3rt9OKySgw2OC+O+fL1WIr67repoMW+HrETweuI+B+4DfetCUiDXTmKIFSWalXxBTm2GxMkh2FPRaB4RKAieGYMKlBHDVnuwZBKzPNvPHUZU8yyGKdnAdbGIY7HO0MNgBwA17TKEBgT48c=;R4Un5ZLLgsaCu9O39YCOsw=="
 ---
 

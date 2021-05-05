@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trai
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
 type: article
 quality: 57
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/32363/i/3040107/o/1_32363_3040107_121641289.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "2018 Starcraft Solstice Super Lite 28TSI"
+    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-05T07:08:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "wWLI5eo6+FUNCgIVh/gN1zDR/LEVoOPsjAwuIRF1lDQVOriRLngQBbbL3XzdPobd4/tcxRxKcYfL93XuSVrZ+leNLWKmPfFrEJAw5ktFPzOWXiGmnusxnOQrE44YEAUnQ06X7tGXE0NQQOP3rnkhfK4EOhnsu2GXGnP7g/4rWo2Q0ygQfx+qrIhO+ikRMITyLJiLCF1yBeU03ARGbbkTUUCaUkB51Nz0DsAbB7qdNqGM3BA7JCwgEymZCOOiPn9ReTaDRgf5QnwucO3btjifsQJyR2jVQTH+pATV574fuW8KgSwsmDc+ivBZfi5Nkh3XsZfQSfRQMuoCNW1V3LnAcesFxRDNW49iMuzhxPsSCnODoxdv3HsOyw2oNNsMwOmunNFRSWupay6AdO4+QDvl10nc8UMi25gkhZQM7u4WAzdmTt1NKmx/KXVbm2Hr+qBrihzxduQ64pJ4HEKVK1HOkFKxEwqTFJvfhzudgkttIsEz8OgKgCpTTJ27hT8EO2UnvrSvqJn86YjgLjRJiWtRhw==;gDps7J4boihmSJH+kCgypA=="

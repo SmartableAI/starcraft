@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-t
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
 type: article
 quality: 57
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
         width: 1300
         height: 1300
+        isCached: true
+  - title: "2015 Starcraft Travel Star Expandable 227CKS"
+    excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-05T07:11:00Z
+    webUrl: "https://www.rvusa.com/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
+    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/772/i/3042140/o/1_772_3042140_121693444.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "2019 Starcraft Comet Mini 18MK"
     excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."

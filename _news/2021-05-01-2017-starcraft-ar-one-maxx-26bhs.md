@@ -74,6 +74,22 @@ related:
         width: 908
         height: 511
         isCached: true
+  - title: "2018 Starcraft Solstice Super Lite 28TSI"
+    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-05T07:08:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "A2Gg0bDPvPO/hSOT7o7d2NrKZlSfKgk6mwwc8mvrke5rFhoMwF1P90AE6mud0nUORR+f2y1tlKOm+PxxqSnZi9FeDErVW2zt4bqzTJAIEk6pVe9E7JhKNncgZgLqKoKeShDzdsCXfqQ2TkmtyXxnGfkAuDKmpXa91+NnuGiVNG3bmRAunfkvRA/dweh1hzM6hjn9fWvwikatJhyA/aYR68Wig+UTersMmXafVq14Wyiplz+wO/0AmNnDJZH+6afQtHArZO5yGRLwTLNXvET7JSHPr4Sm+tx9LRppLnpflKp3/CocyO4FdXlSz7ZegCE2GyUKpGnnM8z8sI3KGZGTHbJPmBvTjXv87FLP2/0ZlTVg9iqhZXJ2dir3cU/G76O80fRwTSIkNCjzGYRBb3vCuFQXFbzVQe1EGfmNE/kMoiu8wB1LQQGjLSaA7fsqMNWu1Chl+C8ALhZpDsBKMfZNU6yvOUp8YXhvHIj+daPR2PP9lz0aLOE0fzqABki7PsxxF/PB4oUZXFMfLawXarQPNw==;dt3qIek7ckdEyG5yqvPxJw=="
 ---
