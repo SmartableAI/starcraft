@@ -180,34 +180,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "StarCraft II budget passes $100m - report"
-    excerpt: "A new report by the Wall Street Journal has suggested the budget for Blizzard's PC title StarCraft II: Wings of Liberty has already passed $100 million. The figure is not attributed to any ..."
-    publishedDateTime: 2021-04-16T00:00:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/starcraft-ii-budget-passes-USD100m-report"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Swingin' Ape to complete StarCraft: Ghost"
-    excerpt: "Last month, Blizzard admitted that StarCraft: Ghost, which was originally unveiled at the Tokyo Games Show in September 2002, would be pushed back to a 2005 release date in order to ensure that ..."
-    publishedDateTime: 2021-04-16T00:00:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/swingin-ape-to-complete-starcraft-ghost"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-17T04:38:00Z
