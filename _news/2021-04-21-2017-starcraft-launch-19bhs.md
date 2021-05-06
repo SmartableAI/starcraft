@@ -148,19 +148,21 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "2019 Starcraft Comet Mini 18MK"
-    excerpt: "Starcraft Comet Mini 18MK Travel Trailer #29036150 with 1 videos for sale in Murfreesboro, Tennessee 37128. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-16T10:31:00Z
-    webUrl: "https://www.rvusa.com/2019-starcraft-comet-mini-18mk-travel-trailer-3026294"
+  - title: "2021 Starcraft Autumn Ridge 26-BH"
+    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-06T04:06:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
     type: article
     provider:
       name: RVUSA.com
       domain: rvusa.com
-    quality: 37
+    quality: 57
     images:
-      - url: "https://www.rvusa.com/blog/wp-content/uploads/2017/03/tt1-300x225.jpg"
-        width: 300
-        height: 225
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -210,6 +212,17 @@ related:
     webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
     ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
     cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+  - title: "2010 Starcraft RT 36"
+    excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-06T04:05:00Z
+    webUrl: "https://www.rvusa.com/2010-starcraft-rt-36-toy-hauler-3043118"
+    ampWebUrl: "https://www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
     type: article
     provider:
       name: RVUSA.com

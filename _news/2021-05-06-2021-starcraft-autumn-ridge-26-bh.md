@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2021 Starcraft Autumn Ridge 172FB"
-excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-30T22:33:00Z
-originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+title: "2021 Starcraft Autumn Ridge 26-BH"
+excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-05-06T04:06:00Z
+originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
 type: article
 quality: 57
 heat: -1
@@ -20,9 +20,9 @@ topics:
   - StarCraft 2
 
 images:
-  - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
-    width: 1300
-    height: 1300
+  - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
+    width: 2048
+    height: 1536
     isCached: true
 
 related:
@@ -122,6 +122,22 @@ related:
         width: 1300
         height: 1300
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge 172FB"
+    excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T22:33:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-172fb-travel-trailer-3038629"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i11.dlrwebservice.com/s3/img.rv/3718/i/3038629/o/1_3718_3038629_121610811.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "2015 Starcraft Travel Star Expandable 227CKS"
     excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-05T07:11:00Z
@@ -137,22 +153,6 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/772/i/3042140/o/1_772_3042140_121693444.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 26-BH"
-    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:06:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "2017 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -230,6 +230,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "YQt3FHDseVuFP+KSRlY+CJ9ZW8CqneEZkBznWj0cTZIVhNqOwVK1N1Gr7Iv/u3S0Rys+iTHFHm+THjsUPukt1AaSHgs1X8fEynrdz5aEQQhoUNBK27DMZn/KcyKst15SXutl9CLnc0+6ci49SDlbjqT7TeEbCg9kIRpkX2k59M8xn9V6UrWBYBnVE1cr9BRExmc2kC1LZaVA5B00/QYSXmF+OBkamtDatuY9BmHCy5kx9RNfKCtn2suyIJTJoD2KqcW2zBtDAiXDb5cr9Cm55d3OxXbVJrXcr7sYJTg1LDdAeCpT/ii8+Yu22udm1MdLhVNQtc9VWpTQsMLhxb1SCjxappkirpINRrGEPQx3eSrEPS/hfpYiZGidul8IsLOsp+UR8cdWbswwHDv+A4TzoldiTXSM/p4qmfCPWgHyVQchkS5VifK7CS9vcf4N1L16e84RS11q6IZDufqm0oS6qaWtok7Qog+H2H7z0eVFojOxyYPu3HuSDUVwav5gX1r97Mf/Z8G/yMhQUiVYokM0kw==;j71ygtEOPHNZbbSArnG/Rw=="
+secured: "Zb7D/9KgUF3frrsC6yoLjxMrFGnif5biXOcMUO8T9JCjvAbtUbkhhbYyhatz30w15QF7al4Ad5+Yzb9sWPwgavJJe3inK5azqvr6XZHZmBmqtyMaVV7aTvkQsWYML+eOsErw+E2/5+EhOOEHPoFcqOP4CMGQ8uWCQOkuOdWvyw/Y5qDGrzWcy36DFj6LVnsbzdhKiXZ2mfmxrrR79j3MKAhSuQLzJOVcSvRImCjyqG6ox9lkM9vx8/9B0MWnvgQMGb5iQ5kkKSUItxs0tHK+U8y97/BU07y9lOhy0YTigLpccE157H6FdhhKsVF4l0krRPUb8ClOBgcsQaTFX3p8ZDRg7HAg+jBe24WMN1vcz8w=;1+zBI4xAQEJaUmkQYCqA/Q=="
 ---
 
