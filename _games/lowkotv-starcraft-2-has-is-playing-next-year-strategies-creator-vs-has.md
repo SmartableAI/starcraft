@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-has-is-pla
 type: video
 length: PT14M46S
 publishedDateTime: 2021-04-22T11:32:10Z
-heat: 123
+heat: 124
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EY33CBhYJIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cYwQBgQz9LT+rYZ2dN8fLlTfXXFmFtXWrBpxLN4fwkNmcZiSZGW6I70tKL1XtN6qLKvgViBBoA1gwR1DuTrYD2gI8WE65d0oLFUP7LKXuMzsQvoERBDNIzbKXeryiPOOH12BTXqVyPdmGr0EIGysNPtrynDlUOSn/QpR4bpaAZkKcpx1RIVSc4BI/07mdHB6AqF2cHnpbCvq5UMhcV6VFZL7lQ1cShWVfTKxZNiWkNPk1uGCcRR0obvgEym/73mq9PC/y1OGh/AGz5yncs14j0nN/Szd3pAz65lMAxUskrsb0q+bOi7pq/AwhjRN4+YacBquDqA/C7KJmMARHvlWom2T2PLuWOJjBxv0K7O6l8SisOS/QahUKeK4IwxkZpN7eDxgN1QTmcHB7j3JckTa6Dopfm9eR4aRLcw7gT2WO9A=;dHKJ2VeWZ0DbjkpnZt6NkQ=="
+secured: "Q3EE+pmsYZab8Yl30hKa1DQIBwzsX8hwt68Wa4MB8UuYhM1z3Xg5V0fYe8DEfOlYlx6arU2qE5rH8M9zfIf3E/UkiVSGdp4rEZhkDMtnbSQH9ewx1g7eO5b11M2IfBvDl7dOx06ns4tyRUEoZfqe+i+/CyPDQ564s4qGJQztwxeEEkyuHKe49bUj4X2cB6Uy6UcqrDUpeIVnTJuEmgCvzdaAsWLWLkyhgnpuql1SXWYt6mAktX9VkNsYrPpkMfKW6EYkHLWjcXSPCY15BbuTzNauqAmkU1/coC2dFCq/+uru/GP6ivlxcC241LwA7Hp+Pm5w8KMhrIU8r2Ew/QIc7JSFwIQe8/cFD6rngu2KKioL9imtr/+xBnbNGXw/eQ+WgYex22JWNIn+li0vBTSy+hT3ZQc2wLtrLu/CWSTu3RU=;O6i8pw5qO+czkor0OZxk6Q=="
 ---
 
