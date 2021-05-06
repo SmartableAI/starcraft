@@ -260,20 +260,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
-    excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-17T04:38:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "2018 Starcraft Launch 27rb ULTRA"
     excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-02T04:04:00Z

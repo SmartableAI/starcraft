@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
 type: article
 quality: 57
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "2017 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-17T04:38:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-solstice-super-lite-28tsi-fifth-wheel-3025074"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/2661/i/3025074/o/1_2661_3025074_121329940.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "2021 Starcraft SVX 210 DC OB"
     excerpt: "If you boat in a cooler climate, the dual consoles and full windshield of this new Starcraft deck boat can greatly enhance passenger comfort and extend the season. Both consoles are part of a one-piece fiberglass liner that also forms bench seat bases and ..."
     publishedDateTime: 2021-04-23T14:04:00Z

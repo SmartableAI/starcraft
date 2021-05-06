@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "2017 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #F743 with 18 photos for sale in Houston, Texas 77074. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-17T04:38:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-solstice-super-lite-28tsi-fifth-wheel-3025074"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/2661/i/3025074/o/1_2661_3025074_121329940.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Recreational Vehicles Market is ready for its next Big Move | Thor Industries , Swift Group , Starcraft RV , Pilote"
     excerpt: "Global Recreational Vehicles Market Report 2021 , Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics, size and growt"
     publishedDateTime: 2021-04-26T21:56:00Z
