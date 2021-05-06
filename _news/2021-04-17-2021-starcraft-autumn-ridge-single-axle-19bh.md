@@ -248,6 +248,22 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
+    excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were announced in an official press release."
+    publishedDateTime: 2021-05-06T19:37:00Z
+    webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xVywRssSrF4W6U3Y9VZjqm-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "2017 Starcraft Launch 19BHS"
     excerpt: "Starcraft Launch 19BHS Travel Trailer #c5410463 with 26 photos for sale in Helena, Montana 59602. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-21T07:05:00Z

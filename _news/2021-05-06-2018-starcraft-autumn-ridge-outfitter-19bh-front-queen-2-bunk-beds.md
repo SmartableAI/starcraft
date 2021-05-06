@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
 quality: 74
-heat: 434
+heat: 454
 published: true
 
 provider:
@@ -234,6 +234,22 @@ related:
       - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
+    excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were announced in an official press release."
+    publishedDateTime: 2021-05-06T19:37:00Z
+    webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xVywRssSrF4W6U3Y9VZjqm-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
     excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."

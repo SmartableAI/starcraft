@@ -248,6 +248,22 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
+    excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were announced in an official press release."
+    publishedDateTime: 2021-05-06T19:37:00Z
+    webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xVywRssSrF4W6U3Y9VZjqm-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
     excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-17T04:38:00Z
@@ -296,6 +312,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "0uL2WM17l0cQJJM2+9SQnGGXGP1gE0UaSpoEMa0/uSihMDCt9zkrPhSqWspzslYFS84oKYdpII1A/+nXQBpHYqOa5S+IGheYHBvm8Kk/NEs6MZIyPhn4Tq5P6p9lMASdTAtZHJZJGNthouVCqNP1HvjEsNrwmcLqO+5v2ynp7j2hPbXaHga3iG6ctx73ad9CoV89r2hU8KG9eI5aSDjm9krJv1MMgE/9R9k0YKgQT/tpJOEXvpokV6IbUyZDm/YW9HSPje39GBiix5sGX7m2fd82lbMdlXO//m8eux+TIp4PuHnhoIqwtzCh21wPDORIxYXcdcLYI3FxdYc1Ywdp6jEFE3Q9BoVWFhY3ZDVUuU4=;y0eAEJTR3x0SLiBZwiVfcw=="
+secured: "sr0IobCSiTPLPaWK3RE8+B/YAfGXrFPAzII99t1OoHOG1SmzozIHCmwyHrEFev6S4Lp0IWtnyKVNut6Ih4xl6wmO8NoINDRvNTe1450+4WiZ3sBEJKAaahbvaLd81RlAu4HPF5i//TZqshlFcAXIUrfHYYXto+twbljvHxx2+bLtX4aUt0C3XUGs6LiVar2XgBwZgopiUrGfBYpiEvyxnvwMqV1N3HtODQgYoFc5bObM9DhUDBWi14Si/Eaf49EUyCb5R6yY3kUsqCL8id5NzZeV50EB9GAQno4DO03wXvsM9Up8aEgfflf5QG5jCc4MrQPve0SgX3B56MuTIZ9SHQ+KhVM9waP5apU8xxKw6sHi3oiRnMxLnVrtSxilKvM/I0Te7oR71qalTdU2SlcC34KOXxNB81C59nxvgQvPxhTSH0VsX4Q1Zf3njpXYIYJGsMqtpYTodJrdu6YkWCW17hmX/1ovUFNE9aUlNEHmA8t0G6A119r53eAv34Gaw73/UJMY1VlaSxvxnVgI8AJ44A==;HA8okallm0O5vzwZMc4nKw=="
 ---
 
