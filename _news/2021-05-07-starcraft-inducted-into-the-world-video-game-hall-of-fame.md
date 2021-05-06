@@ -1,28 +1,26 @@
 ---
 category: news
-title: "2011 Starcraft Lexion S-Lite 254RK"
-excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-30T09:30:00Z
-originalUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+title: "StarCraft inducted into the World Video Game Hall of Fame"
+excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
+publishedDateTime: 2021-05-06T17:57:00Z
+originalUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
+webUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: Inven Global
+  domain: invenglobal.com
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
-    width: 908
-    height: 511
+  - url: "https://static.invenglobal.com/upload/image/2021/05/06/o1620322211028365.jpeg"
+    width: 810
+    height: 456
     isCached: true
 
 related:
@@ -121,6 +119,22 @@ related:
       - url: "https://i11.dlrwebservice.com/s3/img.rv/39603/i/3038483/o/1_39603_3038483_121603446.jpg"
         width: 860
         height: 645
+        isCached: true
+  - title: "2011 Starcraft Lexion S-Lite 254RK"
+    excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-30T09:30:00Z
+    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 57
+    images:
+      - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
+        width: 908
+        height: 511
         isCached: true
   - title: "2011 Starcraft Lexion S-Lite M-254RK"
     excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
@@ -281,21 +295,7 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
-  - title: "StarCraft inducted into the World Video Game Hall of Fame"
-    excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
-    publishedDateTime: 2021-05-06T17:57:00Z
-    webUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
-    type: article
-    provider:
-      name: Inven Global
-      domain: invenglobal.com
-    quality: 37
-    images:
-      - url: "https://static.invenglobal.com/upload/image/2021/05/06/o1620322211028365.jpeg"
-        width: 810
-        height: 456
-        isCached: true
 
-secured: "Um+67+IJXEM8Ow8cfH3CPOGMWvE8BQjCo1l+SacJFzA6GkcGRunfEiNdYktVEPSwzM74X9q4WJJqCM6uw6vnMODgoIhnypzuoA0NuX+2gdm17Qxwxq12yd+tfVkE+DJ/ysfeD6ilaMZRZS6aiCd6yyDdwDuiO+kp2UtfldRmV2ORsYh1JXmwC7BVpSqOAfkduSUje3mB23OV+i9gwc25eu6aXIVGL4ORApjQ16x0btcttMVq6XsHckumYVTsmJVuBBhp7lQq38sn0qVE0bXQXMm/KSX8XUNn8sYruL0WTkQSexfrmvDNgq3r/YjiXcfBTo6SMF3J/E8mOZCESmRNtJ6IRDj1koQXocBLWEI6lJfg0JAoPi0GmRxbuBTyDgMbmlGvROZPK+sQXmDIUVNJuzHIzP/ByG/yO5DZOHYuVbAOmkJDK+64FaNPOaUN5+0wt7QpfAWlGj9Pg12ZFkcvY4JzNE7vBeCbT1HfENKp0nLIuQ6RrrCid8y3Xk1qSg3eQ8GdabpguWsGpjeW4xQ0EA==;LmU3LSA4LvI1R9Z2E6qDNQ=="
+secured: "0uL2WM17l0cQJJM2+9SQnGGXGP1gE0UaSpoEMa0/uSihMDCt9zkrPhSqWspzslYFS84oKYdpII1A/+nXQBpHYqOa5S+IGheYHBvm8Kk/NEs6MZIyPhn4Tq5P6p9lMASdTAtZHJZJGNthouVCqNP1HvjEsNrwmcLqO+5v2ynp7j2hPbXaHga3iG6ctx73ad9CoV89r2hU8KG9eI5aSDjm9krJv1MMgE/9R9k0YKgQT/tpJOEXvpokV6IbUyZDm/YW9HSPje39GBiix5sGX7m2fd82lbMdlXO//m8eux+TIp4PuHnhoIqwtzCh21wPDORIxYXcdcLYI3FxdYc1Ywdp6jEFE3Q9BoVWFhY3ZDVUuU4=;y0eAEJTR3x0SLiBZwiVfcw=="
 ---
 

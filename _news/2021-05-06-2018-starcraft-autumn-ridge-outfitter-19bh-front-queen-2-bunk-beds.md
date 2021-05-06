@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
 quality: 74
-heat: 414
+heat: 434
 published: true
 
 provider:
@@ -282,6 +282,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "StarCraft inducted into the World Video Game Hall of Fame"
+    excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
+    publishedDateTime: 2021-05-06T17:57:00Z
+    webUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 37
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/06/o1620322211028365.jpeg"
+        width: 810
+        height: 456
+        isCached: true
 
 secured: "mInMYMmbOONYs6uH6ApbKmD+C0sUQBOJBtfPszPOjbTNKQfeospKkif6hu4CrW1FqYS0EqAhim9uDNnuy/SmLz8gRY8u23D59uAhN36Xv4dnHgJnXRC0Xz35411HHbXxwSLtqPGAsQrkEqtbec4ZemuWddQ+K0ndxLqnzg07vDj3nWwf4I2/hHG6G+L75qPLAMdy2r73SiVBkavsRJwGOyZAb1m7tIDIlW6REzz1sJG3iqCeM8EF1h3kZHOQtE4LVhJIxwm91FfQOFjPlJrx8Q+d03pMTg/CM6WBlKrcsX70Z25Dt8VYHR+Lbz9A+DZe+x/uXYruxIFBiuZwnjJMRmUQSXk2tWE1W3CkNbvb33cPdax22BwFj2ELgtLaveIYt7/ytDJ/U+tjweqljgPW8R89SohbpZF20Ae1/vl4CYOvR+1d5bM2P5mkPg/pRmvG7b5gRUZOb2K4Di/svGNES3zJb95UxNnuLqK/8AOplmG28VvaAthFDMqFpXbDMjBFDQ5bFgzBYidhSuSo5x11Lg==;42C2kPkL3iwBcbYWsdiF/Q=="
 ---

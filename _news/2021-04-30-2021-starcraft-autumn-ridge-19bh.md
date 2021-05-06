@@ -281,6 +281,20 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "StarCraft inducted into the World Video Game Hall of Fame"
+    excerpt: "What started out as a piece of the real-time strategy game genre that featured humans and aliens from across the solar system back in 1998 has landed on earth in the World Video Game Hall of Fame."
+    publishedDateTime: 2021-05-06T17:57:00Z
+    webUrl: "https://www.invenglobal.com/articles/13968/starcraft-inducted-into-the-world-video-game-hall-of-fame"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 37
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/06/o1620322211028365.jpeg"
+        width: 810
+        height: 456
+        isCached: true
 
 secured: "5YfUPVL1stoBUPaGOJP+Que4uSEBtlMTi5xsXTASbvHpUccw/Wd60dzdqEi5Ts3Iq5rskYMAJzmmhKxofcrpgadkaTEd7ffz7ZorGCnmtV+B0Sbo9WmYdPDAvqOD3cgWUPl4l3UyVYNqrDNhcvbKSsnZDxglZBnpi700YlF8P3AxiVH5ea3wbmou+9PPdcEdrhafCzN/tlI7GaIZ2NedNZBrZxAOZ9VvAJejy1G/Dk2N+aZmNIHUwDfIeSBnTwq6G6q+ibTuhO/H+Q2WAb9vIwybXeS1o/aBZX8G+aq86j+RdlGla5i+O8rADMGQiO61v7W6MkI+VoqxRZ6IqViPmyo5Zdyl/WrZ7Xhcg3eNeG1GpDvAkhQly7zwH8E/A3mncnw/F39YZgmIsES9UVeH9PIg2yCTGc8qcfhFQ5yUiw3KegkNETZ+Qz5m8TeOxeTa9b5Gksk8rc+XPI6ClbyF0SWlp0rG+oXIMPlhsFK8rdd5VtBKyxdzzPDnwJdWnjo3ckfUHq7wvwcUMATZZNtKPA==;RL0pfaPvSu0rOjFU42FpZQ=="
 ---
