@@ -1,14 +1,16 @@
 ---
 category: news
-title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
-excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-04-17T04:38:00Z
-originalUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
-webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+title: "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds"
+excerpt: "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
+publishedDateTime: 2021-05-06T04:05:00Z
+originalUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
+webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
+ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
+cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 74
+heat: 414
+published: true
 
 provider:
   name: RVUSA.com
@@ -16,30 +18,15 @@ provider:
 
 topics:
   - StarCraft 2
+  - Zerg
 
 images:
-  - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
-    width: 800
-    height: 600
+  - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg"
+    width: 2048
+    height: 1536
     isCached: true
 
 related:
-  - title: "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds"
-    excerpt: "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 74
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "2015 Starcraft Autumn Ridge 278BH"
     excerpt: "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-22T07:07:00Z
@@ -248,6 +235,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "2021 Starcraft Autumn Ridge Single Axle 19BH"
+    excerpt: "Starcraft Autumn Ridge Single Axle 19BH Travel Trailer #6GS121A with 20 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-04-17T04:38:00Z
+    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-single-axle-19bh-travel-trailer-3026389"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
+    images:
+      - url: "https://i13.dlrwebservice.com/s3/img.rv/32363/i/3026389/o/1_32363_3026389_121321853.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2017 Starcraft Launch 19BHS"
     excerpt: "Starcraft Launch 19BHS Travel Trailer #c5410463 with 26 photos for sale in Helena, Montana 59602. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-21T07:05:00Z
@@ -282,6 +283,6 @@ related:
       domain: rvusa.com
     quality: 37
 
-secured: "K4kfqGUgDUhTehBw2FhIEXQFxfnYwSdo/oNPGTylEk/3gl40xRIBnA3rCOfiLTBcCWPLR0VSIVe4r/u4EwY6FScY685zoJ/ITgeVSQACohSAhpycnBto+csappD7mSjsPA7P5RYMkwDFKvFm1hzG26Eebfji8Lgvvun4ixn8k/txJ6Gz/S9R2t60Pqn3YQ034udr7aNlNi+2CSEwC7ZDOBQZGxhcaRloGUs/fSwn2DD57BybfySdkJllai00A0IE49zphZciWhxB8qZ/dRW2tLUsDSfcwrQjbmz3RJKkpXKr9qdvfgwLf54OZ/ImP2HBMMVIIohk9BbH9fr/YcyqjEgovvdgBJLaxBgiFtcfr/HaAAEPGKavevXBveGR3drA82P26Ni1W63pzSDJseBKbxLP1EbcddXKw5obWAgtih/VaqNxmx8U8B7V+XDqKSR2uj4oewE7fB97pX+mzWV7EHX1fWss/+qkodDIxlW7kqVEVRDHHXzMsNAEIKZcO+sGSrO1wikjYPSnhTNpfRnNmA==;q69o7KQ4ifFMtjHaTHf7Zw=="
+secured: "/qWfj6zjoVfFztbG+t942njlDhQHb35feLasQgEGZPX5Y9sDCg09dUqp1sm8dOHX9tn5pu6caELU47RMURDba2AgzmMochUVmht3nl1ct2tIOODQrKu4e2gMNkrSRO94n9wJtx0i+YRFfUfry1PVVyf4sJgOoJk5ruawk9BRWFX1p8ERi8x2PV/akLJr2BSPPl+bl1CvFfpu99BiheUugG1RqcXnhbLB9YBLobnL6tfUZH0rGE9zsV5GVlUtKirpVDZXhl0Tcubc1i4p0rUYKR/msfSojgN8BCEOBlIZ723GItOttT5S9U+qY43F8EGv7wOfysz1wn8+InvJPW/ERomDZi0Ckm0WtdJfYcdE9FY=;DDsSMVP/zRV/TTdHltcPGQ=="
 ---
 
