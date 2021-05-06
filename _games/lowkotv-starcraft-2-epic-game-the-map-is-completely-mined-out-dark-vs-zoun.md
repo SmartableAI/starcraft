@@ -2,6 +2,7 @@
 title: "StarCraft 2: EPIC GAME - The Map Is COMPLETELY Mined Out! (Dark vs Zoun)"
 excerpt: "Awesome game of Zerg versus Protoss in StarCraft 2 between Dark and Zoun.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=ftIzX5OlUso
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-epic-game-the-map-is-completely-mined-out-dark-vs-zoun/
 type: video
 length: PT45M55S
 publishedDateTime: 2021-05-06T11:15:18Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "InvZHjXnbTFdUIRC8swSDMdmgBq2ml3GP058g0kd1x9k71ZmwBwVqfXDlkjzmBw36g/zuZLwxQeL5ST4L04T2SqnL2T7gCnhHgmssq4qqiqOfBw3SQ/6CE9YN6fMym9oqASBhNXc80cY5IpHH3aqwsT0Iw+ryUTG7+Vuua/l/zYougcHcr3eDxil0kASKMmncDb5nE5CYZNMR35lZmFxwu/0lszqQosb6z2FU+rez021JW02kPprECERH6wNSN582RCJ+5rNN4RhXePthG7sglyXekF7SYjzS+qlKe6BHgYJDvicxoUzZ8crsuJ3gWEUcsXcDrVGgzuWTA3xwJ7/Wq96EwpBnPs8sx4fLLItaq561xy+FvvrOXkNoz/YHe6E++PohRDY7Vq3a/9LDnNdAA==;6KJFfGpANYMCaRL4aTiLlw=="
+secured: "zB/LxSOrJHRWPiN+fHqOX5GVektz3fMT47m30Ktg4vtJfVV0T+RUsqTe4q+ZjqvNkFFjzbtQ8vuF7JZqrJkMyGK402kZNcl5BOvNxMUdjsWU68e/vIcHMi6yrkbgFz8UKqNs5D5le77SLKVPe35xzJxesd9KNUXm/SoLTkYxENyVHLyiG2xN/B/DPqvzEXFrpkmtqiLxhg+Gk23BLyWfb6uZKzZKn+xwlC7igBTPy/GOQFaJsfcBVF9TCCPSn0Mz2vmDtr2XjINV+2SC4AlxE6cW6U42h/FM04AoIxDbKKLsBsrYXWpFsvkvC+5dFyCNf+Ge/wXcgCC3oN6xYmnZ09n4Smwu1iKkpFfKxffYpEcZS3M4VyJYwIRxD9K13i9dJhYzwwZ+6uklOu1ih8Ryrg==;NGE4zOUFiqpnCO4AXl8t7g=="
 ---
 
