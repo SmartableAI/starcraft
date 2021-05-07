@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame.md",
+      "title": "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame",
+      "excerpt": "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
+      "publishedDateTime": "2021-05-06T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds.md",
       "title": "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds",
       "excerpt": "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily.",
@@ -1066,39 +1117,6 @@
       "provider": {
         "name": "Game-Debate",
         "domain": "game-debate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-starcraft-ii-does-not-launch-issue-quick-and-easy-fix.md",
-      "title": "StarCraft II Does Not Launch Issue Quick and Easy Fix",
-      "excerpt": "The StarCraft II does not launch issue is usually caused by a corrupted game file, outdated graphics driver, or an outdated operating system update. In order to fix this problem you will need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://thedroidguy.com/starcraft-ii-does-not-launch-issue-quick-and-easy-fix-1136894",
-      "originalUrl": "https://thedroidguy.com/starcraft-ii-does-not-launch-issue-quick-and-easy-fix-1136894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Droid Guy",
-        "domain": "thedroidguy.com",
         "images": null,
         "publishers": null,
         "authors": null
