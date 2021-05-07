@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-partings-2
 type: video
 length: PT50M42S
 publishedDateTime: 2020-12-07T18:08:47Z
-heat: 80
+heat: 73
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7V_xet9gA-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VPWuQx6m0PjnqtjibmYCnxKa6+ncVXQavFKILhOo5Cviot6hmL+U+WrPZDkbD3DjPDAECKTZo8TjYMdcfpGJTf91Ag2I7Dmcdw+Qp75CQSyIYb1LXhT2Cjk3dVmVY6Ko+FXfrJDrJrdiAVpAvfCIi0aKsxf2UUc0Pp72G5moEg1/IzOrCusT/ko30NJGDOfxvFAJdHR8FMNQWn2FfFTnrGzQxIRKRBiKcXYj/bIKGXIzdidGtbNLtCUluTmqaMQaVqvZ5Erf9T/VglHt4R4kT6xF7orHbH6KR0zJiORpvRpFyPUS/IebQMVl3FvDMfpcHobb3gS3c+ymZp1a6VPyVWykc1UgLIGXNi4vHFv32Smuvm6/WCEtQjJ2NbVGg7zmsAkTSpULseR9V8FYcQK7c1yumwQ1WGSTWNd4qV+F+wg=;UNUpnQSMPXtMeEyPETtiew=="
+secured: "dP0HoeZyRUaXo8LiPVjcpnph/A0ldNqtrv2FNGOLO5XBphlNTiqP0eh6n/QRb9Gi5hMxMWQI+zUZQuh0V0Nr0q587QBq9TLjy7kZ8YXkFh6c0Xne8PsvRQN7BbHPKBtgBexzIMpGAqOfpIAwZd1QPGebfvZXW+oiKbhHt25w1EY+W4CoeWIWG9wMf4sKyf+GtwhgKMfjyxLsuy7ECKuDz6rRwR7BowrJK6KB6UrVImDzHrXnb9W7Fc85dUjf64kpJuLBJhapDW6SFL4pgFQdFNO+MsCHNdVSk3O1+2f7JLGr+T+/p4op2Y+DTa5oKWCQ67zRz3z57xaaWP4KrnoGXShUX0RC2WaLobd/pkcHyXDbBbkZEMkq7UBHztaQsn8jIgL2FjDSyX5in9GSdav+HtPe/CeW+eSTKDxLKGoltu0uF8GX81M1DWPMmKAkpQ6c;o8HJ6PzuQO5q5m7pZ7d7lw=="
 ---
 
