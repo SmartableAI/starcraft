@@ -2,6 +2,7 @@
 title: "StarCraft 2: The NEW Highest Ranked Pro! (Reynor vs Clem)"
 excerpt: "Clem recently overtook Serral on Aligulac as the highest ranked pro player in StarCraft 2. In this match he goes up against the World Champion Reynor.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko"
 originalUrl: https://youtube.com/watch?v=X9M0Q_JXrMw
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-highest-ranked-pro-reynor-vs-clem/
 type: video
 length: PT21M38S
 publishedDateTime: 2021-05-08T11:13:14Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "U0wSRQc/69rrf40PpB6ecwc4VfiYcDpCv7I0gBB2ETzea7VGYGuA/P4aPIczf+5ClogoMa6vjZ6ywYXN38cMuf4c9Pqo/OGSAG62F4fHu5IshviAQdjWmPdrJjK6IiyT5fUmnLP5f0EbQpTY5rwGjiIY2usqzpj2uz2CtzMjG4S7u8Ud+qudRb+FKp8VDs9wlY2fH30l7vUZVl+Qx7KKl5pnanJRuLw1HgZ3gOOCGzQcg7G5MXzcYI7BQuCx79MsHg/Tm7lE6LWEsm3TSuU2fKtj+ptDvy4PdB1Q55RJYoDjL6vApO3Mfx312yS5N3+rgiQADXQE0JBDx7PJJqPxL90ZEXbXZ5QDo0vXGAIGUp12+jAnoqaZzxAMKuVBi7AJtI/nc08vJ5ZVJ0Lm0+g1uw==;u7PKuiZuQdcb84agm5Arhg=="
+secured: "szcdsg2dEyhgBJ++hD+asztiuULru2cdAEisCJxFs2nI0kuCps/ax8LFAFMOR0bl5/hIDBOUrZZxpLP29pymah20mP6aHyK89OvN3TAbI8vkijaECW83V2IoORoTNDbp51q8lSaZwVx0gxKxrt71n4iTGM/oV/ejR/RhRccA1WN74nra4G2J/1x8BG8u33TEmkZJQ2TI7bDSOR6EE0JEOWXNUKW8tKUIRIBi3MpPB/ue8V2d0lEIQXjEcap3RNRACJmtFID68n8bGl0m4DmLpe9m3GGg/9r7jPogFMlt1nre+w5PN1UvS/Gm7TG/x0+ypN4DK5RjHDKaJz2wnzW6DGyPiSXa98W8NMMir/Ji+r6w64+7vfM91k70kM4892H7raT0jde7FOy0QN294/Ii6w==;fqf24OiP7/gt2PJJ9oOm8A=="
 ---
 
