@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-cure-vs-he
 type: video
 length: PT49M50S
 publishedDateTime: 2021-04-19T11:41:16Z
-heat: 116
+heat: 120
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMyg5Il-7eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YfCtdITYLX01l7VMynoGj5b6Fx9AFe3O8iLvYZ1KQBoxJnolMWE6kmgZBwl40u0jOGiJ+8edd0+8ZMr5/u9h0TV6yGDZYcJd0VWTU13NNkhuKn1PXkOpivNRTBsO+7A2+F4t2NZHbl1XMqLNhv1JiWfexbqPsgxoMNXiXmFAMszSYm33Nr6Y+k9TFVi3f0+QURz1vzEzGI//8dWYSeezPXn3CGv6iSM2xN/8QutORwAZqT7aIU3KmCfUKdOc2FJ3YScCs89/9BK6iXFFiSJioFBuz6fot/36yKODa1kMplwlE0liP3AX7GoNCUIw0KlNLHWqFaqdXdKPyCEGRF/xEnMKxrQWvHB3P5S8u88cWlbsGBlyEwV8YxTXarleC8cksqpe37YcZuSc42sECnGeBQFAo1FBWlrWElYmAxkqxTawITqfMMWr2kQlts86UidB;uvJ3kDqmotWkcVw27hB7Yw=="
+secured: "0J/A6mq6sdaTovtOpJg63P3RJeLDeWI7/CpAdrHh6q7EvJNL3j2iQaiIXpqmoGNCdVxEcvmPQo2x1xaCebhSsquXmJcbKuYqnd337SVh/WaER+RG6qBd+qZ32BT7OrIktE+1bN9TO4JYQnmEVcXY/o4oAtt2Q5Z7RhlAwezvi1o8b1DWaixTyCAsYNK/Lx5PZX5yNhKxXLGPiq0mAz0yDf8acj4NnaDbRN1EYJJg2UGBD0EUEgrm7FBpB/iZEDkkqDqtucs3OIUW83+JUgiKcsanPwUl3OUnYC8A+uCYLGUR5DErkNBEuCuwVgcNgwxZ/Fr/YRcPmSdVWGn8S0j43atv7Z/gYzmaBSil1lUxnihmzSMeop9wpxp4eOD/YqEseyDi+sT0wovGFBG9Jb2dUHha2znseIFrXOo+ldS1ywvAZ7aLDlC7tF1gBRwQueUX;kybOPHXI+O5hvC8VE27PGA=="
 ---
 
