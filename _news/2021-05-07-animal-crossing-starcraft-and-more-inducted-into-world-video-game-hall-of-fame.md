@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
-excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were announced in an official press release."
-publishedDateTime: 2021-05-06T19:37:00Z
-originalUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
+publishedDateTime: 2021-05-06T19:43:00Z
+originalUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+webUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+ampWebUrl: "https://www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
 type: article
 quality: 52
 heat: -1
@@ -314,6 +314,6 @@ related:
         height: 456
         isCached: true
 
-secured: "J7E66ggTst+U6OoOgkPUYuYObQzbQdQOxWqrTa0w2hdoEuM4qxSz64K9apB/zJ2W+CeBSLOlp38BkLdNUe6qeoyb3ehlMYP0WKee5AhGBmpPv+G6JEcPt2yWoot9AV7je5ZLIClFyKMNh3NZlueto06ciZmhYVUUuziTlDgsiF87UGlxkPNYLRVluAit5hBEJOjdUHwB73J4nKpIuUgqQ/dKFK+tlrrLCfevKwCvqYr/kmqgXOFNTLufoRWvvH2dpu4nwEBLDYR3NnkQlUMoUgIOMWDtJ9CbiYLHxuUPizcIas+6XfoloLEpEUcBdx4o2Ov/T+RIfUzy2fNNs5jw+mZ4ZriIT1XPTBTv7WpQmjI=;Lz4zcFAnuYZy1tjR/otINw=="
+secured: "Jr7o/Nm/wRbuSB4XTjZDQNHK3tiEqRnMgTK0C5bZRah/qkkKXy71k2INt+YFl2AjhhKA2RJ+nNocJyeMpQhkfp1MPo6GxthjbIo1SlepkX5/sWiIfHuxCj+287d5skqBjtAeqXH9kQQ1rJq8ewLAiliCiTguq4IgBHsnUI20ZuX3KQiBzs1UhiRqCOgebCxPHwzQf7cJMa05k47Z/HQhRK2Oa/Q/s7M4iN8yUk4oZ0Sgsz/cCaK4DtNVgcJ2NcnLwzKJ+LozYKcaMQ81BTexeWHHXdfl2sgRZh3Ngs74CT91blGo990yKUVRhgN9yb+Y35Xibtz1tP2gwXyeCEFIDUKYc/HTUA58G5AW0JqNJHc=;me4IOlu1zPAgyElk+4UmqQ=="
 ---
 
