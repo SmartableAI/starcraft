@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-big-brain-
 type: video
 length: PT33M34S
 publishedDateTime: 2020-11-03T11:17:18Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hfq3RQydmQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YucW8nbQPQaiOuZsivSoOAWlHLYDieuYehZcLMEOxlPEIn7w/iEFt7EOrpxx8e2P0l6/BzUfiFa8xe704ee21AjXSD0H2ky9z1knalFqEF08W0pVyntq/L1OLdg19S2mndQTxAUBFsHgXiUAcl1GQFG1a2MfKFH/cY3ZtaPtq2CEUQsj+sNi2d6MdsHGPN8NviZrvrsscjTSd8Vvb64AGmJ2fF9RqP+gFLkEsyZZTiAyWi7DWJcBWmHm5V9HGdiED1R9fiKKbAzfyhSs8cFprQPjLQD4FsNrFhL0HY3W6kYEdp3YaTi0YpewTSuuyF/GfciAS5V/BZMD5gxxGQO7APZCda3AWZHyTyOKXw8/V7e2O2s8JwVpP3gnLBawzdU1KftYTmzCvc9Sdryfsz4LhC+nJYZVkkHAwfa+ifXLqDc3tineYi40dwMd/gHXkZpL;jCZCD26nmKYUqzj3YQQxFw=="
+secured: "nQqKcerpvn/N/X1RASlfnRHuMJGwNHuDt0Uef2JZBNAjqQhyxFiaPxop30yJS2JGZFUNOj1/OU+iIEKdGuvoUhArwz1pXZjjy7WyU2jQBRgXv8a5IYqdusbGZFG5nXd/bTDasxD7OG11K1kwtcLq/zDjrFPax0exoTb8unIvsEMuvH9yeMW5P3N56sDQ6/MINNMfaD9f4uBfBkyGjAmC3jmYc6rxpCS32tAuJbZMNZagXkXyU18dgxT0OEN85gDnpslJqUh0U8Eg0/HKRcIeUje8Z/DDw04wS3LTBWw+EmTnM5BFA66a9IIDzCZQDXAPMDhC/F58JL+BcFLmO82xPM0SoLkr2D3Dl5dQFceFY/Q5hDeRIour1cwFktDSa+eIFGx45a0/YtTHmka2VZyC/cWdAXhR+OnL41IE9Cbm5pAhly6JqPRFo6FOUEA2Uaoi;R8OHxX4bZM5hTJ1UEwbJ4A=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-zest-vs-ma
 type: video
 length: PT27M38S
 publishedDateTime: 2021-03-26T11:54:48Z
-heat: 60
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUw68GwInWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "U3qmemjoJ3TZR9UjaXC9lc+DC6srEtW1NdVM4kuZW2XtLyEKoyd2dw1dNugZwnaCqWx5qm82fEAdwhhbKH1V0Hn0V9fmWwB0B0d7OsHXOL/nhpO09X7qwuEtlcYDCvo/WWbre8f2d2M5XAzyDNhWmwlZ0H5HTkOnWwCuswY91DP35yE8iia8sEDB7CoAXlycuRKLGwzBlkJ8tKwklpB12ayCLD7DzzyfGbF4a48hSlTqzR8EgV5aYErnTlOQUR3PKA3cRMRJHwnY4nw6CHRM3L4rr/RBSlaL+JeH4YZf9R7vxYxfiBrzKO45pke0Ab0y2Uiw6+sHcrc4U7YNKNcBL5KspP0vRNtgkeD8nNNsbY9t5xqQfyHeFv5r8zHS0jXR69zxGCFrrs2QKPr+E+02IQjm0GMsUKZkOo4oYba2bpM=;ZlRjfKa8qOMykopAg4i8fg=="
+secured: "r809gel+43t5kC4NJ+OlFsYNCWwIQC7er1Nzm+Ne0BVqXWQlCtdfz6i147QwktZPb9frrMznT/BDjHzxioSr4ptlHW7X1B3R/J2wG63gcSaVhoGc2mBfy2dUi1x/emnzQotvXith7qLVJBV5g3xpqM9cd04k2oL1INJzhc3u9S1BJOdg+DZQZK6fBXrXxB0rARpINVYT5fDLeMxJDP7Fa8CrY5ZeFKxj79d7JofBeiEC1W+OSdSGakOmAEqFvA2xrxPQt0QohOOyFl84WBtaNyHuPlqAJRD81p5f0e7b4eZiCW332xMZDjQ5GiiCH2pltnRTO9I6hZLZ+cEQDAnbK3h+Z2Hg/uQL8mujH1AQKl1I3fHDxbjVwqFFfYyZlAaQ9dAlmrlKw1g5ECQYcQqCkABkuoUiLWDi8U+fljdJ0oE=;EOXNVw9WLTm0TZDqTD3Rcw=="
 ---
 
