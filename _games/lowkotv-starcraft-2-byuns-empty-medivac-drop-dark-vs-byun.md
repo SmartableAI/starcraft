@@ -2,6 +2,7 @@
 title: "StarCraft 2: ByuN's EMPTY Medivac Drop?! (Dark vs ByuN)"
 excerpt: "Best-of-5 series of StarCraft 2 between ByuN and Dark, two previous world champions of StarCraft 2.  OlimoLeague on Patreon: https://www.patreon.com/olimoley Support my work on Patreon: http://www.patreon.com/lowkotv  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be"
 originalUrl: https://youtube.com/watch?v=KqbcrD-4vHk
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-empty-medivac-drop-dark-vs-byun/
 type: video
 length: PT42M9S
 publishedDateTime: 2021-05-10T10:55:40Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7EnJJbxuXKXtPhrtalMVeFnynJXGDDH8/7RzWnbzA8mrU7T7kwl4vc9+d27a1EJJGRZD785DOKHskQBckIgluGgBcl5adAM4ryGyJD6FtlfBaP3qQiqTwdoSlgyfJgVrLqteWdZoMJDGmzW6o5+f3gkEBBBHWW7suohWrS2J2l5+fR0ohcr8kcx32aCBnQINDYEfwcylpZn+EpQ7Qq3+CGlWMaHjO/2LLUaQgiMTJ8Nt079SpzBHnNXuVE/9pwVjSQVdRgh8vgBhiFNf1tCOJk8/mrXNRH8ztBGhPG8EUZabI49hbvt0ioKMDJuE1inLAcyjQoFm7tbM3p5a9YuSd4d8IOetXAfrk4jhPsdwp25WPnKmm8b/Xj/ecUAGUS1zWMbIltA2nQn95w6sQKScVg==;DGaIu7S9fOFUOK5svbKI9A=="
+secured: "PyKHCxpM4LG7dMyq4w1+O0aQ+rfsK/wz4aFQlmYvnoI2LeO2+jyqto5NfFp/uXDPDa5eYjVtIv8d9jG3SrZqMW9wCnEXKxyDxDSF8ChpZjWhfGBd44O7xKgUmIduX6RLNfvuYcqsqkUOI7s0rdlLfSxceq2AM84Vh187CXBA0vZlhGxivlgEknF56jJPfIIiyrSWnCACFcMJwQuFoGaptP2rcNOQ5o2kspigp4tyv86qZZEgVOVXzw390e2qmeAWhXtYZvi7kUEt9qG1QjL6D/zR/GhnIwFYVUNAVHWDiLUgkhII6nkzTTBuuFiuj0Hmnlf7dbBlvPeT3gfiENRPsAp03vA+NJ8WXeczIZoADpivU3mOJvyBjyvRJK4+oWb4hXf4ofoxHSItNglmGMQi7A==;zJ9EH/1ocaL/QjvSkZfHrg=="
 ---
 
