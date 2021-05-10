@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
 type: article
 quality: 55
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "StarCraft and Microsoft Flight Simulator among latest inductees into the Video Game Hall of Fame"
     excerpt: "The Museum back in March narrowed the field down to just a dozen finalists. Classics like Pole Position, Guitar Hero, Portal and Call of Duty all"
     publishedDateTime: 2021-05-07T19:01:00Z

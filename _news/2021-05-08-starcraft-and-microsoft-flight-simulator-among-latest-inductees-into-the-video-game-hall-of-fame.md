@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 588
         isCached: true
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
     excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
     publishedDateTime: 2021-05-08T12:21:00Z
