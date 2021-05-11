@@ -276,17 +276,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2017 Starcraft Launch 19BHS"
-    excerpt: "Starcraft Launch 19BHS Travel Trailer #c5410463 with 26 photos for sale in Helena, Montana 59602. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-21T07:05:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-launch-19bhs-travel-trailer-3028802"
-    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-launch-19bhs-travel-trailer-3028802"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-launch-19bhs-travel-trailer-3028802"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2010 Starcraft RT 36"
     excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-06T04:05:00Z
