@@ -1,28 +1,30 @@
 ---
 category: news
-title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
-excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
-publishedDateTime: 2021-05-10T12:04:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
-webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
-ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
+excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
+publishedDateTime: 2021-05-07T03:19:00Z
+originalUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
+webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
 type: article
-quality: 48
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -41,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all"
         width: 1200
         height: 588
+        isCached: true
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
         isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
@@ -74,20 +92,6 @@ related:
         width: 2500
         height: 1439
         isCached: true
-  - title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
-    excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
-    publishedDateTime: 2021-05-07T03:19:00Z
-    webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
     excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
     publishedDateTime: 2021-05-08T12:21:00Z
@@ -100,6 +104,6 @@ related:
       domain: pcgamesn.com
     quality: 36
 
-secured: "jlX0+TC0mpmEqSMR13iQwLo4TELJYH7WakWwI9rGUf9UUY/iGp8BpbN0+8tlBDgDhF4svgbqm8oYvx4ITVGfcBmGyTUGivMU8mYSZvK7hWpkOe2o/DPpZ0ZSrn1bRCnywkNyHwMZdTPsUXzNYhvOoAmuBn7/PqkpVyX+5ASBGzVdaYebDF5/xjVxuE9DQCG2eoXEqNzQOoynAEepQK9xHL5VIrkV8NElIsQb5wZzUNgHX+bsJOZbhBnC22nPSvheIv8KChsh2Ca8i9tijWczIjv3ZRMNCEvSkTbSf/DTtzkOoJ+yFk0BJtIRmqPMfLFLjF6UG+Hkpv9mkGh0UdsoOqPPJBeW8qTdmawM/kjnnoUrpqBJZeoa5pW29lYow7SXyb9UsMaX/C/HGS5+rC8lZHk7YeTtyiIdnUoA+Q4xoQCkdKtn+9JRc+0mH/gU0T6ab6+kEnxuWyh02aO/9Eb5Gw8oz5aqmcRJlgH3nURBkL/Vr8QdjQ84wi+YcvC5me0bY50wa78OfJh4rVl6qnC2MQ==;wIdvwT/4vVcQSiQlXFf4qQ=="
+secured: "WeCfGhA4lziCorrxoUjUyLBDFFEaLqZjGAb7WZDFxKud+bvXDEJcLMuqcFjc567RX2nF8LEutFCb6MIgjx1czt62ipvSCiAkzBOfyEtJcsZtdCeQI30FHQa1ioGXh0MHF9GghGQULn4RJMJpjZ6dvmexwKmEAQFglz4kaRXOhmt6u4/mhClIlyZiBwUCOulhPr5LljtglVAEd0rnYfkY6G9cIjBm2lc9Kg5kKKlAsvE5YKP/eL/Nw5wp0tFSNjurNYaWhyCOqOJFA6aTyWb2KVpW4YAR5g+uOu9YTqjN1GHTNjYT76ZHPcDkx/UeNUaz+dVBWyUxqBiZMRwvNAkFVH+Fktt2sXPvc0N40GU21nk=;vQF/L+91XD3ifw7tA6pRpg=="
 ---
 

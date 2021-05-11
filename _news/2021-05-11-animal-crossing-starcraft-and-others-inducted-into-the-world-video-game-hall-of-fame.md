@@ -2,11 +2,11 @@
 category: news
 title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
 excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
-publishedDateTime: 2021-05-10T12:04:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
-webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
-ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+publishedDateTime: 2021-05-11T01:03:00Z
+originalUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
+webUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
+ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
 type: article
 quality: 48
 heat: -1
@@ -44,10 +44,10 @@ related:
         isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
-    publishedDateTime: 2021-05-11T01:03:00Z
-    webUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
-    ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
     type: article
     provider:
       name: NME
@@ -100,6 +100,6 @@ related:
       domain: pcgamesn.com
     quality: 36
 
-secured: "jlX0+TC0mpmEqSMR13iQwLo4TELJYH7WakWwI9rGUf9UUY/iGp8BpbN0+8tlBDgDhF4svgbqm8oYvx4ITVGfcBmGyTUGivMU8mYSZvK7hWpkOe2o/DPpZ0ZSrn1bRCnywkNyHwMZdTPsUXzNYhvOoAmuBn7/PqkpVyX+5ASBGzVdaYebDF5/xjVxuE9DQCG2eoXEqNzQOoynAEepQK9xHL5VIrkV8NElIsQb5wZzUNgHX+bsJOZbhBnC22nPSvheIv8KChsh2Ca8i9tijWczIjv3ZRMNCEvSkTbSf/DTtzkOoJ+yFk0BJtIRmqPMfLFLjF6UG+Hkpv9mkGh0UdsoOqPPJBeW8qTdmawM/kjnnoUrpqBJZeoa5pW29lYow7SXyb9UsMaX/C/HGS5+rC8lZHk7YeTtyiIdnUoA+Q4xoQCkdKtn+9JRc+0mH/gU0T6ab6+kEnxuWyh02aO/9Eb5Gw8oz5aqmcRJlgH3nURBkL/Vr8QdjQ84wi+YcvC5me0bY50wa78OfJh4rVl6qnC2MQ==;wIdvwT/4vVcQSiQlXFf4qQ=="
+secured: "fA4xVMUGL6ku0FH1swk9560BDC26xjWF1tAiY41IBU8m/w9Tp+/SFWk4lcBFR8L3nsMHCmPmboZ7JtDD8p4bG0WdxPwzSikBXPJfbrsl7g5I4lYaay0I1sYIGIfjnizS/LZngYKJvq9qxMLRabULP3yhtlAU9kjTCj/NJjXeJHjn5AnsW42gjupUlxWWlPg05VbTW+9CVLjghBJxYn1snOqjtmcAwMvvE9IDkrFW7q8U9RxSBCUC8f2KEWMa88Jtv8NRpsewgX2Yds+kqvLvb2wA8sgI8xtQ0RX5S8gk3wHAEnKRZSJmkRi9ioRu8gK+BzNwv5Z6kT26ZrTEtbgAMBW+uk5obRXK7wnC9Ph8v08=;yFxQC7MvuAZtro3Zi2+mQA=="
 ---
 
