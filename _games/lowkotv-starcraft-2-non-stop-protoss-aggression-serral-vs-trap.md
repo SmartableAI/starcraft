@@ -2,6 +2,7 @@
 title: "StarCraft 2: NON-STOP Protoss Aggression! (Serral vs Trap)"
 excerpt: "Top level game of Zerg versus Protoss in StarCraft 2 between Serral and Trap. In this match Trap decides to just pile on the pressure with Adepts, Oracles, Archons, 10 Gateways and more.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second"
 originalUrl: https://youtube.com/watch?v=iEY5iLUuUto
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap/
 type: video
 length: PT16M57S
 publishedDateTime: 2021-05-11T09:59:32Z
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pfEH7OT3FqxlH8QncXN4e4gmjBsYxH3FyfAjxcpvVExwLSuHbuOUyAzzTNtX1JDYnE2785c1qRrqsH327iMtUvsubNTE+T+G2vQHaRh+WDiYP3fx4+UI3rZBoTQZ0/mfJ+qX/R93YhmfNSR7U725J1wWc4W4IwOFN1MEv8/R8PpIQ0Mlm8G2hcFb5DwVejafyhLhb9RKXZtc6clseqsDGNcP+Q6uPyTOsZmDa/QGYn4h8E0QbVWD9qYBu8hiv0MWj87CTqOlxeLsl2RjPtsncBUyOjrZLpfaTnsLcDTY7n2RKG8vO4SS9uBhXYFebeSX5n2klGGMUeozWephLcwVer22TrxYELsz6SeJQ1Iviv3Up1dHYN+uA3uUEa/jQbO53fM3Yp9nu/stQsClyCRnEw==;7o2/sQMdCZkARz9OT0gILw=="
+secured: "/TlbPFXVkYtEQkkiaagtBPE1fU/yn89vPOYNzKxr51t1u6cjMHya0Hqne2PvPAVt4j3EjrlWFVe/tZAYLrGDXc+Mm9tLjjP++kEHe/jM98ZDKlmHFxN2ZAcmUXP959aOAazqCN2vd8sMqHeZy65niW1v1P+m5JEv7VtAd5petDP+9fCLFS6fQq6rvQ7ZUvtNBc/OJ+KWYMdoqjdjj9yVGihEea28SyzT522TXmwgydlN90JkJaivZiDQ9GOnQqYwYUpRllYBFpuEcUPHyN+xoP6w7Kn+sGVcYXR0r1tGgLPL9cHo159kLGd+dI9nAlfray5EHuE7asVkfEWuZXt+E/Fhxwsffveubvxm0iwa3vZazEk8+UCzWcryG3EiWK//hSRy0YC6OnrFgwNGlaXl1A==;NLT+fFwxRKEhBukARltBIA=="
 ---
 
