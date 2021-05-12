@@ -7,7 +7,7 @@ originalUrl: "https://www.boatingmag.com/story/boats/2021-starcraft-svx-210-dc-o
 webUrl: "https://www.boatingmag.com/story/boats/2021-starcraft-svx-210-dc-ob/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 Starcraft Super Lite"
-    excerpt: "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-22T07:04:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Recreational Vehicles Market is ready for its next Big Move | Thor Industries , Swift Group , Starcraft RV , Pilote"
     excerpt: "Global Recreational Vehicles Market Report 2021 , Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics, size and growt"
     publishedDateTime: 2021-04-26T21:56:00Z

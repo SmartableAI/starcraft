@@ -18,22 +18,6 @@ topics:
   - StarCraft 2
 
 related:
-  - title: "2021 Starcraft Super Lite"
-    excerpt: "Starcraft Super Lite Travel Trailer #40501 with 31 photos for sale in Grand Rapids, Michigan 49548. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-22T07:04:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-super-lite-travel-trailer-3030981"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-super-lite-travel-trailer-3030981"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/3323/i/3030981/o/1_3323_3030981_121435857.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2021 Starcraft SVX 210 DC OB"
     excerpt: "If you boat in a cooler climate, the dual consoles and full windshield of this new Starcraft deck boat can greatly enhance passenger comfort and extend the season. Both consoles are part of a one-piece fiberglass liner that also forms bench seat bases and ..."
     publishedDateTime: 2021-04-23T14:04:00Z

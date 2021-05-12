@@ -42,38 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2015 Starcraft Autumn Ridge 278BH"
-    excerpt: "Starcraft Autumn Ridge 278BH Travel Trailer #AU8B5218 with 42 photos for sale in Murray, Utah 84107. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-22T07:07:00Z
-    webUrl: "https://www.rvusa.com/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-autumn-ridge-278bh-travel-trailer-3030641"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/36346/i/3030641/o/1_36346_3030641_121430160.jpg"
-        width: 800
-        height: 599
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge"
-    excerpt: "Starcraft Autumn Ridge Travel Trailer #07845 with 16 photos for sale in Belleville, Michigan 48111. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-22T07:04:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-travel-trailer-3029727"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-travel-trailer-3029727"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/2381/i/3029727/o/1_2381_3029727_121419250.jpg"
-        width: 2048
-        height: 1153
-        isCached: true
   - title: "2018 Starcraft Autumn Ridge 289BHS"
     excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-24T04:05:00Z
