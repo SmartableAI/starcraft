@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-scarletts-
 type: video
 length: PT35M58S
 publishedDateTime: 2021-04-09T10:52:55Z
-heat: 91
+heat: 95
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YGsBtckySA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WUleVc3SSEkh5OsygRI6LmIS9bbravH6t9fTe4P8rjxSdy/Ci/t+R9kCEaovzQPsQD9rmJCiOikXQW0Be/AzNUraADSCkzCkQVALphfBYOFSMQRY6StDUIANG6Tx3kigZGY6vNu1FRd67qvCBEUssDEDf9vMlzZ/Jfxq+yAo2FjAMFiAoUdxWCQaM+LMj25iiuzKAVywiEYFi4GJDjPytcR/7pWYZg3mloQ3O3bapfINrojkFRAR96KNZ2OMTbHGihlbSNW1JK6GFveHl6Q3SmfNz81nWLjEkROUL16Jqzzh810I73BbPBG5FbzOxV63fLWriQqRDd/RaaZER40yOXOt5FJ5dNONtiNUnKqir9imxnCdAWsa1fJn0NRRsMCoffKo+PcP7oC+9q7P9Z3vMclsYKNTXF/PYxmHymEtVWc=;oPIB38esMU8aYY7Wt7+VXw=="
+secured: "Gj9Qt86eE8DpGprcjEWi5qk3fqwBi2LUtvyA1bVXn+ELOboPay3iIO2JSCZ6Zrk6q8QYMbBimJ1CXrZvxoQGH8kyPon7H2/D+0ULKG2nd/lLSpY83XcQYvUZXlDDgENLaPTKOCdtiK9NA/aLjWG9IBYBaOwjCG+gOGtDebkY/ez7ShnQDpfb2wb80+grCDSID4A8MbDEuLQ2rTZURS+82riDZBzQX7pB4NxgoJGzRrVvxpNzHNgW8rBItG2yPqyQXfGqpm5qsNVVWcFxLuHjCCnVSfvbpZWn5dH5pmuoc6k9kZ6c4nTIrqhOroU4Wm8MsLLGzfMaMnw2Ce8qRzZgI8XwOFHEpMz92I/VI5OP7H0IXb3s5SfTzXB1d3qU5qjYhep8g7pma0moz5PEVXjKIZibgq0d+3QwI8j5GG82sOk=;8tLK2C2J0K6PcDT2xx16Cg=="
 ---
 

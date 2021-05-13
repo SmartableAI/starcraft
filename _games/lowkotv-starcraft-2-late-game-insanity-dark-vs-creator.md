@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-late-game-
 type: video
 length: PT54M48S
 publishedDateTime: 2020-11-02T11:15:03Z
-heat: 80
+heat: 79
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGBQn1UbR5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hkV+3d1jU9VBfq3aVa5isI6kUsQRPFlTEDz69kMlbhb3tHQ1ynVfoyHhsb5oJK9Ec/vJ+P7WVbQiGTyWtV0jo0aWsx1SnHlNbkAj97GZu7M9w0SqwTIjbMkH5zwgTc2m9DrMiUs/u0XFdHyo6D6hqFLgpZdQsgjQzQdCk/uKwqycqwow9xGYFHt40l13YULA2kuQWrRt67wop3pUdr2HrXVNx3M4IZgk82HeligqHnreWc2jzJ8bvbF7biY6v0jok7t+uXl9OyAHHXY8wwqNHqQsrjF4J3ia2CMZZcikHVMK5WtJB1F25LqF+XqoVTsC79BK78hU3cvid+473LpX0Mp4cSrS75iW+gK77xF/2EqzP9X0v/yQcbqVdhgbpEGqtqXVyL/2SAff96yXeL3kdsnFK7/4Xw1Bxkh604LUrHYhJvFm661qSVF/OnJahrPV;7+S91sBF/ANmHiVPaRYvqA=="
+secured: "FM/aaPDqrn6tCAXF6CXGUzIyf21b70CeVTZa1QYu5BzJRUlD7xo4vLr6aD52YXcs6s2UI1KxHh68Ey6eVDs+VwHlPZMyFCyIexhZKziTxemgIdKXqtZBy1LWkjAMsjk1r2mxRaQT+HrQOwzIDfD8PMZrU2+ZAWFWKKH89jV2+IrdnsqFOevFHdNyluQPZ7NbDxGN52hrNx3GreyAOOW3ASUoggJAa6WmZcADBdba6ciaJTwTefIRaliGPKYzmdQdQn2ZTZeYyy96cuPIPjYCV5IDHhwzTBNUgkI8qaO945QXmZx2xUsiWPvibf6RFw2oKBRzdV0Qz963MpYxR1w7c10rhpUaQr3cWGuvUlynf5hXjguWqZBYhGrDZSaMCNtgiXbZ63H+jBQBoyqlbot9noQnO5Q48ec0Iv2avRyrdxY=;8bhxBCWiha0A71t33xBc5Q=="
 ---
 
