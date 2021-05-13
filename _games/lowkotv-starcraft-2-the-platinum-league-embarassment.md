@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=BkLoscJa-hw
 type: video
 length: PT16M51S
 publishedDateTime: 2019-07-29T10:09:58Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BkLoscJa-hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MImhXqMNeioUaIIQpbrQ1VSDO+LMvunNjN2uf9ZlqJ2cgIx80FNadNnjZz2Mg4NTP+kXybRUb9hjbF2M2L3RD6JA2K/Gw7XZi7bJAlh2OF68Vem5sqane/8PAqzb3ULkPKbpbn9Lyzt5209lj+7Oh8vKSXSPJbipf6PaGo/S+uv3x1ceJjuIrR3eIAwS0sCqrwyenqBKc7vaTo8ZWRK7JzVvFQrp/KIhmT2qAUCMjiJg2HPAeLHSdKfk3ua4Af6bKmdsRM96/2uGEKIEhH4us/n2uzJp3OIRO+S242TSfHVAdKMjEj3ea59C8b2tI2J0bTebnA6JGC6Y96Nq2I5Tsq/vOT2YkcGsZUEdsvyr9Irg56eqT43lRzXMFmI6Lh7/1VNyD9kvmTn+1eb0jHA40V76rAVPbiUVjvSEjAOIluk=;ozGiZUjwk3fMAcL8VXSiNA=="
+secured: "+bmwxCNlCGrNVKvoQCqKdu7hWRiW3puLcDgYpeEQ+D5I10xs7f1NeeLbsM91ygLdQC6rUrlESYdnlOZG7cVGj8FbGiO5mxL1i7EpgEdVrXQH40UTon+KmIbN3QZA5ILUS8Z5AEfu7efkbMl+QE46bHNMWORQFrLwbHvV4LIS0IR0eB/ze3HrmO8LXOejdpIkCqIEAeV26LUka5fc3rkSxji/NCHdg1D2YW+vyXu8bMmF+zyPGLnFb5r9WPgFClFLDegYIqyVaoWlFkpEcbJ4veqVWh31XtUPbOmRTUCV9V/GzEs0PhsvsjXkGjkSO1IbBqDPB8AGbijM6ed+G/MH6/1akliYsxqXab0pUzZhBMcFRLMcj8NtvHagsMfJ1qRJtfWtf3LVrnnvqgV7ZDU7VDVTW47VmwUiO5WMm1abesc=;g9Z+tQ7Wulp0PFVK1UTIrA=="
 ---
 
