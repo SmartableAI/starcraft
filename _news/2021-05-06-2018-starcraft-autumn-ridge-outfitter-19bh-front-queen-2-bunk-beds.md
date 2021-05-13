@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
 quality: 74
-heat: 394
+heat: 374
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2018 Starcraft Autumn Ridge 289BHS"
-    excerpt: "Starcraft Autumn Ridge 289BHS Travel Trailer #5AR183 with 26 photos for sale in Bushnell, Florida 33513. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-24T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-289bhs-travel-trailer-3033997"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/41829/i/3033997/o/1_41829_3033997_121488298.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "2015 Keystone Starcraft 309BHL"
     excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-29T07:09:00Z
