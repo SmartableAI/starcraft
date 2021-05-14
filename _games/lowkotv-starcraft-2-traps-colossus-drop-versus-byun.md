@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-traps-colo
 type: video
 length: PT36M20S
 publishedDateTime: 2021-01-19T11:58:35Z
-heat: 83
+heat: 78
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ISPK_eWX3ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZndVirA+UZblJ9RErVHd6mYmfljlz1GiZkxE/+IrgjLgQdKmSKCi2FgApvPcgaIhcxQeEq9eZjLdTtKUXpEXKF+DC0diPizDMHiw+1iPamkkgg9h6QVs4CoyQl/T7Ry+k/hQ8EFFikN5FR/4IKqldF/F43cZdyi6OjuqcRFtCpcyx5kGmC6JLdcNqIUPUJdRlZmdGsSkxImzNQvXea3cp1Gamgp9ii4ijJ/LOekPQ5HLJrSy/UvBw/zmjw8aZ+1wpTm75aVqTVX+kdZZ9/ljqprc8Od0LkX33gmUWGL6uUipdXIIE4aktgys+75skW0j2S/QrU2H02Rc//JUV/sZJPkGwkxZ/1KtWIW98L5FlpYUumH1BPkniodD/mPaXDtUwGpTHB7kJWNVmhHWgNgLfWcOFs/SPI58H65+6OmzmE+E7TcoXrWxffSvm9AJ8kqx;r58sZEHgVsBPsnpYV1vmkA=="
+secured: "iSk+cdDc3KDohjX0207K3Db7lP5hL3nQLPqnsq1LQCxO5tuPlerOuBGm28jABr3PA6Yb27YDx+U8lVh28czAK9WIdX+1x8I+WlKmAH0O4XsFzosMWK2sah8FpxWJoRh5x11bhAkpV77q5bLM3Gva8qt2RaIC/4f9CHEQ0zN9doyiXO6LTMeB+TqfUQAILKtW7nol7iNbEQ8/HSeipUywURgzu86JrV9lRuuRK1Aa7Z8vVjUaTWxZV33yrhWefMOES8myrf3FDClYMTgITcpzFpJ1H5TascqVVYtRSXIZuljTDyzCsRT9nU1S255digehseBvgVvsyUdCzYBdFG/UbGHLKqNJfjRNiTuo+xuzCkPwLAf8tHqpsKoHE36mODAZy0Tv3tyZ3sswSeXgg20HWhbucVs2RXRwYcZhE5JtGDBMdP3gkchzEKFC8Zr13oSO;Vwo1zi+Wkcpvj1kzRb2Tdg=="
 ---
 
