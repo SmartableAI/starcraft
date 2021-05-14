@@ -1,12 +1,12 @@
 ---
 category: news
 title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
-excerpt: "StarCraft also received the accolade, with the following explanation from Andrew Borman, digital games curator at The Strong, “StarCraft added a new twist to the strategy game formula while ..."
-publishedDateTime: 2021-05-11T01:05:00Z
-originalUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
-webUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
-ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
+excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+publishedDateTime: 2021-05-11T01:03:00Z
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565"
+ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
 type: article
 quality: 48
 heat: -1
@@ -100,6 +100,6 @@ related:
       domain: pcgamesn.com
     quality: 36
 
-secured: "CLwzrxJvevxHAPTpxLeA072lbTRHAsuZtlkJ/tcz3Nm0D1/bDLx2Jd1GDdGOzvyzQbtneQwtGgxoJnBvSgEf+eDHwTsvP6yY6eUN6ldV2KKrugPADB8AYHqbSQ+nRcndwvcZiSG5ql61xFele28YvfwX2n/oNxVa8+HAENFf6UwuTJtS9EaxlUpRw1SYNV+6lpLX7d0gUZgfFpvhbcG9CcqT534UBOhiDm5IeYHWk9KmEt1oa/VEEhHtEEr7ab7xKLlTC9LWGgH7i3hV/lV//11tA1O25TkBJiLPcx9S9jzwYEg06AKD4t69YO4m8vhTM4J5ClrH9+FMTGLgGq0p9sKNtj0PxwRO3lPmnaGW40M=;e7sQmQXaZtaDEY3XsNAbow=="
+secured: "4c4emIRbdWwadGPujNsbCQ3SKcCcgztV5JsQg/QkqfH1bO98/UA95H6kwR4H9jB+tNGme+qgPqTe+/aGfP1sv7xhleaw02k/XplAtcC+VpYxm6qWuQ0T/+PaYk2WsTa0R632ieVtOVNdKrWEsg8qtNTbgfxHJpdSD6h8EtLdkPGmI5yqc0/bxCGt4kNvfFbBX82hJCIjNJD2UwpCZlULL9mY3ImA/YCb4uuZnMYUX0ntFQZLUmpB82vLkfojW5/Z2Viz6ZlgbgusUqi8cs9j/YMHgPLE3QDhOE9GVuyC3UhtW+sYed5IhW5+3BCOBJLP3XJsx5UrpAF0XD7KLP/cY8ZhlvgCG0NWS3EgCbw0UV8=;cLnabwl/lgoZAXX6WcSMRQ=="
 ---
 
