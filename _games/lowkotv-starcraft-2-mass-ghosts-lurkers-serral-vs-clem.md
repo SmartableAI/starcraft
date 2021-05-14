@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-mass-ghost
 type: video
 length: PT27M29S
 publishedDateTime: 2021-04-29T10:30:22Z
-heat: 120
+heat: 117
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPzHIxL_a6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1gLJVzZkEBqiMFMtXQeM9wDK3TUQgu3kAJB46r9bkMPI6Spo7cttaHlcBXGM5YNMmyxTE6nZmLKK4U+9HBCMznhxWi1kxj87PPHjZMEvXiR3GHsK6wPMI2g6e7CHlC3SQBSdDMGkCrMWnc/TWbuSS2Gc9DgEx5WOr0xZ2iLN3Lqv4ui5VMtrLZcHX284FlrQJhQ1MrosSuqBiGY/8LmxDAubOfOk0hTyF3eKLxyVXWMR7+aCq4Kab+q4RhP0A2Qa2ze63N/PLUWaAAX+bL4xpIrXVT3OXZDL5ZamvSBGB7rR4pF3N/mMPE3LYEY/T5ehFbz5bkl90nrPFKx+F7iGBWV0GqXeZrNFDeRwCNxW8nmknfKa1+qH4qqlNoZoiC9rKOMC3CUV196Qe3o6+lEzMlbKKs2I4hG/GF2tLxEafb8=;SsBtcr8Gl3Q/aGaYIIR6kQ=="
+secured: "hyzZ3BtUe/5TeyHy5A67odvG2b9ZfNtBp3IljCmmGnoRrpP0ezMgRe49K1Apj0VScvNgo1MIgvIBsgFIMvdM1OYWxDu9u4ulSdThHg3YNB2Wb3Mzqete8Ca5EHfuJFp6x2OY2lGiSonktpnradJHc2BSPfgUgduf2cilOp73BTOy/PZ6i9yzy9ToaTRkTirvLhCC7IkB6JQ6CjX2yWq1x0VdgR2GUJC6ZIu0HKNyvFxDQvsxlmxogVBtgAXuccJ24yR9VMNHlq4+aKqxDDTDaOMV4nUvHZVA4MZ+G+pZ3iDDg2gF3byAo7TVvLBGIufAt/Sbrib99ODeQv2ZuCUpO+g6vgtMcBZCvPj6LiyE5smTjei4yQ3qkI0CUKU0kb7ayts7McWpji5m0i86KgaUVx87BSwDmmbsZtgLaIaEZbk=;zzaotSA3ZqiwkuQvOhyroA=="
 ---
 
