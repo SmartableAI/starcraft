@@ -2,6 +2,7 @@
 title: "StarCraft 2: Can ShoWTimE Stop Clem's DOMINATION? (Best-of-5)"
 excerpt: "Best-of-5 series of professional StarCraft 2 between Clem and ShoWTimE.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community on Discord: http://discord.gg/lowkotv"
 originalUrl: https://youtube.com/watch?v=an1Eb8DdL4A
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-can-showtime-stop-clems-domination-best-of-5/
 type: video
 length: PT1H9M44S
 publishedDateTime: 2021-05-14T11:44:40Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "W/x+TBIg85SrSSaAtuz4U4Cf6kcGdtGV1RUgwcL0XDP7R3220wtOFZAv4HOMnqnqetctwnL5boh9BqMBb2EhFt1urQSM6ZLBhZL9EOc54Y2FPHwpM+rmw2Q6lMhiAgvgkZwQCypnMeCC7s6fpfgrmUbaAv2jqfih63FPIUxJ9cVjPs5wYTvKXEcR1+RRMBLvrJX3DHzgZlQq75D88jS4egNpAF16gFTuOyYRcS4LXbAfT38iTMA572P+/4hPCYyzdCiHWXZCDTn9bioHYctQInBODwQI9BS0tckLNwyqsu/t16l3mMyGcU0h4QrQ+vcOrhiDLpY728uRIuwvT8HFkX5RNGTy7SXZpP6uM3KJ8RuokiUWvgrANSJ1mlJc27encE3JA5aP0xwh3r7ISsuMjw==;O4CgEBeY6XIUBjt4dT4Vdg=="
+secured: "Q+m0dMLzWVIjeFKpEwyzJZdpOHCeqRJoQAKfiAwEoXjHiZMp/3ooX6hqqX0UKlH270LIW6Uml+3NN/8B3/oQn7AEBkT4SyM5dbmQDD3vXLb4CdIpu3yjWipD+mWpE/7PHwIhZ6yi2TAOtMlzB3RuLLY3f/dYa/DC/0gWcCV2JtCL3mLyRedMxAxzPYG1PILuTi7mDq/jbkwf8xeu7pt/9Snd0fMgdMVLEsfQtq7V9bVuzTtvY9Hyfik93oC5Y6bgYU2hXREyCAc92rsxzcgmUtwBGP5xdJH+b8NnviRZh74osXpzzARiZdPBj/PwRgnDiiWSe4VMMGYbbGUIg72EoTaOKHwZHfnGbKuAq4btrYBtzsjJZiVKiaon0lTaORuZcngrJ+58bUYM/ED6Xrwbng==;xM7/aOBtzOhl8effKeF55Q=="
 ---
 
