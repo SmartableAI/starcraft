@@ -4,37 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2.md",
-      "title": "Zerg Macro Guide (injects) | The MOST important ZERG lesson you've ever had [Starcraft 2]",
-      "excerpt": "This is the most important zerg macro guide you will ever watch! Make sure to watch till the end to get extra tips on maintaining a strong macro cycle without missing a beat!  The MOST important ZERG lesson you've ever had  #zerg #macro #guide #starcraft #sc2  Coaching --------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-zerg-macro-guide-injects-the-most-important-zerg-lesson-youve-ever-had-starcraft-2/",
-      "originalUrl": "https://youtube.com/watch?v=5An7RM-NxTk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5An7RM-NxTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M11S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-07-11T16:09:19-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5An7RM-NxTk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Zerg"
-      ]
-    },
-    {
       "path": "_learning/videos/winterstarcraft-learn-to-play-starcraft-terran-beginner-guide-1-updated-2017-lotv.md",
       "title": "Learn to play Starcraft - Terran Beginner Guide #1 - Updated (2017 LOTV)",
       "excerpt": "A new and hopefully improved version of my guides for each race where I go over as many basics as possible while doing it live :)  I strongly believe that a super structured guide style is not very helpful compared to watching/playing the game actively.  Feedback is greatly appreciated. -- Watch live",
@@ -63,37 +32,6 @@
       "topics": [
         "StarCraft 2",
         "Terran"
-      ]
-    },
-    {
-      "path": "_learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister.md",
-      "title": "Starcraft 2: Protoss Build Order | Parting's Adept Twister",
-      "excerpt": "Starcraft 2: Protoss Build Order | Parting's Adept Twister #Starcraft2 #ProtossBuildOrder #Parting  Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-starcraft-2-protoss-build-order-partings-adept-twister/",
-      "originalUrl": "https://youtube.com/watch?v=JgVw6AsTL9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgVw6AsTL9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M14S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2021-03-05T22:55:05-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JgVw6AsTL9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
       ]
     },
     {
@@ -352,6 +290,37 @@
       ]
     },
     {
+      "path": "_learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021.md",
+      "title": "Protoss Guide | Includes scouting, reacting, examples & more [Starcraft 2 2021]",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #ProtossVsZerg #sc2 #guide #tutorial #Starcraft2  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-protoss-guide-includes-scouting-reacting-examples-more-starcraft-2-2021/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
+      ]
+    },
+    {
       "path": "_learning/videos/hushang-tutorials-starcraft2-protoss-build-order-guide-dark-templars-425.md",
       "title": "Starcraft2: Protoss Build Order Guide (Dark Templars @ 4:25!)",
       "excerpt": "In today's Starcraft 2 guide/lesson we are looking at a very powerful protoss vs zerg build order. We drop dark templars at 4:24 and at the same time harass another bases drones with 3 adepts. Very difficult for zerg to defend.  Protoss Build Order Guide - Protoss vs Zerg - Dark Templar Drop #BuildOrder",
@@ -479,6 +448,37 @@
       "price": "Free",
       "topics": [
         "StarCraft 2"
+      ]
+    },
+    {
+      "path": "_learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial.md",
+      "title": "How to defend 12 pool | Starcraft 2: Protoss Tutorial",
+      "excerpt": "Protoss vs Zerg Guide / Tutorial  In today's video we're looking at an EXTREMELY detailed guide on how to defend 12 pool in the protoss vs zerg matchup. If you lose after watching the full guide, Ill have to ban you.  #Protoss #sc2 #guide #tutorial #Starcraft2 #ProtossVsZerg  Coaching --------------------------------------------------------------------------",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-how-to-defend-12-pool-starcraft-2-protoss-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=lUWSahGFjJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lUWSahGFjJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M50S",
+      "provider": {
+        "name": "HuShang Tutorials",
+        "domain": "hushangcoaching.com"
+      },
+      "publishedDateTime": "2021-02-14T21:49:06-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lUWSahGFjJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Protoss"
       ]
     },
     {
