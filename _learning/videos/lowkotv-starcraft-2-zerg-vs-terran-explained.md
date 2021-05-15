@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT18M34S
 publishedDateTime: 2021-04-28T09:19:50Z
-heat: 59
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGa7TwyZa_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IZ4lvkC/KZxYecoKQ1pf7P86wXr2y+O4PltCigEWE/a4l9yf6tl5qmyhYPU2jPBVO++Jo9WS1Y4I2KQFU7rYVGvTRjfN7E8VObBdXj/az2ijHugxO0lO/1PGSUQzMRgMYDy1uN3UZQPpD0DPQo3+FKgNVmP7+x3L7cW6GNVaPE38P2cfghBhY82/HExbBnbpkYaCncIXUh90gHxkzQ269OEmKTd0+siaGSAa3lqUN+iDz7IK4soa5CD9gIx3CZiJvbqarq6ih74oy5TxlQFWWLSn44KlcWLrPSlWDZbgytFdDKEeVqpFvc4uhY69wbz/syPFJ4XownBquDvoxYe5r624HeIt6sQZtk/Qj+OM1XGUbYzVW99VD6lMPYGNzTqztydLBey61HTpTDI70meCOs/xW98PLe8oyO8JJ8bOKpM=;cabPMjdOJeQROVSLRFbYcQ=="
+secured: "AGQ0Px4ilEBia/nWome930oGjUJQXWBq4goHKS9PWzwoU/NV3Sa7Xqhe/0+BgJzhyEJniA0McwMxXOOP7yS0W6m7T2VwS0L/reFTatS5GstlIh5zJ0tkwaLsZQN4iCQW7FKxUdiYLyrxZmVy1webdah1FrJTY6pviXP0TgyufZxDoltvq/R7VeozPY7jlxqq1FQgWRb4uIpJe7DCdfvp/qsHyWP+BXQJvgXtZjwnyNxoV0oLwTpEUCcfAco7dM7VoGJloeWHGBGk08RHZuGoGBoJd3L33X4rgXIsSPlAYEB5fNG0dXB4LFMbNUjxWaLz3ofpq7IwRxgU4hs5OPp1wZlAk4+4/KoZd2tdvpYkDwbXE+fG9Oa5MC3dlJpq+fB0dVFnnhIbyrzQJNF1egZHRZpJS2FT2dv0h8w3B1uYpJA=;wSdpgrfSB6mqE7j04wC4iQ=="
 ---
 
