@@ -2,6 +2,7 @@
 title: "StarCraft 2: Scarlett's  MASS MUTAS vs Astrea! (Best-of-3)"
 excerpt: "Best-of-3 series of professional StarCraft 2 between Scarlett and Astrea. In this series Scarlett goes for several types of aggression (Queen pushes, Swarm Hosts and Mutalisks) to prevent the game from going to the late game.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube"
 originalUrl: https://youtube.com/watch?v=_TOcKGNK-Rw
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-scarletts-mass-mutas-vs-astrea-best-of-3/
 type: video
 length: PT45M19S
 publishedDateTime: 2021-05-15T10:34:40Z
@@ -27,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SnyK3e+qraj0NjoLhNBWEsjPzVB9KvEDennmV0jmVx0sQE3fyDX7nN4T+m538tw4igsjuoJZXCaE9WDprvVw9nfjw1ErAEZJbTJPaAW2nlZUVpi1NkA2ulfe9LRXoktdPEzBLZYW/ucZeaa7BRvKq7Kl1ELCr6E98kNn23XPYXM9U2ZGCnWjZpg79MGgryEvs4YKQZgFwojcm24ywAASKM678VfRvbPDbbsSYiGzjvzBL26UOmMFsi7lrOmBlEkxt76SytH1ueXgY/IKkzZ9rROoZ9nPi5lh1QOr0vsLETi96vTwMdOHjuBvLqHUb8CPwWEtouQcOTY+mx+6E/E9S4+sgrquutPnuEZgRLAt7AOM5BRY246bjUbPOs/ts08iU7vqTNern7IOxCJgB6rP7A==;kOl8KPl7x2JpRJB4n/IzKw=="
+secured: "VKBSTn9lwfSfuC/9Pd1ot7vEsQexxcGB9WxK5086oBJPh4eVHeba8OIRkkiwybZ1kqo+inf2Es6nvSvyZic0UbqsB6diFwoXjzBkYYzKTv1iddeNxoR1S5XVUu3J3DI3/8pkklqI1h8/ZM9fe3tGonDJAmFpru5uaHfdN8IlDz7MUZw1WBXjumFNUU9hxtNv7r1Cz2Uyxg1fmSFTLQKz4smwr5GqvDPN2tXG6mu3f2cb1jgZCpuIqiA7U6v4u9OYmAbtJ4zvw0PMT5gOgRW3Slo7tBuU23w8ZcYA0SljY01vg5SlqSCKc4rKWwt10XIKoLkCPRtnoa/deM4JLrKaWBKO1yQhOtyqlQnNyv2KdIE8envStp0TlAwXFWMOi7DACA9bQJ5yrWua9O0jCZ3H8g==;sREd5ij/hv1XYM+fwcdPHA=="
 ---
 
