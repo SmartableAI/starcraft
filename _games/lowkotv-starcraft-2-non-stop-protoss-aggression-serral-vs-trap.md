@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-non-stop-p
 type: video
 length: PT16M57S
 publishedDateTime: 2021-05-11T09:59:32Z
-heat: 279
+heat: 238
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEY5iLUuUto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vPYfQyUP67nkRagrRmYoSJ1rnbCRpNpMEzeEgOwi/Vguo2VyS52T4z9sBNrldr08QrEd4EfM9gHzUX2qpUwEv6nPLrNf249o0a6/6YPCCOQUqVxazjONiYp8rJbwKAqR+D1BKacZU7JOTwJW3W7uWCviUV79iYsPbLVY0cboOrIiPADDHiVhOzBFD059EoqH+XT45fwAEAAAVtXKRpvvVTAvJpNoFVl3VL/82LQEuDi0SlnL7tiG5DWwpXHIG0KQxQJtG31gAc4JxdN9/71QwwJUNCO0fxjroDTGiklk5C9ZezyVeHfoL9tMX38Paw0nmMoIK/3DDapWWW+AwyirLdGYhGxllmaLWCwjlp0vycUk+JC0Eq6yNe84JBYBgWNVKy8UEqHfrnHdKigFXbRe+JzxRj6OP5+Z/xisfjSQtPQ=;4IkQDFHgGiLHXOuDRfB5bQ=="
+secured: "DDEmovwZbqKRSKFTtIrzaXK9rmvFiC//JEFJSzhqngYobyuaVZWpEQr0BFaQdBSP/MT4TeY3u2hR0s4ek27Ufp2CseodpO02Us6ecRCEwc57iXbWoGMPLIiuHBQaacjwdt7zmHz5gbBIWeWWlUJ0H2Do1AHExx8R4Xov34fJIbYZ4owBTKByRmfNdts1eY7BbQcdDeFUgwkEkzKmVJGuuzrdmATpfJTZLmYmRXtZ2EcjUV7AXGKk4I57dYc7RZ43jH2TaZcz1aWkTJ65ouEQSKGfnS5nqXb5SnhKrXn6JC0UZtX/SCUawAUyN5npbuB9vxBb5YDAByfLSgoNZ7dVbmWwH36IIt3LGpivfXpipQqOscicItinq1DbTyHGqQH5emRsp2mNH0j6rmQlx+k0kjuLtdW+NiT8cD6lJlyd+8I=;XZM63Jv2NrEFkx6GiK4Gpw=="
 ---
 
