@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
 quality: 74
-heat: 374
+heat: 394
 published: true
 
 provider:
@@ -255,6 +255,17 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "That Time A Tiny StarCraft Tournament Gave Away 75 Bitcoins"
+    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
+    publishedDateTime: 2021-05-13T01:48:00Z
+    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/"
+    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 37
 
 secured: "mInMYMmbOONYs6uH6ApbKmD+C0sUQBOJBtfPszPOjbTNKQfeospKkif6hu4CrW1FqYS0EqAhim9uDNnuy/SmLz8gRY8u23D59uAhN36Xv4dnHgJnXRC0Xz35411HHbXxwSLtqPGAsQrkEqtbec4ZemuWddQ+K0ndxLqnzg07vDj3nWwf4I2/hHG6G+L75qPLAMdy2r73SiVBkavsRJwGOyZAb1m7tIDIlW6REzz1sJG3iqCeM8EF1h3kZHOQtE4LVhJIxwm91FfQOFjPlJrx8Q+d03pMTg/CM6WBlKrcsX70Z25Dt8VYHR+Lbz9A+DZe+x/uXYruxIFBiuZwnjJMRmUQSXk2tWE1W3CkNbvb33cPdax22BwFj2ELgtLaveIYt7/ytDJ/U+tjweqljgPW8R89SohbpZF20Ae1/vl4CYOvR+1d5bM2P5mkPg/pRmvG7b5gRUZOb2K4Di/svGNES3zJb95UxNnuLqK/8AOplmG28VvaAthFDMqFpXbDMjBFDQ5bFgzBYidhSuSo5x11Lg==;42C2kPkL3iwBcbYWsdiF/Q=="
 ---

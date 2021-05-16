@@ -254,6 +254,17 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "That Time A Tiny StarCraft Tournament Gave Away 75 Bitcoins"
+    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
+    publishedDateTime: 2021-05-13T01:48:00Z
+    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/"
+    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 37
 
 secured: "VQ6NFur8cI+m6ZoXlEKVQwHa3KcQwhBE5uWeNZOx8N5Y+evKCDZK9uX67LaL9LdIIeD9x22rzX8GsuxLPcjlhUxVrkPY3XXbMzZwwe+u7XBveNG456F2hpp3jtLBSBcZ6AFzNTEBNGe2BP1VGse2rCxlVgbUH8Z5TU7dAcytanBmoiZSDvuZhLwJn0tfl7c9pKPAdE/cbgoMmwdXSX5MwqOwnjrq7AtNu+tcmeMF1K/kvWKqBt9aQKP5F5P4wpVvFzja+g8S2oeK3XC6X0caFJ60FYr9P4a/0qQLYeVtom7MupsmZWmKnpgo+M6xf7iiSOXuXBGWVhSDv9OtOdu1Ei4MZsFY3hAKojn3JJAToko+CxPePJeWD1lKZAuBbhE6gc1VI1rYhWMczHtsRqhbQOWUvBVvgvO04euxc74B1E4iVafQB9RpWor65kQGEIDFj+56N2gGNCoecljIeQ0BO51QSM401H4NNPMpZ+c9nIzEbSeN6rVHEbZCqxK70X4+tTA//IPQoeyjGQoj2h3zXQ==;eAfITnlwWnpDWK1dT4nvLQ=="
 ---

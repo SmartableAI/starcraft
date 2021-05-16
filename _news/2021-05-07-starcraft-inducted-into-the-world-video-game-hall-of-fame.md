@@ -254,6 +254,17 @@ related:
       name: RVUSA.com
       domain: rvusa.com
     quality: 37
+  - title: "That Time A Tiny StarCraft Tournament Gave Away 75 Bitcoins"
+    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
+    publishedDateTime: 2021-05-13T01:48:00Z
+    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/"
+    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 37
 
 secured: "sr0IobCSiTPLPaWK3RE8+B/YAfGXrFPAzII99t1OoHOG1SmzozIHCmwyHrEFev6S4Lp0IWtnyKVNut6Ih4xl6wmO8NoINDRvNTe1450+4WiZ3sBEJKAaahbvaLd81RlAu4HPF5i//TZqshlFcAXIUrfHYYXto+twbljvHxx2+bLtX4aUt0C3XUGs6LiVar2XgBwZgopiUrGfBYpiEvyxnvwMqV1N3HtODQgYoFc5bObM9DhUDBWi14Si/Eaf49EUyCb5R6yY3kUsqCL8id5NzZeV50EB9GAQno4DO03wXvsM9Up8aEgfflf5QG5jCc4MrQPve0SgX3B56MuTIZ9SHQ+KhVM9waP5apU8xxKw6sHi3oiRnMxLnVrtSxilKvM/I0Te7oR71qalTdU2SlcC34KOXxNB81C59nxvgQvPxhTSH0VsX4Q1Zf3njpXYIYJGsMqtpYTodJrdu6YkWCW17hmX/1ovUFNE9aUlNEHmA8t0G6A119r53eAv34Gaw73/UJMY1VlaSxvxnVgI8AJ44A==;HA8okallm0O5vzwZMc4nKw=="
 ---
