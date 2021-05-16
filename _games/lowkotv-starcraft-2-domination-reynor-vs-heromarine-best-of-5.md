@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-domination
 type: video
 length: PT1H1M57S
 publishedDateTime: 2021-02-10T12:37:40Z
-heat: 75
+heat: 71
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5v4_d3GxmY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qm/I4pRley+XclYdLFS7waVwpdBlhkwCMQs0+mxfn83IPvKzxVt4i4mZOlYgIPgQBkg4GjqMWpd94R3PMzHtWH2JF0TYj5YdI+Z377WBbFGbkYcBvM/NlUYuSx+j0gMhe6WCSqvlr4UXJ9QpVHypRyKi+oF34E1mKewsdOolb5UOM3ATjjDBSfBk5sgEnmkbwzo858EoArIojtkBn6JyQWlW5u4xG45UmFKxSvvIoEXvjaRojIlvr1XByGyfuJ/XSU0lX6UuhOFpW5DRu635Da6iHydFPVEZyzq5OLTFAd0Gw51sQfuvoXy60BQSPTY8daTop9HbQ+DsLro6/pYNoSR/31N4jpCKDPK3FAnE4RWTxMkTcpp1AtE+kJ6KXuV72udX6x5UFg4tR3Ve4O+lVmlQyW/shpJ4h0FopW6rRHgTS7OBfw0zC4WRUaHunxqd;UDtZ4fpbWRKPR7Qs7e/6UQ=="
+secured: "O0IqAixcLBrJA/C3hqt9hyeAa126M3qodCExQi7ozAc/xUYH2k2MbuY04zY9myvH9zXhzW/3huSLepZklfxHxo1JXyMSl+OvaDxWvvfBl6S4XwgegXgguvXNBgMxj3AOqd1ks7DTEprKC2I5ma9rAz6Xubb+PQylzqW7hgpDD1bxtbYv2pk/OCE3j3cz1sWQ7pclK0rfHYTRO7rk2mEaQ0bjdrTNlvJFTAFM6QOaoXFce3nyu5OylKlzfXOhI9zIcY3fL1RqgCgzsG0tC2SJlmCfJLAagxxi5TC3L1PD6Vik0dmkwFxvaJBm0i8tVE5xvYmWb3yb8kdFXaKOElojaEsa4ASKaRl26gxQZ26iRRbAGXs7reT+/WuJW6dBO1YYoREoj+Dv+TcESuKZ8NOKsR94kvILsDhokOKecQL+XLPOByschD6nGILyaMUHc5lc;6xHa3K0vr1Ng4XfhmsIkjQ=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-ultima
 type: video
 length: PT49M38S
 publishedDateTime: 2020-10-20T08:41:14Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P-84Oh9yx7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5m8wJ6UMZIpPgu4vv/FkXa/p39ae98sJe7lmfd6MeYFqaGUxSuXU7JzoKc6d7AE8zahT7L0tbZPcqDUWlcXaqiFh8O3EUiYAAlbNbyTCdOwhpqRMubFVznsuwC/msPtJndWnu9Z3a9H+vpX7L3GkoS+rfvuI+WQVZUa2lTzpxUlMTExx0zifAIhBawFDFgNdPApK99ZlWrvj1VCQStGXzssgwFoZoUxpy9eZTupHq34/rZ3ojNb0dTo++UFxOObQcmZ6zoEy15JXt9ATbCxJ5yJaNDvj3LCNYZy0gQBly9kKdwiUBgKx9fsmt0TjGba4DL2uQ/N6pcIGLz/yRIZJXU+918bCicKr/zIQ/AKRYvUa7JThAosokORTimTevcBAdX0nXSqVsPxWc2rXMt2UQSC9+TeFUexsAbs0O4XAGkU=;nbL0QQ5rIqiATJYyJr8soA=="
+secured: "sQXv2CsXnxy0nyzN4SnLZKy3tXhTQwVpsp74XNklKWj5BiwaYumdA6k0XsufwmdWtwinItKEBj6+At9YMXgFZ4Es/I/PCYXs16PMOeFNwNV9okQrhx0jW831N7pRdu4FpQnoQzW68957qTe+rEN3HGR1RKyaF+wbx31DXjni62k9O6ieQeJirGMJRts4QvNUGBIDDpGajgAxpZtZfRLCSXdDsl2HH8pOm/lxMeiIlFEJUNFvlvyXk8oU/sbmBPIGkIHwHGza1+x3ZdS/ztOHrfmPBCxp+CS/lgJngeq4CbQZAyjb3htCrDXjMysRRf+2Ihzwp09WnJYKFgv5NiTnVQ23fzYMZTGAaaSF5yCuonp9ytKRWY94cijJW+90/skg8rj6Nfob5hiRpRQKCRRiNvCG8h5DmVXjdnTaO/L1neo=;UOriD+qnfg5k52HgPdHyxA=="
 ---
 
