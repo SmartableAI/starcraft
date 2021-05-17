@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-three-
 type: video
 length: PT38M44S
 publishedDateTime: 2021-04-23T11:40:18Z
-heat: 69
+heat: 81
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PWZ2DVCytqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dNjZpLr9FaYYpvLaY4X56YUpotcNBgRivNh0mPBJ96hba73Z31nXHRHOQIBQXrXbGZHNJQ+66mlrQ9nc8rlYFaH3yKhPCzBfE9oY3oGhDmC2OtZdSQ3N9xtnxvt4k6LyHZB43imPcqtTm4o6JeMdiPv4xv6GfzlMV9HnhnX2EUShKqWYhn16Z36nrbBVYwCqXIqmxOU6XQR/5nSuZQ4x3gm8AdbCvW5/d/N+dGjkOOYHJAEdegiaQB0prKQwqDfb/84qwEz/HstlabemXhtbcNR8F0ZaT4dxcZEfnLiKc0YnuWULVZ3QO7c7C8AsvxkSiS9iM4LkYzN0A4lRvVQ+tGV+SRiW89Xs1dhQdwvRR+q57eDofTCZoZHjvjG4mAwGJM+GwAJe5+cqFunC1tLWbKw7t7cfab60zKHto/LrMhI=;TB0lJiNlmErQsPbK72XkzQ=="
+secured: "fTbf+VbLkpffy/ufFgpAymkrxr1h4dw91oh3HVxnEvYd73HujeXF9J112wRpUK4WEe1/HiATgC/7h64BNwwiM9Cvf11xDgkXYTxkk3yO9UahuMlwHCfycYLwc78WkRQEMxXKJJwRUn6lQiXu6F+5MvSaxhYoJiw6v6hW3QNWIfE0q/kFOwxJVYdibSQ6QOmPPyEFGy9awxDBj8Q4+AQXJtO8JP46csdY1+wqfVdckm9Ay8r94YkSU7EFRQ25DZ70SVpTC3owHtuYCqaFA0+K+Ic4OX2MDErV4zU2OYbphAFL4FpwLbP6ZfypU8EbYrtXMRiFKphbiO6+B00VrcBuomsUAT1I8kjJbOCjuAlIrgHgu/cb1bjclr3Gq2WCcfYxD7a4XV4mzSMGOPWEo9LR3+rNZjrktFjjIkDnIFZULEs=;FB9c2F3SHD7Ft8TPjGnpXg=="
 ---
 
