@@ -4,37 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz.md",
-      "title": "Hellion-Liberator | Build Order Guide TvZ",
-      "excerpt": "Build Order Document: https://drive.google.com/file/d/1p498T52iQWahcCZs5tKGG1mxBqwqIXZO/view?usp=sharing  https://www.hushangcoaching.com Find personal one on one lessons, guides, community & more -------------------------------------------------------------------------------------------------------",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/hushang-tutorials-hellion-liberator-build-order-guide-tvz/",
-      "originalUrl": "https://youtube.com/watch?v=zNnrd1-eWPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zNnrd1-eWPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M2S",
-      "provider": {
-        "name": "HuShang Tutorials",
-        "domain": "hushangcoaching.com"
-      },
-      "publishedDateTime": "2020-05-30T17:18:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zNnrd1-eWPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "StarCraft 2",
-        "Terran"
-      ]
-    },
-    {
       "path": "_learning/videos/hushang-tutorials-hushang-vs-top-100-gm-starcraft-2-terran-gameplay.md",
       "title": "HuShang vs TOP 100 GM | Starcraft 2: Terran Gameplay",
       "excerpt": "Coaching -------------------------------------------------------------------------- Website: https://www.hushangcoaching.com  Interested in Starcraft lessons? Check out my website! I would love to help you improve and reach your goals. I've been coaching for several years and I have 5+ GM students and",
@@ -883,6 +852,39 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yy1fhaHPAPM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "StarCraft 2",
+        "Zerg",
+        "Terran",
+        "Protoss"
+      ]
+    },
+    {
+      "path": "_learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss.md",
+      "title": "Learn Starcraft - SPEEDRUN TO MASTERS RANDOM | 30 Wins, 0 Losses - Terran, Zerg & Protoss",
+      "excerpt": "Making sure to use safe, solid builds to get an advantage when playing smart! Most build orders I think could be copied to success for platinum/diamond players.  Watch the stream - https://www.twitch.tv/wintergaming Tweeter - https://www.twitter.com/starcraftwinter Patreon - https://www.patreon.com/wintergaming",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/learning/videos/winterstarcraft-learn-starcraft-speedrun-to-masters-random-30-wins-0-losses-terran-zerg-protoss/",
+      "originalUrl": "https://youtube.com/watch?v=XWDpI2r_Ztc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XWDpI2r_Ztc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H5M11S",
+      "provider": {
+        "name": "WinterStarcraft",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-09-21T15:07:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XWDpI2r_Ztc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
