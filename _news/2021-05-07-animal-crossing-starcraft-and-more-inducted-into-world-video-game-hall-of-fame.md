@@ -2,11 +2,11 @@
 category: news
 title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
 excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
-publishedDateTime: 2021-05-06T19:43:00Z
-originalUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-webUrl: "https://www.gamesradar.com/uk/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-ampWebUrl: "https://www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+publishedDateTime: 2021-05-06T19:38:00Z
+originalUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
 type: article
 quality: 52
 heat: -1
@@ -266,6 +266,6 @@ related:
       domain: kotaku.com.au
     quality: 37
 
-secured: "LIdvtYuydBitjGihjRai/J5ckHuHivJg9ZQqhjA4+Ad1Vx+XQ9s5PRxtcBx6jcC376a7bx3M8BqNWbbNrJ7a73s5a1X4wowwH1/nJH4MoZBhip1DHfx/4wMogClG6ZvkBTmw30XB/viDk6822wv4RdELSbjnj1Z99pB1H1v57wnCTDwWHTfNFk+xcwSYrsPaTdJcbUqOWNzv/Gwh6yjN1m/6hJ9S68ioEeFIdaTFWb5+oWmJui6UFsRnWLjUz/dKfNPuW7TrXPkAl9QtF+ilStiYyl6CizP4/q/LRldncoXuYw5/4FFhXjJAmVbGm3O5P05WQbaG75bup3NXNfXDe0ySoh+N2hDspfRN9nevOKs=;J7965MITK+UworGbqY/CSQ=="
+secured: "o/QkV2n91hfIcGsVxeUgktKpcd0jIoWqLBvtQQY/T0pO8iirxDm4Fe3mIg1pdKbRkhmtFOI0ejU3jOArk5rqKufcAC+gy6RmZvT6dPwJVL8W5/vkdfP/zUrPCaXj5juMMDqmGS+UidictJi7+21RXY55n/jBzWjgEFwd4Y6v/HJeEYnmbqzyuhJt98h5WhfhJkus4CvHq7XrRv4mE7SmaQU+2J+ofMniw+H2sYsxKFBoCFkqO1xBH9dvUOVjG3lfh/A2CRSRpgyuNSQ1I6MMXfAVmDMhoeiSNgz1V71sFupdaFTDlggW3lYze+ouQC2cbQ7FkJEmcy2nzazu0xSGV4OFxVL0c/U0DpzxNm5bp5o=;Vvbydypgq0MfyHsZSlcwFQ=="
 ---
 
