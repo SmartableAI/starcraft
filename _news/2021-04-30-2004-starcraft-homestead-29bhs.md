@@ -42,22 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2015 Keystone Starcraft 309BHL"
-    excerpt: "Keystone Starcraft 309BHL Travel Trailer #P9330A with 25 photos for sale in Adamsburg, Pennsylvania 15611. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-29T07:09:00Z
-    webUrl: "https://www.rvusa.com/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-keystone-starcraft-309bhl-travel-trailer-3037564"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/41871/i/3037564/o/1_41871_3037564_121579139.jpg"
-        width: 800
-        height: 599
-        isCached: true
   - title: "2011 Starcraft Lexion S-Lite 254RK"
     excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-30T09:30:00Z
