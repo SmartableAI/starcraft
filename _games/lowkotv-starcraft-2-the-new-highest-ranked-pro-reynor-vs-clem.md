@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-the-new-hi
 type: video
 length: PT21M38S
 publishedDateTime: 2021-05-08T11:13:14Z
-heat: 139
+heat: 141
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9M0Q_JXrMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8krzfsuKWiBsrnO2lLmYjW7YNrUCuj0gX2DxPzWoECbM1ibnwTS+KdAIero/UyPdztvwyzQhbR0Gb8sIQxzbLhL134uw3H7diZiOtVIu0nTqfCjvD10s+JpIqIRCMcBaabs4HgrWisBgicSNpz9pwMHPYOjet3wlyFMhg8goH7jWavtKtKS+F1G19kvkUKSzsOTkRtYmTNpkOwl/CKX2nMRC4YHoEHwHFySGl68pJBnfSuuqv21n7MLKA4CDCyYTcYUu9gE2i2DXctpvK2W+zZVHqcb6ERO1Ahp8Fom40TDks4ni87+658b0jP3IU3z03RrNIZVBG1rkIgft8b25eTCwkYQzwyi4aJdbbkQXJBcK2DTACqKZm5NajjFx31U6yrDxaYgSyXAowA3k7ulCagpYS9PB+b+P+XE0ggV0qUI=;Kna9xr4yaauGWCkYjbHOSg=="
+secured: "nMOxHWJAQfJ6iyNKzKskk59sEJs0yfjkPJcSbBz7nNpcDr53o/cBkNht2qR4g4MHQrkVf4BS4BneGSlx6nsZ/TJ6V3HqYfRCOn5fPTIUQqUDsrQf0tngUXjeCAOaq8BICfj5a3rYtt3kHhYPpKpMmDoHi/TYTEusTYu8kWobFR8bkCSeIfFOWqyV8Ebq+d+7nLr7oRaKED0525oq+JWsUw4CXHR8kW22WlblpUQLBFOO6fDXHr4wa9Xdzk/+jbQQDks4DTtOPv2owmOzlNR1cZ5pzSIZ+JrjYWkv0XU5SM8vM1EewmcEuUuP0L+oSIee0sN/VOEkV587bAzO2H/4fzp/BQL4OBVkLCuzcCxSftN217X2YQ4oPsE38ej3pZMesU97MVyIiy3uYJ0okRaZoIwqA6rgp5VTkuOArNvwTT0=;yAZb3Su04qZrp1oUvTX/gw=="
 ---
 
