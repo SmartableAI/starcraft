@@ -122,6 +122,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
+    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
+    publishedDateTime: 2021-05-12T05:35:00Z
+    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 54
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
+        width: 708
+        height: 471
+        isCached: true
   - title: "2018 Starcraft Launch 27rb ULTRA"
     excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-02T04:04:00Z

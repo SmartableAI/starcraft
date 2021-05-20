@@ -1,23 +1,28 @@
 ---
 category: news
-title: "2018 Starcraft Launch 27rb ULTRA"
-excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-publishedDateTime: 2021-05-02T04:04:00Z
-originalUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+title: "Legendary Starcraft ll player Taeja retires from pro competition"
+excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
+publishedDateTime: 2021-05-12T05:35:00Z
+originalUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
+webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: RVUSA.com
-  domain: rvusa.com
+  name: Inven Global
+  domain: invenglobal.com
 
 topics:
   - StarCraft 2
+  - Terran
+
+images:
+  - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
+    width: 708
+    height: 471
+    isCached: true
 
 related:
   - title: "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds"
@@ -116,20 +121,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
-    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
-    publishedDateTime: 2021-05-12T05:35:00Z
-    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
-    type: article
-    provider:
-      name: Inven Global
-      domain: invenglobal.com
-    quality: 54
-    images:
-      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
-        width: 708
-        height: 471
-        isCached: true
   - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
     excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
     publishedDateTime: 2021-05-06T19:38:00Z
@@ -146,6 +137,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "2018 Starcraft Launch 27rb ULTRA"
+    excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-02T04:04:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
   - title: "2010 Starcraft RT 36"
     excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-06T04:05:00Z
@@ -183,6 +185,6 @@ related:
       domain: kotaku.com.au
     quality: 37
 
-secured: "n4o0n9akohK75364UcWoVM0lNRPJMP0ZEDqwOjJNHNLot6yR9merxOOfQsgoKofS/8D/tWR4SOFwPpk/lnEWCNbZC1ZV3dqWjsGtdfMFPww1X8nCb1bnNWOegjPOQjbCHLxPQO3rABRcpg06V2nRNToeNyjVAa3fskG5E8Qu8W5pQLDiLlZr22jglqoCYRHMTkFiUp3fefvklm+PDd07cFy4STwE+RhhQW65IOO33Mp9jFqRRDq/O2f97fQrZrb4003v56yfbLrxK0QFqGK7ZRPkiuBHyqa39COX0Mdl/egzgfCtYUSur4nin1yZYOVMhXId3tm1sXTdnA1g3vUiRTtBdBixw6plCEkokC9C9K4=;KkZYHFRSlr8aPBxbDgBDYA=="
+secured: "pBsxcrzLHmUbcWjIxUYylhervR6rJThttLGHsGrHCUsp6MkNLPAp2zGXLYMcqG3QyN9hrHrpS97idSnjO2gpNSthZ3Ibdfck5+gP8zT+0CxhGX2nddAVZ6PTg9ZECF0K1AACxTpBd7S0AucOTExaQMjfzIHyfhgX0L9GEwJv8LB8c0D0T+0KO0HxzWo/RIJoYSMwpdCDhqDm+9J2q+W2BbykN9oV6pC/l/Dbh0VZiatfuSiAS4By4X0KBlJkPohwkq3uDXAw1DIV8kxiwBW+jcGOa1GH1mF/MpEj3dTE/9EGbgNw+FDd6yrLEGAHmyQEwuZBgBckTNCcC2kWHclV3fprOrZxGUn/LKjMlbxmDG0=;y8GU0cr1jftPwzKU8yfl8w=="
 ---
 

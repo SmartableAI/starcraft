@@ -116,6 +116,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
+    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
+    publishedDateTime: 2021-05-12T05:35:00Z
+    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 54
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
+        width: 708
+        height: 471
+        isCached: true
   - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
     excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
     publishedDateTime: 2021-05-06T19:38:00Z
