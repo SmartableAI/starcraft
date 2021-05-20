@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-serral-mas
 type: video
 length: PT21M46S
 publishedDateTime: 2021-05-17T10:25:45Z
-heat: 364
+heat: 297
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVrNGBt_yeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7e3Df4mZcYH0Eo/O4rL5TEOcyZqtoaQNYtu6DTG0E/dMevpqBW+bAPKbgrWtkdm8gH9eKkf3wvlFTvV/atc9N4lWbzKDCirhkRTEZWE5roC/FJhKzdhcHoL3cGvxXybDrKnsyf24pI+6yid25qQ3VS+zble5itxMkEjLDggCMAOhOBDfB3Zz6mL9FTZESbpY6mvrpTgJTdbGsi4VfZ6JJuaJ5BZlNkgARX9sKF8w/T9bZ0pn3FzQxDRJpGKrnv5nUXBvJNCl5iXvrsAmtHEmeI+fL3lCkQHvOYQDxKd1FzIPqcAL6eQyUy4x2WdbauDYfyaEt2y2Cryk+LXwJXPBjelWGyriUxU42nM6CDYhnQwQq+TLMpz8PpLRVS8oKhzK0SgU+Hx9uZtkpm7UH8t8ehdunvteBFT9UighamOo2WA=;W5z+qxnZzUggAYpP/YXtlQ=="
+secured: "wrplGQYEyzwU8zdIE1yiFSVLHnBsW8o3FihbjOhCGJacfdTB16fqzfCbueeBLczKV6H73ysLgFSWvA48CY1sOw/QOHOareL9IiZXK09s2P/lhpULXXH+i+3Ja05AFykB5GURxGSOmUj1wiEEA/oOBba531TYwxxE3rPsEBIs3mr//XgvPgfmoXcnyfPQHnaQykRVLmxjIeDF19g2dUDtFPIYfiXXh1oclZ8AN1pixA2yX1rdIL/rpiQWmIAvOJ4sMtUKRjhokLSq4YomoDQsZkmd01MVQcycvGezWyX5WjfSWpaK2hxjKakVgNRlyZEH+aPbpxcnyY3xSRd9b/wrh+VtmhmIv4h1TxOKPZqmUuaA9jHaBbHzhtCyONY2u/jGyBSkY/SdU+10CRucfC7siWgiwB8vrTiL+f2mo8KtubQ=;wC0CBTJ69mmOVavgsD2BLQ=="
 ---
 
