@@ -42,38 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2011 Starcraft Lexion S-Lite 254RK"
-    excerpt: "Starcraft Lexion S-Lite 254RK Travel Trailer #28036365 with 22 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T09:30:00Z
-    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-254rk-travel-trailer-3039347"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121656631.jpg"
-        width: 908
-        height: 511
-        isCached: true
-  - title: "2011 Starcraft Lexion S-Lite M-254RK"
-    excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T09:30:00Z
-    webUrl: "https://www.rvusa.com/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    ampWebUrl: "https://www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2011-starcraft-lexion-s-lite-m-254rk-travel-trailer-3039347"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39478/i/3039347/o/1_39478_3039347_121626111.jpg"
-        width: 908
-        height: 511
-        isCached: true
   - title: "2021 Starcraft Autumn Ridge 172FB"
     excerpt: "Starcraft Autumn Ridge 172FB Travel Trailer #AR13768 with 7 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-30T22:33:00Z
