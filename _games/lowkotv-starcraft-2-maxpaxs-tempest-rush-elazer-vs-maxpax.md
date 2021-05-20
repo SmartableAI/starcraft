@@ -2,6 +2,7 @@
 title: "StarCraft 2: MaxPax's TEMPEST RUSH! (Elazer vs MaxPax)"
 excerpt: "MaxPax has been playing a lot of standard macro games and timing attacks recently in StarCraft 2. In this match against Elazer however, he brings out a seemingly random but pretty clever Tempest rush.   Creighton's Twitch channel: https://www.twitch.tv/creightonolsen  Support my work on Patreon: http://www.patreon.com/lowkotv"
 originalUrl: https://youtube.com/watch?v=cb9ACDdQgLQ
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-maxpaxs-tempest-rush-elazer-vs-maxpax/
 type: video
 length: PT16M10S
 publishedDateTime: 2021-05-20T10:49:49Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A611a5YEi9Nz+IuX21t8xWCEg0BqdqxVmWZelK33zneyTRrStK3J/BKigk7EbPyTmes7i3uWtd7/2mQfq4WNjSgpZKqbMoNRmbkkL9vLdpl6IdeeMEGWHfCpu92rwoiCu1gM0+yS8HNnZ9Kz8TaKzC8IHiin4GqdWD0TBL9cqPZn0i03L/NKyqXnwKKZMz5PgFL68EVWDPoxNYjlkN+BaeHbQLutKQfPkyemjWoJ6bfJYlpPHCj0h1vrxKRDkRyIXWKA0Sa8cfZFXqp76RTKiG2fK5B3+1VjNL1LaUg9BYCKnonwqdf0twokCEwcECAU2D1M2c83tHb0c/UNfCmJyEAvSfBHupRgaYrsS2LubjQALNk8eu1mTmmKXI7bneAWEQQ4qL+nJdfNNnoaQ6gUFg==;LqLo2oiOmTXE/cEdhvRQ4Q=="
+secured: "TqymBcMDSm7JV61+YgK8tKfIbdNIWgvoZToH9DKY5T6wWnIPbvIhjUtcitL/TFu/nbVl10yEjJl9KghoMcCxhApXOsj186RTE7TXUnhwQw4g+bnk8ia++quadWPS9QKMyCo0a3YaPI/ZDMvqww4l6C/3GYdUlUE/aQRvNduFP5oPFt00vLEVhs9UOOnNln4umDtMXgBG3nY8tSVQk6Fzwl76rebP756jX0TmA/rzjNrIZDnbBsuNL4YpYR9YfIYSRHUoEwGlfxYjybVMe9EhQl8CNqXhNFfZDzziKlTX+ILILiKtfyx617fd5JLaG5RKcQGWFyu6BT8WV0bP4aiGCzV/H28weSIRT4UYkRFMXRQk6fMeljvoWC0wwZdz4AtYFIQIIGRqsLPDPpTNXkm5/Q==;gU4vDCxpofQybIZcE4Emig=="
 ---
 
