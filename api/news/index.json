@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-13-that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins.md",
-      "title": "That Time A Tiny StarCraft Tournament Gave Away 100 Bitcoins",
-      "excerpt": "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you.",
+      "path": "_news/2021-05-12-starcraft-ii-great-taeja-is-retiring-once-again.md",
+      "title": "Starcraft II Great TaeJa Is Retiring Once Again",
+      "excerpt": "Yun “TaeJa” Young Seo has announced he’s retiring from professional StarCraft II play.  “There are few individuals who have been as impactful as TaeJa in the path for Team Liquid to grow to where it is today,",
       "sourceUrl": null,
-      "webUrl": "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/",
-      "originalUrl": "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/",
+      "webUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
+      "originalUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://imgix.kotaku.com.au/content/uploads/sites/3/2015/12/Kerrigan.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "url": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/05/12/825b7f60288855420035f0bed212660a.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -24,14 +24,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-100-bitcoins/amp/",
-      "publishedDateTime": "2021-05-13T04:47:00-07:00",
+      "ampWebUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/",
+      "publishedDateTime": "2021-05-11T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Kotaku Australia",
         "domain": "kotaku.com.au",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame.md",
+      "title": "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame",
+      "excerpt": "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
+      "publishedDateTime": "2021-05-06T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -52,7 +104,7 @@
       "originalUrl": "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1067,48 +1119,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "StarCraft 2"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-starcraft-2-system-requirements.md",
-      "title": "StarCraft 2 System Requirements",
-      "excerpt": "Based on scores by our most trusted members. Please login to add your score for StarCraft 2 Graphics played on the pc. Lifespan Lifespan score reflects how much gameplay this pc game has in it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
-      "originalUrl": "https://www.game-debate.com/games/index.php?g_id=37618&game=StarCraft2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.game-debate.com/low-vs-ultra-graphics-settings/comparison-icon.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game-Debate",
-        "domain": "game-debate.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

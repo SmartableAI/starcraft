@@ -42,22 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2004 Starcraft Homestead 29BHS"
-    excerpt: "Starcraft Homestead 29BHS Travel Trailer #c792043 with 21 photos for sale in Rapid City, South Dakota 57702. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-04-30T07:12:00Z
-    webUrl: "https://www.rvusa.com/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    ampWebUrl: "https://www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2004-starcraft-homestead-29bhs-travel-trailer-3038483"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i11.dlrwebservice.com/s3/img.rv/39603/i/3038483/o/1_39603_3038483_121603446.jpg"
-        width: 860
-        height: 645
-        isCached: true
   - title: "2011 Starcraft Lexion S-Lite M-254RK"
     excerpt: "Starcraft Lexion S-Lite M-254RK Travel Trailer #28036365 with 1 photos and 1 videos for sale in Knoxville, Tennessee 37924. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-04-30T09:30:00Z
