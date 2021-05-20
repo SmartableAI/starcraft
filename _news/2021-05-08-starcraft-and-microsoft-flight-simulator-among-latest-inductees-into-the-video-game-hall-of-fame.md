@@ -99,6 +99,15 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 36
+  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
+    excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
+    publishedDateTime: 2021-05-07T03:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "gMwtWmbmO1v+V+xcwX0RDPtx1bVqxUpedwaaA6phhMM7fM7Svd7hS4KR+iJRsZGXPkS0QD7QzMwAYktigLv6BJ95QQi2VsOauLWbuSyei9639sy/HUGVIXZ7gDxaJxmMvGfUyZJRhf9cdZ12KYuwGJXlTEo734QfUT0NvZjMPkaYoD/qKO+5OuNts/iJr/bxe01SCH52NQaKy/bERS1u0gg0jJ+4UddHtxWpdCkd/0WsvXb9+VVtnN/bnQrLgAHUy0EvEsMdlSD6w6wKb6byUiXYnQnzprycLfvpyxgLAvLWI2ZZvF336ehbsAWY7yEMhaHrJjqQT+toRFe772CcKY3hHdUsZkQzekw1vMD9cpthM0KUDqE/5FijOX+5iwu2iI1+pz8IUb5XiXFaQqKhzq1j5J8jgbEa7MuAb7AeCQ2BSoPih1X16qo5naASUgApQwdyEk3ouIojCU4hvzJL6taDhYI8b9odsOeUIJMFSa+1BBp1EYHPY4UQCr0/S3OECFicaNadZokw4Bwh8kibUw==;8XkcKMvRwIk6PCF7Toubnw=="
 ---

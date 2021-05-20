@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh
 cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
 type: article
 quality: 74
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2017 Starcraft AR-ONE MAXX 26BHS"
-    excerpt: "Starcraft AR-ONE MAXX 26BHS Travel Trailer #1KZ0728B with 1 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-01T04:09:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/32363/i/3040107/o/1_32363_3040107_121641289.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "2015 Starcraft Travel Star Expandable 227CKS"
     excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-05T07:11:00Z

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
-excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
-publishedDateTime: 2021-05-08T12:21:00Z
-originalUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
-webUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
-ampWebUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
-cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
+excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
+publishedDateTime: 2021-05-07T03:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
+webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
 type: article
-quality: 36
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/starcraft2/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - StarCraft 2
@@ -98,16 +100,18 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
-    excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
-    publishedDateTime: 2021-05-07T03:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
+  - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
+    excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
+    publishedDateTime: 2021-05-08T12:21:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 36
 
-secured: "fAvbNnbcczzrVw9rTyLIKABqJL69apkCNXe9kAQnlJfDWSDMtHyypLfW4Clv7i7y16gIDaXyy/mVOEolgwXreZ7los3gBGsGLdKD86FIaZLCwglL7bhhB1swZgHuJH3I62us13ImzK7AyXtI+dvZonZKluFEBrFS2hc4qNTKc4mQ2xiXjT6jUMvyiVhmzOm4Gmk5rWc/F1jeFW+lWLh0hjhRwBS64SqUoAC2M9WWinmf/NgWVRsti9qtqFg1WSN2aWRKOPOOI8tAkQvdC316G6UUucAjGP7FRZ8KafhIRL32Wwfcw3SZSRIVS0goLIwKl/HutMp1ex7nTbsRPF8RWOesvNgZG/QNFtZuw2qwXoixUdE+fu5+uTxoAYwtXhdKLbRf78+bv1gTY8plytWdqxetbz6iFERQEk7sDUhdoHeNgmqceMzwgqTLKWB5CYR7x9JLwEGnyIi/3DBSADzvMb2XMLZA/tSothE7xZ+WJXi0nZbe/1VnGdyaa16JNAUry7PjV9NFtd4bJ7DYInXeIg==;U02qANNEQ+7mPg9+Sj7ORA=="
+secured: "+n5xvTlcXdq56UpOt0e2A+ROJ0jPcdhjzMS69+jggKmzo39ZKooQlefbomh7jKH5xKdEVh/PzIP0nB7U2oHOW0BAxbC1jSU7bauTGF5xbQIx7BRLj6qfM2gGuQTs8rcMMtQbO3VItycLIeDqh6Ioy2WkVjwq9t+3pqtRsamp2/Z2YMBD3hPd2Sc8TBXODvKG3B3p0Dm4bme+zEe58PTGHZMnIUlO14Z+81z/3F04UE3OHXS4JnOZjgy5O1zyyVRNw+ksCAnYekjckuwY84R78oIBWsMBUi9sFhXEf2SoeEjvZcNI45BIdCRjqogn6MuSu2W2P7c0Y1HM9T3lTCzwk+GI05MF06tsbX4cee19+P8=;tZFgRfF3IehsomdhhoVz7w=="
 ---
 

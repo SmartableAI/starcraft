@@ -42,22 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2017 Starcraft AR-ONE MAXX 26BHS"
-    excerpt: "Starcraft AR-ONE MAXX 26BHS Travel Trailer #1KZ0728B with 1 photos for sale in Ocala, Florida 34480. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-01T04:09:00Z
-    webUrl: "https://www.rvusa.com/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    ampWebUrl: "https://www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2017-starcraft-ar-one-maxx-26bhs-travel-trailer-3040107"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/32363/i/3040107/o/1_32363_3040107_121641289.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "2018 Starcraft Solstice Super Lite 28TSI"
     excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-05T07:08:00Z
