@@ -47,11 +47,11 @@ related:
         height: 1270
         isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
-    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
-    publishedDateTime: 2021-05-11T01:03:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
+    excerpt: "StarCraft also received the accolade, with the following explanation from Andrew Borman, digital games curator at The Strong, “StarCraft added a new twist to the strategy game formula while ..."
+    publishedDateTime: 2021-05-11T01:05:00Z
+    webUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564"
+    ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937564?amp"
     type: article
     provider:
       name: NME
