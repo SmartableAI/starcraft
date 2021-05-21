@@ -121,17 +121,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2018 Starcraft Launch 27rb ULTRA"
-    excerpt: "Starcraft Launch 27rb ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-02T04:04:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27rb-ultra-travel-trailer-3040561"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
   - title: "2010 Starcraft RT 36"
     excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
     publishedDateTime: 2021-05-06T04:05:00Z
