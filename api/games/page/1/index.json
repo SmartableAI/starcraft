@@ -29,7 +29,7 @@
         "Terran",
         "Protoss"
       ],
-      "heat": 429,
+      "heat": 352,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Lo6V4bxZQi0/maxresdefault.jpg",
@@ -343,14 +343,14 @@
       "publishedDateTime": "2021-05-10T03:55:40-07:00"
     },
     {
-      "path": "_games/lowkotv-starcraft-2-byun-bunker-rushes-stats-best-of-3.md",
-      "title": "StarCraft 2: ByuN BUNKER RUSHES Stats! (Best-of-3)",
-      "excerpt": "Best-of-3 series of top level StarCraft 2 between ByuN and Stats. This match is from OlimoLeague.   OlimoLeague on Patreon: https://www.patreon.com/olimoley  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byun-bunker-rushes-stats-best-of-3/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-bunker-rushes-stats-best-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=G7NRCKZtSI0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7NRCKZtSI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M9S",
+      "path": "_games/lowkotv-starcraft-2-florencios-favourite.md",
+      "title": "StarCraft 2: Florencio's FAVOURITE!",
+      "excerpt": "Florencio send over an older game of StarCraft 2 that is one of his personal favourites.  Florencio on Twitch: https://www.twitch.tv/florenciosc  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-florencios-favourite/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-florencios-favourite/",
+      "originalUrl": "https://youtube.com/watch?v=qhTomZ3__wU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhTomZ3__wU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M8S",
       "provider": {
         "name": "LowkoTV",
         "domain": "lowko.tv",
@@ -364,14 +364,12 @@
         ]
       },
       "topics": [
-        "StarCraft 2",
-        "Terran",
-        "Protoss"
+        "StarCraft 2"
       ],
-      "heat": 120,
+      "heat": 119,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G7NRCKZtSI0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qhTomZ3__wU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -379,7 +377,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-04-12T03:40:08-07:00"
+      "publishedDateTime": "2021-03-17T05:45:07-07:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-non-stop-protoss-aggression-serral-vs-trap.md",
@@ -421,6 +419,44 @@
       "publishedDateTime": "2021-05-11T02:59:32-07:00"
     },
     {
+      "path": "_games/lowkotv-starcraft-2-byuns-ridiculous-unit-control.md",
+      "title": "StarCraft 2: ByuN's RIDICULOUS Unit Control!",
+      "excerpt": "A match of professional StarCraft 2 between DRG and ByuN. While ByuN is behind almost the entire game economically, he somehow someway makes a game of out it.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko",
+      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-byuns-ridiculous-unit-control/index.json",
+      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byuns-ridiculous-unit-control/",
+      "originalUrl": "https://youtube.com/watch?v=eLsxa7TnXvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eLsxa7TnXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M4S",
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "lowko.tv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "StarCraft 2",
+        "Terran"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eLsxa7TnXvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-25T05:59:08-07:00"
+    },
+    {
       "path": "_games/lowkotv-starcraft-2-neeb-vs-reynor-best-of-5.md",
       "title": "StarCraft 2: NEEB vs REYNOR! (Best-of-5)",
       "excerpt": "Best of 5 series of high level StarCraft 2 between Reynor and Neeb with some fun strategies.  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My second channel: http://lowko.tv/morelowko Lowko Merch: http://lowko.tv/merch  Be part of the community",
@@ -458,44 +494,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-17T04:39:22-08:00"
-    },
-    {
-      "path": "_games/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap.md",
-      "title": "StarCraft 2: Astrea's PROXY NEXUS vs Trap?!",
-      "excerpt": "Best-of-3 series of professional StarCraft 2 between Astrea and Trap. Probably the cheesiest way to open up versus a Nexus first in Protoss versus Protoss is a Nexus first... In their base!  Support my work on Patreon: http://www.patreon.com/lowkotv Become a YouTube member: https://lowko.tv/join  My",
-      "sourceUrl": "https://smartableai.github.io/starcraft2/api/games/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap/index.json",
-      "webUrl": "https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-astreas-proxy-nexus-vs-trap/",
-      "originalUrl": "https://youtube.com/watch?v=_VVCHWcmKOY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VVCHWcmKOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M57S",
-      "provider": {
-        "name": "LowkoTV",
-        "domain": "lowko.tv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/lowko.tv-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "StarCraft 2",
-        "Protoss"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_VVCHWcmKOY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-03T03:27:45-08:00"
     },
     {
       "path": "_games/lowkotv-starcraft-2-full-economy-cheese-serral-vs-ty.md",
