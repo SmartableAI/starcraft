@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-byun-vs-ze
 type: video
 length: PT50M30S
 publishedDateTime: 2021-05-22T11:37:03Z
-heat: 256
+heat: 243
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NvgAf6hproI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "foDai+zNMIlU1vwFdPExBiN/kBjG1PDzD9chNjuuWmdd+9ieKNpsbwwqgaP+HGclT09NPE9kfWpgNOV1kA00wkWLVyGMFv9oZ7Aq0f5wvyYK76a9xUuUWU/8ySIW4xr+cal/NgpT54wVa8U9sbRh4fYui5M1dVNcvDxN73vgIPxGMY1tJiD69AhO1BVHU9/Lig1xuwmKJaDzk5QDQV4D1MfblGoakM1uU82GvIWo2br7nvdzYNImdp8H9xRaXAh4KlFdwBsOJ2l+mRiTg4O2yxBHghRMfhECJV8vjQQWBo9Pcobjm/fk+4Rm3RT5TXQ0uMcQFnGUXngMF/oG3WSW3vGxieEOfpVM0KPSqCeOzwpGSKWA96UPxXFbCJ9yzvKar9q/wCQSQXqQmYp2ZC2lz/xFYmJXFlhCKSTniek2vhg=;yQAOBCs8zfgeshpCgXlalg=="
+secured: "BO9TrgtE1Dejr08qLs2QC75GCg3nlfaWMGx8dcV8qXz8nLD9GfDPj/odSDO0XHPE0DcL6t4bXrTAl9z3SWgmiW+24Tbg4DzPnrq5wAduxkXnerUCts8vEEspr2xaHzg8Gt8nrLnqLcrhPyjXcAj4fFCoDtYu7nv5bM8+GAemHhOJajop3C+sgSyaYysvasucux2PT8qcO9xf8h6TU0GLd6PS8diutHVNUGl//qUJHpAVCZ8GJHSdRlwf+5iL7HhIKS74a109enPkn3VJSBRNmyE+EnoVPi2/PLiNeG8yX3qhA9uPu7o/2dTZ7fydnT6va+zQcZdl83IZJuoVXZwAj6lo78eqK0/YGpPeewH7yREcq0jJIvhKvtvV3+tGJ1JGfio1KDiJvbt2lHKHn/M6OdTil/QdApB27gTXxl5uXsQ=;h3C+Y7z+8VnAYspHGFw0RQ=="
 ---
 
