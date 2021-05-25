@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "2018 Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds"
-    excerpt: "Starcraft Autumn Ridge Outfitter 19BH Front Queen & 2 Bunk Beds Travel Trailer #TT13844 with 33 photos for sale in Williamstown, New Jersey 08094. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-autumn-ridge-outfitter-19bh-front-queen-2-bunk-beds-travel-trailer-3035909"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 74
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/3718/i/3035909/o/1_3718_3035909_121729636.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "2021 Starcraft Autumn Ridge 26-BH"
-    excerpt: "Starcraft Autumn Ridge 26-BH Travel Trailer #BF5256 with 42 photos for sale in Clayton, Delaware 19938. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:06:00Z
-    webUrl: "https://www.rvusa.com/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    ampWebUrl: "https://www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2021-starcraft-autumn-ridge-26-bh-travel-trailer-3043387"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/39105/i/3043387/o/1_39105_3043387_121725952.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame"
     excerpt: "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale."
     publishedDateTime: 2021-05-07T21:50:00Z
@@ -72,19 +40,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
-    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
-    publishedDateTime: 2021-05-12T05:35:00Z
-    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
+  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
+    excerpt: "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?"
+    publishedDateTime: 2021-05-06T15:04:00Z
+    webUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/"
+    ampWebUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
     type: article
     provider:
-      name: Inven Global
-      domain: invenglobal.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 55
     images:
-      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
-        width: 708
-        height: 471
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all"
+        width: 1200
+        height: 588
         isCached: true
   - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
     excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
@@ -102,28 +72,88 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "2010 Starcraft RT 36"
-    excerpt: "Starcraft RT 36 Toy Hauler #c5411800 for sale in Glendale, Arizona 85308. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-06T04:05:00Z
-    webUrl: "https://www.rvusa.com/2010-starcraft-rt-36-toy-hauler-3043118"
-    ampWebUrl: "https://www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2010-starcraft-rt-36-toy-hauler-3043118"
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-10T12:04:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228"
+    ampWebUrl: "https://www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937228?amp"
     type: article
     provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 37
-  - title: "That Time A Tiny StarCraft Tournament Gave Away 75 Bitcoins"
-    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
-    publishedDateTime: 2021-05-13T01:48:00Z
-    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/"
-    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
+  - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
+    excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
+    publishedDateTime: 2021-05-11T01:03:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/animal-crossing-starcraft-and-others-inducted-into-the-world-video-game-hall-of-fame-2937565?amp"
     type: article
     provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
+      name: NME
+      domain: nme.com
+    quality: 48
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/03/Switch_ACNH_0220-Direct_Advanced_SCRN_08.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
+  - title: "StarCraft and Microsoft Flight Simulator among latest inductees into the Video Game Hall of Fame"
+    excerpt: "The Museum back in March narrowed the field down to just a dozen finalists. Classics like Pole Position, Guitar Hero, Portal and Call of Duty all"
+    publishedDateTime: 2021-05-07T19:01:00Z
+    webUrl: "https://www.techspot.com/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89599-starcraft-microsoft-flight-simulator-among-latest-inductees-video.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-07-image-18.jpg"
+        width: 2500
+        height: 1439
+        isCached: true
+  - title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
+    excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
+    publishedDateTime: 2021-05-07T03:19:00Z
+    webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
     quality: 37
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
+    excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
+    publishedDateTime: 2021-05-08T12:21:00Z
+    webUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame"
+    ampWebUrl: "https://www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-msfs-hall-of-fame?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 36
+  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
+    excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
+    publishedDateTime: 2021-05-07T03:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "sr0IobCSiTPLPaWK3RE8+B/YAfGXrFPAzII99t1OoHOG1SmzozIHCmwyHrEFev6S4Lp0IWtnyKVNut6Ih4xl6wmO8NoINDRvNTe1450+4WiZ3sBEJKAaahbvaLd81RlAu4HPF5i//TZqshlFcAXIUrfHYYXto+twbljvHxx2+bLtX4aUt0C3XUGs6LiVar2XgBwZgopiUrGfBYpiEvyxnvwMqV1N3HtODQgYoFc5bObM9DhUDBWi14Si/Eaf49EUyCb5R6yY3kUsqCL8id5NzZeV50EB9GAQno4DO03wXvsM9Up8aEgfflf5QG5jCc4MrQPve0SgX3B56MuTIZ9SHQ+KhVM9waP5apU8xxKw6sHi3oiRnMxLnVrtSxilKvM/I0Te7oR71qalTdU2SlcC34KOXxNB81C59nxvgQvPxhTSH0VsX4Q1Zf3njpXYIYJGsMqtpYTodJrdu6YkWCW17hmX/1ovUFNE9aUlNEHmA8t0G6A119r53eAv34Gaw73/UJMY1VlaSxvxnVgI8AJ44A==;HA8okallm0O5vzwZMc4nKw=="
 ---

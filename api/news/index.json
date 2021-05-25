@@ -52,7 +52,7 @@
       "originalUrl": "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -87,21 +87,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-06-starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame.md",
-      "title": "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame",
-      "excerpt": "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?",
+      "path": "_news/2021-05-08-weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame.md",
+      "title": "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame",
+      "excerpt": "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/",
+      "webUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
+      "originalUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 237,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/05/07/starcraft-pcdeals_feature.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -109,23 +109,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/",
-      "publishedDateTime": "2021-05-06T08:04:00-07:00",
+      "ampWebUrl": "https://www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1",
+      "publishedDateTime": "2021-05-07T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/starcraft2/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiri
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/starcraft-ii-great-taeja-is-retiring-once-again/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 134
 published: true
 
 provider:
@@ -43,6 +43,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Legendary Starcraft ll player Taeja retires from pro competition"
+    excerpt: "\"It's time to start a new chapter in my life\" said the legendary Terran player as he hung up his mouse and keyboard for the final time."
+    publishedDateTime: 2021-05-12T05:35:00Z
+    webUrl: "https://www.invenglobal.com/articles/14005/team-liquid-taeja-retires-starcraft-ll"
+    type: article
+    provider:
+      name: Inven Global
+      domain: invenglobal.com
+    quality: 54
+    images:
+      - url: "https://static.invenglobal.com/upload/image/2021/05/12/r1620801058518794.jpeg"
+        width: 708
+        height: 471
+        isCached: true
+  - title: "That Time A Tiny StarCraft Tournament Gave Away 75 Bitcoins"
+    excerpt: "Esports has come a hell of a long way and prizes are massive, but they might not have netted you anywhere near as much as what placing 5th to 8th in this StarCraft 2 tournament would have got you."
+    publishedDateTime: 2021-05-13T01:48:00Z
+    webUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/"
+    ampWebUrl: "https://www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/05/that-time-a-tiny-starcraft-tournament-gave-away-75-bitcoins/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 37
 
 secured: "SPRqPx9hfiQ527pGCGajPY2QD4xqGrWd1LKWonzJDROx9sC9rwN3iFL6r3umgoq9dPc5rm2W+mYz8sPnUA0eVK4Fhj26zuJgzUzsy/PC2M+D0wN1fPx8No6fgKw4EGIX9sP7sAbKfTpORRZFMdWEd+NgYZyYWilMckC86k6pWCQarei0nz9k+5/3Zf5FcI4OGxd8xltg4P/Xdt4/AP+3HXrrkdG7G0SCCjCYpwLcjnrP6ItiY5YX03KziUVhJNmiS8DzgXlsHP/ux/QJcBrMhAR38akaAR3FDYngM0p11/J2vNk3y2pFbtwzE47j4PZfuEQ2hBbbmz1mpaRj5h+IP18eigWXFZN7TKJSRqm3uJ8=;Yw4XHvCBIeN2mxNnCpGIJA=="
 ---
