@@ -42,38 +42,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "2015 Starcraft Travel Star Expandable 227CKS"
-    excerpt: "Starcraft Travel Star Expandable 227CKS Travel Trailer #FG129373-A with 28 photos for sale in Cincinnati, Ohio 45251. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:11:00Z
-    webUrl: "https://www.rvusa.com/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    ampWebUrl: "https://www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2015-starcraft-travel-star-expandable-227cks-travel-trailer-3042140"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i12.dlrwebservice.com/s3/img.rv/772/i/3042140/o/1_772_3042140_121693444.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "2018 Starcraft Solstice Super Lite 28TSI"
-    excerpt: "Starcraft Solstice Super Lite 28TSI Fifth Wheel #c86327 with 5 photos for sale in Hendersonville, Tennessee 37075. See this unit and thousands more at RVUSA.com. Updated Daily."
-    publishedDateTime: 2021-05-05T07:08:00Z
-    webUrl: "https://www.rvusa.com/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-solstice-super-lite-28tsi-fifth-wheel-3042275"
-    type: article
-    provider:
-      name: RVUSA.com
-      domain: rvusa.com
-    quality: 57
-    images:
-      - url: "https://i13.dlrwebservice.com/s3/img.rv/39603/i/3042275/o/1_39603_3042275_121697213.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Weekend PC Download Deals for May 7: StarCraft enters the Hall of Fame"
     excerpt: "StarCraft has been inducted into the World Video Game Hall of Fame and Blizzard is celebrating with a full franchise sale."
     publishedDateTime: 2021-05-07T21:50:00Z
