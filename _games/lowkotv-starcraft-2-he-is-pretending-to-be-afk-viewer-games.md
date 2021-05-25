@@ -2,6 +2,7 @@
 title: "StarCraft 2: He Is PRETENDING To Be AFK?! (Viewer Games)"
 excerpt: "Two games of StarCraft 2. In the first one we watch a match where Florencio gets a taste of his own medicine, and in the second one a Protoss player pretends to go AFK at the beginning of the match while building a Nexus on the other side of the map.  Florencio on Twitch: https://www.twitch.tv/florenciosc"
 originalUrl: https://youtube.com/watch?v=7TaOd88I95Q
+webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-he-is-pretending-to-be-afk-viewer-games/
 type: video
 length: PT34M4S
 publishedDateTime: 2021-05-25T09:31:15Z
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yQiCZH5fovZDfBjsUeW2YeWjm7+rq3JP71RI35Ug4edzfiwBEknjG5f0m7exMhnVodscJ7m79qChJf3ti5SwYCRA1XoYifeXrh860ZnfSs4vKE5whbjoaGsFdiElQNIRv0ffgH3Lw4+u011yncWCvc7Piu5lhuQ7SyrpKWEztKzJJ+Xj9+ojD7lqQ6jWus2oYEvW+tGTkvHPQhAz8SuFrw6faeFAbwxNvJ83EDa88SxPmEzy1E2px3yHtzxxU5MrZJVNkC8UglQ7pOCv93EdeY4GU8MB5jc2tCKqHS10Qxqv3CSxNljEhL0EI2lIAB8Z/WGaV6FoIG4jjESVAnXkshqa/husasDVkBsws+FAuEvTjF0zwdKbrx4KKCZhiFhkgr1NZeNIQhVC93mT9IWK3A==;bfeUMDT76QMLK4O17STZpA=="
+secured: "g9vt3DE+u8GZtTmqyMOrXaTh58y1dMOv5G3jLW1olTNbViJXUBmNpKfkGihn8PgYf1Rdh5tsSrB5nTb96bto7otWOfATA4SlmkLBuhIj2gerMlo1ygnX9OH1bQDLolEWCRBRgsHwE+GQU18lLs/jJVlfnK7bYNZ1b6Zf4pW6LnDFTdEPe6DUZL5Uge7SmMAgloFx7cKpJGPvWsU4QJD42WF+58jMJWtEcqvbkCZXqVJIfVdEI9Df3S1QtT3I28EYPCFv52dsvfM9v7zB35F1skyUYmJIxLxBejfzLxCkEWRSV5f56Zy3huBBPQJ8aKCVc0ThOd2Rp/mQrtm2iobIigOXRE88JddOsGo26E1iLqDa17e5OIwP4PRAymMtj9hT0XAHYR32cDmXH8SPmT7s8A==;fcnKlpWHsJIOcJk897eDBw=="
 ---
 
