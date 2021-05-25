@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-reynors-cr
 type: video
 length: PT27M21S
 publishedDateTime: 2021-01-22T13:05:05Z
-heat: 64
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwkoi2sgjNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "q7psfsHLsrVkMQRjmieNvCNy6G0b2jGhGMY5EhcQk68QbtiVY7M4OCNJcIypTeK33uIMdxC6aEov2h6LwERyhIF5ZJqb9u+ymqJDjYU1E7JgGBKFFLzWMSUmUNWLASr+y73mkZZPEjEOKztgft1zGXYnBLoBcDYIdTArFzU9wkC0JkdgvMnh4JB1AyBCvHeI6IUCCcXqYichOlYoHPJop/yroVYnA4Hy/E2KXyzcwzsQmE9OCotCybzXuHjZM7Vq6OLW/yeJ5jXGImY4A3PfHRmbPrY9sCbmGNnk7dcQ8ik1Vc7MT0kUZ4TdnZu3iCnF3V0L47ItgtLzGzRUeNzV8+3PewQPhyqqeVI8z9tIc/AT9IcGBPT0v8taf/uvxMaCI2a9tgkBbXDAlEw1KWubkCCMYqDSFpdeB5kiOSEHKAHc1yR/wsla1fnN+Xo1iVEY;F/6uDMwC8UQsKHfzfI/L3A=="
+secured: "Aqyuv6A4WBu482PRmRmKnsIXIpN9QgpMuQZ3x6XMXlGb1oBEtadK7mDYUSYpgELIPm37dgOrw9BlWegWyV1yh32jXoW865BTN1S0oi5DvqIg/32oJAwAJMrurmIb57a79NEFVAggC11SEi7rE8hjgwqTGyaDNQxMHPzokc4eoA+4DdrUopwlv0Y3Gs2+w75pFFRxIyt/BTAfHav2EZ2MmiQ9gvNI+lRMGjkHxqW12LJY6SL9YFg0SjbSJ/NqDqRTefP7xidOJXAipJSz4dnwMpohZBv0oRGPU06ILz4mWgAgcNJ9JgxNcbE/hRCae/qB033jsmNn1dqNyc5R8IRLCqreNBdDCzsa0QNGfVBH0PF/3Qb/Fbe/eC2JPtnK3NbJG5fakZx/vKIni+t8fD0dGPY9caJPf09LNnpac6sgNNas1PJHpUsA0gQZ8i/6yLgh;6P4ZU/m5edCnGqc1mQTvDQ=="
 ---
 
