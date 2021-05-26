@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/124261/weekend-pc-download-deals-f
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/124261/weekend-pc-download-deals-for-may-7-starcraft-enters-the-hall-of-fame?amphtml=1"
 type: article
 quality: 57
-heat: 177
+heat: 137
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
         width: 2500
         height: 1439
         isCached: true
-  - title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
-    excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
-    publishedDateTime: 2021-05-07T03:19:00Z
-    webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
     excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
     publishedDateTime: 2021-05-08T12:21:00Z
@@ -99,15 +85,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 36
-  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
-    excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
-    publishedDateTime: 2021-05-07T03:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
 
 secured: "ITVjQO1AacvstEZ+l2AJqWLWxloMviuTistcd4aAh5yt7RI2eBLyVrhF7SR+raot7XaXCisakKe0i/Ji4Pa2qs9b2ZGOxPy0ko6WBq53UBENrf/9x23L3zAnicNQArJAiw/HYQDY6ruxXPRi7cMWopMQ1XUjuSn1l3yCYWGgc8t+3j0ZSVV0nM8YWc2ZiLZOeUuiFkBtrTtHUfNfi8Frx4OvTC8s4ARgzN4yi4r8DvQnUqTWr+5DU2RuGDnGbPCDZ6S1MI/paRm8rws+heG9qszq0H5hRcaAa7GFZH3W0put/+VpByd05rv3fW6vfJB8gpxjH1dpyEyGEf4swULJmtezzPqagkZyBnOHHkorfFk=;3IZrQzM2FhICHfiRYV8IeQ=="
 ---

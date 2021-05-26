@@ -74,20 +74,6 @@ related:
         width: 2500
         height: 1439
         isCached: true
-  - title: "'Animal Crossing' and 'StarCraft' join the Video Game Hall of Fame"
-    excerpt: "1998’s StarCraft and 2001’s Animal Crossing. They beat out the likes of the original Call of Duty, Portal, Guitar Hero and — checks notes — FarmVille to make it into this year’s class."
-    publishedDateTime: 2021-05-07T03:19:00Z
-    webUrl: "https://www.engadget.com/world-video-game-hall-of-fame-2021-inductees-193936184.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-05/db4b8f00-ae9e-11eb-afa7-474f9635f098"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "StarCraft, MSFS, and Carmen Sandiego inducted into Videogame Hall of Fame"
     excerpt: "Microsoft Flight Simulator, StarCraft, and Where In The World Is Carmen Sandiego? lead this year’s class, at least as far as PC-relevant games go. They’re joined by Animal Crossing, which we’re sure is a fine game but can’t be certain unless a port ..."
     publishedDateTime: 2021-05-08T12:21:00Z
@@ -99,15 +85,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 36
-  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
-    excerpt: "Watch on-demand here! The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen ..."
-    publishedDateTime: 2021-05-07T03:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame-10107133"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
 
 secured: "jlX0+TC0mpmEqSMR13iQwLo4TELJYH7WakWwI9rGUf9UUY/iGp8BpbN0+8tlBDgDhF4svgbqm8oYvx4ITVGfcBmGyTUGivMU8mYSZvK7hWpkOe2o/DPpZ0ZSrn1bRCnywkNyHwMZdTPsUXzNYhvOoAmuBn7/PqkpVyX+5ASBGzVdaYebDF5/xjVxuE9DQCG2eoXEqNzQOoynAEepQK9xHL5VIrkV8NElIsQb5wZzUNgHX+bsJOZbhBnC22nPSvheIv8KChsh2Ca8i9tijWczIjv3ZRMNCEvSkTbSf/DTtzkOoJ+yFk0BJtIRmqPMfLFLjF6UG+Hkpv9mkGh0UdsoOqPPJBeW8qTdmawM/kjnnoUrpqBJZeoa5pW29lYow7SXyb9UsMaX/C/HGS5+rC8lZHk7YeTtyiIdnUoA+Q4xoQCkdKtn+9JRc+0mH/gU0T6ab6+kEnxuWyh02aO/9Eb5Gw8oz5aqmcRJlgH3nURBkL/Vr8QdjQ84wi+YcvC5me0bY50wa78OfJh4rVl6qnC2MQ==;wIdvwT/4vVcQSiQlXFf4qQ=="
 ---
