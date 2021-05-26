@@ -9,7 +9,7 @@ ampWebUrl: "https://esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
 cdnAmpWebUrl: "https://esportsinsider-com.cdn.ampproject.org/c/s/esportsinsider.com/2021/05/shopify-esl-partnership/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
         width: 490
         height: 267
         isCached: true
+  - title: "2018 Starcraft Launch 27 Bh ULTRA"
+    excerpt: "Starcraft Launch 27 Bh ULTRA Travel Trailer #12869 for sale in Eureka, Missouri 63025. See this unit and thousands more at RVUSA.com. Updated Daily."
+    publishedDateTime: 2021-05-26T05:11:00Z
+    webUrl: "https://www.rvusa.com/2018-starcraft-launch-27-bh-ultra-travel-trailer-3053096"
+    ampWebUrl: "https://www.rvusa.com/amp/2018-starcraft-launch-27-bh-ultra-travel-trailer-3053096"
+    cdnAmpWebUrl: "https://www-rvusa-com.cdn.ampproject.org/c/s/www.rvusa.com/amp/2018-starcraft-launch-27-bh-ultra-travel-trailer-3053096"
+    type: article
+    provider:
+      name: RVUSA.com
+      domain: rvusa.com
+    quality: 37
 
 secured: "djpC1FY94QN737XkU+6q498A/A4L3RqeBDerouOtmXBelhHHtEnH1SWxIMj2/DvUIgLbX0YweMpguz4IOJ69jhWUWu2PgLkKmnk+9seILENJ8C6RMkQFqIirvYj70Zkz6gVQYXH0UdCVOcDwE+ztemD9MonbpqdFRB6H0oDSr3X/gh8h/OEzFBa8egXCW/0mywwAi6rz21ZBzbt5GajrFzuKdEM+bPd97gl1OGGTbFdSBlQ+KnKp1TwbtNQ7ovLHte8saxMDDW1W4xY7Dcy0SRVbU+kwZK+BsO3hpIXwxIAbY1cpNhfsj2pmlHK+jvTTWtaCFjaqwWb3XaM45dBC/o+83IOBDi9coJx0D5f7CPou1yFjP3+mKyWW4j7ATqJFmO5qy7i/q1UsLE6nE6INcNOFWYXJ+XqG3ki64ivtCN+rkbtu22N30TBqdcUDc1VU3hURZbqZ7vTFRWn3xTuqCd5eThFJni0rLcIock4PAowCh7awKvf4AxdIdKUIg+drc9cWdejNGFj7uYHGt/cxzA==;iIVLBymXhIp2A/ouS6LFRg=="
 ---
