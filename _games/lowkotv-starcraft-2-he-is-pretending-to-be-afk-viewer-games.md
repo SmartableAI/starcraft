@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/starcraft2/game/lowkotv-starcraft-2-he-is-pret
 type: video
 length: PT34M4S
 publishedDateTime: 2021-05-25T09:31:15Z
-heat: 252
+heat: 432
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7TaOd88I95Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "g9vt3DE+u8GZtTmqyMOrXaTh58y1dMOv5G3jLW1olTNbViJXUBmNpKfkGihn8PgYf1Rdh5tsSrB5nTb96bto7otWOfATA4SlmkLBuhIj2gerMlo1ygnX9OH1bQDLolEWCRBRgsHwE+GQU18lLs/jJVlfnK7bYNZ1b6Zf4pW6LnDFTdEPe6DUZL5Uge7SmMAgloFx7cKpJGPvWsU4QJD42WF+58jMJWtEcqvbkCZXqVJIfVdEI9Df3S1QtT3I28EYPCFv52dsvfM9v7zB35F1skyUYmJIxLxBejfzLxCkEWRSV5f56Zy3huBBPQJ8aKCVc0ThOd2Rp/mQrtm2iobIigOXRE88JddOsGo26E1iLqDa17e5OIwP4PRAymMtj9hT0XAHYR32cDmXH8SPmT7s8A==;fcnKlpWHsJIOcJk897eDBw=="
+secured: "J0Z38xuKfaxUcMV+QbgthFCfu6G1nziNVbwk6fkUbxYgU2yyoBtJDctcUu+flfJmBONEDHuTcWzZbXNnnUlTK2Fbf/SpqM3UDfEkanIPUNk/i+Xv1xuW2saXvtnUY1DRD3HO+ZTQ7YCMiELaTCFL5ft76/vj+RO+gGAzbDGDFZQBDkCLRTPAxLFKyq6ussllTHOzRBe+vd4rcK3AEO2UyblemJQ3kxR5taPq9cJC58IYwemgjrX5IbIbNYIzFNjTIFPYT5GnrJtGuaC3RZkrXTDqt1LatPvChTWimWmzGGbrwp5bh6Iq0b6sX14Aej3Egy/woHgHwkpK6ym2JEIjsQx145WtRBC/4PxOqpDBxuCR3VP5899M8o/CsIuwGipsSRIEek1q998NW4IeFD3PMd7iGalDDIQhrJY65KT/F4A=;nfQpDz18wmIBXamastXi4g=="
 ---
 
