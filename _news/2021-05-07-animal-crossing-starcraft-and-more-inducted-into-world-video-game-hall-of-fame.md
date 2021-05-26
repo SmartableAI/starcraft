@@ -42,22 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Starcraft headlines class of 4 inductees into World Video Game Hall of Fame"
-    excerpt: "Did you miss GamesBeat Summit 2021? Watch on-demand here!  The World Video Game Hall of Fame has added four classic games to its roster today: Animal Crossing, StarCraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego?"
-    publishedDateTime: 2021-05-06T15:04:00Z
-    webUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/"
-    ampWebUrl: "https://venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/starcraft-headlines-class-of-4-inductees-into-world-video-game-hall-of-fame/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 55
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/winners.jpg?w=1200&strip=all"
-        width: 1200
-        height: 588
-        isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
     publishedDateTime: 2021-05-10T12:04:00Z
