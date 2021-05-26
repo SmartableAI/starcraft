@@ -36,22 +36,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Animal Crossing, Starcraft, and more inducted into World Video Game Hall of Fame"
-    excerpt: "The World Video Game Hall of Fame has announced its four 2021 inductees: Animal Crossing, Starcraft, Microsoft Flight Simulator, and Where in the World is Carmen Sandiego? The inductees were ..."
-    publishedDateTime: 2021-05-06T19:38:00Z
-    webUrl: "https://www.gamesradar.com/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-    ampWebUrl: "https://www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/animal-crossing-starcraft-and-more-inducted-into-world-video-game-hall-of-fame/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xVywRssSrF4W6U3Y9VZjqm-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "‘Animal Crossing’, ‘StarCraft’ and others inducted into the World Video Game Hall Of Fame"
     excerpt: "This years’ inductees into the World Video Game Hall Of Fame have been announced, honouring four of the 'best' video games"
     publishedDateTime: 2021-05-10T12:04:00Z
